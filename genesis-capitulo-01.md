@@ -99,6 +99,74 @@ Gênesis 1 apresenta a criação do universo como obra exclusiva de um Deus úni
 | צֶלֶם / דְּמוּת | **Tselem / Demut** | "Imagem / semelhança" — termos que descrevem o ser humano como representante de Deus na criação |
 | אִישׁ / אִשָּׁה | **'Ish / 'Ishshah** | "Homem / mulher" — par complementar que reflete a imagem de Deus |
 
+### 3.3. Estrutura literária e padrões numéricos
+
+#### Estrutura quiástica (inclusio)
+
+Os elementos de Gênesis 1:1 — "criou", "Deus", "os céus", "a terra" — são retomados em Gênesis 2:1–3, porém em **ordem inversa**, formando uma *inclusio* quiástica. A expressão "céus e terra" abre em 1:1 e se repete em 2:1 e 2:4a, marcando início e fim da unidade literária. Isso demonstra que Gênesis 1:1–2:3 é uma composição literária cuidadosamente elaborada, não uma coleção aleatória de afirmações.
+
+#### Padrões numéricos de Cassuto (múltiplos de 7)
+
+Conforme a análise clássica de Umberto Cassuto (*A Commentary on the Book of Genesis*), a simetria numérica em Gênesis 1 é "o fio de ouro que une todas as partes da seção". Cassuto afirmou que "supor que todas essas aparições do número sete sejam mera coincidência não é possível":
+
+| Elemento | Ocorrências |
+|---|---|
+| "Deus" (*Elohim*) | 35 vezes (7 × 5) |
+| "Terra" (*eretz*) | 21 vezes (7 × 3) |
+| "Céu" / "Firmamento" (*shamayim / raqia*) | 21 vezes (7 × 3) |
+| "E assim se fez" | 7 vezes |
+| "E viu Deus que era bom" | 7 vezes |
+| Gênesis 2:1–3 (conclusão) | 35 palavras (7 × 5) |
+| Três cláusulas centrais de 2:1–3 | 7 palavras cada |
+
+#### Gênesis 1:1 — estrutura numérica do primeiro versículo
+
+O primeiro versículo da Bíblia contém:
+- **7 palavras** no hebraico,
+- **28 letras** (7 × 4; 28 é o sétimo número triangular),
+- as primeiras 3 palavras contêm **14 letras** (7 × 2); as últimas 4 também contêm **14 letras**,
+- a palavra central (*'et*, אֵת) tem 2 letras — *alef* e *tav*, a primeira e a última letra do alfabeto hebraico (paralelo ao "Alfa e Ômega" de Apocalipse 1.8).
+
+Essa elaboração numérica reflete a teologia do texto: a criação é *ordenada*, não caótica; é *completa* (7 = completude), não aleatória. O design literário espelha o design da própria criação.
+
+#### "Deus disse" — dez palavras criadoras
+
+A expressão "E Deus disse" (*wayyomer Elohim*) aparece **10 vezes** em Gênesis 1 (vv. 3, 6, 9, 11, 14, 20, 24, 26, 28, 29). Destas, **7 são comandos criativos diretos** ("haja…") e **3 são iniciativas divinas dirigidas à humanidade**. Muitos comentaristas notam a conexão com os Dez Mandamentos: Deus criou o mundo com dez palavras e ordenou seu povo com dez mandamentos.
+
+Cassuto utilizou essa simetria numérica como argumento pela **unidade de autoria** do texto, contra a hipótese documentária (JEDP) que via Gênesis 1 como fusão de fontes diferentes.
+
+#### Análise do discurso hebraico
+
+Segundo a metodologia de Robert Longacre (linguística textual), Gênesis 1:1–2:3 utiliza sistematicamente formas verbais hebraicas com funções discursivas específicas:
+
+- **Wayyiqtol** (pretérito narrativo): constitui 51% das cláusulas, sinalizando os eventos do primeiro plano narrativo.
+- **Gênesis 1:1–2 não contém wayyiqtol**: usa os verbos no *qatal* ("criou", "era") e o particípio ("pairava"), que servem como informação de fundo (*background*).
+- A **cadeia de wayyiqtol** a partir de 1:3 ("e disse Deus… e houve… e separou Deus…") constitui a linha narrativa principal.
+
+Isso significa que os versículos 1–2 funcionam como *cenário* e o versículo 3 marca o início da ação propriamente dita. A gramática hebraica revela a arquitetura narrativa do texto — não é uma narrativa "plana", mas possui cenário, ação principal e conclusão, semelhante a um drama cuidadosamente construído.
+
+### 3.4. Análise gramatical: *Elohim* com verbo singular *bara*
+
+#### O fenômeno gramatical
+
+A palavra *Elohim* (אֱלֹהִים) é morfologicamente **plural** em hebraico (terminação *-im*), mas em Gênesis 1:1 aparece com o verbo *bara* (בָּרָא) no **singular**: "Elohim bara" (Deus criou), e não "Elohim bar'u" (deuses criaram). Essa discrepância entre sujeito e predicado é **gramaticalmente intencional** e teologicamente significativa.
+
+#### Explicações propostas
+
+1. **Plural de majestade / intensidade** (*pluralis majestatis*) — A explicação mais difundida: o plural expressa intensificação, não número. Comunica a plenitude, a vastidão do poder e a grandeza incomparável do único Deus. Alguns hebraístas contestam que o hebraico bíblico possua de fato um "plural de majestade" como categoria gramatical estabelecida.
+
+2. **Declaração monoteísta intencional** — A Torá teria acoplado intencionalmente o substantivo plural com o verbo singular para comunicar que Deus é Um — uma afirmação polêmica contra o politeísmo do Antigo Oriente Próximo.
+
+3. **Plenitude divina e atributos "omni"** — O plural aponta para a unicidade de Deus e todos os seus atributos: onisciência, onipotência e onipresença — uma divindade que transcende categorias humanas comuns.
+
+4. **Sementes trinitárias** (perspectiva cristã) — Muitos teólogos cristãos veem no plural de *Elohim* e em passagens como Gênesis 1:26 ("Façamos o homem") indícios de uma pluralidade dentro da unidade divina, reinterpretados à luz da revelação trinitária do Novo Testamento.
+
+A tensão entre unidade (verbo singular) e plenitude (substantivo plural) contém profundidade teológica notável em apenas duas palavras hebraicas.
+
+#### *Bara* como exclusividade divina
+
+Na Escritura, somente Deus é sujeito do verbo *bara*. Seres humanos "fazem" (*asah*) coisas, mas somente Deus "cria" (*bara*). No contexto de Gênesis 1:1 — onde o objeto é "os céus e a terra" (a totalidade do cosmos) — a implicação de criação a partir do nada (*creatio ex nihilo*) é clara, confirmada por Hebreus 11.3.
+
 ---
 
 ## 4. Exegese de Gênesis 1:1–2
@@ -310,6 +378,32 @@ O sexto dia é o clímax da criação, dividido em duas partes:
 
 Deus vê **tudo** o que havia feito, e eis que era "**muito bom**" — não apenas "bom" como nos dias anteriores, mas "muito bom." A criação inteira, com o ser humano como coroa, recebe a aprovação máxima do Criador.
 
+### 5.9. O significado de *raqia* (firmamento) e a cosmologia antiga
+
+A palavra hebraica *raqia* (רָקִיעַ) deriva da raiz *rq'*, que significa "bater, martelar, espalhar finamente" — evocando a imagem de martelar metal em forma de cúpula. A tradução tradicional "firmamento" (do latim *firmamentum*, via Vulgata) reflete a ideia de algo sólido e firme.
+
+A maioria dos estudiosos contemporâneos reconhece que *raqia* no texto reflete a cosmologia do mundo antigo, onde o céu era concebido como uma estrutura sólida. No entanto, isso não invalida a autoridade teológica do texto. O foco principal é teológico: **Deus é soberano sobre toda a estrutura cósmica**. Três abordagens interpretativas merecem nota:
+
+- **Abordagem fenomenológica:** Os autores bíblicos descreviam o que *percebiam* visualmente (o céu parece ser uma cúpula), sem propor uma cosmologia científica.
+- **Abordagem de acomodação** (Calvino): Deus comunicou verdades teológicas usando as categorias culturais compreensíveis para os destinatários originais, sem endossar cada detalhe cosmológico.
+- **Abordagem funcional** (Walton): A *raqia* funciona como separador entre as águas de cima e de baixo — sua função é o ponto central, não sua composição material.
+
+### 5.10. O debate sobre a natureza dos "dias" (*yom*) da criação
+
+O significado da palavra *yom* (dia) em Gênesis 1 é objeto de um dos debates mais antigos e persistentes da exegese bíblica. Cinco posições principais merecem consideração:
+
+**1. Dias literais de 24 horas** — Quando *yom* aparece com numeral ordinal na Bíblia, significa consistentemente um dia de 24 horas. A presença de "houve tarde e houve manhã" reforça o sentido literal. Defensores: Gerhard Hasel, Jonathan Sarfati, o movimento *Answers in Genesis*.
+
+**2. Hipótese da estrutura literária** (*Framework*) — A "semana" da criação é um dispositivo literário que apresenta a atividade criadora de forma tópica, não sequencial. Os dias 1–3 formam "reinos" e os dias 4–6 preenchem esses reinos com "reis". A estrutura é teológica e literária, não cronológica. Defensores: Meredith G. Kline ("Because It Had Not Rained", 1958), Henri Blocher (*In the Beginning*).
+
+**3. Dias analógicos** — Os seis dias são "dias de trabalho de Deus", medidos no tempo divino (não no nosso), análogos aos nossos dias de trabalho. Gênesis 1 estabelece o padrão para a semana humana de trabalho e descanso, mas a duração dos dias divinos não é especificada. Defensores: C. John Collins (*Genesis 1–4*), Herman Bavinck. Collins observa que o sexto dia é "lotado demais" para 24 horas (comparando Gn 1 e 2), e que o sétimo dia não possui a fórmula de encerramento "houve tarde e manhã", sugerindo que continua.
+
+**4. Dia-era** (*Day-Age*) — Cada *yom* representa um período indefinido de tempo, uma "era" geológica ou cósmica. *Yom* é usado em outros contextos bíblicos para períodos mais longos (ex.: "no dia do SENHOR"). Defensores: Hugh Ross (*Reasons to Believe*), Gleason Archer.
+
+**5. Inauguração do templo cósmico** — Gênesis 1 não trata primariamente de origens *materiais*, mas de origens *funcionais*. Os sete dias correspondem a uma cerimônia de inauguração de templo — no mundo antigo, templos se tornavam funcionais em cerimônias que duravam sete dias. Defensor: John H. Walton (*The Lost World of Genesis One*).
+
+O debate não é entre "quem crê na Bíblia" e "quem não crê", mas entre exegetas sérios que discordam sobre *como* interpretar o texto. O Conselho Internacional sobre Inerrância Bíblica (1982) decidiu não incluir a criação em 144 horas como parte essencial da crença na inerrância bíblica.
+
 ---
 
 ## 6. Imagem de Deus e dignidade humana (1:26–28)
@@ -350,6 +444,27 @@ Isso significa que o homem foi colocado como **representante de Deus no mundo** 
 
 Este é o **mandato cultural**: a vocação humana de representar Deus na história por meio do trabalho, da família, da cultura e do cuidado com a criação. Ele abrange todo tipo de vocação legítima — profissões técnicas, artes, negócios, serviço doméstico, política, ensino.
 
+### 6.4. *Tselem* e *demut* no contexto do Antigo Oriente Próximo
+
+#### Reis como imagens dos deuses
+
+Em todo o Antigo Oriente Próximo, apenas o rei ou um oficial de alta patente podia ser designado como "imagem de Deus":
+- No **Egito**, o faraó era considerado a encarnação viva de Hórus e filho de Rá — sua natureza divina era exclusiva.
+- Na **Mesopotâmia**, textos acadianos usam *salmu* ("imagem") para designar estátuas de reis, e reis como Esaradom são chamados "imagem de Marduque" ou "imagem de Shamash".
+- Uma **inscrição bilíngue** no Tell Fekheriye (séc. IX a.C.) usa tanto *tselem* quanto *demut* em aramaico para descrever uma estátua real — os mesmos termos de Gênesis 1:26.
+
+#### A "democratização" revolucionária de Gênesis 1
+
+Gênesis 1:26–28 toma uma linguagem que era *exclusivamente real* e a aplica a **todos** os seres humanos, sem distinção. Isso é amplamente reconhecido como uma "democratização da ideologia real do AOP" — uma das afirmações teológicas mais revolucionárias do mundo antigo.
+
+Como escreve J. Richard Middleton (*The Liberating Image*, 2005): "O *imago Dei* designa o ofício real ou vocação dos seres humanos como representantes e agentes de Deus no mundo, dotados de poder autorizado para participar do governo de Deus ou administração dos recursos e criaturas da terra."
+
+Não há possibilidade de reivindicar funções exclusivas de autoridade para certos grupos. Do maior rei ao mais humilde escravo, todos carregam igualmente a imagem de Deus.
+
+#### O ser humano como "estátua viva" no templo cósmico
+
+No AOP, estátuas de divindades eram colocadas dentro dos templos para representar a presença do deus. Em Gênesis 1, **não há estátua** no templo cósmico — em seu lugar, Deus coloca os *seres humanos* como suas "imagens" vivas. Os humanos são as estátuas vivas de Deus no templo cósmico, representando Sua presença e Seu governo na terra.
+
 ---
 
 ## 7. Gênesis 1 diante do Antigo Oriente Próximo
@@ -368,7 +483,63 @@ Moisés era versado em toda a sabedoria e ciência do Egito (At 7.22). Ele conhe
 | Astros como divindades poderosas | Astros como "luminar maior" e "luminar menor" — meros marcadores de tempo |
 | Natureza é sagrada e divina | Natureza é boa, mas criada e distinta de Deus |
 
-### 7.2. Gênesis e o nascimento da investigação da natureza
+### 7.2. O paralelo *Tehom* / Tiamat e a desmitologização
+
+A palavra hebraica *tehom* ("abismo/profundeza") em Gênesis 1:2 é cognata do nome da deusa babilônica *Tiamat*, a personificação do caos aquático no Enuma Elish. No entanto, o contraste é radical:
+- No Enuma Elish, Tiamat é uma deusa viva que deve ser combatida e vencida em batalha cósmica por Marduque. Marduque mata Tiamat e divide seu corpo em duas partes: uma metade forma o céu e a outra forma a terra.
+- Em Gênesis 1:2, *tehom* **não é divina nem viva** — é simplesmente água física, matéria inerte criada por Deus. A separação das águas (vv. 6–8) acontece pacificamente, pela autoridade soberana de Sua palavra. Não há combate, não há adversário divino.
+
+O assiriólogo David Tsumura (*The Earth and the Waters in Genesis 1 and 2*) argumenta que *tehom* e *Tiamat* derivam de uma raiz semítica comum (*thm*), sem relação de dependência direta.
+
+Quanto à criação da humanidade: no Enuma Elish, Marduque mata o deus Quingu e usa seu sangue para criar a humanidade como **escrava dos deuses**. Em Gênesis, os humanos são criados como **imagem de Deus** — não escravos, mas vice-regentes com dignidade e missão.
+
+### 7.3. Mitos egípcios de criação e a polêmica de Gênesis
+
+Os israelitas viveram aproximadamente 400 anos no Egito. Moisés era versado em toda a sabedoria egípcia (At 7.22). Gênesis deliberadamente subverte as teologias egípcias:
+
+#### Heliópolis — Atum e a autocriação
+
+Na cosmogonia de Heliópolis, Atum surge das águas primordiais do *Nu* (caos aquático) como um ser autocriado. O conceito de águas primordiais pré-criação encontra paralelo em Gênesis 1:2. Mas em Gênesis, nenhum elemento da criação é divino. As águas são matéria inerte; Deus é totalmente transcendente e preexistente, não surgindo de dentro do caos.
+
+#### Mênfis — Ptah e a criação pela palavra
+
+A Teologia Menfita apresenta o deus Ptah criando o mundo pelo poder de sua palavra: "Toda ordem divina veio a existir através do que o coração de Ptah pensou e a língua ordenou." Este é o paralelo **mais próximo** com Gênesis 1, onde Deus cria repetidamente por fala: "E Deus disse… e houve." No entanto, em Gênesis, Deus não é um deus entre muitos em um panteão. Além disso, Ptah cria *outros deuses* por meio de sua fala; em Gênesis, a palavra de Deus cria matéria, vida e função, nunca outros seres divinos.
+
+Como observou Gerhard Hasel: "enquanto a doutrina da criação por comando divino é difundida na literatura egípcia, ela não é encontrada nas cosmogonias babilônicas." Isso sugere que a criação pela palavra em Gênesis pode ter conexão mais forte com o contexto egípcio.
+
+#### Hermópolis — A Ogdóade e o caos primordial
+
+A Ogdóade de Hermópolis consiste em oito divindades primordiais (quatro casais) que representam o estado do cosmos antes da criação:
+
+| Ogdóade egípcia | Paralelo em Gênesis 1:2 |
+|---|---|
+| **Nun e Naunet** — águas primordiais | *Tehom* — abismo/águas |
+| **Kek e Kauket** — trevas | *Choshekh* — trevas |
+| **Heh e Hauhet** — infinitude/falta de limites | *Tohu* — sem forma |
+| **Amun e Amaunet** — o oculto/invisível | *Ruach Elohim* — Espírito de Deus pairando |
+
+O contraste decisivo: em Hermópolis, esses elementos primordiais são **deuses**. Em Gênesis 1:2, são **objetos inanimados** que se movem unicamente segundo a direção da palavra de Deus.
+
+#### Desmitologização dos luminares
+
+No Egito, Rá (o sol) era o deus supremo. Na Mesopotâmia, Shamash (sol) e Sin (lua) eram divindades poderosas. Em Gênesis 1:14–19, Moisés deliberadamente evita os nomes "sol" (*shemesh*) e "lua" (*yareach*) — termos que eram também nomes de divindades — e usa apenas "luminar maior" e "luminar menor". Os luminares são rebaixados a funções práticas: marcadores de tempo, sem nenhum poder autônomo sobre destino ou vida humana.
+
+### 7.4. Gênesis 1 como inauguração de templo cósmico
+
+#### O repouso divino e os templos do AOP
+
+Na cultura do Antigo Oriente Próximo, os templos eram inaugurados em festivais de sete dias, após os quais a divindade "tomava posse" de sua residência. O *repouso divino* não significava inatividade, mas **governo ativo** a partir do templo. John H. Walton (*The Lost World of Genesis One*) propõe que os sete dias de Gênesis correspondem a essa cerimônia de inauguração.
+
+Os Cilindros de Gudeia (c. 2125 a.C.) registram a construção e dedicação do templo Eninnu para o deus Ningirsu, incluindo um banquete de sete dias com a presença dos deuses da Suméria — o mesmo padrão estrutural de Gênesis 1:1–2:3.
+
+#### O cosmos como templo de Deus
+
+Moshe Weinfeld identificou sete conexões entre Gênesis 1 e a construção do Templo de Salomão. A criação leva sete dias; o Templo de Salomão leva sete anos para ser construído (1Rs 6.38). Deus "descansou" no sétimo dia; o Templo é construído por um "homem de repouso" (Salomão) para ser uma "casa de repouso" para a Arca. O repouso de Deus não é descanso por cansaço — como Isaías 40.28 deixa claro: "Não sabes, não ouviste que o Deus eterno não se cansa nem se fatiga?" O repouso é **entronização**: Deus assume Seu trono no templo cósmico e inaugura Seu governo soberano.
+
+> "Levanta-te, SENHOR, para o teu lugar de repouso, tu e a arca da tua força… O SENHOR escolheu a Sião; desejou-a para sua habitação. Este é o meu repouso para sempre; aqui habitarei."
+> *(Salmo 132.8, 13–14)*
+
+### 7.5. Gênesis e o nascimento da investigação da natureza
 
 A distinção radical entre Criador e criatura — Deus não é a natureza, nem a natureza é Deus — teve uma consequência histórica profunda: **abriu caminho para a investigação científica da natureza**. Nas culturas panteístas, examinar a natureza era "mexer com os deuses." O cristianismo, fundamentado em Gênesis, desmistificou e desdeificou a natureza: pode-se examinar a terra porque foi Deus que a criou, e estudá-la é descobrir como Deus fez. Os primeiros grandes cientistas modernos tinham base cristã, e os ramos da ciência moderna nasceram dessa liberdade de investigar o mundo criado sem medo de ofender divindades.
 
@@ -386,15 +557,68 @@ A distinção radical entre Criador e criatura — Deus não é a natureza, nem 
 
 ### 8.2. Gênesis 1 no Novo Testamento
 
-- **João 1.1–3** — Cristo como o Verbo/Palavra pelo qual todas as coisas foram criadas.
-- **Colossenses 1.15–17** — Cristo como imagem do Deus invisível, primogênito de toda a criação, em quem tudo subsiste.
+#### João 1.1–3, 14 — Cristo como Verbo criador e tabernáculo de Deus
+
+> "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por meio dele, e, sem ele, nada do que foi feito se fez."
+> *(João 1.1–3)*
+
+> "E o Verbo se fez carne e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai."
+> *(João 1.14)*
+
+O prólogo de João é uma releitura cristológica de Gênesis 1. O grego *eskēnōsen* ("habitou/tabernaculou") em João 1:14 evoca diretamente o tabernáculo do AT (*skēnē*), onde a glória de Deus habitava entre Israel (Êx 25.8). Assim como Deus habitou outrora no tabernáculo, agora habita plenamente em Cristo — o templo vivo de Deus entre os homens. A conexão sonora com *Shekinah* (a presença visível de Deus) é intencional: os Targuns frequentemente identificam a *Shekinah* com a *Memra* (Palavra).
+
+#### Colossenses 1.15–20 — Cristo como imagem perfeita e sustentador
+
+> "Ele é a imagem do Deus invisível, o primogênito de toda a criação; pois, nele, foram criadas todas as coisas, nos céus e sobre a terra, as visíveis e as invisíveis… Tudo foi criado por meio dele e para ele. Ele é antes de todas as coisas, e nele, tudo subsiste."
+> *(Colossenses 1.15–17)*
+
+N.T. Wright observa que este hino traça todo o arco narrativo desde a rebelião de Adão até a restauração da criação sob o senhorio de Jesus. Cristo é a *imago Dei* perfeita que Adão falhou em ser. E a reconciliação "de todas as coisas" (v. 20) aponta para a nova criação como restauração e superação da bondade original.
+
+#### 2 Coríntios 4.6 — Nova criação como paralelo do primeiro dia
+
+> "Porque Deus, que disse: 'Das trevas resplandecerá a luz', ele mesmo resplandeceu em nosso coração, para iluminação do conhecimento da glória de Deus, na face de Cristo."
+> *(2 Coríntios 4.6)*
+
+Paulo vê a salvação como um ato de **nova criação**, tão poderoso quanto o ato original. Assim como no primeiro dia Deus fez resplandecer a luz (Gn 1.3), a primeira obra que Ele realiza na vida do cristão é resplandecer Sua luz no coração e iluminar o conhecimento de Sua glória "na face de Cristo." A conversão genuína é um "haja luz" espiritual.
+
+#### Efésios 4.24 e Colossenses 3.10 — Restauração da imagem de Deus
+
+> "Revistam-se do novo ser humano, criado segundo Deus, em justiça e retidão procedentes da verdade."
+> *(Efésios 4.24)*
+
+> "Revistam-se do novo ser humano, que se renova para o pleno conhecimento, segundo a imagem daquele que o criou."
+> *(Colossenses 3.10)*
+
+A imagem de Deus danificada pelo pecado está sendo restaurada em Cristo. A linguagem de "revestir-se" do novo ser humano "segundo a imagem daquele que o criou" é uma citação deliberada de Gênesis 1:26–27. A santificação é o processo de restauração da *imago Dei*.
+
+#### Hebreus 4.1–11 — O sábado como promessa escatológica
+
+> "Portanto, resta um repouso para o povo de Deus. Porque aquele que entrou no descanso de Deus, também ele mesmo descansou de suas obras, assim como Deus das suas."
+> *(Hebreus 4.9–10)*
+
+O autor de Hebreus cita Gênesis 2:2 para mostrar que o descanso de Deus não se limita a um local geográfico ou evento passado. O descanso oferecido por Deus através de Jesus é o **cumprimento definitivo** do sábado e das promessas divinas do AT — o descanso salvífico é o ponto culminante da história redentora de Deus.
+
+#### Apocalipse 21–22 — A nova criação como consumação
+
+> "E vi um novo céu e uma nova terra, pois o primeiro céu e a primeira terra passaram."
+> *(Apocalipse 21.1)*
+
+> "A cidade não precisa nem do sol, nem da lua, para lhe darem claridade, pois a glória de Deus a iluminou, e o Cordeiro é a sua lâmpada."
+> *(Apocalipse 21.23)*
+
+> "Já não haverá noite. Ninguém precisará de lâmpada, nem da luz do sol, pois o Senhor Deus brilhará sobre eles."
+> *(Apocalipse 22.5)*
+
+A nova criação é uma **reversão escatológica** e **superação** de Gênesis 1: enquanto na criação original luz e trevas foram separadas em períodos distintos (dia e noite), na nova criação não haverá mais noite nem necessidade de sol, porque Deus mesmo será a luz eterna. A dependência de fontes criadas de luz dá lugar à presença direta de Deus como fonte última de iluminação.
+
+#### Outros textos
+
 - **Hebreus 1.2–3** — Deus falou pelo Filho, por quem também fez o universo; Ele sustenta todas as coisas pela palavra do seu poder.
 - **Hebreus 11.3** — Pela fé entendemos que o universo foi formado pela palavra de Deus.
 - **Mateus 19.4–6** — Jesus confirma Gênesis 1.27 e 2.24 como fundamento do casamento.
 - **Romanos 1.20** — Os atributos invisíveis de Deus são percebidos desde a criação do mundo.
-- **2 Coríntios 4.6** — "Deus, que disse: 'Das trevas resplandecerá a luz', ele mesmo resplandeceu em nosso coração" — a nova criação em Cristo como paralelo do primeiro dia.
+- **Romanos 8.19–22** — A criação geme, aguardando a libertação da escravidão à corrupção para compartilhar a liberdade da glória dos filhos de Deus. N.T. Wright chama este texto de "a peça mais espetacular de teologia da criação de Paulo, uma explosão de uma leitura renovada de Gênesis 1–3".
 - **2 Coríntios 5.17** — "Se alguém está em Cristo, é nova criação."
-- **Apocalipse 21.1, 23** — Nova criação como restauração e superação da bondade original: novo céu, nova terra, sem necessidade de sol porque a glória de Deus a ilumina.
 
 ---
 
@@ -461,7 +685,43 @@ Gênesis 1–3 confronta diretamente ideologias que dominam universidades, mídi
 
 **Adoração e gratidão:** Contemplar a criação — a ordem, a beleza, a variedade do mundo — conduz à adoração do Criador, não à idolatria da criação. Inspira gratidão diária e fortalece a prática do louvor como resposta ao Deus que fez todas as coisas.
 
-### 9.6. Esperança escatológica
+### 9.6. Ecologia e mordomia da criação
+
+O "mandato de domínio" (hebraico *radah* e *kabash* em Gn 1:26–28) tem sido historicamente mal interpretado como licença para exploração irrestrita da natureza. A erudição contemporânea demonstra que o domínio bíblico é um **domínio delegado**: governamos sob a autoridade de Deus, exercendo um governo modelado no próprio governo divino. Em vez de conceder direito absoluto de explorar a criação, Deus delegou a nós a responsabilidade de protegê-la e cuidá-la.
+
+Se Gênesis 1 descreve a construção de um templo cósmico, então toda a criação é **espaço sagrado**. A imagem de Deus no homem abrange responsabilidade ecológica como expressão da vocação humana — não como "ambientalismo secular", mas como **mordomia fiel** diante do Criador que fez "tudo muito bom" e a quem prestaremos contas.
+
+> "Do SENHOR é a terra e a sua plenitude, o mundo e aqueles que nele habitam."
+> *(Salmo 24.1)*
+
+### 9.7. *Imago Dei* e desafios bioéticos contemporâneos
+
+O conceito de *imago Dei* em Gênesis 1:26–27 é o fundamento teológico para toda a bioética cristã. A vida humana é sagrada desde a concepção até a morte natural, porque Deus é o autor da vida. Esse princípio informa diretamente as posições cristãs sobre:
+
+- **Sacralidade da vida** — Cada ser humano, do embrião ao idoso, porta a imagem de Deus. Isso fundamenta a defesa da vida e a rejeição de qualquer forma de desumanização.
+- **Engenharia genética e CRISPR** — A chave hermenêutica é discernir se o que se propõe é apropriado como criaturas feitas à imagem de Deus ou se constitui uma tentativa de usurpar o lugar de Deus.
+- **Transumanismo** — O melhoramento biotecnológico das capacidades humanas apresenta um desafio direto à antropologia bíblica. A dignidade humana não depende de capacidades ou desempenho, mas do ato criador de Deus.
+- **Inteligência artificial** — Somente seres humanos possuem o *imago Dei*. A IA, por mais sofisticada que seja, carece de alma ou natureza espiritual. Gênesis 1:28 convoca a humanidade a exercer domínio sobre a terra, o que inclui o uso responsável da tecnologia.
+
+### 9.8. Identidade, saúde mental e o valor da pessoa
+
+Gênesis 1 fala diretamente às crises modernas de significado, identidade, ansiedade e depressão:
+
+- **Identidade fundada na criação, não na performance:** Em Gênesis 1–2, Deus declara a identidade da humanidade falando-a sobre eles. Nossa identidade já foi determinada por Deus, em contraste com abordagens modernas que enfatizam a autoconstrução. Ouvir que "Deus me criou à Sua imagem" é fundamento para cura da autoimagem distorcida e libertação de rótulos destrutivos.
+
+- **Afirmação divina contra a vergonha:** Deus atribui valor à Sua criação chamando-a de "bom" e "muito bom" — isso fala diretamente contra a vergonha tóxica e a crise de autoestima contemporânea.
+
+- **Ansiedade e sentido da vida:** Em um mundo marcado por insegurança, Gênesis 1 lembra: o universo não está à deriva; Deus é Senhor da história; nossa vida não é um acidente, mas parte de um plano sábio e bom. Você não é um acidente cósmico; você é criado à imagem de Deus, com propósito, valor e dignidade intrínsecas.
+
+### 9.9. Trabalho, descanso e a crise do *burnout*
+
+O sábado precede a lei mosaica; antes de Israel existir, Deus estabeleceu o padrão de descanso na própria criação. Não é até o sétimo dia que Deus chama algo de "santo" — o dia de descanso recebe a atribuição de santidade, que é a própria essência do caráter de Deus.
+
+Como observou Tim Keller: "Em Gênesis capítulos 1 e 2, as palavras que continuam aparecendo são: *trabalho* e *descanso*. Você não pode fazer bem seu trabalho a menos que descanse, e se realmente quer ser capaz de trabalhar bem, precisa de um descanso sabático."
+
+O padrão dos seis dias aponta para um ritmo de trabalho e descanso planejado por Deus — um chamado a confiar nEle e não idolatrar a produtividade. Calvino via o sábado com três propósitos: proporcionar descanso espiritual para a adoração, oferecer descanso físico do trabalho e prefigurar nosso descanso eterno em Cristo. O sábado lembra que somos mais do que o que produzimos, que o mundo de Deus continua funcionando quando nos afastamos, e que nossa identidade final repousa em sermos amados por Deus.
+
+### 9.10. Esperança escatológica
 
 O mundo teve um **princípio**; portanto, também caminha para um **fim**. O Deus que criou todas as coisas é o mesmo que trará **nova criação em Cristo**. A criação é o palco que Deus armou para a história da redenção — e o centro dessa história é Jesus:
 
@@ -485,6 +745,96 @@ Para clareza, Gênesis 1 é incompatível com:
 - **Panteísmo / panenteísmo** — a confusão entre Deus e natureza. Deus é distinto da criação.
 - **Naturalismo materialista** — o pressuposto filosófico de que nada existe além da matéria e de processos naturais.
 - **Relativismo moral** — a negação de um padrão moral objetivo. Se Deus criou com propósito e declarou "bom", existe um referencial que não depende de opinião humana.
+
+---
+
+---
+
+## 11. Perspectivas da teologia reformada sobre Gênesis 1
+
+### 11.1. João Calvino — O princípio da acomodação
+
+Calvino argumenta que Moisés empregou uma linguagem **acomodada** ao entendimento do homem comum. Deus distribuiu Sua obra criadora em seis dias "com o propósito de acomodar Suas obras à capacidade dos homens", para que pausássemos e refletíssemos sobre cada etapa. Quanto à linguagem cosmológica (por exemplo, o sol e a lua como "luzeiros" maiores e menores), Calvino explica que Moisés "se adapta à visão ordinária" do povo. Isso liberta o intérprete para focar na mensagem teológica sem se prender a debates científicos modernos como questão primária.
+
+Sobre *creatio ex nihilo*, Calvino ensina que *bara* significa "criar" e indica que "o mundo foi feito do nada", refutando "a loucura daqueles que imaginam que matéria informe existia desde a eternidade." Sobre a *imago Dei*, rejeita a interpretação dos "antropomorfitas" que buscavam a imagem de Deus no corpo humano — a *imago Dei* reside nas qualidades espirituais e racionais da alma.
+
+### 11.2. Herman Bavinck — Criação perfeita, mas ainda não completa
+
+Bavinck define a criação como "um ato de Deus pelo qual, por Sua vontade soberana, Ele trouxe o mundo inteiro do não-ser a um ser distinto do Seu próprio ser." Nenhuma das alternativas à visão bíblica (dualismo, panteísmo, emanacionismo) expressa verdadeiramente a ideia estrita de criação. A fórmula *creatio ex nihilo* é a marca distintiva da cosmovisão bíblica.
+
+Sobre a Trindade e a criação, Bavinck desenvolve o "motivo orgânico": a criação reflete a unidade-na-diversidade da vida trinitária de Deus. A família humana (pai, mãe, filho) é reflexo da Trindade — "os dois-em-um de marido e esposa expandem-se com o filho em três-em-um", desdobrando a imagem de Deus em "diversidade trina e unidade harmônica."
+
+Crucialmente, Bavinck sustenta que "embora a criação fosse perfeita, ela ainda não estava completa." Havia embutido na criação um futuro a ser realizado, um amadurecimento. Deus "colocou o organismo completo no germe, o futuro no presente." Adão foi criado para uma glória superior, e o caminho era a obediência. Isso significa que o mandato cultural de Gênesis 1:28 não é apenas tarefa, mas **caminho escatológico** — a criação aponta para a consumação.
+
+### 11.3. Geerhardus Vos — O sábado como princípio escatológico
+
+Vos argumenta que a teologia bíblica deve começar com a "revelação especial pré-redentiva primitiva dada no Éden." No jardim, Deus colocou diante de Adão um alvo escatológico: a perspectiva de uma comunhão eterna e imutável.
+
+Sobre o sábado, Vos afirma que o "descanso" de Gênesis 2:1–3 "representa a consumação de uma obra realizada e a alegria e satisfação que a acompanham." O sábado é "uma expressão do princípio escatológico sobre o qual a vida da humanidade foi construída." Se Adão tivesse completado com sucesso a probação do pacto, teria entrado "no próprio descanso eterno de Deus."
+
+Nas palavras de Vos: "o escatológico é um fio mais antigo na revelação que o sotérico" — a escatologia precede a soteriologia. Isso transforma radicalmente a leitura de Gênesis 1: não é apenas relato de origens, mas **prólogo escatológico** de toda a história redentiva. O "muito bom" de Gênesis 1:31 é ponto de partida, não ponto de chegada.
+
+### 11.4. Confissão de Fé de Westminster, capítulo 4 — Da Criação
+
+A CFW afirma que "aprouve a Deus Pai, Filho e Espírito Santo, para a manifestação da glória do Seu eterno poder, sabedoria e bondade, no princípio, criar ou fazer do nada o mundo e tudo o que nele existe, quer visível quer invisível, no espaço de seis dias, e tudo muito bom."
+
+Três atributos divinos são supremamente glorificados na criação: **poder** eterno, **sabedoria** e **bondade**. Cada ato criador em Gênesis 1 pode ser lido como demonstração desses três atributos — o poder na palavra criadora ("disse Deus"), a sabedoria na ordem e harmonia, a bondade na avaliação repetida de "bom".
+
+A CFW 4.2 declara que Deus "criou o homem, macho e fêmea, com almas racionais e imortais, dotados de conhecimento, justiça e verdadeira santidade, segundo a Sua própria imagem." A *imago Dei* inclui dimensões intelectuais (conhecimento), morais (justiça e santidade) e legais (lei escrita no coração).
+
+### 11.5. O pacto da criação e os mandatos criacionais
+
+A teologia reformada identifica na narrativa de Gênesis 1–2 os elementos constitutivos de um pacto: soberania divina, sustento, relação, responsabilidade, bênçãos e maldições. O Pacto de Obras foi estabelecido com Adão como representante federal da humanidade, tendo como condição a obediência perfeita e como sanção a morte (Gn 2.17).
+
+Dentro deste pacto, a teologia reformada identifica mandatos específicos dados em Gênesis 1–2: o **mandato cultural** ("Sede fecundos e multiplicai-vos", 1.28), o **mandato do trabalho** (2.15), e o princípio do **sábado** (2.3). Esses mandatos são pré-mosaicos e considerados universalmente válidos — não apenas para Israel, mas para toda a humanidade.
+
+### 11.6. Vozes reformadas brasileiras
+
+**Augustus Nicodemus Lopes** — Em *No Princípio de Tudo: A Mensagem de Gênesis 1–11 para a Igreja de Hoje* (Vida Nova, 2022), aborda as questões fundamentais que Gênesis 1–11 responde: "Por que existe algo em vez do nada? Por que existe o mal no mundo? Por que precisamos do evangelho e de um Redentor?" É a principal referência em português para quem busca uma exposição reformada contemporânea dos primeiros capítulos de Gênesis.
+
+**Hermisten Maia Pereira da Costa** — Em *Introdução à Cosmovisão Reformada*, trata da criação do ser humano, da queda e do caminho para a redenção, confrontando ideias como relativismo, marxismo e pluralismo a partir de uma compreensão calvinista da criação e cultura.
+
+**Flávio Américo Dantas de Carvalho** — No artigo "Existirmos: A Que Será Que Se Destina? Nossa Existência à Luz do Pacto da Criação" (*Fides Reformata* XXIII, nº 2, 2018), discute o Pacto da Criação como base para explicar o propósito da existência humana, usando Gênesis 1–3 como fontes fundamentais.
+
+**Mauro Fernando Meister** — Professor do CPAJ/Mackenzie, publicou "Uma Breve Introdução ao Estudo do Pacto" (*Fides Reformata* 3/1, 1998), onde estuda os elementos básicos da doutrina do pacto na perspectiva da teologia bíblica.
+
+---
+
+## 12. Bibliografia recomendada
+
+### Comentários e obras exegéticas
+
+- CASSUTO, Umberto. *A Commentary on the Book of Genesis, Part I: From Adam to Noah*. Magnes Press, 1961.
+- COLLINS, C. John. *Genesis 1–4: A Linguistic, Literary, and Theological Commentary*. P&R Publishing, 2006.
+- WALTON, John H. *The Lost World of Genesis One*. IVP Academic, 2009.
+- WALTON, John H. *Genesis 1 as Ancient Cosmology*. Eisenbrauns, 2011.
+- WENHAM, Gordon J. *Genesis 1–15*. Word Biblical Commentary. Word Books, 1987.
+- WESTERMANN, Claus. *Genesis 1–11: A Commentary*. Augsburg, 1984.
+- SARNA, Nahum. *Understanding Genesis*. Schocken, 1966.
+
+### Antigo Oriente Próximo
+
+- TSUMURA, David Tsiamparlis. *The Earth and the Waters in Genesis 1 and 2*. JSOT Press, 1989/2005.
+- HEIDEL, Alexander. *The Babylonian Genesis*. University of Chicago Press, 1951.
+- CURRID, John. *Against the Gods: The Polemical Theology of the Old Testament*. Crossway, 2013.
+- MIDDLETON, J. Richard. *The Liberating Image: The Imago Dei in Genesis 1*. Brazos, 2005.
+- ALLEN, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale, 1988.
+
+### Teologia bíblica e sistemática
+
+- BEALE, G. K. *The Temple and the Church's Mission*. IVP Academic, 2004.
+- BAVINCK, Herman. *Reformed Dogmatics, Vol. 2: God and Creation*. Baker Academic, 2004.
+- VOS, Geerhardus. *Biblical Theology: Old and New Testaments*. Banner of Truth, 1975.
+- CALVINO, João. *Commentary on Genesis*. Vol. 1.
+- BLOCHER, Henri. *In the Beginning*. IVP, 1984.
+- KLINE, Meredith G. "Because It Had Not Rained." *Westminster Theological Journal* 20 (1958): 145–57.
+
+### Obras em português
+
+- NICODEMUS LOPES, Augustus. *No Princípio de Tudo: A Mensagem de Gênesis 1–11 para a Igreja de Hoje*. Vida Nova, 2022.
+- COSTA, Hermisten Maia Pereira da. *Introdução à Cosmovisão Reformada*. Editora Cruz.
+- CARVALHO, Flávio Américo D. "Existirmos: Nossa Existência à Luz do Pacto da Criação." *Fides Reformata* XXIII, nº 2 (2018): 93–114.
+- MEISTER, Mauro F. "Uma Breve Introdução ao Estudo do Pacto." *Fides Reformata* 3/1 (1998).
 
 ---
 
