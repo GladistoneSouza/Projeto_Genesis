@@ -107,7 +107,29 @@ Esse arranjo literário mostra um movimento:
 
 A espinha dorsal do livro é a fórmula **toledot** (estas são as gerações de…), que aparece **11 vezes** em Gênesis, marcando **10 seções** distintas. Mais do que uma lista genealógica, cada *toledot* sinaliza uma transição narrativa — o bastão passa de um personagem ou era para o seguinte.
 
-**Debate acadêmico:** A *toledot* funciona como título do que vem depois (superinscrição) ou como conclusão do que veio antes (subscrição/colofão)? Gordon Wenham, Kenneth Mathews e Bruce Waltke defendem que são **superinscrições**: "Na cláusula 'estas são as toledot de X', o próprio significado de *toledot* exige que a declaração aponte para aquilo que X produz, e não para as origens de X" (Wenham).
+**Debate acadêmico — superinscrição ou colofão?**
+
+Existe uma divergência importante entre estudiosos sobre como a fórmula *toledot* funciona. A resposta muda a maneira como lemos a estrutura do livro e como entendemos a transmissão do texto.
+
+**Tese 1 — Superinscrição (título do que vem depois):**
+Defendida por Gordon Wenham, Kenneth Mathews e Bruce Waltke. Nesta leitura, "estas são as gerações de X" funciona como **cabeçalho**: introduz o que aconteceu a partir de X, o que X gerou ou produziu. Wenham argumenta: "Na cláusula 'estas são as toledot de X', o próprio significado de *toledot* exige que a declaração aponte para aquilo que X produz, e não para as origens de X."
+
+*Implicação:* Gn 2.4 ("estas são as gerações dos céus e da terra") abre a narrativa do Éden e da Queda — é o título da história que se segue. O foco teológico é **o que Deus faz por meio de cada geração**: cada seção mostra como a promessa avança, se estreita e se aprofunda, de Adão até Jacó.
+
+**Tese 2 — Colofão/subscrição (conclusão do que veio antes):**
+Proposta por P.J. Wiseman e adotada por R.K. Harrison. Baseia-se no costume mesopotâmico de colocar o nome do autor ou proprietário **no final** de uma tábua de argila, não no início. Nesta leitura, "estas são as gerações de X" significa: *este é o registro que pertencia a X* ou *que X preservou*.
+
+*Implicação:* Gn 2.4 encerraria o relato da criação (1.1–2.3), e Adão seria o "guardião" desse registro. Gn 5.1 encerraria o relato de Adão, com Noé como o próximo guardião, e assim por diante. Essa leitura reforça a ideia de que Gênesis foi compilado a partir de **documentos escritos reais** — tábuas preservadas pelos patriarcas ao longo das gerações — que Moisés, sob inspiração do Espírito, reuniu e editou como um todo coerente. Ela fortalece o argumento da **historicidade** e da **transmissão documental** do texto.
+
+**Por que isso importa:**
+
+A diferença não é meramente técnica — ela afeta a leitura do livro em pelo menos três níveis:
+
+1. **Estrutura literária:** se a *toledot* olha para frente ou para trás, muda onde cada "seção" começa e termina, e, portanto, quais narrativas pertencem a qual unidade.
+2. **Transmissão e confiabilidade:** a tese do colofão sugere fontes escritas patriarcais concretas, o que reforça a historicidade da narrativa e dá peso à afirmação de que Moisés trabalhou com material documental, não apenas com tradição oral.
+3. **Ênfase teológica:** a superinscrição enfatiza *o que Deus produz a partir de cada personagem* — a história da promessa avançando. O colofão enfatiza *quem testemunhou e preservou o registro* — a fidelidade humana em guardar a revelação recebida.
+
+Ambas as leituras são compatíveis com a autoria mosaica e com a inspiração plena da Escritura. A maioria dos comentaristas evangélicos contemporâneos adota a superinscrição, mas a tese do colofão permanece uma contribuição valiosa para entender como o material de Gênesis pode ter sido preservado antes de Moisés.
 
 **As dez seções:**
 
