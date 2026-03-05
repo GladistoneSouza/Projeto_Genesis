@@ -4,6 +4,67 @@
 
 ---
 
+## Sumário
+
+**[1. Origem e razão do livro](#1-origem-e-razão-do-livro)**
+- [1.1. O nome do livro](#11-o-nome-do-livro)
+- [1.2. Gênesis dentro do Pentateuco](#12-gênesis-dentro-do-pentateuco)
+- [1.3. Propósito do livro](#13-propósito-do-livro)
+- [1.4. Propósito teológico e pastoral](#14-propósito-teológico-e-pastoral)
+- [1.5. Autoria mosaica: evidências e contexto](#15-autoria-mosaica-evidências-e-contexto)
+- [1.6. Datação e contexto histórico](#16-datação-e-contexto-histórico)
+- [1.7. Notas técnicas e históricas](#17-notas-técnicas-e-históricas)
+- [1.8. Desafios de interpretação e humildade na leitura](#18-desafios-de-interpretação-e-humildade-na-leitura)
+
+**[2. Estrutura literária de Gênesis](#2-estrutura-literária-de-gênesis)**
+- [2.1. Dois grandes blocos](#21-dois-grandes-blocos)
+- [2.2. A fórmula *toledot*](#22-a-fórmula-toledot-estas-são-as-gerações-de)
+- [2.3. Estruturas quiásticas](#23-estruturas-quiásticas)
+- [2.4. O padrão formação–preenchimento](#24-o-padrão-formaçãopreenchimento-nos-dias-da-criação)
+- [2.5. Outros recursos literários](#25-outros-recursos-literários)
+
+**[3. Temas centrais e eixos teológicos](#3-temas-centrais-e-eixos-teológicos)**
+- [3.1. Deus, o Criador e Senhor](#31-deus-o-criador-e-senhor)
+- [3.2. Bênção vs. maldição](#32-bênção-vs-maldição)
+- [3.3. A semente e a descendência](#33-a-semente-e-a-descendência)
+- [3.4. A terra](#34-a-terra)
+- [3.5. A aliança](#35-a-aliança)
+- [3.6. Casamento e sexualidade na ordem da criação](#36-casamento-e-sexualidade-na-ordem-da-criação)
+- [3.7. Gênesis como antídoto às ideologias contemporâneas](#37-gênesis-como-antídoto-às-ideologias-contemporâneas)
+- [3.8. Eleição soberana: o padrão do mais novo sobre o mais velho](#38-eleição-soberana-o-padrão-do-mais-novo-sobre-o-mais-velho)
+
+**[4. Da bondade original à necessidade de redenção](#4-da-bondade-original-à-necessidade-de-redenção)**
+- [4.1. A criação "muito boa"](#41-a-criação-muito-boa)
+- [4.2. O mandato cultural](#42-o-mandato-cultural-a-vocação-humana-na-criação)
+- [4.3. A intrusão do mal](#43-a-intrusão-do-mal)
+- [4.4. O ritmo teológico de Gênesis 1–11](#44-o-ritmo-teológico-de-gênesis-111-queda-juízo-e-graça)
+
+**[5. Gênesis e o mundo antigo (ANE)](#5-gênesis-e-o-mundo-antigo-ane)**
+- [5.1. Gênesis vs. *Enuma Elish*](#51-gênesis-vs-enuma-elish-mito-babilônico-da-criação)
+- [5.2. Gênesis vs. Épico de Atrahasis](#52-gênesis-vs-épico-de-atrahasis)
+- [5.3. Gênesis vs. Épico de Gilgamesh](#53-gênesis-vs-épico-de-gilgamesh-narrativa-do-dilúvio)
+- [5.4. Gênesis vs. cosmogonias egípcias](#54-gênesis-vs-cosmogonias-egípcias)
+- [5.5. Leituras debatidas](#55-leituras-debatidas-nota-honesta-de-método)
+
+**[6. Gênesis e o restante da Bíblia (fio canônico)](#6-gênesis-e-o-restante-da-bíblia-fio-canônico)**
+- [6.1. Cristo como Verbo criador](#61-cristo-como-verbo-criador-e-centro-da-criação)
+- [6.2. Adão e Cristo: o primeiro e o último](#62-adão-e-cristo-o-primeiro-e-o-último)
+- [6.3. Outras tipologias cristológicas](#63-outras-tipologias-cristológicas-em-gênesis)
+- [6.4. José como tipo de Cristo](#64-josé-como-tipo-de-cristo)
+- [6.5. Jesus e Gênesis nos Evangelhos](#65-jesus-e-gênesis-nos-evangelhos)
+- [6.6. Hebreus: Melquisedeque e o capítulo da fé](#66-hebreus-melquisedeque-e-o-capítulo-da-fé)
+- [6.7. Criação → Nova Criação](#67-criação--nova-criação-o-arco-que-abre-e-fecha-a-bíblia)
+
+**[7. Referências rápidas para catequese e ensino](#7-referências-rápidas-para-catequese-e-ensino)**
+
+**[8. Bibliografia recomendada](#8-bibliografia-recomendada)**
+
+**[9. Notas](#9-notas)**
+
+**[10. Índice dos capítulos](#10-índice-dos-capítulos)**
+
+---
+
 ## 1. Origem e razão do livro
 
 ### 1.1. O nome do livro
@@ -174,9 +235,21 @@ Aqui, o foco está na **humanidade em geral** e em temas universais: origem do u
 
 O foco passa do cosmos para uma **família específica**, por meio da qual virá o Messias.
 
-Esse arranjo literário mostra um movimento:
+Esse arranjo literário mostra um movimento de funil e expansão:
 
-> mundo inteiro → uma família → uma nação → o Messias → de volta ao mundo inteiro.
+```mermaid
+flowchart LR
+    A["🌍 Mundo inteiro<br/>Gn 1–11"] --> B["👨‍👩‍👦 Uma família<br/>Abraão"]
+    B --> C["🏛️ Uma nação<br/>Israel"]
+    C --> D["✝️ O Messias<br/>Cristo"]
+    D --> E["🌍 De volta ao<br/>mundo inteiro"]
+
+    style A fill:#4a90d9,color:#fff
+    style B fill:#e6a23c,color:#fff
+    style C fill:#e6a23c,color:#fff
+    style D fill:#67c23a,color:#fff
+    style E fill:#4a90d9,color:#fff
+```
 
 **Panorama cronológico:** Gênesis cobre um período imenso — desde a criação do mundo até a morte de José no Egito, abrangendo mais de dois mil anos de narrativa bíblica:
 
@@ -268,7 +341,33 @@ Cada ponto focal revela o tema teológico central daquele ciclo: **aliança, ter
 
 ### 2.4. O padrão formação–preenchimento nos dias da criação
 
-Gênesis 1.2 apresenta dois problemas: a terra estava **"sem forma" (*tohu*) e "vazia" (*bohu*)**. Os seis dias resolvem esses dois problemas em ordem:
+Gênesis 1.2 apresenta dois problemas: a terra estava **"sem forma" (*tohu*) e "vazia" (*bohu*)**. Os seis dias resolvem esses dois problemas em ordem paralela:
+
+```mermaid
+flowchart LR
+    subgraph FORMAR["FORMAÇÃO (remove tohu)"]
+        D1["Dia 1<br/>Luz e trevas"]
+        D2["Dia 2<br/>Céu e águas"]
+        D3["Dia 3<br/>Terra e vegetação"]
+    end
+
+    subgraph ENCHER["PREENCHIMENTO (remove bohu)"]
+        D4["Dia 4<br/>Sol, lua, estrelas"]
+        D5["Dia 5<br/>Aves e peixes"]
+        D6["Dia 6<br/>Animais e ser humano"]
+    end
+
+    D1 -.->|"espaços → habitantes"| D4
+    D2 -.->|"espaços → habitantes"| D5
+    D3 -.->|"espaços → habitantes"| D6
+
+    style D1 fill:#3498db,color:#fff
+    style D2 fill:#3498db,color:#fff
+    style D3 fill:#3498db,color:#fff
+    style D4 fill:#e67e22,color:#fff
+    style D5 fill:#e67e22,color:#fff
+    style D6 fill:#e67e22,color:#fff
+```
 
 | Formação (dias 1–3) | Preenchimento (dias 4–6) |
 |---------------------|------------------------|
@@ -356,6 +455,20 @@ E a vitória prometida em Gênesis 3.15 ecoa até o final da Bíblia:
 
 O estreitamento progressivo da semente é um dos movimentos teológicos mais notáveis de Gênesis — a promessa começa ampla e vai se afunilando até uma pessoa:
 
+```mermaid
+flowchart TD
+    A["Semente da mulher<br/>Gn 3.15"] --> B["Linhagem de Sete<br/><s>Caim</s>"]
+    B --> C["Linhagem de Sem<br/><s>Cam</s> · <s>Jafé</s>"]
+    C --> D["Abraão<br/>Gn 12.1–3"]
+    D --> E["Isaque<br/><s>Ismael</s>"]
+    E --> F["Jacó<br/><s>Esaú</s>"]
+    F --> G["Judá<br/><s>11 irmãos</s>"]
+    G --> H["✝️ CRISTO<br/>Gl 3.16"]
+
+    style A fill:#5dade2,color:#fff
+    style H fill:#e74c3c,color:#fff
+```
+
 | Passagem | Estreitamento |
 |----------|---------------|
 | 3.15 | A semente da mulher (humanidade em geral) |
@@ -391,7 +504,23 @@ O tema da terra prometida nasce aqui e atravessa toda a Escritura até a nova te
 
 De Noé a Abraão, Deus se compromete de modo formal e irrevogável. A aliança com Abraão é triádica: **descendência, terra, bênção às nações** — e é esse tripé que sustenta toda a história da salvação dali em diante.
 
-Gênesis registra três alianças que formam a base de toda a teologia pactual da Escritura:
+Gênesis registra três alianças que formam a base de toda a teologia pactual da Escritura. A cadeia pactual que começa aqui percorre toda a Bíblia:
+
+```mermaid
+flowchart LR
+    A["Adão<br/>Aliança das Obras<br/>Gn 1–2"] -->|"quebrada"| B["Noé<br/>Preservação<br/>Gn 8–9"]
+    B --> C["Abraão<br/>Promessa tríplice<br/>Gn 12; 15; 17"]
+    C --> D["Moisés<br/>Lei<br/>Êx 19–24"]
+    D --> E["Davi<br/>Reino eterno<br/>2 Sm 7"]
+    E --> F["Cristo<br/>Nova Aliança<br/>Lc 22.20"]
+
+    style A fill:#c0392b,color:#fff
+    style B fill:#2980b9,color:#fff
+    style C fill:#e67e22,color:#fff
+    style D fill:#8e44ad,color:#fff
+    style E fill:#27ae60,color:#fff
+    style F fill:#f1c40f,color:#000
+```
 
 **Aliança com Adão (Gn 1–2)** — Também chamada aliança da criação ou das obras. Deus estabelece um relacionamento com Adão como representante (*cabeça federal*) de toda a humanidade. Os termos são claros: obediência traz vida, desobediência traz morte. Adão desobedeceu, e sua queda afetou toda a raça humana:
 
@@ -526,6 +655,46 @@ Isso fundamenta duas verdades centrais:
 ### 4.4. O ritmo teológico de Gênesis 1–11: queda, juízo e graça
 
 A partir da Queda, Gênesis 1–11 repete um padrão claro e constante: **pecado → juízo → preservação/promessa**. Deus nunca para no juízo — sempre há uma linha de graça que sobrevive e avança.
+
+```mermaid
+flowchart TD
+    subgraph Ciclo1["Ciclo 1 — Éden (Gn 3)"]
+        A1["Pecado: desobediência"] --> B1["Juízo: expulsão, maldição"]
+        B1 --> C1["Graça: Gn 3.15 + túnicas de pele"]
+    end
+
+    subgraph Ciclo2["Ciclo 2 — Caim (Gn 4)"]
+        A2["Pecado: homicídio"] --> B2["Juízo: exílio, errante"]
+        B2 --> C2["Graça: sinal de proteção + Sete"]
+    end
+
+    subgraph Ciclo3["Ciclo 3 — Dilúvio (Gn 6–9)"]
+        A3["Pecado: corrupção total"] --> B3["Juízo: dilúvio"]
+        B3 --> C3["Graça: Noé + aliança do arco-íris"]
+    end
+
+    subgraph Ciclo4["Ciclo 4 — Babel (Gn 11)"]
+        A4["Pecado: autonomia coletiva"] --> B4["Juízo: dispersão"]
+        B4 --> C4["Graça: chamado de Abraão (Gn 12)"]
+    end
+
+    C1 --> A2
+    C2 --> A3
+    C3 --> A4
+
+    style A1 fill:#e74c3c,color:#fff
+    style A2 fill:#e74c3c,color:#fff
+    style A3 fill:#e74c3c,color:#fff
+    style A4 fill:#e74c3c,color:#fff
+    style B1 fill:#f39c12,color:#fff
+    style B2 fill:#f39c12,color:#fff
+    style B3 fill:#f39c12,color:#fff
+    style B4 fill:#f39c12,color:#fff
+    style C1 fill:#27ae60,color:#fff
+    style C2 fill:#27ae60,color:#fff
+    style C3 fill:#27ae60,color:#fff
+    style C4 fill:#27ae60,color:#fff
+```
 
 **Ciclo 1 — A Queda no Éden (Gn 3)**
 
@@ -747,6 +916,18 @@ Sara também é destacada:
 ### 6.7. Criação → Nova Criação: o arco que abre e fecha a Bíblia
 
 O arco que começa em Gênesis 1–2 só se completa em Apocalipse 21–22. A Bíblia inteira é a história do que acontece entre esses dois jardins — o Éden e a Nova Jerusalém:
+
+```mermaid
+flowchart LR
+    A["🌳 CRIAÇÃO<br/>Gn 1–2<br/>Jardim, vida, presença"] --> B["💀 QUEDA<br/>Gn 3<br/>Pecado, morte, exílio"]
+    B --> C["📜 REDENÇÃO<br/>Gn 3.15 → Cruz<br/>Promessa, aliança, Cristo"]
+    C --> D["🏙️ NOVA CRIAÇÃO<br/>Ap 21–22<br/>Cidade, vida eterna, face de Deus"]
+
+    style A fill:#27ae60,color:#fff
+    style B fill:#c0392b,color:#fff
+    style C fill:#2980b9,color:#fff
+    style D fill:#f1c40f,color:#000
+```
 
 | Gênesis 1–2 | Apocalipse 21–22 |
 |---|---|
