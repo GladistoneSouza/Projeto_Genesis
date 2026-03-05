@@ -5,7 +5,7 @@ arquivo_regras: docs/regras.md
 arquivo_changelog: docs/changelog.md
 
 # Vers�o das especifica��es de edi��o
-spec_version: 1.1.0
+spec_version: 1.2.0
 
 # Notas
 - Sempre registrar mudan�as estruturais nas regras em docs/changelog.md.

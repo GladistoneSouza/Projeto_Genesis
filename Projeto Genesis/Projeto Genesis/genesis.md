@@ -89,7 +89,7 @@ Moisés nasceu séculos depois de muitos dos eventos narrados em Gênesis. Ele n
 
 1. **Revelação divina direta** — Deus revelou a Moisés informações que ele não poderia obter por meios naturais, assim como revelou a Lei no Sinai.
 2. **Tradição oral** — Na cultura antiga, a memorização e a transmissão fiel de narrativas entre gerações era prática estabelecida e confiável.
-3. **Registros escritos anteriores** — Moisés pode ter utilizado documentos, genealogias e tábuas preservadas pelos patriarcas ao longo das gerações (a tese do colofão de Wiseman, discutida na seção 2.2, apoia essa possibilidade).
+3. **Registros escritos anteriores** — Moisés pode ter utilizado documentos, genealogias e tábuas preservadas pelos patriarcas ao longo das gerações (a tese do colofão de Wiseman[^wiseman-1985], discutida na seção 2.2, apoia essa possibilidade).
 
 Em todas essas vias, o princípio fundamental permanece: a Escritura é **inspiração divina**. O Espírito Santo guiou Moisés na composição do texto, garantindo que o registro fosse fiel e autoritativo, independentemente da fonte humana:
 
@@ -97,10 +97,10 @@ Em todas essas vias, o princípio fundamental permanece: a Escritura é **inspir
 > *(2 Timóteo 3.16)*
 
 **Fontes e composição:**
-A maioria dos eruditos evangélicos reconhece que Moisés provavelmente usou fontes e documentos anteriores preservados pelo povo de Israel. Kenneth Mathews (NAC) qualifica a autoria mosaica como "autor/compilador" que "acessou uma variedade de fontes antigas". Isso não diminui a autoria nem a inspiração — significa que Moisés, guiado pelo Espírito, organizou e redigiu material tanto recebido por revelação quanto preservado pela tradição oral e escrita.
+A maioria dos eruditos evangélicos reconhece que Moisés provavelmente usou fontes e documentos anteriores preservados pelo povo de Israel. Kenneth Mathews qualifica a autoria mosaica como "autor/compilador" que "acessou uma variedade de fontes antigas"[^mathews-1996]. Isso não diminui a autoria nem a inspiração — significa que Moisés, guiado pelo Espírito, organizou e redigiu material tanto recebido por revelação quanto preservado pela tradição oral e escrita.
 
 **A hipótese documentária (JEDP) e a resposta evangélica:**
-A partir do século XIX, especialmente com Julius Wellhausen (1883), ganhou força a chamada **hipótese documentária**, que propõe que o Pentateuco foi compilado a partir de quatro fontes independentes: **J** (Javista, que usa o nome YHWH), **E** (Eloísta, que usa Elohim), **D** (Deuteronomista) e **P** (Sacerdotal, do alemão *Priestercodex*). Essa teoria dominou a academia por quase todo o século XX.
+A partir do século XIX, especialmente com Julius Wellhausen[^wellhausen-1883], ganhou força a chamada **hipótese documentária**, que propõe que o Pentateuco foi compilado a partir de quatro fontes independentes: **J** (Javista, que usa o nome YHWH), **E** (Eloísta, que usa Elohim), **D** (Deuteronomista) e **P** (Sacerdotal, do alemão *Priestercodex*). Essa teoria dominou a academia por quase todo o século XX.
 
 A tradição evangélica e reformada respondeu com objeções consistentes:
 
@@ -200,7 +200,7 @@ Esse arranjo literário mostra um movimento:
 
 De Jacó — que recebe de Deus o nome **Israel** — nascem os doze filhos que formarão as **doze tribos de Israel**, fundamento de toda a história nacional que se segue no restante do Antigo Testamento.
 
-**Uma proporção reveladora:** quatro quintos do livro (caps. 12–50) cobrem apenas quatro gerações (Abraão até José), enquanto um quinto (caps. 1–11) cobre vinte gerações (Adão até Abraão). Isso mostra que, para Gênesis, a eleição de uma família importa mais do que a panorâmica da história universal — o particular serve o universal (Victor Hamilton, NICOT).
+**Uma proporção reveladora:** quatro quintos do livro (caps. 12–50) cobrem apenas quatro gerações (Abraão até José), enquanto um quinto (caps. 1–11) cobre vinte gerações (Adão até Abraão). Isso mostra que, para Gênesis, a eleição de uma família importa mais do que a panorâmica da história universal — o particular serve o universal[^hamilton-1990].
 
 ### 2.2. A fórmula *toledot* ("estas são as gerações de…")
 
@@ -211,12 +211,12 @@ A espinha dorsal do livro é a fórmula **toledot** (estas são as gerações de
 Existe uma divergência importante entre estudiosos sobre como a fórmula *toledot* funciona. A resposta muda a maneira como lemos a estrutura do livro e como entendemos a transmissão do texto.
 
 **Tese 1 — Superinscrição (título do que vem depois):**
-Defendida por Gordon Wenham, Kenneth Mathews e Bruce Waltke. Nesta leitura, "estas são as gerações de X" funciona como **cabeçalho**: introduz o que aconteceu a partir de X, o que X gerou ou produziu. Wenham argumenta: "Na cláusula 'estas são as toledot de X', o próprio significado de *toledot* exige que a declaração aponte para aquilo que X produz, e não para as origens de X."
+Defendida por Gordon Wenham[^wenham-1987], Kenneth Mathews[^mathews-1996] e Bruce Waltke[^waltke-2001]. Nesta leitura, "estas são as gerações de X" funciona como **cabeçalho**: introduz o que aconteceu a partir de X, o que X gerou ou produziu. Wenham argumenta: "Na cláusula 'estas são as toledot de X', o próprio significado de *toledot* exige que a declaração aponte para aquilo que X produz, e não para as origens de X."
 
 *Implicação:* Gn 2.4 ("estas são as gerações dos céus e da terra") abre a narrativa do Éden e da Queda — é o título da história que se segue. O foco teológico é **o que Deus faz por meio de cada geração**: cada seção mostra como a promessa avança, se estreita e se aprofunda, de Adão até Jacó.
 
 **Tese 2 — Colofão/subscrição (conclusão do que veio antes):**
-Proposta por P.J. Wiseman e adotada por R.K. Harrison. Baseia-se no costume mesopotâmico de colocar o nome do autor ou proprietário **no final** de uma tábua de argila, não no início. Nesta leitura, "estas são as gerações de X" significa: *este é o registro que pertencia a X* ou *que X preservou*.
+Proposta por P. J. Wiseman[^wiseman-1985] e adotada por R. K. Harrison[^harrison-1969]. Baseia-se no costume mesopotâmico de colocar o nome do autor ou proprietário **no final** de uma tábua de argila, não no início. Nesta leitura, "estas são as gerações de X" significa: *este é o registro que pertencia a X* ou *que X preservou*.
 
 *Implicação:* Gn 2.4 encerraria o relato da criação (1.1–2.3), e Adão seria o "guardião" desse registro. Gn 5.1 encerraria o relato de Adão, com Noé como o próximo guardião, e assim por diante. Essa leitura reforça a ideia de que Gênesis foi compilado a partir de **documentos escritos reais** — tábuas preservadas pelos patriarcas ao longo das gerações — que Moisés, sob inspiração do Espírito, reuniu e editou como um todo coerente. Ela fortalece o argumento da **historicidade** e da **transmissão documental** do texto.
 
@@ -252,7 +252,7 @@ O padrão alterna entre genealogia e narrativa (N–G–N–G, N–G–N–G–N
 Gênesis usa extensivamente o **quiasmo** (padrão A–B–C–B'–A'), uma técnica literária que organiza a narrativa de fora para dentro, dirigindo a atenção do leitor ao centro — o ponto teológico principal.
 
 **O dilúvio (Gn 6–9) — o quiasmo mais elaborado:**
-Gordon Wenham identificou uma estrutura quiástica de **31 pontos**, onde o pivô central é Gênesis 8.1:
+Gordon Wenham identificou uma estrutura quiástica de **31 pontos**[^wenham-1987], onde o pivô central é Gênesis 8.1:
 
 > "Então Deus se lembrou de Noé e de todos os animais selvagens e de todos os animais domésticos que estavam com ele na arca. Deus fez soprar um vento sobre a terra, e as águas começaram a baixar."
 > *(Gênesis 8.1)*
@@ -292,7 +292,7 @@ Gênesis tem a maior concentração de trocadilhos com nomes de toda a Bíblia H
 - ***'ish*** (homem) e ***'ishshah*** (mulher): em Gn 2.23, Adão reconhece Eva como "osso dos meus ossos" usando um trocadilho que em hebraico soa como "esta é *homem-a*, tirada do *homem*".
 
 **Gênesis 1 e Gênesis 2 — complementaridade:**
-Gênesis 1 é a visão panorâmica (o cosmos inteiro); Gênesis 2 é o zoom (o Éden, o casal, o jardim). Não são relatos contraditórios, mas **complementares** — prática comum na literatura antiga, onde primeiro se dá o esboço geral e depois se preenchem os detalhes. Wenham observa que Gênesis 1 funciona como "abertura" ou "prelúdio" para a história que começa propriamente na *toledot* de 2.4.
+Gênesis 1 é a visão panorâmica (o cosmos inteiro); Gênesis 2 é o zoom (o Éden, o casal, o jardim). Não são relatos contraditórios, mas **complementares** — prática comum na literatura antiga, onde primeiro se dá o esboço geral e depois se preenchem os detalhes. Wenham[^wenham-1987] observa que Gênesis 1 funciona como "abertura" ou "prelúdio" para a história que começa propriamente na *toledot* de 2.4.
 
 ---
 
@@ -327,7 +327,7 @@ A progressão da bênção em Gênesis segue três estágios que espelham a expa
 2. **Abraão será uma bênção** (Gn 12.2b) — Essa pessoa se torna canal de bênção para outros.
 3. **Todas as nações serão abençoadas nele** (Gn 12.3) — O particular serve o universal; a eleição de um visa a restauração de todos.
 
-Nas *toledot*, o tema é quantificável: nas três gerações maiores finais (Terá, Isaque, Jacó), a bênção é mencionada **81 vezes** e a maldição apenas **3** — sinal de que, em Abraão, a maré está virando. A história de Gênesis é um movimento que começa em bênção (Gn 1.28), mergulha na maldição (Gn 3.17), e gradualmente retorna à bênção por meio da promessa e da aliança (Gn 12.2–3).
+Nas *toledot*, o tema é quantificável: nas três gerações maiores finais (Terá, Isaque, Jacó), a bênção é mencionada **81 vezes** e a maldição apenas **3**[^derouchie-2013] — sinal de que, em Abraão, a maré está virando. A história de Gênesis é um movimento que começa em bênção (Gn 1.28), mergulha na maldição (Gn 3.17), e gradualmente retorna à bênção por meio da promessa e da aliança (Gn 12.2–3).
 
 É significativo que a maldição de Gênesis 3 atinge precisamente os dois aspectos do mandato criacional: a **semente** (dor no parto, Gn 3.16) e o **domínio sobre a terra** (o solo é amaldiçoado, Gn 3.17–19). As promessas abraâmicas respondem exatamente a essas duas maldições: Deus promete **descendência incontável** e **uma terra boa**. A bênção de Abraão é, teologicamente, a reversão da maldição de Adão.
 
@@ -338,9 +338,9 @@ Desde o protoevangelho, a Bíblia rastreia uma linhagem: a semente da mulher →
 > "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
 > *(Gênesis 3.15)*
 
-Esse versículo — chamado de *protoevangelium* ("primeiro evangelho") — é a semente de toda a história da redenção. A palavra grega *protoevangelium* combina *protos* ("primeiro") e *evangelion* ("boa nova, evangelho"), significando literalmente o **primeiro anúncio do evangelho** na história. A identificação dessa promessa como messiânica remonta pelo menos a **Ireneu de Lyon (180 d.C.)**, que a considerou a primeira profecia messiânica da Escritura.
+Esse versículo — chamado de *protoevangelium* ("primeiro evangelho") — é a semente de toda a história da redenção. A palavra grega *protoevangelium* combina *protos* ("primeiro") e *evangelion* ("boa nova, evangelho"), significando literalmente o **primeiro anúncio do evangelho** na história. A identificação dessa promessa como messiânica remonta pelo menos a **Ireneu de Lyon**[^ireneu-180], que a considerou a primeira profecia messiânica da Escritura.
 
-Tudo o que vem depois na Bíblia é, de certa forma, o desenvolvimento dessa promessa. Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo. James Hamilton observa que Gênesis 3.15 opera não através de citações diretas nas Escrituras posteriores, mas através de **imagens recorrentes e pressupostos narrativos** — a divisão da humanidade em duas linhagens (a semente da mulher e a semente da serpente) que percorre todo o livro: Sete vs. Caim, Sem vs. Cão, Abraão vs. as nações idólatras, Jacó vs. Esaú, Judá vs. seus irmãos.
+Tudo o que vem depois na Bíblia é, de certa forma, o desenvolvimento dessa promessa. Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo. James Hamilton[^hamilton-jr-2007] observa que Gênesis 3.15 opera não através de citações diretas nas Escrituras posteriores, mas através de **imagens recorrentes e pressupostos narrativos** — a divisão da humanidade em duas linhagens (a semente da mulher e a semente da serpente) que percorre todo o livro: Sete vs. Caim, Sem vs. Cão, Abraão vs. as nações idólatras, Jacó vs. Esaú, Judá vs. seus irmãos.
 
 A expressão "semente da mulher" é única na Escritura — normalmente a descendência é atribuída ao homem. Para a tradição cristã, isso aponta para o nascimento virginal de Cristo, que seria, literalmente, semente da mulher sem pai humano.
 
@@ -569,7 +569,7 @@ Gênesis foi escrito num mundo cheio de mitos sobre criação, dilúvio e deuses
 | **Ser humano** | Criado do sangue de um deus assassinado, para servir de escravo dos deuses | Criado à **imagem de Deus**, com dignidade e vocação |
 | **Matéria** | Pré-existente e divina | Criada por Deus, subordinada a Ele |
 
-Alexander Heidel concluiu que não há evidência de que Gênesis 1 dependa do *Enuma Elish*. Gênesis não é um mito reciclado — é uma **polêmica teológica deliberada** contra o politeísmo.
+Alexander Heidel[^heidel-1951] concluiu que não há evidência de que Gênesis 1 dependa do *Enuma Elish*. Gênesis não é um mito reciclado — é uma **polêmica teológica deliberada** contra o politeísmo.
 
 ### 5.2. Gênesis vs. Épico de Atrahasis
 
@@ -791,16 +791,25 @@ O livro que começa com Deus criando os céus e a terra termina com um **caixão
 
 ### Comentários acadêmicos evangélicos
 
-- **Victor P. Hamilton** — *The Book of Genesis* (NICOT, Eerdmans). Dois volumes (caps. 1–17 e 18–50). Excelente em linguística hebraica e teologia. Considerado o melhor comentário geral sobre Gênesis.
-- **Gordon J. Wenham** — *Genesis* (WBC, Word Books). Dois volumes (1–15 e 16–50). Forte em estrutura literária, quiasmos e dispositivos narrativos. Perspectiva evangélica conservadora.
-- **Kenneth A. Mathews** — *Genesis* (NAC, Broadman & Holman). Dois volumes (1–11:26 e 11:27–50:26). Evangélico, acessível, forte em contexto do ANE. Afirma inerrância e autoridade plena da Escritura.
-- **Bruce K. Waltke** — *Genesis: A Commentary* (Zondervan). Volume único. Ênfase no reino de Deus como paradigma central. Forte em teologia e fluxo narrativo.
+- **Victor P. Hamilton** — *The Book of Genesis, Chapters 1–17* e *Chapters 18–50*. NICOT. Grand Rapids: Eerdmans, 1990/1995. Dois volumes. Excelente em linguística hebraica e teologia. Considerado o melhor comentário geral sobre Gênesis.
+- **Gordon J. Wenham** — *Genesis 1–15* e *Genesis 16–50*. Word Biblical Commentary. Waco/Dallas: Word Books, 1987/1994. Dois volumes. Forte em estrutura literária, quiasmos e dispositivos narrativos. Perspectiva evangélica conservadora.
+- **Kenneth A. Mathews** — *Genesis 1–11:26* e *Genesis 11:27–50:26*. New American Commentary. Nashville: Broadman & Holman, 1996/2005. Dois volumes. Evangélico, acessível, forte em contexto do ANE. Afirma inerrância e autoridade plena da Escritura.
+- **Bruce K. Waltke** com Cathi J. Fredricks — *Genesis: A Commentary*. Grand Rapids: Zondervan, 2001. Volume único. Ênfase no reino de Deus como paradigma central. Forte em teologia e fluxo narrativo.
 
 ### Comentários clássicos e intermediários
 
-- **João Calvino** — *Commentaries on the Book of Genesis* (1554). Obra fundacional da exegese reformada. Calvino enfatiza o princípio da **acomodação** — Deus adapta Sua revelação à capacidade humana — e insiste que o propósito de Gênesis é revelar Deus como Criador, não ensinar filosofia natural. Disponível em edições modernas (Banner of Truth, Eerdmans).
-- **Derek Kidner** — *Genesis* (Tyndale OT Commentary, IVP). Conciso, evangélico e pastoral. Excelente como primeiro comentário para quem está começando. Disponível em português pela Editora Vida Nova (*Gênesis: Introdução e Comentário*).
-- **John D. Currid** — *Genesis* (EP Study Commentary). Reformado, com forte ênfase em paralelos com o ANE e foco cristocêntrico.
+- **João Calvino** — *Commentaries on the First Book of Moses Called Genesis* (1554). Disponível em edições modernas: Banner of Truth Trust, 1965; Eerdmans (Calvin's Commentaries). Obra fundacional da exegese reformada. Calvino enfatiza o princípio da **acomodação** e insiste que o propósito de Gênesis é revelar Deus como Criador, não ensinar filosofia natural.
+- **Derek Kidner** — *Genesis: An Introduction and Commentary*. Tyndale Old Testament Commentary. Downers Grove: IVP, 1967. Conciso, evangélico e pastoral. Disponível em português: *Gênesis: Introdução e Comentário*. São Paulo: Vida Nova.
+- **John D. Currid** — *Genesis*. EP Study Commentary. 2 vols. Darlington: Evangelical Press, 2003/2015. Reformado, forte em paralelos com o ANE e foco cristocêntrico.
+
+### Obras especializadas citadas
+
+- **Alexander Heidel** — *The Babylonian Genesis: The Story of the Creation*. 2ª ed. Chicago: University of Chicago Press, 1951. Comparação detalhada entre Gênesis e o *Enuma Elish*.
+- **P. J. Wiseman** — *Ancient Records and the Structure of Genesis: A Case for Literary Unity*. Ed. revisada por D. J. Wiseman. Nashville: Thomas Nelson, 1985. Defende a tese do colofão para as fórmulas *toledot*.
+- **R. K. Harrison** — *Introduction to the Old Testament*. Grand Rapids: Eerdmans, 1969. Adota e desenvolve a tese de Wiseman sobre os colofões.
+- **James M. Hamilton Jr.** — "The Seed of the Woman and the Blessing of Abraham". *Tyndale Bulletin* 58.2, 2007, p. 253–273. Análise das duas linhagens (semente da mulher vs. semente da serpente) ao longo de Gênesis.
+- **Jason S. DeRouchie** — "The Blessing-Commission, the Promised Offspring, and the Toledot Structure of Genesis". *Journal of the Evangelical Theological Society* 56.2, 2013, p. 219–247. Relação entre bênção, descendência e estrutura *toledot*.
+- **Ireneu de Lyon** — *Adversus Haereses* (Contra as Heresias), c. 180 d.C. Primeira identificação explícita de Gênesis 3.15 como profecia messiânica.
 
 ### Referências em português
 
@@ -809,7 +818,45 @@ O livro que começa com Deus criando os céus e a terra termina com um **caixão
 
 ---
 
-## 9. Índice dos capítulos
+## 9. Notas
+
+[^hamilton-1990]: HAMILTON, Victor P. *The Book of Genesis, Chapters 1–17*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1990.
+
+[^hamilton-1995]: HAMILTON, Victor P. *The Book of Genesis, Chapters 18–50*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1995.
+
+[^wenham-1987]: WENHAM, Gordon J. *Genesis 1–15*. Word Biblical Commentary. Waco: Word Books, 1987.
+
+[^wenham-1994]: WENHAM, Gordon J. *Genesis 16–50*. Word Biblical Commentary. Dallas: Word Books, 1994.
+
+[^mathews-1996]: MATHEWS, Kenneth A. *Genesis 1–11:26*. New American Commentary. Nashville: Broadman & Holman, 1996.
+
+[^mathews-2005]: MATHEWS, Kenneth A. *Genesis 11:27–50:26*. New American Commentary. Nashville: Broadman & Holman, 2005.
+
+[^waltke-2001]: WALTKE, Bruce K.; FREDRICKS, Cathi J. *Genesis: A Commentary*. Grand Rapids: Zondervan, 2001.
+
+[^calvino-1554]: CALVINO, João. *Commentaries on the First Book of Moses Called Genesis*. 1554. Reimpr. Edinburgh: Banner of Truth Trust, 1965.
+
+[^kidner-1967]: KIDNER, Derek. *Genesis: An Introduction and Commentary*. Tyndale Old Testament Commentary. Downers Grove: IVP, 1967. Ed. portuguesa: *Gênesis: Introdução e Comentário*. São Paulo: Vida Nova.
+
+[^currid-2003]: CURRID, John D. *Genesis*. EP Study Commentary. 2 vols. Darlington: Evangelical Press, 2003/2015.
+
+[^heidel-1951]: HEIDEL, Alexander. *The Babylonian Genesis: The Story of the Creation*. 2ª ed. Chicago: University of Chicago Press, 1951.
+
+[^wiseman-1985]: WISEMAN, P. J. *Ancient Records and the Structure of Genesis: A Case for Literary Unity*. Ed. rev. por D. J. Wiseman. Nashville: Thomas Nelson, 1985.
+
+[^harrison-1969]: HARRISON, R. K. *Introduction to the Old Testament*. Grand Rapids: Eerdmans, 1969.
+
+[^hamilton-jr-2007]: HAMILTON JR., James M. "The Seed of the Woman and the Blessing of Abraham". *Tyndale Bulletin* 58.2, 2007, p. 253–273.
+
+[^derouchie-2013]: DEROUCHIE, Jason S. "The Blessing-Commission, the Promised Offspring, and the Toledot Structure of Genesis". *Journal of the Evangelical Theological Society* 56.2, 2013, p. 219–247.
+
+[^ireneu-180]: IRENEU DE LYON. *Adversus Haereses* (Contra as Heresias). c. 180 d.C. Livro III, cap. 23; Livro V, cap. 21.
+
+[^wellhausen-1883]: WELLHAUSEN, Julius. *Prolegomena zur Geschichte Israels*. Berlim, 1883. (Ed. inglesa: *Prolegomena to the History of Israel*. Edinburgh: A. & C. Black, 1885.)
+
+---
+
+## 10. Índice dos capítulos
 
 *Análise capítulo a capítulo — cada capítulo segue o padrão: texto bíblico (NAA), termos hebraicos, resumo, exegese detalhada, conexões bíblicas e aplicações.*
 

@@ -1,7 +1,16 @@
 # Changelog – Projeto Gênesis Comentado
 
-Registro de mudanças estruturais, teológicas e de regras do projeto.  
+Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
+
+## 2025-03-05 – Versão 1.2.0
+
+[2025-03-05] – arquivo: docs/regras.md – seção: 7. Sistema de referências e citações
+tipo: adição de regra editorial
+confiança: 1.0
+nota: Criada seção 7 com padrão de citação por notas de rodapé Markdown (chave autor-ano), regras para quando referenciar, formato ABNT simplificado, e relação entre notas e bibliografia. Incrementada spec_version para 1.2.0.
+
+---
 
 [2025-12-20 14:00] – arquivo: genesis.md – seção: 2.5. Exegese dos dias da criação (1:3–31)  
 tipo: refinamento teológico e de estilo, pequenos ajustes de hebraico e tom doutrinário, sem mudança de posição bíblica adotada (seis dias literais).  

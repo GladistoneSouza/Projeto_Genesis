@@ -97,3 +97,38 @@ Toda resposta da IA deve come�ar com:
   - A IA pode incluir, após os Metadados, um parágrafo curto em estilo log, por exemplo:
     - "Summarized conversation history; searched for text and read documentation files; edited genesis.md+XXX-YYY; edited changelog.md+ZZ-ZZ."
   - Esse resumo é apenas técnico, para rastreabilidade, e **não substitui** o bloco de Metadados nem a explicação humana.
+
+## 7. Sistema de referências e citações
+
+O projeto adota um sistema de referências para garantir rigor acadêmico, mesmo sendo uma obra sem fins lucrativos.
+
+### 7.1. Formato de citação
+
+  - Usar **notas de rodapé Markdown** com chave autor-ano: `[^sobrenome-ano]`.
+  - Exemplo no texto: `...estrutura quiástica de 31 pontos[^wenham-1987].`
+  - Definição da nota no final do arquivo (seção "Notas"):
+    ```
+    [^wenham-1987]: WENHAM, Gordon J. *Genesis 1–15*. Word Biblical Commentary. Waco: Word Books, 1987.
+    ```
+  - As chaves são em minúsculas, sem acentos, separadas por hífen: `[^hamilton-1990]`, `[^calvino-1554]`.
+
+### 7.2. Tipos de conteúdo e quando referenciar
+
+  - **Texto bíblico:** Citar livro, capítulo e versículo entre parênteses. Versão padrão: NAA. Se outra versão for usada, indicar.
+  - **Dado acadêmico ou afirmação de terceiros:** Sempre com nota de rodapé indicando a fonte (autor, obra, página quando disponível).
+  - **Posição do autor do projeto:** Não requer nota de rodapé — é a voz pastoral/didática do comentário.
+  - **Informação histórica ou arqueológica:** Referenciar a fonte primária ou o comentarista que a apresenta.
+
+### 7.3. Seção de notas
+
+  - Cada arquivo de conteúdo (`genesis.md`, `genesis-capitulo-XX.md`) deve ter, antes da última seção (Índice), uma seção chamada **"Notas"** contendo todas as definições de notas de rodapé.
+  - As notas seguem o formato ABNT simplificado:
+    ```
+    SOBRENOME, Nome. *Título da obra*. Série/Coleção. Cidade: Editora, ano. p. XX (se aplicável).
+    ```
+
+### 7.4. Bibliografia
+
+  - A seção "Bibliografia recomendada" permanece como guia de leitura (descrição informal de cada obra).
+  - As notas de rodapé são a referência formal e precisa.
+  - Toda obra citada em nota de rodapé deve aparecer também na bibliografia.
