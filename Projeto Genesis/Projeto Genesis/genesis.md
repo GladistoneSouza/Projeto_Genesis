@@ -6,6 +6,33 @@
 
 ## 1. Origem e razão do livro
 
+### 1.1. O nome do livro
+
+O título "Gênesis" que usamos em português não vem do hebraico, mas da **Septuaginta (LXX)** — a tradução do Antigo Testamento do hebraico para o grego, feita em Alexandria (Egito) entre aproximadamente 250 e 150 a.C. A Septuaginta foi amplamente utilizada pelos judeus da diáspora, pelos primeiros cristãos e pelos próprios autores do Novo Testamento.
+
+A palavra grega **γένεσις** (*génesis*) significa **origem, nascimento, começo** — o que reflete bem o conteúdo do livro, que trata das origens de tudo: do universo, da humanidade, do pecado, das nações e de Israel.
+
+Na Bíblia hebraica, porém, o livro não recebe um nome temático. Seguindo o costume judaico de nomear cada livro pela sua primeira palavra, Gênesis se chama **בְּרֵאשִׁית** (*Bereshit*), que significa **"No princípio"** — exatamente as primeiras palavras do capítulo 1:
+
+> "No princípio, Deus criou os céus e a terra."
+> *(Gênesis 1.1)*
+
+### 1.2. Gênesis dentro do Pentateuco
+
+Gênesis é o primeiro de um conjunto de cinco livros chamado **Pentateuco** — do grego *penta* (cinco) + *teuchos* (rolo/livro). Na tradição judaica, esse conjunto é chamado de **Torá** (תּוֹרָה), palavra que significa não apenas "lei", mas **instrução, ensino divino** — a orientação de Deus para o seu povo.
+
+| Ordem | Livro | Tema geral |
+|-------|-------|------------|
+| 1 | **Gênesis** | Origem do mundo e do povo de Israel |
+| 2 | Êxodo | Libertação do Egito |
+| 3 | Levítico | Leis sacerdotais e santidade |
+| 4 | Números | Peregrinação no deserto |
+| 5 | Deuteronômio | Repetição e aplicação da Lei |
+
+Esses cinco livros formam uma **narrativa contínua**: onde Gênesis termina — com Israel estabelecido no Egito —, Êxodo começa, contando a escravização e a libertação. Levítico organiza o sistema de culto e santidade, Números narra a jornada de quarenta anos no deserto, e Deuteronômio registra os discursos finais de Moisés antes da entrada na Terra Prometida. É, na prática, **um único grande livro dividido em cinco partes**.
+
+### 1.3. Propósito do livro
+
 O livro de Gênesis foi escrito por Moisés durante os quarenta anos de peregrinação do povo de Israel no deserto, a caminho da Terra Prometida. Seu propósito central era relatar como tudo começou: por que existe algo em vez de nada, a origem do mundo, da vida e do ser humano.
 
 Gênesis também explica a origem do casamento e de sua natureza, a causa da maldição que pesa sobre a humanidade e sobre a terra, e como o pecado entrou na experiência humana por meio da desobediência — não a origem cósmica do mal em si, que permanece entre os mistérios de Deus, mas o caminho concreto pelo qual a morte, a violência e a injustiça passaram a fazer parte da história:
@@ -31,7 +58,7 @@ Por fim, Gênesis fornece a **base moral** que justifica a conquista da Terra Pr
 > "Na quarta geração, voltarão para cá; porque a medida da iniquidade dos amorreus ainda não se encheu."
 > *(Gênesis 15.16)*
 
-### 1.1. Propósito teológico e pastoral
+### 1.4. Propósito teológico e pastoral
 
 Do ponto de vista teológico e pastoral, Gênesis responde a perguntas fundamentais:
 - Quem é Deus?
@@ -42,7 +69,7 @@ Do ponto de vista teológico e pastoral, Gênesis responde a perguntas fundament
 
 Ele mostra que o mundo não surgiu ao acaso, nem de conflitos entre deuses, mas de um **Deus único, pessoal e soberano**, que cria com propósito e ordem. Ao mesmo tempo, explica por que esse mundo criado "muito bom" hoje é marcado por morte, violência e injustiça (Gn 3–4; 6–9; 11).
 
-### 1.2. Autoria mosaica: evidências e contexto
+### 1.5. Autoria mosaica: evidências e contexto
 
 A tradição judaica e cristã é unânime por milênios: Moisés é o autor do Pentateuco (Gênesis a Deuteronômio). Essa atribuição permaneceu inquestionada até o Iluminismo europeu.
 
@@ -57,21 +84,49 @@ Para quem confessa Cristo como Senhor, o testemunho dele sobre a autoria de Mois
 **Evidência interna do Pentateuco:**
 O texto refere-se a Moisés escrevendo em diversas passagens (Êx 17.14; 24.4–7; 34.27; Nm 33.2; Dt 31.9,22,24). Além disso, o autor demonstra familiaridade detalhada com nomes, costumes, geografia, plantas e animais do Egito — conhecimento difícil de obter sem experiência direta.
 
+**O problema do tempo histórico — inspiração para eventos pré-mosaicos:**
+Moisés nasceu séculos depois de muitos dos eventos narrados em Gênesis. Ele não testemunhou a criação, o dilúvio nem a vida dos patriarcas. Como, então, pôde escrever sobre eles? A tradição cristã reconhece três vias complementares:
+
+1. **Revelação divina direta** — Deus revelou a Moisés informações que ele não poderia obter por meios naturais, assim como revelou a Lei no Sinai.
+2. **Tradição oral** — Na cultura antiga, a memorização e a transmissão fiel de narrativas entre gerações era prática estabelecida e confiável.
+3. **Registros escritos anteriores** — Moisés pode ter utilizado documentos, genealogias e tábuas preservadas pelos patriarcas ao longo das gerações (a tese do colofão de Wiseman, discutida na seção 2.2, apoia essa possibilidade).
+
+Em todas essas vias, o princípio fundamental permanece: a Escritura é **inspiração divina**. O Espírito Santo guiou Moisés na composição do texto, garantindo que o registro fosse fiel e autoritativo, independentemente da fonte humana:
+
+> "Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça."
+> *(2 Timóteo 3.16)*
+
 **Fontes e composição:**
 A maioria dos eruditos evangélicos reconhece que Moisés provavelmente usou fontes e documentos anteriores preservados pelo povo de Israel. Kenneth Mathews (NAC) qualifica a autoria mosaica como "autor/compilador" que "acessou uma variedade de fontes antigas". Isso não diminui a autoria nem a inspiração — significa que Moisés, guiado pelo Espírito, organizou e redigiu material tanto recebido por revelação quanto preservado pela tradição oral e escrita.
 
-### 1.3. Datação e contexto histórico
+### 1.6. Datação e contexto histórico
 
 A composição de Gênesis situa-se entre aproximadamente **1446 e 1406 a.C.**, durante a peregrinação de Israel no deserto. Provavelmente foi escrito enquanto Israel acampava no Sinai, período em que Moisés também recebeu a Lei.
 
 **Contexto egípcio:**
 Gênesis foi escrito para um povo que acabara de sair de quatrocentos anos no Egito. Isso explica elementos polêmicos no texto — a narrativa da criação confronta diretamente a cosmologia egípcia: enquanto os egípcios divinizavam o sol (Rá), as águas e a terra, Gênesis subordina todos esses elementos à Palavra de um Deus único. As pragas do Êxodo já são, em certo sentido, antecipadas pela teologia de Gênesis 1: Yahweh é Senhor de tudo o que o Egito adorava como deus.
 
-### 1.4. Notas técnicas e históricas
+### 1.7. Notas técnicas e históricas
 
 - **Autoria e comunidade de leitura:** tradição mosaica com redação para **Israel em peregrinação** (contexto de Êxodo–Números). O alvo é formar o povo no **monoteísmo**, na **aliança** e na **identidade** distinta de Egito/Canaã.
 - **Gênero literário: narrativa histórica de alta estilização** (repetições, paralelos, fórmulas). Não é mito; é teologia em história.
 - **Propósito catequético:** Gênesis serve como **catecismo nacional**: quem é Deus, quem somos, qual a vocação, por que precisamos de redenção.
+
+### 1.8. Desafios de interpretação e humildade na leitura
+
+Gênesis apresenta desafios interpretativos significativos, especialmente nos capítulos 1–11, que cobrem eventos anteriores à existência da escrita e que Moisés não presenciou. Questões como a duração dos dias da criação, a extensão do dilúvio, o significado das genealogias e a linguagem figurativa do texto antigo são amplamente debatidas — e continuarão sendo.
+
+Diante desses desafios, a postura correta é de **humildade e reverência**. Dois extremos devem ser evitados:
+
+- **O simplismo** — ignorar os textos difíceis ou descartá-los como irrelevantes, perdendo a riqueza teológica que Deus depositou ali.
+- **A hiper-análise** — tentar explicar cada microdetalhe à luz do conhecimento moderno, forçando o texto a responder perguntas que ele não se propôs a responder.
+
+O caminho do estudo sério e fiel é intermediário: investigar ao máximo o que foi revelado, buscar o ensino espiritual e teológico que o texto oferece, e aceitar com paz que há mistérios que Deus reservou para si:
+
+> "As coisas encobertas pertencem ao SENHOR, nosso Deus, porém as reveladas nos pertencem, a nós e aos nossos filhos, para sempre, para que cumpramos todas as palavras desta lei."
+> *(Deuteronômio 29.29)*
+
+O propósito de Gênesis não é satisfazer todas as curiosidades científicas ou históricas, mas **revelar quem Deus é, quem somos e por que precisamos de redenção**. Quanto mais humilde a leitura, mais profundos os ensinamentos que se extraem dela.
 
 ---
 
@@ -100,6 +155,28 @@ O foco passa do cosmos para uma **família específica**, por meio da qual virá
 Esse arranjo literário mostra um movimento:
 
 > mundo inteiro → uma família → uma nação → o Messias → de volta ao mundo inteiro.
+
+**Panorama cronológico:** Gênesis cobre um período imenso — desde a criação do mundo até a morte de José no Egito, abrangendo mais de dois mil anos de narrativa bíblica:
+
+| Período | Evento principal | Referência |
+|---------|-----------------|------------|
+| Criação | Deus cria os céus e a terra | Gênesis 1–2 |
+| Queda | Entrada do pecado na experiência humana | Gênesis 3 |
+| Primeiras gerações | Caim e Abel, linhagens de Sete e Caim | Gênesis 4–5 |
+| Dilúvio | Juízo de Deus e preservação de Noé | Gênesis 6–9 |
+| Pós-dilúvio | Nações e Torre de Babel | Gênesis 10–11 |
+| Patriarcas | Abraão, Isaque, Jacó e José | Gênesis 12–50 |
+
+**Os patriarcas e suas porções no livro:** A história patriarcal ocupa quatro quintos do livro e se concentra em quatro personagens principais:
+
+| Patriarca | Capítulos | Destaque |
+|-----------|-----------|----------|
+| **Abraão** | 12–25 | Chamado, aliança, fé, sacrifício de Isaque |
+| **Isaque** | 21–26 | Filho da promessa, bênção transmitida |
+| **Jacó** | 25–36 | Luta, transformação, as doze tribos |
+| **José** | 37–50 | Rejeição, exaltação, preservação de Israel no Egito |
+
+De Jacó — que recebe de Deus o nome **Israel** — nascem os doze filhos que formarão as **doze tribos de Israel**, fundamento de toda a história nacional que se segue no restante do Antigo Testamento.
 
 **Uma proporção reveladora:** quatro quintos do livro (caps. 12–50) cobrem apenas quatro gerações (Abraão até José), enquanto um quinto (caps. 1–11) cobre vinte gerações (Adão até Abraão). Isso mostra que, para Gênesis, a eleição de uma família importa mais do que a panorâmica da história universal — o particular serve o universal (Victor Hamilton, NICOT).
 
@@ -197,102 +274,67 @@ Gênesis 1 é a visão panorâmica (o cosmos inteiro); Gênesis 2 é o zoom (o �
 
 ---
 
-## 3. Temas centrais e relevância para hoje
+## 3. Temas centrais e eixos teológicos
 
-Nos capítulos 1–11, encontramos temas que estão diretamente em debate no mundo atual:
+Gênesis responde às perguntas mais fundamentais da existência humana: Quem é Deus? De onde viemos? Por que o mundo é belo e, ao mesmo tempo, quebrado? Por que existe o mal? Qual é o plano de Deus para a humanidade? Sem as respostas plantadas aqui, o restante da Bíblia perde o alicerce.
 
-- **Cosmologia e ciência** — "Por que existe algo em vez de nada?" Gênesis responde: porque Deus criou.
-- **Antropologia** — origem do ser humano, sua dignidade e responsabilidade (imagem de Deus).
-- **Casamento e sexualidade** — origem, natureza e padrão do casamento: monogâmico, heterossexual, estabelecido na criação, não apenas como costume cultural.
-- **Moralidade e pecado** — de onde vem a violência e a injustiça num mundo criado bom? Não de um defeito na criação, mas da rebelião humana contra o Criador.
-- **Redenção** — por que precisamos do Evangelho e de um Redentor? Sem Gênesis 1–11, o restante da Bíblia perde o alicerce.
+Cinco temas funcionam como fios condutores que percorrem o livro de ponta a ponta e sustentam toda a teologia bíblica que vem depois. Ao mesmo tempo, esses eixos confrontam diretamente as cosmovisões dominantes tanto do mundo antigo quanto do contemporâneo.
 
-Gênesis também confronta diretamente:
-- o **naturalismo materialista** (matéria ou universo como eternos),
-- o **panteísmo** (Deus = natureza),
-- e o **relativismo moral** (negação de um padrão moral objetivo).
+### 3.1. Deus, o Criador e Senhor
 
-### 3.1. Gênesis 1–3 como antídoto às ideologias do nosso tempo
+A soberania da Palavra é o ponto de partida de Gênesis: Deus fala e acontece. Tudo o que existe depende dele; nada é autônomo. A distinção Criador–criatura é a primeira verdade do livro e a base de toda adoração correta.
 
-O texto de Gênesis 1–3 confronta, de modo direto, algumas das premissas mais difundidas da cultura contemporânea:
+Gênesis revela Deus em múltiplas dimensões:
 
-- O ser humano tem **identidade recebida de Deus**, não construída do zero pela cultura ou pela autopercepção.
-- O casamento e a sexualidade estão **fundados na ordem da criação**, não em consenso social ou convenção passageira.
-- Existe um **padrão moral objetivo** — Deus e sua lei — que não se curva ao espírito de época.
-- O problema do mundo **não é a estrutura criada, mas o pecado**. Nenhuma engenharia social substitui a redenção.
-- A ciência séria **não é inimiga da fé**, mas também não é o árbitro final da verdade sobre Deus — há realidades que só a revelação alcança.
+- **Deus criador** (Gn 1–2) — Ele cria tudo pela palavra, sem esforço, sem matéria prévia, sem conflito. A criação não é emanação divina nem produto de batalha cósmica — é ato livre e soberano.
+- **Deus soberano sobre a história** (Gn 11) — Ele governa o curso das nações. Quando a humanidade tenta construir seu próprio projeto à parte de Deus (Babel), Ele intervém e redireciona a história segundo o seu propósito.
+- **Deus que faz alianças** (Gn 12; 15; 17) — Ele não é um Deus distante. Escolhe Abraão, compromete-se com promessas formais e irrevogáveis, e entra em relacionamento pactual com o seu povo.
+- **Deus redentor** (Gn 3.15) — Já na primeira cena de juízo, surge a primeira promessa de salvação: a semente da mulher esmagará a cabeça da serpente. Deus não abandona sua criação — Ele a resgata.
 
-### 3.2. Ligações com o matrimônio e com o Novo Testamento
+Essa visão de Deus confronta diretamente o **naturalismo materialista** (que nega um Criador pessoal), o **panteísmo** (que identifica Deus com a natureza), o **politeísmo** (que fragmenta o divino em forças concorrentes) e o **deísmo** (que admite um criador mas nega sua atuação contínua na história).
 
-O próprio Senhor Jesus recorre a Gênesis 1–2 para definir o casamento:
+### 3.2. Bênção vs. maldição
 
-> "— Não tendes lido que o Criador, desde o princípio, os fez homem e mulher e que disse: 'Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, tornando-se os dois uma só carne'? Assim, eles já não são dois, mas uma só carne. Portanto, que ninguém separe o que Deus uniu."
-> *(Mateus 19.4–6)*
+Da bênção da criação à maldição da Queda, e da maldição de volta à promessa de restauração: esse é o pêndulo que move a narrativa de Gênesis. Deus abençoa, o pecado amaldiçoa, mas a graça reabre o caminho da bênção.
 
-Com isso, Ele:
-- confirma Gênesis como **história teológica real**, não apenas mito,
-- e fundamenta o casamento monogâmico e heterossexual na **ordem criada**, não em convenções culturais passageiras.
+Nas *toledot*, o tema é quantificável: nas três gerações maiores finais (Terá, Isaque, Jacó), a bênção é mencionada **81 vezes** e a maldição apenas **3** — sinal de que, em Abraão, a maré está virando. A história de Gênesis é um movimento que começa em bênção (Gn 1.28), mergulha na maldição (Gn 3.17), e gradualmente retorna à bênção por meio da promessa e da aliança (Gn 12.2–3).
 
-Paulo também volta à criação:
+### 3.3. A semente e a descendência
 
-Para falar da ordem na igreja:
+Desde o protoevangelho, a Bíblia rastreia uma linhagem: a semente da mulher → Sete → Noé → Sem → Abraão → Judá → Davi → Cristo. A primeira promessa da Escritura já aponta para essa descendência:
 
-> "Porque, primeiro, foi formado Adão, depois, Eva. E Adão não foi iludido, mas a mulher, sendo enganada, caiu em transgressão."
-> *(1 Timóteo 2.13–14)*
+> "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
+> *(Gênesis 3.15)*
 
-Para mostrar Cristo como o centro da criação:
+Esse versículo — chamado de *protoevangelium* ("primeiro evangelho") — é a semente de toda a história da redenção. Tudo o que vem depois na Bíblia é, de certa forma, o desenvolvimento dessa promessa. Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo.
 
-> "Pois nele foram criadas todas as coisas, nos céus e sobre a terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, sejam principados, sejam autoridades. Tudo foi criado por meio dele e para ele. Ele é antes de todas as coisas, e nele tudo subsiste."
-> *(Colossenses 1.16–17)*
+Paulo interpreta a descendência como referindo-se a **uma pessoa**:
 
-> "...nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas, pelo qual também fez o universo."
-> *(Hebreus 1.2)*
+> "Ora, as promessas foram feitas a Abraão e ao seu descendente. Não diz: 'E aos descendentes', como falando de muitos, porém como de um só: 'E ao seu descendente', que é Cristo."
+> *(Gálatas 3.16)*
 
-Paulo também revela o mistério do casamento como tipo de Cristo e da igreja:
+E a vitória prometida em Gênesis 3.15 ecoa até o final da Bíblia:
 
-> "Por esta razão, o homem deixará pai e mãe e se unirá à sua mulher, e os dois se tornarão uma só carne. Grande é este mistério, mas eu me refiro a Cristo e à igreja."
-> *(Efésios 5.31–32)*
+> "E o Deus da paz em breve esmagará Satanás debaixo dos pés de vocês."
+> *(Romanos 16.20)*
 
-Assim, Gênesis é:
-- fundamento da **teologia bíblica** (de criação a nova criação),
-- fundamento da **ética cristã** (vida, casamento, trabalho, dignidade humana),
-- e ponto de partida para entender a **história da salvação**.
+Gênesis planta a raiz dessa árvore genealógica da redenção.
 
----
+### 3.4. A terra
 
-## 4. Cinco eixos teológicos que atravessam o livro
+A terra aparece como lugar de domínio e mordomia (Gn 1), como solo amaldiçoado pelo pecado (Gn 3), e como promessa concreta a Abraão, reconfirmada a Isaque e a Jacó:
 
-Cinco temas funcionam como fios condutores que percorrem Gênesis de ponta a ponta e sustentam toda a teologia bíblica que vem depois:
+> "Habite nela, e estarei com você e o abençoarei. Porque a você e à sua descendência darei todas estas terras e confirmarei o juramento que fiz a Abraão, o seu pai."
+> *(Gênesis 26.3 — a Isaque)*
 
-- **Deus, o Criador e Senhor** — A soberania da Palavra é o ponto de partida: Deus fala e acontece. Tudo o que existe depende dele; nada é autônomo. A distinção Criador–criatura é a primeira verdade do livro e a base de toda adoração correta.
+> "Eu sou o SENHOR, o Deus de Abraão, seu pai, e o Deus de Isaque. A terra em que você está deitado, eu a darei a você e à sua descendência. A sua descendência será como o pó da terra; você se estenderá para o oeste e para o leste, para o norte e para o sul. Em você e na sua descendência serão benditas todas as famílias da terra."
+> *(Gênesis 28.13–14 — a Jacó)*
 
-- **Bênção vs. maldição** — Da bênção da criação à maldição da Queda, e da maldição de volta à promessa de restauração: esse é o pêndulo que move a narrativa. Deus abençoa, o pecado amaldiçoa, mas a graça reabre o caminho da bênção. Nas *toledot*, o tema é quantificável: nas três gerações maiores finais (Terá, Isaque, Jacó), a bênção é mencionada **81 vezes** e a maldição apenas **3** — sinal de que, em Abraão, a maré está virando.
+O tema da terra prometida nasce aqui e atravessa toda a Escritura até a nova terra de Apocalipse 21.
 
-- **A semente/descendência** — Desde o protoevangelho, a Bíblia rastreia uma linhagem: a semente da mulher → Sete → Noé → Sem → Abraão → Judá → Davi → Cristo. A primeira promessa da Escritura já aponta para essa descendência:
+### 3.5. A aliança
 
-  > "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
-  > *(Gênesis 3.15)*
-
-  Paulo interpreta essa promessa como referindo-se a **uma pessoa**:
-
-  > "Ora, as promessas foram feitas a Abraão e ao seu descendente. Não diz: 'E aos descendentes', como falando de muitos, porém como de um só: 'E ao seu descendente', que é Cristo."
-  > *(Gálatas 3.16)*
-
-  Gênesis planta a raiz dessa árvore genealógica da redenção.
-
-- **A terra** — A terra aparece como lugar de domínio e mordomia (Gn 1), como solo amaldiçoado pelo pecado (Gn 3), e como promessa concreta a Abraão, reconfirmada a Isaque e a Jacó:
-
-  > "Habite nela, e estarei com você e o abençoarei. Porque a você e à sua descendência darei todas estas terras e confirmarei o juramento que fiz a Abraão, o seu pai."
-  > *(Gênesis 26.3 — a Isaque)*
-
-  > "Eu sou o SENHOR, o Deus de Abraão, seu pai, e o Deus de Isaque. A terra em que você está deitado, eu a darei a você e à sua descendência. A sua descendência será como o pó da terra; você se estenderá para o oeste e para o leste, para o norte e para o sul. Em você e na sua descendência serão benditas todas as famílias da terra."
-  > *(Gênesis 28.13–14 — a Jacó)*
-
-  O tema da terra prometida nasce aqui e atravessa toda a Escritura até a nova terra de Apocalipse 21.
-
-- **A aliança** — De Noé a Abraão, Deus se compromete de modo formal e irrevogável. A aliança com Abraão é triádica: **descendência, terra, bênção às nações** — e é esse tripé que sustenta toda a história da salvação dali em diante.
-
-### 4.1. A progressão das alianças em Gênesis
+De Noé a Abraão, Deus se compromete de modo formal e irrevogável. A aliança com Abraão é triádica: **descendência, terra, bênção às nações** — e é esse tripé que sustenta toda a história da salvação dali em diante.
 
 Gênesis registra três alianças que formam a base de toda a teologia pactual da Escritura:
 
@@ -318,23 +360,65 @@ Em Gênesis 15, a aliança é formalizada. Abrão é posto em sono profundo e so
 > "Levando‑o para fora da tenda, disse‑lhe: — Olhe para o céu e conte as estrelas, se é que pode contá‑las. Então, prosseguiu: — Assim será a sua descendência. Abrão creu no SENHOR, e o SENHOR lhe atribuiu isso como justiça."
 > *(Gênesis 15.5–6)*
 
-O NT lê a promessa a Abraão como o Evangelho antes do Evangelho:
+O Novo Testamento lê a promessa a Abraão como o Evangelho antes do Evangelho:
 
 > "Ora, tendo a Escritura previsto que Deus justificaria pela fé os gentios, anunciou primeiro o evangelho a Abraão: 'Em você serão benditas todas as nações.'"
 > *(Gálatas 3.8)*
 
+A justificação pela fé não começa no NT — começa em Gênesis 15. Abraão creu no SENHOR, e isso lhe foi imputado como justiça. Paulo e Tiago voltam a esse versículo repetidamente (Rm 4.3; Gl 3.6; Tg 2.23) porque ele estabelece o princípio que governa toda a soteriologia bíblica.
+
+### 3.6. Casamento e sexualidade na ordem da criação
+
+Gênesis não apenas narra a criação do homem e da mulher — ele **fundamenta o casamento na ordem criada**, antes da Queda, antes da Lei, antes de qualquer cultura humana. Isso significa que o padrão do casamento não é convenção social passageira, mas ordenança do Criador.
+
+O próprio Senhor Jesus recorre a Gênesis 1–2 para definir o casamento:
+
+> "— Não tendes lido que o Criador, desde o princípio, os fez homem e mulher e que disse: 'Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, tornando-se os dois uma só carne'? Assim, eles já não são dois, mas uma só carne. Portanto, que ninguém separe o que Deus uniu."
+> *(Mateus 19.4–6)*
+
+Com isso, Ele confirma Gênesis como **história teológica real** e fundamenta o casamento monogâmico e heterossexual na **ordem criada**.
+
+Paulo volta à criação para falar da ordem na comunidade de fé:
+
+> "Porque, primeiro, foi formado Adão, depois, Eva. E Adão não foi iludido, mas a mulher, sendo enganada, caiu em transgressão."
+> *(1 Timóteo 2.13–14)*
+
+E revela que o mistério do casamento aponta para algo maior:
+
+> "Por esta razão, o homem deixará pai e mãe e se unirá à sua mulher, e os dois se tornarão uma só carne. Grande é este mistério, mas eu me refiro a Cristo e à igreja."
+> *(Efésios 5.31–32)*
+
+O casamento humano, instituído em Gênesis 2, é **tipo e sombra** da união entre Cristo e sua Igreja. Essa conexão revela que o casamento não é apenas uma instituição social, mas uma realidade teológica com significado eterno.
+
+### 3.7. Gênesis como antídoto às ideologias contemporâneas
+
+O texto de Gênesis 1–3 confronta, de modo direto, algumas das premissas mais difundidas da cultura contemporânea:
+
+- O ser humano tem **identidade recebida de Deus** — criado à imagem divina, homem e mulher —, não construída do zero pela cultura ou pela autopercepção.
+- O casamento e a sexualidade estão **fundados na ordem da criação**, não em consenso social ou convenção passageira.
+- Existe um **padrão moral objetivo** — Deus e sua lei — que não se curva ao espírito de época.
+- O problema do mundo **não é a estrutura criada, mas o pecado**. Nenhuma engenharia social substitui a redenção.
+- A ciência séria **não é inimiga da fé**, mas também não é o árbitro final da verdade sobre Deus — há realidades que só a revelação alcança.
+
+Gênesis é, portanto:
+- fundamento da **teologia bíblica** (de criação a nova criação),
+- fundamento da **ética cristã** (vida, casamento, trabalho, dignidade humana),
+- e ponto de partida para entender a **história da salvação**.
+
 ---
 
-## 5. A bondade original da criação, o mandato cultural e a intrusão do mal
+## 4. Da bondade original à necessidade de redenção
 
-### 5.1. A criação "muito boa"
+### 4.1. A criação "muito boa"
 
 Gênesis ensina que o mundo foi criado **"muito bom"**. Não havia dor, morte, sofrimento ou catástrofe na experiência humana original. A criação saiu das mãos de Deus completa, ordenada e abençoada:
 
 > "Deus viu tudo o que havia feito, e eis que era muito bom. Houve tarde e manhã, o sexto dia."
 > *(Gênesis 1.31)*
 
-### 5.2. Mandato cultural: a vocação humana na criação
+Essa afirmação é teologicamente decisiva. Se a criação é "muito boa", então o mal não é parte da natureza das coisas — é intruso. A morte, a violência e o sofrimento não pertencem ao projeto original de Deus. Qualquer cosmovisão que trate o mal como "natural" ou "inevitável" contradiz a revelação bíblica desde a sua primeira página.
+
+### 4.2. O mandato cultural: a vocação humana na criação
 
 Antes da Queda, Deus deu ao ser humano uma vocação concreta. Isso é o que a tradição teológica chama de **mandato cultural** — o chamado para trabalhar, criar, governar e desenvolver a criação como representantes de Deus:
 
@@ -344,11 +428,17 @@ Antes da Queda, Deus deu ao ser humano uma vocação concreta. Isso é o que a t
 > "O SENHOR Deus tomou o homem e o colocou no jardim do Éden para o cultivar e o guardar."
 > *(Gênesis 2.15)*
 
-O mandato cultural abrange tudo o que é humano: trabalho, família, arte, ciência, economia, política, educação. Nada disso é "secular" ou alheio a Deus — tudo nasce da vocação original. Quando o ser humano trabalha, cultiva, cria e governa com justiça, ele reflete a imagem do Criador.
+O mandato cultural abrange a totalidade da vida humana. Não é apenas sobre agricultura ou reprodução — é sobre **toda atividade que reflete a imagem do Criador**:
+
+- **Trabalho** — Deus trabalha na criação; o ser humano trabalha como reflexo dele. O trabalho não é maldição (a maldição é o sofrimento *no* trabalho, Gn 3.17–19); é vocação original.
+- **Família** — "Sejam fecundos, multipliquem-se" — a família é a primeira instituição humana, estabelecida antes de qualquer governo, lei ou templo.
+- **Ciência e conhecimento** — Adão nomeia os animais (Gn 2.19–20), exercendo capacidade de observação, classificação e linguagem — fundamentos de toda investigação do mundo criado.
+- **Arte e cultura** — Criar, cultivar, dar forma ao mundo — atividades inerentemente humanas e inerentemente boas quando exercidas para a glória de Deus.
+- **Governo e mordomia** — "Tenham domínio" não é licença para exploração, mas chamado à **mordomia responsável**. O ser humano governa a criação como vice-regente de Deus, não como dono autônomo.
 
 Esse mandato **não foi anulado pela Queda** — foi distorcido. O pecado corrompeu a maneira como o ser humano exerce domínio (opressão em vez de mordomia, exploração em vez de cultivo), mas a vocação permanece. Em Cristo, o mandato cultural é redimido e reorientado para a glória de Deus.
 
-### 5.3. A intrusão do mal
+### 4.3. A intrusão do mal
 
 O mal não é parte da estrutura criada — é **intruso**. A Queda (Gn 3) não revela um defeito de fabricação, mas uma rebelião contra o Criador. A partir dali, morte, violência e injustiça entram na experiência humana como consequência do pecado, não como parte do projeto original.
 
@@ -356,37 +446,40 @@ Isso fundamenta duas verdades centrais:
 - O cristão **rejeita ideologias que normalizam o mal** (violência, imoralidade, desumanização) como se fossem "naturais" ou inevitáveis. O mal tem causa — o pecado — e tem solução — a redenção.
 - A **nova criação em Cristo** (Ap 21–22) não é uma invenção, mas uma **restauração e superação da bondade original**. O que Deus criou bom, Ele recriará perfeito.
 
+### 4.4. O ritmo teológico de Gênesis 1–11: queda, juízo e graça
+
+A partir da Queda, Gênesis 1–11 repete um padrão claro e constante: **pecado → juízo → preservação/promessa**. Deus nunca para no juízo — sempre há uma linha de graça que sobrevive e avança.
+
+**Ciclo 1 — A Queda no Éden (Gn 3)**
+
+O pecado: Adão e Eva desobedecem ao mandamento de Deus, cedendo à tentação da serpente. O juízo: expulsão do jardim, maldição sobre a serpente, dor no parto, sofrimento no trabalho, morte. A graça: antes mesmo de executar o juízo, Deus promete a semente da mulher que esmagará a cabeça da serpente (Gn 3.15) — e Ele mesmo veste Adão e Eva com peles de animais (Gn 3.21), o primeiro sacrifício implícito na Escritura.
+
+**Ciclo 2 — Caim e Abel (Gn 4)**
+
+O pecado: Caim, com inveja, mata seu irmão Abel — o primeiro homicídio. O juízo: Caim é amaldiçoado, exilado, errante sobre a terra. A graça: Deus põe um sinal em Caim para protegê-lo da vingança, e levanta a linhagem de Sete como nova linha da promessa:
+
+> "Adão tornou a ter relações com sua mulher. E ela deu à luz um filho, a quem pôs o nome de Sete, dizendo: — Deus me concedeu outro descendente em lugar de Abel, que Caim matou. A Sete nasceu-lhe também um filho, ao qual pôs o nome de Enos. Foi nesse tempo que se começou a invocar o nome do SENHOR."
+> *(Gênesis 4.25–26)*
+
+A linhagem de Sete substitui a de Abel e preserva a semente da promessa. Enquanto a linhagem de Caim se deteriora em violência (Lameque, Gn 4.23–24), a linhagem de Sete invoca o nome do SENHOR.
+
+**Ciclo 3 — O dilúvio (Gn 6–9)**
+
+O pecado: a maldade humana se multiplica a ponto de Deus lamentar ter feito o homem; "toda a inclinação do pensamento do seu coração era sempre e somente para o mal" (Gn 6.5). O juízo: o dilúvio destrói toda a vida na terra. A graça: "Noé, porém, achou graça diante do SENHOR" (Gn 6.8). Uma família é preservada, a criação é renovada, e Deus faz uma aliança com o arco-íris como sinal perpétuo de que nunca mais destruirá a terra com águas.
+
+**Ciclo 4 — A Torre de Babel (Gn 11)**
+
+O pecado: a humanidade se une em soberba para "construir uma torre cujo topo chegue até aos céus" e "fazer um nome para nós mesmos" — um projeto de autonomia e autoglorificação à parte de Deus. O juízo: Deus confunde as línguas e dispersa os povos sobre a face da terra. A graça: imediatamente após Babel, Gênesis apresenta a genealogia de Sem (Gn 11.10–26) que desemboca em **Abraão** — e com Abraão vem a promessa de que "em você serão benditas todas as famílias da terra" (Gn 12.3). A dispersão de Babel encontrará sua reversão em Pentecostes (At 2), quando o Espírito Santo reúne pessoas de todas as línguas sob o evangelho.
+
+Esse ritmo faz de Gênesis 1–11 a **plataforma do plano de salvação**: mostra por que a humanidade precisa de redenção e como Deus já começa a providenciá-la antes mesmo de chamar Abraão. Em cada ciclo, o pecado se agrava, o juízo vem, mas a graça de Deus preserva uma linha de promessa que nunca se rompe.
+
 ---
 
-## 6. O ritmo teológico de Gênesis 1–11: queda, juízo e graça
-
-Em Gênesis 1–11, repete-se um padrão claro: **pecado → juízo → preservação/promessa**. Deus nunca para no juízo — sempre há uma linha de graça:
-
-- **Queda no Éden** (Gn 3) → juízo (expulsão, maldição) → **promessa**: a semente da mulher esmagará a cabeça da serpente:
-
-  > "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
-  > *(Gênesis 3.15)*
-
-- **Caim e Abel** (Gn 4) → juízo (Caim amaldiçoado, exilado) → **preservação**: Deus põe um sinal em Caim para protegê-lo, e levanta a linhagem de Sete como linha da promessa:
-
-  > "Adão tornou a ter relações com sua mulher. E ela deu à luz um filho, a quem pôs o nome de Sete, dizendo: — Deus me concedeu outro descendente em lugar de Abel, que Caim matou. A Sete nasceu-lhe também um filho, ao qual pôs o nome de Enos. Foi nesse tempo que se começou a invocar o nome do SENHOR."
-  > *(Gênesis 4.25–26)*
-
-- **Violência antes do dilúvio** (Gn 4–6) → juízo (o dilúvio) → **preservação**: Noé e sua família são salvos; aliança com arco-íris (Gn 8–9).
-
-- **Soberba em Babel** (Gn 11) → juízo (confusão de línguas, dispersão) → **preparação**: a chamada de Abraão (Gn 12), por meio de quem todas as famílias da terra serão abençoadas.
-
-> "Em cada ciclo, vemos o mesmo padrão: o pecado se agrava, Deus julga, mas preserva uma linha de promessa."
-
-Esse ritmo faz de Gênesis 1–11 a **plataforma do plano de salvação**: mostra por que a humanidade precisa de redenção e como Deus já começa a providenciá-la antes mesmo de chamar Abraão.
-
----
-
-## 7. Gênesis e o mundo antigo (ANE)
+## 5. Gênesis e o mundo antigo (ANE)
 
 Gênesis foi escrito num mundo cheio de mitos sobre criação, dilúvio e deuses. Não os ignora — **confronta-os**, usando linguagem e temas familiares ao seu público para afirmar verdades radicalmente diferentes.
 
-### 7.1. Gênesis vs. *Enuma Elish* (mito babilônico da criação)
+### 5.1. Gênesis vs. *Enuma Elish* (mito babilônico da criação)
 
 **Semelhanças superficiais:** ambos descrevem um estado primordial de águas e caos antes da criação; a palavra hebraica *tehom* ("abismo") está linguisticamente relacionada à deusa babilônica *Tiamat* (que personifica o mar); ambos apresentam a criação do ser humano no sexto momento, e a narrativa se organiza em sete unidades (sete dias em Gênesis, sete tabletes no *Enuma Elish*).
 
@@ -401,7 +494,7 @@ Gênesis foi escrito num mundo cheio de mitos sobre criação, dilúvio e deuses
 
 Alexander Heidel concluiu que não há evidência de que Gênesis 1 dependa do *Enuma Elish*. Gênesis não é um mito reciclado — é uma **polêmica teológica deliberada** contra o politeísmo.
 
-### 7.2. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)
+### 5.2. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)
 
 **Paralelos notáveis:** destruição da humanidade por decisão divina, seleção de um indivíduo para construir uma arca, inclusão de animais, uso de pássaros para testar as águas, sacrifício após o dilúvio, promessa de não destruir novamente.
 
@@ -410,7 +503,7 @@ Alexander Heidel concluiu que não há evidência de que Gênesis 1 dependa do *
 - Noé é salvo por ser **justo e obediente**; Utanapishtim é salvo por esperteza — obteve informação privilegiada de um deus.
 - O Deus de Gênesis é consistente, justo e misericordioso. Os deuses de Gilgamesh se arrependem impulsivamente e se acovardam diante do dilúvio que eles mesmos causaram.
 
-### 7.3. Gênesis vs. cosmogonias egípcias
+### 5.3. Gênesis vs. cosmogonias egípcias
 
 Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. As três cosmogonias principais (Heliópolis, Mênfis, Hermópolis) compartilham elementos com Gênesis 1: oceano primordial, emergência da luz, separação de elementos. Mas os **distintivos** são decisivos:
 
@@ -419,7 +512,7 @@ Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. A
 - **Luminares como servos:** enquanto o Egito adorava Rá (o sol) como divindade suprema, Gênesis nem sequer dá nome ao sol e à lua — chama-os de "luminar maior" e "luminar menor", rebaixando-os a meros **marcadores de tempo**.
 - **Sequência ordenada de seis dias + descanso:** inteiramente ausente nas cosmologias do ANE e do Egito.
 
-### 7.4. Leituras debatidas (nota honesta de método)
+### 5.4. Leituras debatidas (nota honesta de método)
 
 - **Gn 1:1–3:** leitura clássica **independente** ("No princípio, Deus criou…") vs. leituras que tomam 1:1 como **título** e 1:2–3 como o começo da ação; adotamos a leitura **clássica**, coerente com:
 
@@ -430,35 +523,35 @@ Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. A
 
 ---
 
-## 8. Gênesis e o restante da Bíblia (fio canônico)
+## 6. Gênesis e o restante da Bíblia (fio canônico)
 
-Gênesis não é um livro isolado — é o **alicerce sobre o qual toda a Escritura se constrói**. Os temas plantados aqui são colhidos ao longo de toda a Bíblia.
+Gênesis não é um livro isolado — é o **alicerce sobre o qual toda a Escritura se constrói**. Os temas plantados aqui são colhidos ao longo de toda a Bíblia. Esta seção traça as principais conexões entre Gênesis e o Novo Testamento, destacando como os autores do NT leem, interpretam e desenvolvem o que foi plantado neste primeiro livro.
 
-### 8.1. O protoevangelho (Gn 3.15)
+### 6.1. Cristo como Verbo criador e centro da criação
 
-A primeira promessa da Escritura: a **semente da mulher** esmagará a cabeça da serpente. É chamada de *protoevangelium* — o "primeiro evangelho". Tudo o mais na Bíblia flui deste versículo:
+O prólogo de João é uma releitura cristológica de Gênesis 1. "No princípio" (*en archē*) ecoa diretamente o "No princípio" (*bereshit*) de Gênesis 1.1, mas agora revela que o agente da criação é o Verbo — Cristo:
 
-> "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
-> *(Gênesis 3.15)*
+> "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por meio dele, e, sem ele, nada do que foi feito se fez."
+> *(João 1.1–3)*
 
-O NT identifica essa semente como Cristo:
+> "E o Verbo se fez carne e habitou entre nós, cheio de graça e de verdade, e vimos a sua glória, glória como do unigênito do Pai."
+> *(João 1.14)*
 
-> "Ora, as promessas foram feitas a Abraão e ao seu descendente. Não diz: 'E aos descendentes', como falando de muitos, porém como de um só: 'E ao seu descendente', que é Cristo."
-> *(Gálatas 3.16)*
+O grego *eskēnōsen* ("habitou/tabernaculou") em João 1.14 evoca diretamente o tabernáculo do AT, onde a glória de Deus habitava entre Israel (Êx 25.8). Assim como Deus habitou no tabernáculo, agora habita plenamente em Cristo — o templo vivo de Deus entre os homens.
 
-E a vitória prometida em Gênesis 3.15 ecoa até o final:
+Paulo desenvolve o mesmo tema cristológico:
 
-> "E o Deus da paz em breve esmagará Satanás debaixo dos pés de vocês."
-> *(Romanos 16.20)*
+> "Pois nele foram criadas todas as coisas, nos céus e sobre a terra, as visíveis e as invisíveis, sejam tronos, sejam soberanias, sejam principados, sejam autoridades. Tudo foi criado por meio dele e para ele. Ele é antes de todas as coisas, e nele tudo subsiste."
+> *(Colossenses 1.16–17)*
 
-"Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo."
+> "...nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas, pelo qual também fez o universo."
+> *(Hebreus 1.2)*
 
-### 8.2. Adão e Cristo (Rm 5.12–21; 1Co 15.22,45)
+O "Deus disse" de Gênesis 1 ganha nome e face no NT: é Cristo, o Verbo eterno, por quem e para quem tudo foi criado.
 
-Paulo lê Adão como **cabeça federal** da humanidade caída e Cristo como o **"último Adão"**, cabeça da nova humanidade:
+### 6.2. Adão e Cristo: o primeiro e o último
 
-> "Portanto, assim como por um só homem o pecado entrou no mundo, e pelo pecado, a morte, e assim a morte passou a todos os seres humanos, porque todos pecaram."
-> *(Romanos 5.12)*
+Paulo lê Adão como **cabeça federal** da humanidade caída e Cristo como o **"último Adão"**, cabeça da nova humanidade. A tipologia é de contraste deliberado — onde Adão trouxe pecado e morte, Cristo trouxe justificação e vida:
 
 > "Porque, assim como, em Adão, todos morrem, assim também todos serão vivificados em Cristo."
 > *(1 Coríntios 15.22)*
@@ -466,34 +559,38 @@ Paulo lê Adão como **cabeça federal** da humanidade caída e Cristo como o **
 > "Pois assim está escrito: 'O primeiro homem, Adão, foi feito alma vivente.' O último Adão, porém, é espírito vivificante."
 > *(1 Coríntios 15.45)*
 
-Onde Adão trouxe pecado e morte, Cristo trouxe justificação e vida. A tipologia é de contraste deliberado. Sem Gênesis 3, Romanos 5 não faz sentido.
+Sem Gênesis 3, Romanos 5 não faz sentido. A queda de Adão (seção 3.5) é o pano de fundo necessário para entender a obra de Cristo. A entrada do pecado por um homem exige a redenção por outro — e esse outro é Cristo.
 
-### 8.3. Abraão e o Evangelho (Gn 12.1–3; Gl 3.8)
+### 6.3. José como tipo de Cristo
 
-A promessa a Abraão — "em você serão benditas todas as famílias da terra" — é o que Paulo chama de **Evangelho anunciado de antemão**:
+José é a tipologia cristológica mais rica de Gênesis — um retrato detalhado de Cristo séculos antes de sua vinda. Os paralelos são extensos e deliberados:
 
-> "Ora, tendo a Escritura previsto que Deus justificaria pela fé os gentios, anunciou primeiro o evangelho a Abraão: 'Em você serão benditas todas as nações.'"
-> *(Gálatas 3.8)*
+| José | Cristo |
+|------|--------|
+| Amado pelo pai de modo especial (Gn 37.3) | O Filho amado do Pai (Mt 3.17) |
+| Enviado pelo pai aos irmãos (Gn 37.13–14) | Enviado pelo Pai ao mundo (Jo 3.16) |
+| Rejeitado e odiado pelos irmãos (Gn 37.4,8) | Rejeitado pelos seus (Jo 1.11) |
+| Vendido por prata (Gn 37.28) | Vendido por prata (Mt 26.15) |
+| Despido de sua túnica (Gn 37.23) | Despido e sortearam suas vestes (Mt 27.28,35) |
+| Falsamente acusado (Gn 39.14–18) | Falsamente acusado (Mt 26.59–60) |
+| Preso entre dois criminosos — um "restaurado", outro "condenado" (Gn 40.1–22) | Crucificado entre dois criminosos — um salvo, outro não (Lc 23.39–43) |
+| Exaltado à mão direita do poder (Gn 41.40–43) | Exaltado à direita de Deus (At 2.33) |
+| Dá pão ao mundo faminto (Gn 41.56–57) | Pão da vida para o mundo (Jo 6.35) |
+| Perdoa os que o rejeitaram (Gn 45.1–15) | "Pai, perdoa-lhes" (Lc 23.34) |
+| Salva aqueles mesmos que o venderam (Gn 50.20) | Salva aqueles mesmos que o crucificaram (At 2.36–41) |
 
-A justificação pela fé não começa no NT; começa em Gênesis 15:
-
-> "Abrão creu no SENHOR, e o SENHOR lhe atribuiu isso como justiça."
-> *(Gênesis 15.6)*
-
-### 8.4. José como tipo de Cristo
-
-Rejeitado pelos irmãos, vendido, humilhado — e depois exaltado para salvar aqueles mesmos que o rejeitaram. José diz:
+A declaração de José resume o princípio teológico central da providência divina e prefigura a cruz:
 
 > "Vocês, na verdade, planejaram o mal contra mim; porém Deus o tornou em bem, para fazer, como estão vendo agora, que se conserve a vida de muita gente."
 > *(Gênesis 50.20)*
 
-O paralelo com a cruz é inescapável: o mal humano não frustra o bem soberano de Deus.
+O mal humano não frustra o bem soberano de Deus — na verdade, Deus o utiliza para cumprir Seus propósitos de salvação. Na cruz, o maior mal da história (a execução do Filho de Deus) tornou-se o maior bem (a redenção da humanidade).
 
-### 8.5. Jesus e Gênesis
+### 6.4. Jesus e Gênesis nos Evangelhos
 
-Jesus referencia Gênesis repetidamente nos Evangelhos:
+Jesus referencia Gênesis repetidamente nos Evangelhos, tratando-o como **história real com implicações doutrinárias diretas** — não como mito ou alegoria:
 
-- Cita Gn 1.27 e 2.24 para definir o casamento (Mt 19.4–6).
+- Cita Gn 1.27 e 2.24 para definir o casamento (Mt 19.4–6; ver seção 3.6).
 
 - Compara os dias finais aos "dias de Noé":
 
@@ -507,9 +604,9 @@ Jesus referencia Gênesis repetidamente nos Evangelhos:
 
 - Afirma que Moisés "escreveu a meu respeito" (Jo 5.46).
 
-Jesus trata Gênesis como **história real com implicações doutrinárias diretas** — não como mito ou alegoria.
+O uso que Jesus faz de Gênesis confirma a historicidade das narrativas e sua relevância permanente para a fé e a conduta cristã.
 
-### 8.6. Hebreus: Melquisedeque e o capítulo da fé
+### 6.5. Hebreus: Melquisedeque e o capítulo da fé
 
 **Melquisedeque (Hb 7):** A figura enigmática de Gênesis 14 — rei de Salém, sacerdote do Deus Altíssimo — é interpretada em Hebreus como tipo do sacerdócio eterno de Cristo:
 
@@ -532,7 +629,7 @@ Sara também é destacada:
 > "Pela fé, também, a própria Sara, apesar de não poder ter filhos e já ser idosa, recebeu poder para ser mãe, pois considerou fiel aquele que lhe havia feito a promessa. Por isso, também de um só homem, praticamente morto, saiu uma posteridade tão numerosa como as estrelas do céu e inumerável como a areia que está na praia do mar."
 > *(Hebreus 11.11–12)*
 
-### 8.7. Criação → Nova Criação: o arco que abre e fecha a Bíblia
+### 6.6. Criação → Nova Criação: o arco que abre e fecha a Bíblia
 
 O arco que começa em Gênesis 1–2 só se completa em Apocalipse 21–22. A Bíblia inteira é a história do que acontece entre esses dois jardins — o Éden e a Nova Jerusalém:
 
@@ -551,7 +648,7 @@ O paraíso perdido em Gênesis é o paraíso **restaurado e superado** em Apocal
 
 ---
 
-## 9. Referências rápidas para catequese e ensino
+## 7. Referências rápidas para catequese e ensino
 
 - **Criação:** Gn 1:1; 1:26–28; 2:7; Hb 11:3; Jo 1:1–3; Cl 1:16–17.
 - **Mandato cultural:** Gn 1:28; 2:15.
@@ -567,7 +664,7 @@ O paraíso perdido em Gênesis é o paraíso **restaurado e superado** em Apocal
 
 ---
 
-## 10. Bibliografia recomendada
+## 8. Bibliografia recomendada
 
 ### Comentários acadêmicos evangélicos
 
@@ -582,7 +679,7 @@ O paraíso perdido em Gênesis é o paraíso **restaurado e superado** em Apocal
 
 ---
 
-## 11. Índice dos capítulos
+## 9. Índice dos capítulos
 
 *Análise capítulo a capítulo — cada capítulo segue o padrão: texto bíblico (NAA), termos hebraicos, resumo, exegese detalhada, conexões bíblicas e aplicações.*
 
