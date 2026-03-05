@@ -99,12 +99,34 @@ Em todas essas vias, o princípio fundamental permanece: a Escritura é **inspir
 **Fontes e composição:**
 A maioria dos eruditos evangélicos reconhece que Moisés provavelmente usou fontes e documentos anteriores preservados pelo povo de Israel. Kenneth Mathews (NAC) qualifica a autoria mosaica como "autor/compilador" que "acessou uma variedade de fontes antigas". Isso não diminui a autoria nem a inspiração — significa que Moisés, guiado pelo Espírito, organizou e redigiu material tanto recebido por revelação quanto preservado pela tradição oral e escrita.
 
+**A hipótese documentária (JEDP) e a resposta evangélica:**
+A partir do século XIX, especialmente com Julius Wellhausen (1883), ganhou força a chamada **hipótese documentária**, que propõe que o Pentateuco foi compilado a partir de quatro fontes independentes: **J** (Javista, que usa o nome YHWH), **E** (Eloísta, que usa Elohim), **D** (Deuteronomista) e **P** (Sacerdotal, do alemão *Priestercodex*). Essa teoria dominou a academia por quase todo o século XX.
+
+A tradição evangélica e reformada respondeu com objeções consistentes:
+
+1. **O testemunho de Cristo** — Jesus, Paulo e Lucas atribuem os escritos a Moisés (Jo 5.46–47; Lc 24.27,44; Rm 10.5). Se a hipótese JEDP fosse verdadeira, Jesus estaria em erro sobre a origem de sua própria Escritura — algo incompatível com a confissão de que Ele é o Senhor.
+2. **Fragilidade metodológica** — A divisão em fontes baseia-se em critérios como o uso de nomes divinos diferentes e supostas duplicações, mas esses fenômenos têm explicações literárias e teológicas adequadas. Autores antigos usavam nomes divinos diferentes conforme o contexto teológico, não porque fossem autores diferentes.
+3. **Ausência de paralelos** — Não existe evidência de nenhum processo editorial de "cortar e colar" documentos como o proposto pela hipótese em qualquer literatura antiga do Oriente Próximo.
+4. **Fragmentação contemporânea** — A própria academia secular questiona hoje a hipótese das quatro fontes como excessivamente simplista. Estudiosos como R. N. Whybray, John Van Seters e Rolf Rendtorff propuseram modelos alternativos, e o consenso acadêmico está longe de ser monolítico.
+
+Isso não significa que Moisés não usou fontes — como visto acima, a tradição evangélica reconhece isso. A diferença é que o modelo evangélico vê Moisés como **autor principal sob inspiração divina**, não como um editor tardio costurando tradições contraditórias.
+
 ### 1.6. Datação e contexto histórico
 
 A composição de Gênesis situa-se entre aproximadamente **1446 e 1406 a.C.**, durante a peregrinação de Israel no deserto. Provavelmente foi escrito enquanto Israel acampava no Sinai, período em que Moisés também recebeu a Lei.
 
 **Contexto egípcio:**
 Gênesis foi escrito para um povo que acabara de sair de quatrocentos anos no Egito. Isso explica elementos polêmicos no texto — a narrativa da criação confronta diretamente a cosmologia egípcia: enquanto os egípcios divinizavam o sol (Rá), as águas e a terra, Gênesis subordina todos esses elementos à Palavra de um Deus único. As pragas do Êxodo já são, em certo sentido, antecipadas pela teologia de Gênesis 1: Yahweh é Senhor de tudo o que o Egito adorava como deus.
+
+**Evidências arqueológicas de antiguidade:**
+Vários dados arqueológicos confirmam que o conteúdo de Gênesis reflete com precisão o segundo milênio a.C., período dos patriarcas:
+
+- **Textos de Ebla (séc. XXIV a.C.)** — Descobertos em 1975 na Síria, mencionam o nome "Ebrium", possivelmente identificável com Éber de Gênesis 10.21. Esses arquivos contêm nomes pessoais e práticas comerciais compatíveis com o mundo patriarcal.
+- **Textos de Mari (séc. XVIII a.C.)** — Encontrados no atual Iraque, atestam nomes patriarcais semelhantes aos de Gênesis (como formas análogas a Abraão, Jacó e Benjamim) e costumes tribais da região da Mesopotâmia.
+- **Textos de Nuzi (séc. XV a.C.)** — Documentam práticas jurídicas que iluminam passagens de Gênesis: a adoção de um escravo como herdeiro na ausência de filhos (cf. Gn 15.2–3, Abraão e Eliezer), a entrega de uma serva para gerar filhos (cf. Gn 16.1–4, Sara e Hagar) e a venda do direito de primogenitura (cf. Gn 25.29–34, Esaú e Jacó).
+- **Costumes e preços** — O preço de vinte siclos de prata pago por José como escravo (Gn 37.28) corresponde ao valor de mercado documentado para escravos no período patriarcal; em épocas posteriores, o preço era significativamente maior.
+
+Esses dados não "provam" a Bíblia — mas confirmam que o cenário descrito em Gênesis é autêntico para o período que alega retratar, e não uma ficção tardia como a hipótese documentária sugeria.
 
 ### 1.7. Notas técnicas e históricas
 
@@ -297,7 +319,17 @@ Essa visão de Deus confronta diretamente o **naturalismo materialista** (que ne
 
 Da bênção da criação à maldição da Queda, e da maldição de volta à promessa de restauração: esse é o pêndulo que move a narrativa de Gênesis. Deus abençoa, o pecado amaldiçoa, mas a graça reabre o caminho da bênção.
 
+A **essência da bênção divina** é a presença relacional de Deus — "Eu estarei com vocês". A maldição, por sua vez, é a alienação dessa presença. Toda a trajetória de Gênesis pode ser lida como o drama de Deus reabrindo o caminho para sua presença, que o pecado fechou.
+
+A progressão da bênção em Gênesis segue três estágios que espelham a expansão do plano redentor:
+
+1. **Abraão será abençoado** (Gn 12.2a) — Deus age primeiro sobre uma pessoa.
+2. **Abraão será uma bênção** (Gn 12.2b) — Essa pessoa se torna canal de bênção para outros.
+3. **Todas as nações serão abençoadas nele** (Gn 12.3) — O particular serve o universal; a eleição de um visa a restauração de todos.
+
 Nas *toledot*, o tema é quantificável: nas três gerações maiores finais (Terá, Isaque, Jacó), a bênção é mencionada **81 vezes** e a maldição apenas **3** — sinal de que, em Abraão, a maré está virando. A história de Gênesis é um movimento que começa em bênção (Gn 1.28), mergulha na maldição (Gn 3.17), e gradualmente retorna à bênção por meio da promessa e da aliança (Gn 12.2–3).
+
+É significativo que a maldição de Gênesis 3 atinge precisamente os dois aspectos do mandato criacional: a **semente** (dor no parto, Gn 3.16) e o **domínio sobre a terra** (o solo é amaldiçoado, Gn 3.17–19). As promessas abraâmicas respondem exatamente a essas duas maldições: Deus promete **descendência incontável** e **uma terra boa**. A bênção de Abraão é, teologicamente, a reversão da maldição de Adão.
 
 ### 3.3. A semente e a descendência
 
@@ -306,7 +338,11 @@ Desde o protoevangelho, a Bíblia rastreia uma linhagem: a semente da mulher →
 > "Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela. Este lhe ferirá a cabeça, e você lhe ferirá o calcanhar."
 > *(Gênesis 3.15)*
 
-Esse versículo — chamado de *protoevangelium* ("primeiro evangelho") — é a semente de toda a história da redenção. Tudo o que vem depois na Bíblia é, de certa forma, o desenvolvimento dessa promessa. Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo.
+Esse versículo — chamado de *protoevangelium* ("primeiro evangelho") — é a semente de toda a história da redenção. A palavra grega *protoevangelium* combina *protos* ("primeiro") e *evangelion* ("boa nova, evangelho"), significando literalmente o **primeiro anúncio do evangelho** na história. A identificação dessa promessa como messiânica remonta pelo menos a **Ireneu de Lyon (180 d.C.)**, que a considerou a primeira profecia messiânica da Escritura.
+
+Tudo o que vem depois na Bíblia é, de certa forma, o desenvolvimento dessa promessa. Se Gênesis 3.15 é a estrutura esquelética, o restante da Escritura é o preenchimento deste único versículo. James Hamilton observa que Gênesis 3.15 opera não através de citações diretas nas Escrituras posteriores, mas através de **imagens recorrentes e pressupostos narrativos** — a divisão da humanidade em duas linhagens (a semente da mulher e a semente da serpente) que percorre todo o livro: Sete vs. Caim, Sem vs. Cão, Abraão vs. as nações idólatras, Jacó vs. Esaú, Judá vs. seus irmãos.
+
+A expressão "semente da mulher" é única na Escritura — normalmente a descendência é atribuída ao homem. Para a tradição cristã, isso aponta para o nascimento virginal de Cristo, que seria, literalmente, semente da mulher sem pai humano.
 
 Paulo interpreta a descendência como referindo-se a **uma pessoa**:
 
@@ -317,6 +353,25 @@ E a vitória prometida em Gênesis 3.15 ecoa até o final da Bíblia:
 
 > "E o Deus da paz em breve esmagará Satanás debaixo dos pés de vocês."
 > *(Romanos 16.20)*
+
+O estreitamento progressivo da semente é um dos movimentos teológicos mais notáveis de Gênesis — a promessa começa ampla e vai se afunilando até uma pessoa:
+
+| Passagem | Estreitamento |
+|----------|---------------|
+| 3.15 | A semente da mulher (humanidade em geral) |
+| 4.25; 5.1–32 | A linhagem de Sete (não a de Caim) |
+| 9.26–27 | A linhagem de Sem (não a de Cam nem de Jafé) |
+| 12.1–3 | A linhagem de Abraão |
+| 21.12; 26.24 | A linhagem de Isaque (não a de Ismael) |
+| 28.13–14 | A linhagem de Jacó (não a de Esaú) |
+| 49.8–12 | A linhagem de **Judá** (não as outras 11 tribos) |
+
+A última etapa dentro de Gênesis é a bênção de Jacó sobre Judá, que contém a **profecia de Siló** — uma das passagens messiânicas mais antigas da Escritura:
+
+> "O cetro não se arredará de Judá, nem o bastão de comando de entre os seus pés, até que venha Siló; e a ele obedecerão os povos."
+> *(Gênesis 49.10)*
+
+A palavra *Shiloh* (שִׁילֹה) é interpretada como "aquele a quem pertence" — um título real messiânico. O cetro e o bastão de comando indicam que o Messias virá da tribo de Judá como **rei**. Ezequiel retoma essa linguagem séculos depois: "até que venha aquele a quem pertence de direito, e a ele o darei" (Ez 21.27). Em Cristo, filho de Judá, o cetro encontra seu portador definitivo.
 
 Gênesis planta a raiz dessa árvore genealógica da redenção.
 
@@ -355,7 +410,7 @@ Essa aliança reafirma a intenção criacional de Deus — o pecado e a maldiç�
 > "O SENHOR disse a Abrão: — Saia da sua terra, da sua parentela e da casa do seu pai e vá para a terra que lhe mostrarei. Farei de você uma grande nação, e o abençoarei, e engrandecerei o seu nome. Seja uma bênção! Abençoarei aqueles que o abençoarem e amaldiçoarei aquele que o amaldiçoar. Em você serão benditas todas as famílias da terra."
 > *(Gênesis 12.1–3)*
 
-Em Gênesis 15, a aliança é formalizada. Abrão é posto em sono profundo e somente Deus passa entre os animais cortados — sinal de que a aliança depende **inteiramente de Deus**, não da obediência de Abraão. É nesse mesmo contexto que aparece o versículo fundacional da justificação pela fé:
+Em Gênesis 15, a aliança é formalizada por meio de um ritual extraordinário. No costume do Antigo Oriente Próximo, quando duas partes faziam uma aliança, ambas passavam entre animais cortados ao meio — significando: "que aconteça comigo o mesmo que aconteceu com estes animais, se eu quebrar esta aliança." Porém em Gênesis 15, Abrão é posto em sono profundo e **somente Deus** — representado por um forno fumegante e uma tocha de fogo — passa entre os animais cortados. Abrão não passa. Isso é teologicamente revolucionário: a aliança depende **inteiramente de Deus**, não da obediência de Abraão. Deus assume as consequências dos dois lados. É aliança de **graça incondicional**. É nesse mesmo contexto que aparece o versículo fundacional da justificação pela fé:
 
 > "Levando‑o para fora da tenda, disse‑lhe: — Olhe para o céu e conte as estrelas, se é que pode contá‑las. Então, prosseguiu: — Assim será a sua descendência. Abrão creu no SENHOR, e o SENHOR lhe atribuiu isso como justiça."
 > *(Gênesis 15.5–6)*
@@ -404,6 +459,28 @@ Gênesis é, portanto:
 - fundamento da **teologia bíblica** (de criação a nova criação),
 - fundamento da **ética cristã** (vida, casamento, trabalho, dignidade humana),
 - e ponto de partida para entender a **história da salvação**.
+
+### 3.8. Eleição soberana: o padrão do mais novo sobre o mais velho
+
+Um dos padrões mais recorrentes e teologicamente carregados de Gênesis é a **inversão da primogenitura** — repetidamente, Deus escolhe o **mais novo** sobre o mais velho, subvertendo a ordem cultural e natural para demonstrar que a aliança depende da Sua escolha livre, não do mérito ou do direito humano.
+
+Esse padrão aparece ao longo de todo o livro:
+
+| Mais velho (preterido) | Mais novo (escolhido) | Referência |
+|---|---|---|
+| Caim | **Sete** (substitui Abel) | Gn 4.25 |
+| Jafé e Cam | **Sem** | Gn 9.26 |
+| Ismael | **Isaque** | Gn 17.18–21 |
+| Esaú | **Jacó** | Gn 25.23; Ml 1.2–3 |
+| Rúben (primogênito) | **Judá** (linhagem real) | Gn 49.8–10 |
+| Manassés | **Efraim** | Gn 48.13–20 |
+
+O caso de Jacó e Esaú é o mais explícito teologicamente. Deus declara Sua escolha **antes do nascimento dos gêmeos**, antes de qualquer obra ou mérito:
+
+> "Porque, não tendo os gêmeos ainda nascido, nem tendo praticado bem ou mal — para que o propósito de Deus, segundo a eleição, prevalecesse, não por obras, mas por aquele que chama —, foi-lhe dito a ela: 'O mais velho servirá ao mais moço.' Como está escrito: 'Amei Jacó, porém me aborreci de Esaú.'"
+> *(Romanos 9.11–13)*
+
+Esse padrão ensina que **a família de Deus é definida pelo Seu chamado, não por biologia, cultura ou esforço humano**. A eleição é por graça — e essa verdade, plantada em Gênesis, floresce plenamente no Novo Testamento.
 
 ---
 
@@ -494,7 +571,16 @@ Gênesis foi escrito num mundo cheio de mitos sobre criação, dilúvio e deuses
 
 Alexander Heidel concluiu que não há evidência de que Gênesis 1 dependa do *Enuma Elish*. Gênesis não é um mito reciclado — é uma **polêmica teológica deliberada** contra o politeísmo.
 
-### 5.2. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)
+### 5.2. Gênesis vs. Épico de Atrahasis
+
+O *Atrahasis* (séc. XVIII a.C.) é particularmente relevante porque é o único texto mesopotâmico que, como Gênesis 1–11, combina **criação + dilúvio numa narrativa contínua**. Alguns estudiosos propõem que a fonte "J" de Gênesis depende da tradição do *Atrahasis* para seu esboço da história primitiva.
+
+**Diferenças decisivas:**
+- No *Atrahasis*, os humanos são criados para ser **escravos dos deuses** — para realizar o trabalho braçal que os deuses menores se recusam a fazer. Em Gênesis, o ser humano é criado à **imagem de Deus**, com dignidade, vocação e domínio.
+- A razão do dilúvio no *Atrahasis* é o **barulho** — os humanos se multiplicaram tanto que o ruído incomodava os deuses. Em Gênesis, a causa é a **maldade moral** da humanidade (Gn 6.5).
+- Após o dilúvio, os deuses do *Atrahasis* controlam a população com infertilidade e morte infantil. O Deus de Gênesis renova a bênção: "Sejam fecundos, multipliquem-se e encham a terra" (Gn 9.1).
+
+### 5.3. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)
 
 **Paralelos notáveis:** destruição da humanidade por decisão divina, seleção de um indivíduo para construir uma arca, inclusão de animais, uso de pássaros para testar as águas, sacrifício após o dilúvio, promessa de não destruir novamente.
 
@@ -503,7 +589,7 @@ Alexander Heidel concluiu que não há evidência de que Gênesis 1 dependa do *
 - Noé é salvo por ser **justo e obediente**; Utanapishtim é salvo por esperteza — obteve informação privilegiada de um deus.
 - O Deus de Gênesis é consistente, justo e misericordioso. Os deuses de Gilgamesh se arrependem impulsivamente e se acovardam diante do dilúvio que eles mesmos causaram.
 
-### 5.3. Gênesis vs. cosmogonias egípcias
+### 5.4. Gênesis vs. cosmogonias egípcias
 
 Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. As três cosmogonias principais (Heliópolis, Mênfis, Hermópolis) compartilham elementos com Gênesis 1: oceano primordial, emergência da luz, separação de elementos. Mas os **distintivos** são decisivos:
 
@@ -512,7 +598,7 @@ Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. A
 - **Luminares como servos:** enquanto o Egito adorava Rá (o sol) como divindade suprema, Gênesis nem sequer dá nome ao sol e à lua — chama-os de "luminar maior" e "luminar menor", rebaixando-os a meros **marcadores de tempo**.
 - **Sequência ordenada de seis dias + descanso:** inteiramente ausente nas cosmologias do ANE e do Egito.
 
-### 5.4. Leituras debatidas (nota honesta de método)
+### 5.5. Leituras debatidas (nota honesta de método)
 
 - **Gn 1:1–3:** leitura clássica **independente** ("No princípio, Deus criou…") vs. leituras que tomam 1:1 como **título** e 1:2–3 como o começo da ação; adotamos a leitura **clássica**, coerente com:
 
@@ -561,7 +647,36 @@ Paulo lê Adão como **cabeça federal** da humanidade caída e Cristo como o **
 
 Sem Gênesis 3, Romanos 5 não faz sentido. A queda de Adão (seção 3.5) é o pano de fundo necessário para entender a obra de Cristo. A entrada do pecado por um homem exige a redenção por outro — e esse outro é Cristo.
 
-### 6.3. José como tipo de Cristo
+### 6.3. Outras tipologias cristológicas em Gênesis
+
+**Abel — o justo cujo sangue clama (Gn 4)**
+Abel é o primeiro justo que sofre injustamente. Seu sangue "clama desde a terra" (Gn 4.10). O autor de Hebreus estabelece o contraste tipológico:
+
+> "E a Jesus, o Mediador da nova aliança, e ao sangue da aspersão que fala coisas melhores do que o sangue de Abel."
+> *(Hebreus 12.24)*
+
+O sangue de Abel clamava por justiça e vingança; o sangue de Cristo clama por **perdão e reconciliação**. Onde Abel é vítima passiva, Cristo é sacrifício voluntário.
+
+**Isaque e o Akedah — o filho oferecido (Gn 22)**
+O "sacrifício de Isaque" (*Akedah*, do hebraico עֲקֵדָה, "amarração") é uma das tipologias mais densas de Gênesis. Abraão recebe a ordem de oferecer seu **único filho amado** no monte Moriá — o mesmo local onde séculos depois seria construído o templo de Salomão (2 Cr 3.1) e, nas proximidades, Cristo seria crucificado. Os paralelos são extraordinários:
+
+- Isaque é o **filho unigênito da promessa** — Cristo é o **Filho unigênito de Deus**.
+- Isaque **carrega a lenha** para o sacrifício (Gn 22.6) — Cristo **carrega a cruz** (Jo 19.17).
+- Abraão diz: **"Deus proverá para si o cordeiro"** (Gn 22.8) — e Deus de fato provê, primeiro o carneiro no lugar de Isaque, e definitivamente Cristo, o Cordeiro de Deus.
+- Abraão recebe Isaque de volta **"como em figura"** — isto é, como tipo da ressurreição (Hb 11.17–19).
+
+**A escada de Jacó — a conexão entre céu e terra (Gn 28.12)**
+Jacó sonha com uma escada que liga a terra ao céu, com anjos subindo e descendo. Jesus aplica essa imagem a si mesmo:
+
+> "Em verdade, em verdade vos digo que vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem."
+> *(João 1.51)*
+
+Cristo é a verdadeira escada de Jacó — o **único mediador** entre Deus e os homens, a ponte entre céu e terra.
+
+**As túnicas de pele (Gn 3.21)**
+Após a Queda, Deus mesmo veste Adão e Eva com peles de animais — o que implica a primeira morte e o primeiro derramamento de sangue na Escritura. As folhas de figueira que eles mesmos costuraram (tentativa humana de cobrir a vergonha) são substituídas pela provisão divina. É o primeiro ato de **sacrifício substitutivo**: um animal morre para cobrir a nudez/vergonha do pecador — sombra do sacrifício de Cristo.
+
+### 6.4. José como tipo de Cristo
 
 José é a tipologia cristológica mais rica de Gênesis — um retrato detalhado de Cristo séculos antes de sua vinda. Os paralelos são extensos e deliberados:
 
@@ -586,7 +701,7 @@ A declaração de José resume o princípio teológico central da providência d
 
 O mal humano não frustra o bem soberano de Deus — na verdade, Deus o utiliza para cumprir Seus propósitos de salvação. Na cruz, o maior mal da história (a execução do Filho de Deus) tornou-se o maior bem (a redenção da humanidade).
 
-### 6.4. Jesus e Gênesis nos Evangelhos
+### 6.5. Jesus e Gênesis nos Evangelhos
 
 Jesus referencia Gênesis repetidamente nos Evangelhos, tratando-o como **história real com implicações doutrinárias diretas** — não como mito ou alegoria:
 
@@ -606,7 +721,7 @@ Jesus referencia Gênesis repetidamente nos Evangelhos, tratando-o como **histó
 
 O uso que Jesus faz de Gênesis confirma a historicidade das narrativas e sua relevância permanente para a fé e a conduta cristã.
 
-### 6.5. Hebreus: Melquisedeque e o capítulo da fé
+### 6.6. Hebreus: Melquisedeque e o capítulo da fé
 
 **Melquisedeque (Hb 7):** A figura enigmática de Gênesis 14 — rei de Salém, sacerdote do Deus Altíssimo — é interpretada em Hebreus como tipo do sacerdócio eterno de Cristo:
 
@@ -629,7 +744,7 @@ Sara também é destacada:
 > "Pela fé, também, a própria Sara, apesar de não poder ter filhos e já ser idosa, recebeu poder para ser mãe, pois considerou fiel aquele que lhe havia feito a promessa. Por isso, também de um só homem, praticamente morto, saiu uma posteridade tão numerosa como as estrelas do céu e inumerável como a areia que está na praia do mar."
 > *(Hebreus 11.11–12)*
 
-### 6.6. Criação → Nova Criação: o arco que abre e fecha a Bíblia
+### 6.7. Criação → Nova Criação: o arco que abre e fecha a Bíblia
 
 O arco que começa em Gênesis 1–2 só se completa em Apocalipse 21–22. A Bíblia inteira é a história do que acontece entre esses dois jardins — o Éden e a Nova Jerusalém:
 
@@ -645,6 +760,14 @@ O arco que começa em Gênesis 1–2 só se completa em Apocalipse 21–22. A B�
 > *(Apocalipse 21.1–5)*
 
 O paraíso perdido em Gênesis é o paraíso **restaurado e superado** em Apocalipse. A redenção não é um plano B — é a consumação do propósito original de Deus.
+
+**O final de Gênesis — um caixão no Egito:**
+O último versículo de Gênesis é notável pela tensão que cria:
+
+> "José morreu com a idade de cento e dez anos; embalsamaram-no e o puseram num caixão, no Egito."
+> *(Gênesis 50.26)*
+
+O livro que começa com Deus criando os céus e a terra termina com um **caixão no Egito**. As promessas de terra, descendência e bênção universal foram feitas — mas nenhuma está cumprida. A família escolhida está fora da terra prometida, num país estrangeiro, e seu líder está morto. Essa tensão narrativa deliberada impulsiona o leitor para Êxodo e, em última análise, para toda a história bíblica até Cristo. José pediu que seus ossos fossem levados de volta a Canaã (Gn 50.25) — ato de fé de que Deus cumprirá Suas promessas, por mais distante que pareçam.
 
 ---
 
@@ -673,9 +796,16 @@ O paraíso perdido em Gênesis é o paraíso **restaurado e superado** em Apocal
 - **Kenneth A. Mathews** — *Genesis* (NAC, Broadman & Holman). Dois volumes (1–11:26 e 11:27–50:26). Evangélico, acessível, forte em contexto do ANE. Afirma inerrância e autoridade plena da Escritura.
 - **Bruce K. Waltke** — *Genesis: A Commentary* (Zondervan). Volume único. Ênfase no reino de Deus como paradigma central. Forte em teologia e fluxo narrativo.
 
+### Comentários clássicos e intermediários
+
+- **João Calvino** — *Commentaries on the Book of Genesis* (1554). Obra fundacional da exegese reformada. Calvino enfatiza o princípio da **acomodação** — Deus adapta Sua revelação à capacidade humana — e insiste que o propósito de Gênesis é revelar Deus como Criador, não ensinar filosofia natural. Disponível em edições modernas (Banner of Truth, Eerdmans).
+- **Derek Kidner** — *Genesis* (Tyndale OT Commentary, IVP). Conciso, evangélico e pastoral. Excelente como primeiro comentário para quem está começando. Disponível em português pela Editora Vida Nova (*Gênesis: Introdução e Comentário*).
+- **John D. Currid** — *Genesis* (EP Study Commentary). Reformado, com forte ênfase em paralelos com o ANE e foco cristocêntrico.
+
 ### Referências em português
 
 - **Augustus Nicodemus Lopes** — Série expositiva sobre Gênesis 1–11. Teólogo reformado brasileiro, PhD pelo Westminster Theological Seminary. Método gramático-histórico. Associado ao Ligonier Ministries e à The Gospel Coalition.
+- **Adauto Lourenço** — *Como Tudo Começou + Gênesis 1 & 2*. Disponível pelo Instituto Reformado.
 
 ---
 
