@@ -6,62 +6,62 @@
 
 ## Sumário
 
-**[1. Origem e razão do livro](#1-origem-e-razão-do-livro)**
-- [1.1. O nome do livro](#11-o-nome-do-livro)
-- [1.2. Gênesis dentro do Pentateuco](#12-gênesis-dentro-do-pentateuco)
-- [1.3. Propósito do livro](#13-propósito-do-livro)
-- [1.4. Propósito teológico e pastoral](#14-propósito-teológico-e-pastoral)
-- [1.5. Autoria mosaica: evidências e contexto](#15-autoria-mosaica-evidências-e-contexto)
-- [1.6. Datação e contexto histórico](#16-datação-e-contexto-histórico)
-- [1.7. Notas técnicas e históricas](#17-notas-técnicas-e-históricas)
-- [1.8. Desafios de interpretação e humildade na leitura](#18-desafios-de-interpretação-e-humildade-na-leitura)
+**[[#1. Origem e razão do livro]]**
+- [[#1.1. O nome do livro]]
+- [[#1.2. Gênesis dentro do Pentateuco]]
+- [[#1.3. Propósito do livro]]
+- [[#1.4. Propósito teológico e pastoral]]
+- [[#1.5. Autoria mosaica: evidências e contexto]]
+- [[#1.6. Datação e contexto histórico]]
+- [[#1.7. Notas técnicas e históricas]]
+- [[#1.8. Desafios de interpretação e humildade na leitura]]
 
-**[2. Estrutura literária de Gênesis](#2-estrutura-literária-de-gênesis)**
-- [2.1. Dois grandes blocos](#21-dois-grandes-blocos)
-- [2.2. A fórmula *toledot*](#22-a-fórmula-toledot-estas-são-as-gerações-de)
-- [2.3. Estruturas quiásticas](#23-estruturas-quiásticas)
-- [2.4. O padrão formação–preenchimento](#24-o-padrão-formaçãopreenchimento-nos-dias-da-criação)
-- [2.5. Outros recursos literários](#25-outros-recursos-literários)
+**[[#2. Estrutura literária de Gênesis]]**
+- [[#2.1. Dois grandes blocos]]
+- [[#2.2. A fórmula *toledot* ("estas são as gerações de…")]]
+- [[#2.3. Estruturas quiásticas]]
+- [[#2.4. O padrão formação–preenchimento nos dias da criação]]
+- [[#2.5. Outros recursos literários]]
 
-**[3. Temas centrais e eixos teológicos](#3-temas-centrais-e-eixos-teológicos)**
-- [3.1. Deus, o Criador e Senhor](#31-deus-o-criador-e-senhor)
-- [3.2. Bênção vs. maldição](#32-bênção-vs-maldição)
-- [3.3. A semente e a descendência](#33-a-semente-e-a-descendência)
-- [3.4. A terra](#34-a-terra)
-- [3.5. A aliança](#35-a-aliança)
-- [3.6. Casamento e sexualidade na ordem da criação](#36-casamento-e-sexualidade-na-ordem-da-criação)
-- [3.7. Gênesis como antídoto às ideologias contemporâneas](#37-gênesis-como-antídoto-às-ideologias-contemporâneas)
-- [3.8. Eleição soberana: o padrão do mais novo sobre o mais velho](#38-eleição-soberana-o-padrão-do-mais-novo-sobre-o-mais-velho)
+**[[#3. Temas centrais e eixos teológicos]]**
+- [[#3.1. Deus, o Criador e Senhor]]
+- [[#3.2. Bênção vs. maldição]]
+- [[#3.3. A semente e a descendência]]
+- [[#3.4. A terra]]
+- [[#3.5. A aliança]]
+- [[#3.6. Casamento e sexualidade na ordem da criação]]
+- [[#3.7. Gênesis como antídoto às ideologias contemporâneas]]
+- [[#3.8. Eleição soberana: o padrão do mais novo sobre o mais velho]]
 
-**[4. Da bondade original à necessidade de redenção](#4-da-bondade-original-à-necessidade-de-redenção)**
-- [4.1. A criação "muito boa"](#41-a-criação-muito-boa)
-- [4.2. O mandato cultural](#42-o-mandato-cultural-a-vocação-humana-na-criação)
-- [4.3. A intrusão do mal](#43-a-intrusão-do-mal)
-- [4.4. O ritmo teológico de Gênesis 1–11](#44-o-ritmo-teológico-de-gênesis-111-queda-juízo-e-graça)
+**[[#4. Da bondade original à necessidade de redenção]]**
+- [[#4.1. A criação "muito boa"]]
+- [[#4.2. O mandato cultural: a vocação humana na criação]]
+- [[#4.3. A intrusão do mal]]
+- [[#4.4. O ritmo teológico de Gênesis 1–11: queda, juízo e graça]]
 
-**[5. Gênesis e o mundo antigo (ANE)](#5-gênesis-e-o-mundo-antigo-ane)**
-- [5.1. Gênesis vs. *Enuma Elish*](#51-gênesis-vs-enuma-elish-mito-babilônico-da-criação)
-- [5.2. Gênesis vs. Épico de Atrahasis](#52-gênesis-vs-épico-de-atrahasis)
-- [5.3. Gênesis vs. Épico de Gilgamesh](#53-gênesis-vs-épico-de-gilgamesh-narrativa-do-dilúvio)
-- [5.4. Gênesis vs. cosmogonias egípcias](#54-gênesis-vs-cosmogonias-egípcias)
-- [5.5. Leituras debatidas](#55-leituras-debatidas-nota-honesta-de-método)
+**[[#5. Gênesis e o mundo antigo (ANE)]]**
+- [[#5.1. Gênesis vs. *Enuma Elish* (mito babilônico da criação)]]
+- [[#5.2. Gênesis vs. Épico de Atrahasis]]
+- [[#5.3. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)]]
+- [[#5.4. Gênesis vs. cosmogonias egípcias]]
+- [[#5.5. Leituras debatidas (nota honesta de método)]]
 
-**[6. Gênesis e o restante da Bíblia (fio canônico)](#6-gênesis-e-o-restante-da-bíblia-fio-canônico)**
-- [6.1. Cristo como Verbo criador](#61-cristo-como-verbo-criador-e-centro-da-criação)
-- [6.2. Adão e Cristo: o primeiro e o último](#62-adão-e-cristo-o-primeiro-e-o-último)
-- [6.3. Outras tipologias cristológicas](#63-outras-tipologias-cristológicas-em-gênesis)
-- [6.4. José como tipo de Cristo](#64-josé-como-tipo-de-cristo)
-- [6.5. Jesus e Gênesis nos Evangelhos](#65-jesus-e-gênesis-nos-evangelhos)
-- [6.6. Hebreus: Melquisedeque e o capítulo da fé](#66-hebreus-melquisedeque-e-o-capítulo-da-fé)
-- [6.7. Criação → Nova Criação](#67-criação--nova-criação-o-arco-que-abre-e-fecha-a-bíblia)
+**[[#6. Gênesis e o restante da Bíblia (fio canônico)]]**
+- [[#6.1. Cristo como Verbo criador e centro da criação]]
+- [[#6.2. Adão e Cristo: o primeiro e o último]]
+- [[#6.3. Outras tipologias cristológicas em Gênesis]]
+- [[#6.4. José como tipo de Cristo]]
+- [[#6.5. Jesus e Gênesis nos Evangelhos]]
+- [[#6.6. Hebreus: Melquisedeque e o capítulo da fé]]
+- [[#6.7. Criação → Nova Criação: o arco que abre e fecha a Bíblia]]
 
-**[7. Referências rápidas para catequese e ensino](#7-referências-rápidas-para-catequese-e-ensino)**
+**[[#7. Referências rápidas para catequese e ensino]]**
 
-**[8. Bibliografia recomendada](#8-bibliografia-recomendada)**
+**[[#8. Bibliografia recomendada]]**
 
-**[9. Notas](#9-notas)**
+**[[#9. Notas]]**
 
-**[10. Índice dos capítulos](#10-índice-dos-capítulos)**
+**[[#10. Índice dos capítulos]]**
 
 ---
 
