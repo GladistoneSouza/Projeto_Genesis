@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-03-07 – Capítulo 2: criação completa do comentário de Gênesis 2
+
+[2026-03-07] – arquivo: genesis-capitulo-02.md – seções: 1–12 (arquivo inteiro)
+tipo: criação de novo arquivo de comentário
+confiança: 0.93 — conteúdo redigido do zero (sem material base), baseado em fontes acadêmicas evangélicas/reformadas; termos hebraicos verificados; posição de dias analógicos mantida
+nota: Criado genesis-capitulo-02.md completo (~1130 linhas) com 12 seções: (1) Texto NAA Gn 2.1-25; (2) Resumo com diagrama Mermaid; (3) Hebraico — 18 termos-chave, toledot, mudança Elohim→YHWH Elohim; (4) Exegese do sétimo dia — 4 verbos hebraicos, sabbat como ordenança criacional; (5) Exegese Gn 2.4-25 em 10 subseções — yatsar/aphar/neshamah, Éden como proto-templo, duas árvores, abad+shamar sacerdotal, pacto de obras, ezer kenegdo, nomeação dos animais, tsela/ish/ishshah, casamento; (6) 6 temas teológicos — YHWH Elohim imanente, Éden proto-templo (Beale), trabalho como vocação, aliança de obras, casamento tipo Cristo/Igreja, dignidade e complementaridade; (7) ANE — Atrahasis, Enuma Elish, jardim mesopotâmico, tabela de contrastes; (8) Conexões canônicas — 8 AT + 10 NT com diagramas Mermaid; (9) 4 seções de aplicação — síntese doutrinária, casamento, trabalho, pastoral; (10) 4 perspectivas reformadas — Calvino, Bavinck, Vos, Westminster; (11) Bibliografia; (12) 11 notas de rodapé. Teólogos principais: Wenham, Cassuto, Vos, Kline, Bavinck, Beale, Waltke, Calvino, Walton, Middleton.
+
+---
+
 ## 2026-03-07 – Capítulo 1: segunda rodada de expansão (6 novas seções temáticas)
 
 [2026-03-07] – arquivo: genesis-capitulo-01.md – seções: 5.1.1, 5.2 (expansão), 5.3.1, 5.7.1, 5.7.2, 6.3 (expansão radah/kabash)
