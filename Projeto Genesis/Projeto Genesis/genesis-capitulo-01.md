@@ -156,6 +156,20 @@ Gênesis 1 apresenta a criação do universo como obra exclusiva de um Deus úni
 - **Versos 24–25 — Sexto dia (parte 1):** Deus ordena à terra que produza os demais animais terrestres, de acordo com suas espécies. Ele vê que isso é bom.
 - **Versos 26–31 — Sexto dia (parte 2):** Deus cria o ser humano à sua imagem e semelhança, como homem e mulher. Concede-lhes domínio sobre toda a criação e lhes dá as plantas como alimento. Ao final, Deus vê que tudo é "**muito bom**".
 
+```mermaid
+flowchart LR
+    A["🌊 CAOS<br/>tohu va-vohu<br/>trevas, abismo"] --> B["✂️ SEPARAÇÃO<br/>hivdil<br/>luz/trevas, águas,<br/>terra/mares"]
+    B --> C["🌿 PREENCHIMENTO<br/>barakh<br/>luminares, animais,<br/>bênção"]
+    C --> D["👤 IMAGO DEI<br/>tselem/demut<br/>façamos o homem"]
+    D --> E["🏛️ REPOUSO<br/>shavat/qadash<br/>entronização divina"]
+
+    style A fill:#7f8c8d,color:#fff
+    style B fill:#2980b9,color:#fff
+    style C fill:#e67e22,color:#fff
+    style D fill:#c0392b,color:#fff
+    style E fill:#27ae60,color:#fff
+```
+
 ---
 
 ## 3. Texto hebraico e termos-chave
@@ -277,6 +291,18 @@ Três verbos hebraicos descrevem a atividade criadora de Deus em Gênesis 1–2.
 Os três verbos *não* são categorias técnicas rígidas. Gênesis 2.4 resume: "No dia em que o SENHOR Deus *fez* (*asah*) a terra e os céus" — usando *asah* como termo geral para *toda* a criação, incluindo o que foi descrito com *bara* em Gn 1.1. De modo semelhante, Isaías 45.18 emprega os três verbos em paralelo: "Ele *formou* (*yatzar*) a terra, ele a *fez* (*asah*), ele a estabeleceu… ele a *criou* (*bara*)."
 
 O padrão que emerge é claro: *bara* enfatiza a soberania divina e a novidade absoluta; *asah* enfatiza a produção intencional e funcional; *yatzar* enfatiza o cuidado artesanal e a intimidade do Criador com a criatura. Juntos, esses verbos pintam o retrato de um Deus que é, ao mesmo tempo, soberano, propositivo e pessoal.
+
+```mermaid
+flowchart TD
+    A["בָּרָא BARA<br/>Criar — soberania absoluta<br/>Somente Deus como sujeito<br/>vv. 1, 21, 27"] --> D["O Deus que cria é<br/>soberano, propositivo<br/>e pessoal"]
+    B["עָשָׂה ASAH<br/>Fazer — produção intencional<br/>Deus e humanos como sujeito<br/>vv. 7, 16, 25, 26"] --> D
+    C["יָצַר YATZAR<br/>Formar — cuidado artesanal<br/>Imagem do oleiro<br/>Gn 2.7, 2.19"] --> D
+
+    style A fill:#c0392b,color:#fff
+    style B fill:#e67e22,color:#fff
+    style C fill:#2980b9,color:#fff
+    style D fill:#27ae60,color:#fff
+```
 
 ---
 
@@ -440,6 +466,35 @@ Há um paralelismo notável entre os seis dias, organizados em dois blocos de tr
 
 Isso mostra um Deus que primeiro **forma** os espaços (dias 1–3) e depois **enche** esses espaços com habitantes (dias 4–6) — ordem, propósito e planejamento em cada etapa. A criação não é um ato caótico ou impulsivo, mas a expressão de um design intencional.
 
+```mermaid
+flowchart LR
+    subgraph FORMAR["FORMAÇÃO — remove *tohu*"]
+        D1["Dia 1<br/>Luz e trevas"]
+        D2["Dia 2<br/>Céu e águas"]
+        D3["Dia 3<br/>Terra e vegetação"]
+    end
+
+    subgraph ENCHER["PREENCHIMENTO — remove *bohu*"]
+        D4["Dia 4<br/>Sol, lua, estrelas"]
+        D5["Dia 5<br/>Aves e peixes"]
+        D6["Dia 6<br/>Animais e ser humano"]
+    end
+
+    D1 -.->|"domínios → governantes"| D4
+    D2 -.->|"espaços → habitantes"| D5
+    D3 -.->|"ambiente → vida"| D6
+
+    D6 --> D7["Dia 7<br/>Repouso e entronização"]
+
+    style D1 fill:#2980b9,color:#fff
+    style D2 fill:#2980b9,color:#fff
+    style D3 fill:#2980b9,color:#fff
+    style D4 fill:#e67e22,color:#fff
+    style D5 fill:#e67e22,color:#fff
+    style D6 fill:#e67e22,color:#fff
+    style D7 fill:#27ae60,color:#fff
+```
+
 #### 5.1.1. O padrão de separação (*havdil*) — do caos à ordem
 
 O verbo *hivdil* (הִבְדִּיל, da raiz *b-d-l*, "separar, distinguir") aparece cinco vezes em Gênesis 1: no v. 4 (luz e trevas), v. 6 (águas de cima e de baixo), v. 7 (execução dessa separação), v. 14 (dia e noite) e v. 18 (luz e trevas por meio dos luminares). Essa repetição não é acidental — ela revela que **separar é o ato criativo primário de Deus**. Onde havia *tohu va-vohu* (תֹּ֙הוּ וָבֹ֔הוּ, "sem forma e vazio"), Deus introduz distinções, limites e ordem. Criar, no vocabulário de Gênesis, é fundamentalmente estabelecer fronteiras onde antes reinava o caos indiferenciado.
@@ -458,6 +513,16 @@ Em todos os dias, a criação acontece pela **palavra de Deus**: Ele diz, e acon
 - e totalmente dependente da sua **vontade** — nada existe por acaso.
 
 Isso fundamenta a importância da revelação escrita (Escrituras) e da pregação fiel: se Deus cria pela Palavra, a Palavra é o meio pelo qual Ele se faz conhecido e age no mundo.
+
+```mermaid
+flowchart LR
+    A["📢 FIAT<br/>'E Deus disse…'<br/>wayyo'mer Elohim"] --> B["⚡ EXECUÇÃO<br/>'E assim foi'<br/>wayehi-khen"]
+    B --> C["✅ AVALIAÇÃO<br/>'E Deus viu que<br/>era bom' — ki-tov"]
+
+    style A fill:#8e44ad,color:#fff
+    style B fill:#2980b9,color:#fff
+    style C fill:#27ae60,color:#fff
+```
 
 **A fórmula discursiva analisada.** A expressão hebraica *wayyo'mer 'Elohim… wayehi-khen* ("e Deus disse… e assim foi") aparece dez vezes em Gênesis 1, formando o ritmo estrutural de todo o capítulo. Cada ato criativo segue um padrão tríplice: **fiat** (Deus ordena), **execução** (a criação obedece) e **avaliação** ("e Deus viu que era bom"). Essa sequência não é acidental — constitui uma arquitetura teológica completa que revela decreto, cumprimento e aprovação divina em cada etapa.
 
@@ -776,6 +841,20 @@ Ao longo da história da Igreja, três grandes modelos foram propostos para expl
 
 **3. Visão funcional (ou vocacional).** A imagem *é* a comissão — representar Deus exercendo domínio (v. 28). Essa leitura possui o suporte mais forte do AOP: no Egito e na Mesopotâmia, "imagem de deus" designava o representante real, o vice-regente. Middleton[^middleton-2005] demonstra que Gênesis democratiza esse conceito real, estendendo-o a *todos* os seres humanos. A imagem não é algo que se *possui*, mas algo que se *exerce* — o ser humano "imageia" Deus ao exercer domínio fiel. A força dessa visão é a conexão direta com o contexto imediato (vv. 26b-28). Sua fraqueza é que pode reduzir a imagem à função, perdendo a dimensão ontológica.
 
+```mermaid
+flowchart TD
+    A["🧠 SUBSTANCIAL<br/>Razão, consciência moral,<br/>criatividade, espiritualidade"] --> D["VISÃO INTEGRADA<br/>Hoekema, teologia reformada"]
+    B["🤝 RELACIONAL<br/>Comunhão com Deus,<br/>com o próximo, com a criação"] --> D
+    C["👑 FUNCIONAL<br/>Representar Deus,<br/>exercer domínio fiel"] --> D
+    D --> E["Dignidade inalienável<br/>+ vocação criacional<br/>para todo ser humano"]
+
+    style A fill:#8e44ad,color:#fff
+    style B fill:#e67e22,color:#fff
+    style C fill:#2980b9,color:#fff
+    style D fill:#27ae60,color:#fff
+    style E fill:#f1c40f,color:#000
+```
+
 **A visão reformada integrada.** A maioria dos teólogos reformados contemporâneos adota uma abordagem *integrada*: a imagem é **estrutural** (o ser humano possui capacidades que refletem Deus), **relacional** (foi feito para comunhão com Deus e com o próximo) e **funcional** (foi chamado a representar Deus na criação). Essas não são visões concorrentes, mas aspectos complementares de uma única realidade. Anthony Hoekema[^hoekema-1986] argumentou de forma persuasiva a favor dessa integração, mostrando que Gênesis 1.26-28, 5.1-3 e 9.6 sustentam as três dimensões simultaneamente. Essa visão integrada preserva a dignidade inalienável de todo ser humano — independentemente de idade, capacidade ou função — e ao mesmo tempo honra o chamado vocacional que o Criador confiou à humanidade.
 
 ---
@@ -859,6 +938,50 @@ A distinção radical entre Criador e criatura — Deus não é a natureza, nem 
 ---
 
 ## 8. Conexões canônicas
+
+```mermaid
+flowchart TD
+    GN["📖 GÊNESIS 1<br/>A Criação"]
+
+    subgraph AT["Antigo Testamento"]
+        S33["Sl 33.6, 9<br/>Palavra criadora"]
+        S104["Sl 104<br/>Criação sustentada"]
+        IS["Is 40–45<br/>Criador = Redentor"]
+        JR["Jr 4.23<br/>Descriação como juízo"]
+        PV["Pv 8.22-31<br/>Sabedoria na criação"]
+    end
+
+    subgraph NT["Novo Testamento"]
+        JO["Jo 1.1-3<br/>Cristo = Logos criador"]
+        CL["Cl 1.15-17<br/>Imagem perfeita"]
+        CO["2Co 4.6<br/>Nova criação"]
+        HB["Hb 4.9-10<br/>Sábado escatológico"]
+        AP["Ap 21–22<br/>Nova criação consumada"]
+    end
+
+    GN --> S33
+    GN --> S104
+    GN --> IS
+    GN --> JR
+    GN --> PV
+    GN --> JO
+    GN --> CL
+    GN --> CO
+    GN --> HB
+    GN --> AP
+
+    style GN fill:#c0392b,color:#fff
+    style S33 fill:#2980b9,color:#fff
+    style S104 fill:#2980b9,color:#fff
+    style IS fill:#2980b9,color:#fff
+    style JR fill:#2980b9,color:#fff
+    style PV fill:#2980b9,color:#fff
+    style JO fill:#27ae60,color:#fff
+    style CL fill:#27ae60,color:#fff
+    style CO fill:#27ae60,color:#fff
+    style HB fill:#27ae60,color:#fff
+    style AP fill:#27ae60,color:#fff
+```
 
 ### 8.1. Gênesis 1 no Antigo Testamento
 
