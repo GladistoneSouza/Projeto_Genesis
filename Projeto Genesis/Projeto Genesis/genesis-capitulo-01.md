@@ -15,6 +15,7 @@
 - [[#3.2. Vocabulário principal]]
 - [[#3.3. Estrutura literária e padrões numéricos]]
 - [[#3.4. Análise gramatical: *Elohim* com verbo singular *bara*]]
+- [[#3.5. Os verbos da criação: *bara*, *asah* e *yatzar*]]
 
 **[[#4. Exegese de Gênesis 1.1–2]]**
 - [[#4.1. O peso espiritual das primeiras palavras]]
@@ -35,12 +36,15 @@
 - [[#5.9. O significado de *raqia* (firmamento) e a cosmologia antiga]]
 - [[#5.10. O debate sobre a natureza dos "dias" (*yom*) da criação]]
 - [[#5.11. O sétimo dia — Repouso divino e entronização (2.1–3)]]
+- [[#5.12. "Segundo a sua espécie" — o significado de *lemin* (מִין)]]
 
 **[[#6. Imagem de Deus e dignidade humana (1.26–28)]]**
 - [[#6.1. "Façamos o homem à nossa imagem…"]]
 - [[#6.2. Homem e mulher — igualdade e complementaridade]]
 - [[#6.3. Mandato cultural: domínio e mordomia da criação]]
 - [[#6.4. *Tselem* e *demut* no contexto do Antigo Oriente Próximo]]
+- [[#6.5. "Façamos o homem" — o plural de Gênesis 1.26]]
+- [[#6.6. Três interpretações teológicas da *imago Dei*]]
 
 **[[#7. Gênesis 1 diante do Antigo Oriente Próximo]]**
 - [[#7.1. Contrastes com as cosmogonias pagãs]]
@@ -242,6 +246,33 @@ A tensão entre unidade (verbo singular) e plenitude (substantivo plural) conté
 #### *Bara* como exclusividade divina
 
 Na Escritura, somente Deus é sujeito do verbo *bara*. Seres humanos "fazem" (*asah*) coisas, mas somente Deus "cria" (*bara*). No contexto de Gênesis 1.1 — onde o objeto é "os céus e a terra" (a totalidade do cosmos) — a implicação de criação a partir do nada (*creatio ex nihilo*) é clara, confirmada por Hebreus 11.3.
+
+### 3.5. Os verbos da criação: *bara*, *asah* e *yatzar*
+
+Três verbos hebraicos descrevem a atividade criadora de Deus em Gênesis 1–2. Compreendê-los revela nuances importantes do ato criativo.
+
+**Bara (בָּרָא) — "criar":**
+- Somente Deus é sujeito deste verbo. Nunca é usado para atividade humana.
+- Aparece três vezes em Gênesis 1: no v.1 (céus e terra), no v.21 (criaturas marinhas) e no v.27 (seres humanos — três vezes em um único versículo).
+- Aponta para algo fundamentalmente *novo*, que somente Deus pode trazer à existência.
+- Debate: *bara* implica necessariamente criação *ex nihilo*? O verbo em si significa "trazer à existência" — a inferência de criação a partir do nada vem do contexto (nenhum material preexistente é mencionado em Gn 1.1) e da confirmação de Hebreus 11.3. Alguns estudiosos observam que *bara* também pode significar "separar, distinguir" (cf. seu uso em Js 17.15, 18 para desbravar floresta).
+
+**Asah (עָשָׂה) — "fazer, produzir":**
+- Tanto Deus quanto seres humanos podem ser sujeitos deste verbo.
+- Em Gênesis 1: firmamento (v.7), luminares (v.16), animais (v.25), seres humanos (v.26).
+- Indica produção intencional — formar, organizar, estabelecer função.
+- Não exige material preexistente em todos os casos — Gênesis 2.4 usa *asah* como resumo de *toda* a criação.
+
+**Yatzar (יָצַר) — "formar, modelar":**
+- Evoca a imagem do oleiro moldando o barro (Jr 18.1-6; Is 29.16; 45.9).
+- Aparece em Gênesis 2.7 (Deus forma o homem do pó) e 2.19 (Deus forma os animais).
+- É o mais concreto dos três verbos: implica trabalho íntimo, manual, artesanal.
+
+**A interação dos verbos:**
+
+Os três verbos *não* são categorias técnicas rígidas. Gênesis 2.4 resume: "No dia em que o SENHOR Deus *fez* (*asah*) a terra e os céus" — usando *asah* como termo geral para *toda* a criação, incluindo o que foi descrito com *bara* em Gn 1.1. De modo semelhante, Isaías 45.18 emprega os três verbos em paralelo: "Ele *formou* (*yatzar*) a terra, ele a *fez* (*asah*), ele a estabeleceu… ele a *criou* (*bara*)."
+
+O padrão que emerge é claro: *bara* enfatiza a soberania divina e a novidade absoluta; *asah* enfatiza a produção intencional e funcional; *yatzar* enfatiza o cuidado artesanal e a intimidade do Criador com a criatura. Juntos, esses verbos pintam o retrato de um Deus que é, ao mesmo tempo, soberano, propositivo e pessoal.
 
 ---
 
@@ -454,6 +485,16 @@ O sexto dia é o clímax da criação, dividido em duas partes:
 
 Deus vê **tudo** o que havia feito, e eis que era "**muito bom**" — não apenas "bom" como nos dias anteriores, mas "muito bom." A criação inteira, com o ser humano como coroa, recebe a aprovação máxima do Criador.
 
+#### O significado de *tov me'od* (טוֹב מְאֹד) — "muito bom"
+
+A palavra hebraica *tov* não se limita a "moralmente bom." Ela carrega pelo menos três dimensões: **estética** ("belo, agradável ao olhar"), **funcional** ("apto para o propósito, funcionando como projetado") e **relacional** ("em harmonia com o Criador e com as demais partes da criação"). Quando Deus declara que a criação é *tov*, Ele afirma que tudo funciona conforme o design divino, é belo de contemplar e está em relação correta com seu Autor.
+
+O advérbio *me'od* ("muito, exceedingly") aparece **somente** após a criação do ser humano, no sexto dia. Nos dias anteriores, cada obra recebe o veredicto isolado de "bom"; aqui, porém, o conjunto inteiro é declarado "**muito** bom" — é o *tachlit*, a consumação, o coroamento de todo o projeto criativo. A humanidade completa o quadro porque somente o ser humano porta a *imago Dei* e pode, de forma consciente, adorar e glorificar o Criador.
+
+No entanto, "muito bom" **não equivale a "perfeito no sentido escatológico."** Bavinck observa com precisão que a criação era perfeita — sem defeito, sem pecado — mas ainda não estava **completa** em termos de destino final. Ela era o ponto de partida, não a chegada. Adão foi criado para uma glória maior, alcançável pela obediência ao pacto. Assim, o "muito bom" de Gênesis 1.31 é o alicerce; o "faço novas todas as coisas" de Apocalipse 21.5 é a consumação plena daquilo que Deus iniciou no Éden.
+
+Vale notar, por fim, a **ausência de *tov* no segundo dia.** O segundo dia é o único que não recebe a declaração "e Deus viu que era bom." A tradição judaica (Rashi, com base no *Bereshit Rabbah*) explica que a obra de separação das águas não se completou no segundo dia, mas somente no terceiro — que, por sua vez, recebe uma **dupla** declaração de "bom", compensando a ausência anterior. Esse detalhe demonstra que a fórmula de aprovação divina é **deliberada e teologicamente intencional**, não mecânica ou meramente estilística.
+
 ### 5.9. O significado de *raqia* (firmamento) e a cosmologia antiga
 
 A palavra hebraica *raqia* (רָקִיעַ) deriva da raiz *rq'*, que significa "bater, martelar, espalhar finamente" — evocando a imagem de martelar metal em forma de cúpula. A tradução tradicional "firmamento" (do latim *firmamentum*, via Vulgata) reflete a ideia de algo sólido e firme.
@@ -510,6 +551,20 @@ O quarto mandamento (Êx 20.8–11) fundamenta o sábado semanal diretamente em 
 No contexto do ANE, o repouso de uma divindade no templo significava que ela havia tomado posse e iniciado seu governo. O sétimo dia é, portanto, o momento em que Deus se "assenta" no templo cósmico que acabou de construir e inaugura Seu reinado sobre a criação. Não é inatividade — é **governo ativo a partir do trono**.
 
 **Aplicação:** O sábado ensina que somos mais do que o que produzimos. O mundo de Deus continua funcionando quando paramos. O descanso é ato de fé — confiança de que Deus sustenta o que criou. E aponta para o descanso eterno em Cristo: "Aquele que entrou no descanso de Deus, também ele mesmo descansou de suas obras" (Hb 4.10).
+
+### 5.12. "Segundo a sua espécie" — o significado de *lemin* (מִין)
+
+A expressão "segundo a sua espécie" (*leminehu*/*leminehem*) aparece 10 vezes em Gênesis 1 (vv. 11, 12 [2×], 21 [2×], 24 [2×], 25 [3×]). A palavra hebraica *min* (מִין) significa "tipo, espécie, classe" num sentido amplo e observacional.
+
+**O que *min* significa:** Uma categoria observacional — "cada ser reproduz segundo o seu próprio tipo." O termo hebraico é não-técnico, descritivo, cotidiano. O autor de Gênesis não está fazendo classificação científica; está afirmando que os seres vivos se reproduzem de forma reconhecível e ordenada. Uma oliveira gera oliveiras; um gavião gera gaviões.
+
+**O que *min* NÃO significa:** O termo não corresponde a "espécie" no sentido da taxonomia biológica moderna (Lineu, séc. XVIII). É mais amplo e menos preciso — mais próximo de "família" ou "tipo básico" do que de *species* em biologia. Tentar forçar uma equivalência exata entre *min* e qualquer categoria taxonômica moderna é anacronismo.
+
+**Significado teológico:** A repetição enfática — dez vezes em um único capítulo — sublinha a **diversidade ordenada** da criação. O mundo que Deus faz não é caótico nem amorfo. Cada ser vivo tem lugar, identidade e propósito dentro do desígnio do Criador. A variedade da vida não é acidente — é projeto. Como Paulo dirá séculos depois: "Nem toda carne é a mesma; porém uma é a carne dos homens, outra a dos animais…" (1Co 15.39).
+
+**A questão da baraminologia:** Alguns criacionistas (notadamente Frank Marsh, 1941) cunharam o termo *baramin* (*bara* + *min*) para definir um "tipo criado" — uma unidade biológica original. Embora a preocupação de levar Gênesis a sério seja louvável, a maioria dos hebraístas observa que *min* é uma palavra observacional do dia a dia, não um termo técnico de classificação. O propósito do texto é teológico — Deus ordena a vida em categorias reconhecíveis — e não oferecer uma taxonomia biológica alternativa.
+
+**Aplicação:** O padrão "segundo a sua espécie" ensina que Deus é um Deus de distinções e categorias. Ele cria diversidade dentro da ordem — não uniformidade, não caos. Isso vale para a natureza, para os dons na igreja (Rm 12.6–8) e para a vocação de cada pessoa. Reconhecer e respeitar as distinções que Deus estabeleceu é ato de sabedoria e adoração.
 
 ---
 
@@ -571,6 +626,34 @@ Não há possibilidade de reivindicar funções exclusivas de autoridade para ce
 #### O ser humano como "estátua viva" no templo cósmico
 
 No AOP, estátuas de divindades eram colocadas dentro dos templos para representar a presença do deus. Em Gênesis 1, **não há estátua** no templo cósmico — em seu lugar, Deus coloca os *seres humanos* como suas "imagens" vivas. Os humanos são as estátuas vivas de Deus no templo cósmico, representando Sua presença e Seu governo na terra.
+
+### 6.5. "Façamos o homem" — o plural de Gênesis 1.26
+
+A mudança de linguagem no versículo 26 é uma das mais notáveis em todo o capítulo. Até aqui, Deus criava por comando impessoal — "haja luz", "produza a terra". Agora, porém, Ele diz: **"Façamos o homem à nossa imagem"** (*na'aseh adam betsalmenu*). O verbo passa ao plural coortativo. Por quê? Quatro interpretações principais foram propostas ao longo da história:
+
+1. **Plural de majestade** — Deus estaria usando um "nós" régio, como monarcas que falam de si no plural. O problema é que, embora o plural majestático se aplique a substantivos em hebraico (como o próprio *Elohim*), a evidência de seu uso em *verbos* coortativo é fraca. A maioria dos gramáticos hebraístas rejeita essa explicação como anacrônica.
+
+2. **Conselho divino (*divine council*)** — Deus estaria se dirigindo à Sua corte celestial, os anjos. Há textos que sustentam a ideia de um conselho celestial: 1Rs 22.19-22, Jó 1.6, Is 6.8 ("Quem irá por NÓS?"), Sl 82.1. Contudo, o versículo 27 deixa claro que **somente Deus cria** — todos os verbos retornam ao singular: "criou Deus o homem" (*wayyibra Elohim*). Anjos não participam do ato criador.
+
+3. **Plural de deliberação** — Deus estaria deliberando consigo mesmo, num recurso retórico que marca a solenidade do momento. Essa leitura, proposta por Westermann, destaca que a mudança de linguagem sinaliza algo sem precedente: está prestes a surgir o portador da imagem de Deus. O plural seria uma pausa dramática na narrativa.
+
+4. **Indicação trinitária** — O plural refletiria a pluralidade de pessoas dentro do único Deus. Essa leitura é confirmada retrospectivamente pela revelação do Novo Testamento: o Filho é agente da criação (Jo 1.3; Cl 1.16), e o Espírito pairava sobre as águas (Gn 1.2). Os pais da igreja — Ireneu, Basílio, Agostinho — liam consistentemente "façamos" como diálogo intratrinitário.
+
+**A posição reformada:** Calvino e a tradição reformada geralmente favorecem uma combinação das opções 3 e 4. O plural marca deliberação solene *e* é plenamente consistente com a pluralidade trinitária, embora a doutrina completa da Trindade aguarde a revelação neotestamentária. Calvino advertiu contra usar este texto isoladamente para "provar" a Trindade, mas afirmou que ele é inteiramente consonante com ela.
+
+**O que todas as posições concordam:** A mudança para "façamos" marca a criação do ser humano como **qualitativamente diferente** de tudo o mais. Deus não simplesmente ordena — Ele delibera. O ser humano não é um acréscimo casual, mas o **clímax intencional** da criação. Essa pausa divina revela cuidado, propósito e intimidade. Antes de formar aquele que carregaria Sua imagem, o Criador, por assim dizer, detém-se e pondera — não por necessidade, mas para que a narrativa registre a dignidade singular da humanidade diante de toda a ordem criada.
+
+### 6.6. Três interpretações teológicas da *imago Dei*
+
+Ao longo da história da Igreja, três grandes modelos foram propostos para explicar em que consiste a imagem de Deus no ser humano (Gn 1.26-28).
+
+**1. Visão substancial (ou estrutural).** A imagem reside nas *capacidades* humanas: razão, consciência moral, autoconsciência, livre arbítrio, criatividade e espiritualidade. Essa foi a visão dominante dos Pais da Igreja até a Reforma. Agostinho localizou a imagem na capacidade da alma racional para memória, entendimento e vontade — uma analogia trinitária. Os Padrões de Westminster (CFW 4.2) definem a imagem como "conhecimento, justiça e verdadeira santidade." A força dessa visão é que ela se ancora na distinção observável entre humanos e o restante da criação. Sua fraqueza é que pode sugerir, ainda que involuntariamente, que pessoas com capacidades diminuídas — bebês, portadores de deficiência intelectual — carregam menos a imagem de Deus.
+
+**2. Visão relacional.** A imagem *é* a capacidade de relacionamento — com Deus, com o próximo e com a criação. Karl Barth enfatizou que a expressão "homem e mulher" no v. 27 é a chave para a *imago Dei*: trata-se de ser-em-relação, refletindo a natureza relacional do Deus triúno. Essa perspectiva explica por que o isolamento é declarado "não bom" (Gn 2.18) mesmo antes da Queda. Sua fraqueza é que pode tornar-se abstrata: toda criatura, em algum sentido, se relaciona com Deus.
+
+**3. Visão funcional (ou vocacional).** A imagem *é* a comissão — representar Deus exercendo domínio (v. 28). Essa leitura possui o suporte mais forte do AOP: no Egito e na Mesopotâmia, "imagem de deus" designava o representante real, o vice-regente. Middleton[^middleton-2005] demonstra que Gênesis democratiza esse conceito real, estendendo-o a *todos* os seres humanos. A imagem não é algo que se *possui*, mas algo que se *exerce* — o ser humano "imageia" Deus ao exercer domínio fiel. A força dessa visão é a conexão direta com o contexto imediato (vv. 26b-28). Sua fraqueza é que pode reduzir a imagem à função, perdendo a dimensão ontológica.
+
+**A visão reformada integrada.** A maioria dos teólogos reformados contemporâneos adota uma abordagem *integrada*: a imagem é **estrutural** (o ser humano possui capacidades que refletem Deus), **relacional** (foi feito para comunhão com Deus e com o próximo) e **funcional** (foi chamado a representar Deus na criação). Essas não são visões concorrentes, mas aspectos complementares de uma única realidade. Anthony Hoekema[^hoekema-1986] argumentou de forma persuasiva a favor dessa integração, mostrando que Gênesis 1.26-28, 5.1-3 e 9.6 sustentam as três dimensões simultaneamente. Essa visão integrada preserva a dignidade inalienável de todo ser humano — independentemente de idade, capacidade ou função — e ao mesmo tempo honra o chamado vocacional que o Criador confiou à humanidade.
 
 ---
 
@@ -962,6 +1045,8 @@ Dentro deste pacto, a teologia reformada identifica mandatos específicos dados 
 [^walton-2009]: WALTON, John H. *The Lost World of Genesis One: Ancient Cosmology and the Origins Debate*. Downers Grove: IVP Academic, 2009.
 
 [^middleton-2005]: MIDDLETON, J. Richard. *The Liberating Image: The Imago Dei in Genesis 1*. Grand Rapids: Brazos, 2005.
+
+[^hoekema-1986]: HOEKEMA, Anthony A. *Created in God's Image*. Grand Rapids: Eerdmans, 1986.
 
 [^tsumura-1989]: TSUMURA, David Tsiamparlis. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Supplement Series 83. Sheffield: JSOT Press, 1989.
 
