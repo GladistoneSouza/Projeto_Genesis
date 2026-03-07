@@ -16,25 +16,28 @@ This is a **content/writing project** using Markdown — not a software project.
 
 ## Content Architecture
 
+All paths below are relative to the repo root.
+
 ```
 Projeto Genesis/
-├── Projeto Genesis/
+├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
-│   │   ├── conf.md          # Project config, spec_version (currently 1.1.0)
-│   │   ├── regras.md        # Editorial rules (AI must read before any edit)
-│   │   └── changelog.md     # Change log with date, version, confidence
-│   ├── genesis.md           # Book-level commentary (~1300 lines)
+│   │   ├── conf.md             # Project config, spec_version (currently 1.2.0)
+│   │   ├── regras.md           # Editorial rules — sections 1–7 (AI must read before any edit)
+│   │   └── changelog.md        # Change log with date, version, confidence
+│   ├── genesis.md              # Book-level commentary (~1300 lines)
 │   └── genesis-capitulo-01.md  # Chapter 1 detailed analysis (~2200 lines)
-└── base/
-    ├── 0101-*.md            # Source research for chapter 1
-    ├── 0102-*.md            # Source research (Augustus Nicodemus series)
-    ├── Analise chat + transc.md  # Raw transcriptions and analysis
+└── base/                       # Source research and earlier drafts (reference only, not output)
+    ├── 0101-*.md               # Source research for chapter 1
+    ├── 0102-*.md               # Source research (Augustus Nicodemus series)
+    ├── 0103-*.md               # Introductory study of Genesis / Pentateuch analysis
+    ├── Analise chat + transc.md
     ├── analise chat + transc - after.md
-    ├── o que falta.md       # Feedback / gaps to fill
-    └── genesis_old.md       # Earlier draft
+    ├── o que falta.md          # Feedback / gaps to fill
+    └── genesis_old.md          # Earlier draft
 ```
 
-The project is structured to have one `genesis-capitulo-XX.md` file per chapter. The `base/` directory contains source research and earlier drafts — these are reference material, not output files.
+The project produces one `genesis-capitulo-XX.md` file per chapter. The `base/` directory is reference material — never edit it as output.
 
 ## Editorial Governance (CRITICAL)
 
@@ -42,7 +45,7 @@ The project enforces strict editorial rules defined in `Projeto Genesis/Projeto 
 
 ### Before editing any content file:
 1. Read `docs/conf.md` (project config, current `spec_version`)
-2. Read `docs/regras.md` (editing rules — sections 1–6)
+2. Read `docs/regras.md` (editing rules — sections 1–7)
 
 ### Every AI edit response must include:
 1. **Metadata block** — affected files, affected sections, change type, confidence level (0–1 with justification), explanatory notes
@@ -59,6 +62,13 @@ The project enforces strict editorial rules defined in `Projeto Genesis/Projeto 
 - End large sections with 1–3 practical applications
 - Hebrew/Greek terms must always be explained in simple Portuguese
 - Keep heading numbering (1.1, 2.4.1, etc.) consistent
+
+### References system (added in spec v1.2.0):
+- Use Markdown footnotes with author-year keys: `[^sobrenome-ano]` (lowercase, no accents, hyphen-separated)
+- Each content file must have a "Notas" section before the final index with all footnote definitions
+- Format: simplified ABNT — `SOBRENOME, Nome. *Título*. Série. Cidade: Editora, ano. p. XX.`
+- Every work cited in a footnote must also appear in the "Bibliografia recomendada" section
+- Biblical text defaults to NAA; other versions must be indicated explicitly
 
 ### Rule & version updates:
 - New rules must be written in `docs/regras.md`
