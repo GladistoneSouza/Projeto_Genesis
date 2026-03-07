@@ -32,6 +32,7 @@
   - [[#5.3.1. Os atos de nomear (*qara*) — soberania e ordem]]
 - [[#5.4. Segundo dia — Firmamento (vv. 6–8)]]
 - [[#5.5. Terceiro dia — Terra seca e vegetação (vv. 9–13)]]
+  - [[#5.5.1. "Produza a terra" — criação mediata e causas secundárias]]
 - [[#5.6. Quarto dia — Luminares (vv. 14–19)]]
 - [[#5.7. Quinto dia — Animais marinhos e aves (vv. 20–23)]]
   - [[#5.7.1. Os *tanninim* (תַּנִּינִם) — grandes criaturas e polêmica anti-mitológica]]
@@ -496,6 +497,16 @@ Deus faz o firmamento (*raqia*), separando as águas superiores das inferiores. 
 Dois atos criativos: (1) ajuntamento das águas e aparecimento da terra seca; (2) produção de vegetação — relva, ervas e árvores frutíferas "segundo as suas espécies."
 
 Deus faz a terra produzir vegetação, utilizando o que já criou para gerar novas expressões de vida. Isso mostra um **design intencional** e um sistema de **reprodução contínua**, sem necessidade de novos atos criadores para cada planta. Deus vincula a vida à terra — da mesma terra de onde o homem será formado depois (*'adam* de *'adamah*).
+
+#### 5.5.1. "Produza a terra" — criação mediata e causas secundárias
+
+Em três momentos de Gênesis 1, Deus não cria diretamente por fiat puro, mas convoca elementos já criados a participarem do processo criativo: **"Produza a terra relva" (*tadshé ha'aretz deshe*, v.11)**, **"Produzam as águas enxames de seres viventes" (*yishretsu hammayim*, v.20)** e **"Produza a terra seres viventes" (*totsé ha'aretz nephesh chayyah*, v.24)**. Nesses casos, a terra e as águas atuam como **causas secundárias** — instrumentos do poder divino, não fontes autônomas de vida.
+
+Calvino notou esse padrão com precisão teológica: Deus poderia ter criado tudo instantaneamente e sem mediação, mas escolheu investir a criação com capacidades produtivas, conferindo à terra e às águas uma "fertilidade" que reflete Sua generosidade[^calvino-1554]. A criação não é apenas um **evento pontual**, mas a inauguração de um **sistema contínuo** de produtividade sob a soberania divina.
+
+A teologia reformada distingue entre **criação imediata** (*creatio immediata* — como *bara* em v.1, v.21, v.27, onde Deus age sem intermediários) e **criação mediata** (*creatio mediata* — onde Deus opera por meio de causas secundárias que Ele mesmo estabeleceu). Ambas são igualmente atos de Deus; a diferença está no modo, não na autoria. Bavinck observa que essa distinção fundamenta a doutrina da **providência**: o mesmo Deus que criou continua sustentando e governando a criação por meio das leis naturais que Ele mesmo implantou[^bavinck-1895].
+
+Esse princípio tem implicações profundas: (1) a natureza não é divina nem autossuficiente — ela produz porque Deus a capacitou; (2) o trabalho humano com a terra (agricultura, ciência, tecnologia) participa do mandato criacional — colaboramos com as capacidades que Deus inseriu na criação; (3) a distinção entre criação imediata e mediata nos protege tanto do **deísmo** (Deus criou e se afastou) quanto do **ocasionalismo** (Deus faz tudo diretamente, sem causas secundárias). A posição bíblica é a de um Deus que **cria, sustenta e governa** — pessoalmente presente, mas atuando também por meio da ordem que estabeleceu.
 
 ### 5.6. Quarto dia — Luminares (vv. 14–19)
 
