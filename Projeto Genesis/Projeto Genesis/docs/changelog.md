@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-03-07 – Expansão massiva: 26 novas seções, sumário, notas e bibliografia
+
+[2026-03-07] – arquivo: genesis.md – seções: 1.9–1.14, 3.6–3.7, 4.7.1–4.7.8, 4.9–4.18, sumário, notas, bibliografia
+tipo: adição de conteúdo e atualização estrutural
+confiança: 0.93 — conteúdo novo redigido com base em fontes acadêmicas evangélicas e reformadas; verificado contra posições do projeto
+nota: Adicionadas 26 novas seções ao genesis.md cobrindo: (1) estrutura/metodologia — gênero literário (1.9), texto hebraico e testemunhas textuais (1.10), historicidade patriarcal (1.11), religião dos patriarcas (1.12), cronologia (1.13), geografia (1.14); (2) estrutura literária — poética e narratologia hebraica (3.6), composição e fontes (3.7); (3) questões contemporâneas — racismo (4.7.1), bioética (4.7.2), migração (4.7.3), Babel e IA (4.7.4), solidão digital (4.7.5), sacralidade da vida (4.7.6), ecologia (4.7.7), arqueologia recente (4.7.8); (4) temas teológicos — fé/justificação (4.9), providência (4.10), Éden como proto-templo (4.11), sacrifício substitutivo (4.12), rei prometido (4.13), juízo progressivo (4.14), duas cidades (4.15), exílio (4.16), adoração (4.17), graça comum (4.18). Sumário atualizado com todas as novas seções. 11 novas notas de rodapé adicionadas. 11 novas entradas bibliográficas em 3 novas categorias. Revisão geral e correções de formato também aplicadas (referências bíblicas, concordismo, tehom/Tiamat, Gn 14.19 NAA).
+
+---
+
 ## 2026-03-07 – Revisão de posição teológica: dias da criação
 
 [2026-03-07] – arquivo: genesis.md – seções: 6.5 (leituras debatidas), 7.2 (os "dias" de Gênesis 1)
