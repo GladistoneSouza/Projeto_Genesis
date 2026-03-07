@@ -3,6 +3,24 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-03-07 – Capítulo 1: segunda rodada de expansão (6 novas seções temáticas)
+
+[2026-03-07] – arquivo: genesis-capitulo-01.md – seções: 5.1.1, 5.2 (expansão), 5.3.1, 5.7.1, 5.7.2, 6.3 (expansão radah/kabash)
+tipo: adição de conteúdo exegético e teológico
+confiança: 0.94 — conteúdo baseado em fontes acadêmicas evangélicas/reformadas; termos hebraicos verificados; conexões canônicas AT-NT incluídas
+nota: Adicionadas 6 novas seções/expansões ao genesis-capitulo-01.md: (1) 5.1.1 — padrão de separação (*havdil*), 5 ocorrências em Gn 1, reverberação em Levítico e escatologia; (2) 5.2 expandida — fórmula *wayyo'mer...wayehi-khen*, palavra performativa, *davar* como palavra/coisa, conexão com Logos de João 1; (3) 5.3.1 — atos de nomear (*qara*), soberania sobre domínios cósmicos, delegação a Adão; (4) 5.7.1 — *tanninim* como polêmica anti-mitológica contra Tiamat/Lotan, desmitologização; (5) 5.7.2 — fórmula da bênção (*barakh*), capacitação divina, indicativo antes do imperativo; (6) 6.3 expansão — análise hebraica de *radah* e *kabash*, contexto ANE, distorção pós-queda, trajetória redentiva em Cristo. Sumário atualizado. Nova nota de rodapé [^day-1985] e entrada bibliográfica correspondente adicionadas.
+
+---
+
+## 2026-03-07 – Capítulo 1: primeira rodada de expansão (5 seções + correções)
+
+[2026-03-07] – arquivo: genesis-capitulo-01.md – seções: 3.5, 5.8 (expansão tov me'od), 5.11, 5.12, 6.5, 6.6, sumário, notas, correções gerais
+tipo: adição de conteúdo, correção de formato, criação de sistema de notas
+confiança: 0.93 — conteúdo baseado em fontes acadêmicas; verificado contra posições do projeto
+nota: (1) Correções de formato: referências bíblicas convertidas de ':' para '.'; 21 citações inline convertidas para notas de rodapé; sumário com wiki-links Obsidian; seções duplicadas mescladas (9.5/9.8); seção 9.3 reescrita para Gn 1. (2) Novas seções: 3.5 (verbos da criação bara/asah/yatzar), 5.8 expansão (tov me'od), 5.11 (sétimo dia, repouso divino), 5.12 (lemin/מִין), 6.5 (plural de Gn 1.26), 6.6 (três visões da imago Dei).
+
+---
+
 ## 2026-03-07 – Expansão massiva: 26 novas seções, sumário, notas e bibliografia
 
 [2026-03-07] – arquivo: genesis.md – seções: 1.9–1.14, 3.6–3.7, 4.7.1–4.7.8, 4.9–4.18, sumário, notas, bibliografia
