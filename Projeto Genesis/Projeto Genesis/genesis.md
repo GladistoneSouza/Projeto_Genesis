@@ -46,7 +46,7 @@
 - [[#5.3. A intrusão do mal]]
 - [[#5.4. O ritmo teológico de Gênesis 1–11: queda, juízo e graça]]
 
-**[[#6. Gênesis e o mundo antigo (ANE)]]**
+**[[#6. Gênesis e o mundo antigo (ANE — *Ancient Near East*, Antigo Oriente Próximo)]]**
 - [[#6.1. Gênesis vs. *Enuma Elish* (mito babilônico da criação)]]
 - [[#6.2. Gênesis vs. Épico de Atrahasis]]
 - [[#6.3. Gênesis vs. Épico de Gilgamesh (narrativa do dilúvio)]]
@@ -227,10 +227,7 @@ Diante desses desafios, a postura correta é de **humildade e reverência**. Doi
 - **O simplismo** — ignorar os textos difíceis ou descartá-los como irrelevantes, perdendo a riqueza teológica que Deus depositou ali.
 - **A hiper-análise** — tentar explicar cada microdetalhe à luz do conhecimento moderno, forçando o texto a responder perguntas que ele não se propôs a responder.
 
-O caminho do estudo sério e fiel é intermediário: investigar ao máximo o que foi revelado, buscar o ensino espiritual e teológico que o texto oferece, e aceitar com paz que há mistérios que Deus reservou para si:
-
-> "As coisas encobertas pertencem ao SENHOR, nosso Deus, porém as reveladas nos pertencem, a nós e aos nossos filhos, para sempre, para que cumpramos todas as palavras desta lei."
-> *(Deuteronômio 29.29)*
+O caminho do estudo sério e fiel é intermediário: investigar ao máximo o que foi revelado, buscar o ensino espiritual e teológico que o texto oferece, e aceitar com paz que há mistérios que Deus reservou para si (Dt 29.29).
 
 O propósito de Gênesis não é satisfazer todas as curiosidades científicas ou históricas, mas **revelar quem Deus é, quem somos e por que precisamos de redenção**. Quanto mais humilde a leitura, mais profundos os ensinamentos que se extraem dela.
 
@@ -274,13 +271,13 @@ A igreja primitiva herdou Gênesis como Escritura e o leu à luz de Cristo — m
 - O pecado original — a queda de Adão afetou toda a humanidade, transmitindo culpa e corrupção.
 - A Escritura não ensina ciência natural — "o Espírito Santo não quis ensinar aos homens essas coisas que não têm utilidade para a salvação."
 
-**João Crisóstomo (c. 347–407):** Representante da escola de Antioquia, pregou extensivamente sobre Gênesis (67 homilias). Insistia no **sentido literal e histórico** do texto: os dias são dias, os eventos são eventos, e a tarefa do intérprete é entender o que Moisés quis comunicar ao seu público original. Seu método é o mais próximo do que a tradição reformada adotaria mil anos depois.
+**João Crisóstomo (c. 347–407):** Representante da escola de Antioquia, pregou extensivamente sobre Gênesis (67 homilias). Insistia no **sentido literal e histórico** do texto: os dias são dias, os eventos são eventos, e a tarefa do intérprete é entender o que Moisés quis comunicar ao seu público original. Seu método histórico-gramatical é o mais próximo do que a tradição reformada adotaria mil anos depois — embora a questão específica da duração dos "dias" continue em debate legítimo dentro dessa mesma tradição (ver seção 7.2).
 
 ### 2.3. A Reforma: retorno ao texto
 
 A Reforma Protestante do século XVI representou uma revolução hermenêutica. Os reformadores rejeitaram o método alegórico medieval (que acumulara quatro "sentidos" da Escritura) e retornaram ao **sentido literal-gramatical** — o significado que o autor humano pretendia comunicar, entendido à luz da gramática, do contexto histórico e da analogia da fé.
 
-**Martinho Lutero (1483–1546):** Dedicou dez anos (1535–1545) a comentar Gênesis — suas *Preleções sobre Gênesis* ocupam oito volumes em suas obras completas. Lutero insistia que Gênesis é **história real**, não mito ou alegoria. Sobre os dias da criação, afirmou: "Moisés escreveu em linguagem simples, para que o povo pudesse entender. Quando Moisés diz que Deus criou os céus e a terra e tudo o que neles há em seis dias, então temos de aceitar que foram seis dias." Ao mesmo tempo, enfatizou que o centro de Gênesis é Cristo: a promessa de Gênesis 3.15 é "o primeiro evangelho" e toda a história patriarcal aponta para Ele.
+**Martinho Lutero (1483–1546):** Dedicou dez anos (1535–1545) a comentar Gênesis — suas *Preleções sobre Gênesis* ocupam oito volumes em suas obras completas. Lutero insistia que Gênesis é **história real**, não mito ou alegoria. Sobre os dias da criação, afirmou: "Moisés escreveu em linguagem simples, para que o povo pudesse entender. Quando Moisés diz que Deus criou os céus e a terra e tudo o que neles há em seis dias, então temos de aceitar que foram seis dias." (Essa posição de Lutero, embora influente, não é unanimidade na tradição reformada — ver seção 7.2 para o debate e a posição adotada neste projeto.) Ao mesmo tempo, enfatizou que o centro de Gênesis é Cristo: a promessa de Gênesis 3.15 é "o primeiro evangelho" e toda a história patriarcal aponta para Ele.
 
 **João Calvino (1509–1564):** O comentário de Calvino sobre Gênesis (1554) é uma das obras exegéticas mais influentes da história da igreja[^calvino-1554]. Três contribuições são especialmente duradouras:
 
@@ -288,7 +285,7 @@ A Reforma Protestante do século XVI representou uma revolução hermenêutica. 
 2. **Exegese centrada na intenção do autor** — O intérprete deve buscar o que Moisés quis dizer ao público original, não sentidos ocultos ou alegóricos.
 3. **O *sensus literalis* como sentido pleno** — Para Calvino, o sentido literal não é raso nem simplista — é o sentido completo do texto quando lido em seu contexto gramatical, histórico e canônico.
 
-A tradição reformada subsequente — expressa na Confissão de Fé de Westminster (1646) e nos padrões confessionais — manteve esses princípios e afirmou: Deus criou o mundo "do nada", "no espaço de seis dias", e "tudo muito bom"[^cfw-4].
+A tradição reformada subsequente — expressa na Confissão de Fé de Westminster (1646) e nos padrões confessionais — manteve esses princípios e afirmou: Deus criou o mundo "do nada", "no espaço de seis dias", e "tudo muito bom"[^cfw-4]. A expressão "no espaço de seis dias" é historicamente debatida dentro da própria tradição reformada: teólogos como B. B. Warfield e Herman Bavinck a interpretaram como compatível com dias não literais, enquanto outros mantiveram a leitura estritamente cronológica (ver seção 7.2).
 
 ### 2.4. A era crítica moderna
 
@@ -386,7 +383,7 @@ De Jacó — que recebe de Deus o nome **Israel** — nascem os doze filhos que 
 
 ### 3.2. A fórmula *toledot* ("estas são as gerações de…")
 
-A espinha dorsal do livro é a fórmula **toledot** (estas são as gerações de…), que aparece **11 vezes** em Gênesis, marcando **10 seções** distintas. Mais do que uma lista genealógica, cada *toledot* sinaliza uma transição narrativa — o bastão passa de um personagem ou era para o seguinte.
+A espinha dorsal do livro é a fórmula **toledot** (estas são as gerações de…), que aparece **11 vezes** em Gênesis, marcando **10 seções** distintas (as *toledot* de Esaú em Gn 36.1 e 36.9 contam como duas ocorrências da fórmula, mas formam uma única seção). Mais do que uma lista genealógica, cada *toledot* sinaliza uma transição narrativa — o bastão passa de um personagem ou era para o seguinte.
 
 **Debate acadêmico — superinscrição ou colofão?**
 
@@ -607,7 +604,7 @@ A terra aparece como lugar de domínio e mordomia (Gn 1), como solo amaldiçoado
 > "Eu sou o SENHOR, o Deus de Abraão, seu pai, e o Deus de Isaque. A terra em que você está deitado, eu a darei a você e à sua descendência. A sua descendência será como o pó da terra; você se estenderá para o oeste e para o leste, para o norte e para o sul. Em você e na sua descendência serão benditas todas as famílias da terra."
 > *(Gênesis 28.13–14 — a Jacó)*
 
-O tema da terra prometida nasce aqui e atravessa toda a Escritura até a nova terra de Apocalipse 21.
+O tema da terra prometida nasce aqui e atravessa toda a Escritura. Abraão torna-se "herdeiro do mundo" (Rm 4.13) — a promessa de uma terra específica se expande para uma herança cósmica. Hebreus interpreta os patriarcas como peregrinos que "buscavam uma pátria melhor, isto é, celestial" (Hb 11.13–16), e Cristo é declarado herdeiro de "todas as coisas" (Hb 1.2). O arco se completa na nova terra de Apocalipse 21 — onde a promessa a Abraão encontra seu cumprimento pleno e definitivo.
 
 ### 4.5. A aliança
 
@@ -836,7 +833,7 @@ Gênesis foi escrito num mundo cheio de mitos sobre criação, dilúvio e deuses
 
 ### 6.1. Gênesis vs. *Enuma Elish* (mito babilônico da criação)
 
-**Semelhanças superficiais:** ambos descrevem um estado primordial de águas e caos antes da criação; a palavra hebraica *tehom* ("abismo") está linguisticamente relacionada à deusa babilônica *Tiamat* (que personifica o mar); ambos apresentam a criação do ser humano no sexto momento, e a narrativa se organiza em sete unidades (sete dias em Gênesis, sete tabletes no *Enuma Elish*).
+**Semelhanças superficiais:** ambos descrevem um estado primordial de águas e caos antes da criação; a palavra hebraica *tehom* ("abismo") compartilha uma raiz semítica comum (*thm*) com o nome da deusa babilônica *Tiamat* — embora isso indique parentesco linguístico, não dependência direta (Tsumura); ambos apresentam a criação do ser humano no sexto momento, e a narrativa se organiza em sete unidades (sete dias em Gênesis, sete tabletes no *Enuma Elish*).
 
 **Diferenças teológicas radicais:**
 
@@ -874,7 +871,7 @@ Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. A
 - **Transcendência:** nas cosmogonias egípcias, os deuses **são** a natureza (Atum é o monte primordial, Ptah é a terra). Em Gênesis, Deus é **completamente separado** da criação — não há panteísmo nem emanacionismo.
 - **Criação por *fiat*** (do latim "faça-se" — criação pela simples palavra falada): o verbo *bara* ("criar") tem na Bíblia **somente Deus como sujeito**. Nenhuma outra entidade participa do ato criador.
 - **Luminares como servos:** enquanto o Egito adorava Rá (o sol) como divindade suprema, Gênesis nem sequer dá nome ao sol e à lua — chama-os de "luminar maior" e "luminar menor", rebaixando-os a meros **marcadores de tempo**.
-- **Sequência ordenada de seis dias + descanso:** inteiramente ausente nas cosmologias do ANE e do Egito.
+- **Sequência ordenada de seis dias de trabalho + descanso:** embora o *Enuma Elish* também se organize em sete unidades (tabletes), o padrão de **trabalho intencional seguido de descanso sabático** é exclusivo de Gênesis — nos mitos do ANE e do Egito, não há descanso divino nem padrão de semana.
 
 ### 6.5. Leituras debatidas (nota honesta de método)
 
@@ -883,7 +880,7 @@ Dado que Israel saiu do Egito, o contexto egípcio é especialmente relevante. A
   > "Pela fé, entendemos que o universo foi formado pela palavra de Deus, de maneira que o visível veio a existir das coisas que não são visíveis."
   > *(Hebreus 11.3)*
 
-- **Os "dias":** há interpretações **24h**, **estrutura-funcional** (formar→encher) e **literária-teológica**. Nosso foco é **o que o texto enfatiza**: Deus ordena e dá finalidade (separar, nomear, abençoar), culminando na vocação humana.
+- **Os "dias":** há interpretações **24h**, **dias analógicos**, **estrutura-funcional** (formar→encher) e **literária-teológica**. Adotamos a leitura de **dias divinos** (analógicos) — períodos reais de atividade criadora, mas não necessariamente de 24 horas humanas (ver seção 7.2). O foco do texto é **o que Deus faz**: ordena e dá finalidade (separar, nomear, abençoar), culminando na vocação humana.
 
 ---
 
@@ -914,9 +911,9 @@ As principais leituras dentro do campo evangélico são:
 
 Defendida por teólogos como Douglas Kelly[^kelly-1997] e pelo movimento do *Institute for Creation Research*. Argumenta que *yom*, quando acompanhado de numeral ordinal e da expressão "houve tarde e manhã", refere-se consistentemente a um dia solar normal no hebraico bíblico. Apoia-se na leitura mais natural e imediata do texto e na tradição confessional (CFW 4.1: "no espaço de seis dias"). Implica uma terra jovem (milhares de anos, não bilhões).
 
-**2. Dias-era (concordismo dia-era)** — *concordismo* é a tentativa de harmonizar o texto bíblico com as descobertas científicas ponto a ponto
+**2. Dias-era (concordismo dia-era)**
 
-Sustenta que cada "dia" representa um longo período de tempo. Apoia-se no uso de *yom* em outros contextos bíblicos — como Gênesis 2.4, "no dia em que o SENHOR Deus fez a terra e os céus", referindo-se ao período inteiro da criação — e em 2 Pedro 3.8 ("um dia para o Senhor é como mil anos"). Hugh Ross[^ross-1994] é o principal defensor contemporâneo. Busca harmonizar a sequência bíblica com a cronologia geológica.
+*Concordismo* é a tentativa de harmonizar o texto bíblico com as descobertas científicas ponto a ponto. Sustenta que cada "dia" representa um longo período de tempo. Apoia-se no uso de *yom* em outros contextos bíblicos — como Gênesis 2.4, "no dia em que o SENHOR Deus fez a terra e os céus", referindo-se ao período inteiro da criação — e em 2 Pedro 3.8 ("um dia para o Senhor é como mil anos"). Hugh Ross[^ross-1994] é o principal defensor contemporâneo. Busca harmonizar a sequência bíblica com a cronologia geológica.
 
 **3. Estrutura literária (*framework hypothesis*)**
 
@@ -926,7 +923,7 @@ Proposta por Meredith Kline[^kline-1958] e desenvolvida por Henri Blocher[^bloch
 
 Posição de C. John Collins[^collins-2006]: os "dias" são análogos aos dias humanos — períodos reais de atividade divina, mas não necessariamente idênticos a períodos solares de 24 horas. O texto usa linguagem antropomórfica (Deus "trabalhando" e "descansando") para comunicar verdade real por meio de analogia.
 
-**Posição adotada neste projeto:** Seguimos a leitura de **dias literais** como a mais natural diante do texto hebraico e como a posição historicamente predominante na tradição reformada. Ao mesmo tempo, reconhecemos com respeito que as demais leituras são sustentadas por teólogos evangélicos sérios e comprometidos com a autoridade da Escritura. A questão dos "dias" é importante, mas **não é o centro da mensagem de Gênesis 1** — o centro é Deus como Criador soberano, pessoal e bom.
+**Posição adotada neste projeto:** Entendemos os "dias" de Gênesis 1 como **dias divinos** — períodos reais de atividade criadora de Deus, mas não necessariamente idênticos a dias solares humanos de 24 horas. Essa leitura se alinha com a posição dos **dias analógicos** de C. John Collins[^collins-2006] e com o princípio da **acomodação** reconhecido por Calvino: Deus comunicou a verdade da criação usando a linguagem e as categorias compreensíveis para Moisés e o povo de sua época — uma narrativa organizada em "dias" de trabalho e descanso que estabelece o padrão para a semana humana, sem que isso implique que cada "dia" corresponda a exatas 24 horas humanas. A Escritura ensina que Deus opera fora das dimensões temporais humanas — o princípio expresso em 2 Pedro 3.8 ("um dia para o Senhor é como mil anos") e no Salmo 90.4 ("mil anos aos teus olhos são como o dia de ontem") refere-se primariamente à paciência e eternidade de Deus, mas revela um princípio válido: o tempo divino não se mede pelo relógio humano. Os "dias" da criação são medidos no tempo de Deus, não no nosso — o que é compatível com um período de criação muito mais longo do que seis dias solares. Ao mesmo tempo, reconhecemos com respeito que a leitura de dias literais é sustentada por teólogos sérios e tem tradição confessional significativa. A questão dos "dias" é importante, mas **não é o centro da mensagem de Gênesis 1** — o centro é Deus como Criador soberano, pessoal e bom.
 
 ### 7.3. A idade da terra e do universo
 
@@ -1129,7 +1126,7 @@ O uso que Jesus faz de Gênesis confirma a historicidade das narrativas e sua re
 
 **Melquisedeque (Hb 7):** A figura enigmática de Gênesis 14 — rei de Salém, sacerdote do Deus Altíssimo — é interpretada em Hebreus como tipo do sacerdócio eterno de Cristo:
 
-> "Melquisedeque, rei de Salém, trouxe pão e vinho; era sacerdote do Deus Altíssimo. Ele abençoou Abrão e disse: — Bendito seja Abrão pelo Deus Altíssimo, que criou os céus e a terra. E bendito seja o Deus Altíssimo, que entregou os adversários de você nas suas mãos. E Abrão deu a Melquisedeque o dízimo de tudo."
+> "Melquisedeque, rei de Salém, trouxe pão e vinho; era sacerdote do Deus Altíssimo. Ele abençoou Abrão, dizendo: — Bendito seja Abrão pelo Deus Altíssimo, Criador dos céus e da terra. E bendito seja o Deus Altíssimo, que entregou os adversários de você nas suas mãos. E Abrão deu a Melquisedeque o dízimo de tudo."
 > *(Gênesis 14.18–20)*
 
 > "Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, foi ao encontro de Abraão, quando este voltava da matança dos reis, e o abençoou. (...) Sem pai, sem mãe, sem genealogia, ele não teve princípio de dias nem fim de existência, mas, feito semelhante ao Filho de Deus, permanece sacerdote para sempre."
@@ -1313,17 +1310,17 @@ A história que começa com um Deus criando todas as coisas termina com todas as
 
 ## 10. Referências rápidas para catequese e ensino
 
-- **Criação:** Gn 1:1; 1:26–28; 2:7; Hb 11:3; Jo 1:1–3; Cl 1:16–17.
-- **Mandato cultural:** Gn 1:28; 2:15.
-- **Casamento:** Gn 2:24; Mt 19:4–6; Ef 5:31–32.
-- **Queda e pecado original:** Gn 3:1–7; 3:15; Rm 5:12; 1Co 15:22.
-- **Aliança com Noé:** Gn 8:20–9:17.
-- **Aliança com Abraão:** Gn 12:1–3; 15; 17; Gl 3:8–16.
-- **Justificação pela fé:** Gn 15:6; Rm 4:3; Gl 3:6.
-- **Providência:** Gn 50:20.
-- **Adão e Cristo:** Rm 5:12–21; 1Co 15:22,45.
-- **Melquisedeque:** Gn 14:18–20; Sl 110:4; Hb 7:1–17.
-- **Visão final:** Ap 21:1–5 (nova criação).
+- **Criação:** Gn 1.1; 1.26–28; 2.7; Hb 11.3; Jo 1.1–3; Cl 1.16–17.
+- **Mandato cultural:** Gn 1.28; 2.15.
+- **Casamento:** Gn 2.24; Mt 19.4–6; Ef 5.31–32.
+- **Queda e pecado original:** Gn 3.1–7; 3.15; Rm 5.12; 1Co 15.22.
+- **Aliança com Noé:** Gn 8.20–9.17.
+- **Aliança com Abraão:** Gn 12.1–3; 15; 17; Gl 3.8–16.
+- **Justificação pela fé:** Gn 15.6; Rm 4.3; Gl 3.6.
+- **Providência:** Gn 50.20.
+- **Adão e Cristo:** Rm 5.12–21; 1Co 15.22,45.
+- **Melquisedeque:** Gn 14.18–20; Sl 110.4; Hb 7.1–17.
+- **Visão final:** Ap 21.1–5 (nova criação).
 
 ---
 

@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-03-07 – Revisão de posição teológica: dias da criação
+
+[2026-03-07] – arquivo: genesis.md – seções: 6.5 (leituras debatidas), 7.2 (os "dias" de Gênesis 1)
+tipo: mudança de posição teológica do projeto
+confiança: 0.95 — posição explicitamente declarada pelo autor (Gladistone); alinhada com teólogos reformados (C. John Collins, Herman Bavinck, B. B. Warfield)
+nota: O projeto anteriormente adotava a leitura de "dias literais de 24 horas" (influência da análise inicial baseada em Augustus Nicodemus). O autor discorda dessa posição e adota a leitura de **dias divinos/analógicos** — períodos reais de atividade criadora de Deus, não necessariamente idênticos a dias solares humanos. A nova posição se alinha com os "dias analógicos" de C. John Collins e com o princípio da acomodação de Calvino. 2 Pedro 3.8 e Salmo 90.4 são citados com a nuance de que falam primariamente da eternidade/paciência de Deus, mas expressam o princípio de que o tempo divino não se mede pelo relógio humano. A leitura de dias literais permanece descrita e respeitada como posição legítima dentro do campo evangélico. Não houve alteração de spec_version (mudança de conteúdo teológico, não de regras editoriais).
+
+---
+
 ## 2025-03-05 – Versão 1.2.0
 
 [2025-03-05] – arquivo: docs/regras.md – seção: 7. Sistema de referências e citações
