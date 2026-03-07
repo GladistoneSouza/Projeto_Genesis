@@ -74,19 +74,17 @@
 - [[#9.8. Trabalho, descanso e a crise do *burnout*]]
 - [[#9.9. Esperança escatológica]]
 
-**[[#10. Visões de mundo incompatíveis com Gênesis 1]]**
+**[[#10. Perspectivas da teologia reformada sobre Gênesis 1]]**
+- [[#10.1. João Calvino — O princípio da acomodação]]
+- [[#10.2. Herman Bavinck — Criação perfeita, mas ainda não completa]]
+- [[#10.3. Geerhardus Vos — O sábado como princípio escatológico]]
+- [[#10.4. Confissão de Fé de Westminster, capítulo 4 — Da Criação]]
+- [[#10.5. O pacto da criação e os mandatos criacionais]]
+- [[#10.6. Vozes reformadas brasileiras]]
 
-**[[#11. Perspectivas da teologia reformada sobre Gênesis 1]]**
-- [[#11.1. João Calvino — O princípio da acomodação]]
-- [[#11.2. Herman Bavinck — Criação perfeita, mas ainda não completa]]
-- [[#11.3. Geerhardus Vos — O sábado como princípio escatológico]]
-- [[#11.4. Confissão de Fé de Westminster, capítulo 4 — Da Criação]]
-- [[#11.5. O pacto da criação e os mandatos criacionais]]
-- [[#11.6. Vozes reformadas brasileiras]]
+**[[#11. Bibliografia recomendada]]**
 
-**[[#12. Bibliografia recomendada]]**
-
-**[[#13. Notas]]**
+**[[#12. Notas]]**
 
 ---
 
@@ -1012,6 +1010,9 @@ Cada afirmação de Gênesis 1 confronta diretamente uma premissa da cultura con
 - **"Homem e mulher os criou" vs. construtivismo de gênero** — O v. 27 apresenta a diferenciação sexual como ato criador intencional, não como construção cultural arbitrária. Jesus confirma essa leitura como normativa (Mt 19.4–6).
 - **"Deus viu que era bom" vs. niilismo** — O refrão de bondade nega que a existência seja absurda. Há propósito, beleza e valor intrínsecos na criação — porque o Criador assim declarou.
 - **"Sujeitem-na" vs. exploração irresponsável** — O mandato de domínio (v. 28) combinado com o mandato de guarda (Gn 2.15) estabelece mordomia, não exploração. O ser humano governa sob autoridade, não com autonomia absoluta.
+- **"No princípio, Deus criou" vs. dualismo** — Não há forças iguais de bem e mal em disputa. Satanás não é "anti-Deus": é anjo caído, criatura subordinada. Toda forma de maniqueísmo é negada pelo monoteísmo absoluto de Gênesis 1.1.
+- **"Criou os céus e a terra" vs. eternidade da matéria** — A matéria não é eterna nem autoexistente. Gênesis afirma *creatio ex nihilo* — Deus trouxe à existência aquilo que não existia (Hb 11.3). Isso exclui também a autogeração do universo (a ideia de que o cosmos se "auto-pariu" sem agente pessoal).
+- **"Deus criou… e viu que era bom" vs. panteísmo** — Deus é distinto da criação. A natureza é boa, mas não é divina. Tanto o panteísmo (Deus = natureza) quanto o panenteísmo (Deus contém a natureza) são incompatíveis com a distinção Criador-criatura que Gênesis 1 estabelece desde o primeiro versículo.
 
 > Para o tratamento ampliado dessas questões — racismo, bioética, migração, IA, solidão, ecologia — ver a seção 4.7 do comentário geral (*genesis.md*).
 
@@ -1082,28 +1083,15 @@ Gênesis 1 é o começo de uma história que termina em Apocalipse 21–22: da c
 
 ---
 
-## 10. Visões de mundo incompatíveis com Gênesis 1
+## 10. Perspectivas da teologia reformada sobre Gênesis 1
 
-Para clareza, Gênesis 1 é incompatível com:
-
-- **Dualismo / maniqueísmo** — a ideia de que o bem e o mal são forças iguais em disputa. Satanás nunca é "anti-Deus" no mesmo nível: é anjo caído, criatura subordinada.
-- **Eternidade da matéria** — a crença de que a matéria sempre existiu. Gênesis afirma que Deus criou *ex nihilo*.
-- **Autogeração do universo** — a ideia de que o mundo se "auto-pariu" do nada, sem agente pessoal.
-- **Panteísmo / panenteísmo** — a confusão entre Deus e natureza. Deus é distinto da criação.
-- **Naturalismo materialista** — o pressuposto filosófico de que nada existe além da matéria e de processos naturais.
-- **Relativismo moral** — a negação de um padrão moral objetivo. Se Deus criou com propósito e declarou "bom", existe um referencial que não depende de opinião humana.
-
----
-
-## 11. Perspectivas da teologia reformada sobre Gênesis 1
-
-### 11.1. João Calvino — O princípio da acomodação
+### 10.1. João Calvino — O princípio da acomodação
 
 Calvino[^calvino-1554] argumenta que Moisés empregou uma linguagem **acomodada** ao entendimento do homem comum. Deus distribuiu Sua obra criadora em seis dias "com o propósito de acomodar Suas obras à capacidade dos homens", para que pausássemos e refletíssemos sobre cada etapa. Quanto à linguagem cosmológica (por exemplo, o sol e a lua como "luzeiros" maiores e menores), Calvino explica que Moisés "se adapta à visão ordinária" do povo. Isso liberta o intérprete para focar na mensagem teológica sem se prender a debates científicos modernos como questão primária.
 
 Sobre *creatio ex nihilo*, Calvino ensina que *bara* significa "criar" e indica que "o mundo foi feito do nada", refutando "a loucura daqueles que imaginam que matéria informe existia desde a eternidade." Sobre a *imago Dei*, rejeita a interpretação dos "antropomorfitas" que buscavam a imagem de Deus no corpo humano — a *imago Dei* reside nas qualidades espirituais e racionais da alma.
 
-### 11.2. Herman Bavinck — Criação perfeita, mas ainda não completa
+### 10.2. Herman Bavinck — Criação perfeita, mas ainda não completa
 
 Bavinck[^bavinck-1895] define a criação como "um ato de Deus pelo qual, por Sua vontade soberana, Ele trouxe o mundo inteiro do não-ser a um ser distinto do Seu próprio ser." Nenhuma das alternativas à visão bíblica (dualismo, panteísmo, emanacionismo) expressa verdadeiramente a ideia estrita de criação. A fórmula *creatio ex nihilo* é a marca distintiva da cosmovisão bíblica.
 
@@ -1111,7 +1099,7 @@ Sobre a Trindade e a criação, Bavinck desenvolve o "motivo orgânico": a cria�
 
 Crucialmente, Bavinck sustenta que "embora a criação fosse perfeita, ela ainda não estava completa." Havia embutido na criação um futuro a ser realizado, um amadurecimento. Deus "colocou o organismo completo no germe, o futuro no presente." Adão foi criado para uma glória superior, e o caminho era a obediência. Isso significa que o mandato cultural de Gênesis 1.28 não é apenas tarefa, mas **caminho escatológico** — a criação aponta para a consumação.
 
-### 11.3. Geerhardus Vos — O sábado como princípio escatológico
+### 10.3. Geerhardus Vos — O sábado como princípio escatológico
 
 Vos[^vos-1948] argumenta que a teologia bíblica deve começar com a "revelação especial pré-redentiva primitiva dada no Éden." No jardim, Deus colocou diante de Adão um alvo escatológico: a perspectiva de uma comunhão eterna e imutável.
 
@@ -1119,7 +1107,7 @@ Sobre o sábado, Vos afirma que o "descanso" de Gênesis 2.1–3 "representa a c
 
 Nas palavras de Vos: "o escatológico é um fio mais antigo na revelação que o sotérico" — a escatologia precede a soteriologia. Isso transforma radicalmente a leitura de Gênesis 1. não é apenas relato de origens, mas **prólogo escatológico** de toda a história redentiva. O "muito bom" de Gênesis 1.31 é ponto de partida, não ponto de chegada.
 
-### 11.4. Confissão de Fé de Westminster, capítulo 4 — Da Criação
+### 10.4. Confissão de Fé de Westminster, capítulo 4 — Da Criação
 
 A CFW afirma que "aprouve a Deus Pai, Filho e Espírito Santo, para a manifestação da glória do Seu eterno poder, sabedoria e bondade, no princípio, criar ou fazer do nada o mundo e tudo o que nele existe, quer visível quer invisível, no espaço de seis dias, e tudo muito bom."
 
@@ -1127,13 +1115,13 @@ Três atributos divinos são supremamente glorificados na criação: **poder** e
 
 A CFW 4.2 declara que Deus "criou o homem, macho e fêmea, com almas racionais e imortais, dotados de conhecimento, justiça e verdadeira santidade, segundo a Sua própria imagem." A *imago Dei* inclui dimensões intelectuais (conhecimento), morais (justiça e santidade) e legais (lei escrita no coração).
 
-### 11.5. O pacto da criação e os mandatos criacionais
+### 10.5. O pacto da criação e os mandatos criacionais
 
 A teologia reformada identifica na narrativa de Gênesis 1–2 os elementos constitutivos de um pacto: soberania divina, sustento, relação, responsabilidade, bênçãos e maldições. O Pacto de Obras foi estabelecido com Adão como representante federal da humanidade, tendo como condição a obediência perfeita e como sanção a morte (Gn 2.17).
 
 Dentro deste pacto, a teologia reformada identifica mandatos específicos dados em Gênesis 1–2: o **mandato cultural** ("Sede fecundos e multiplicai-vos", 1.28), o **mandato do trabalho** (2.15), e o princípio do **sábado** (2.3). Esses mandatos são pré-mosaicos e considerados universalmente válidos — não apenas para Israel, mas para toda a humanidade.
 
-### 11.6. Vozes reformadas brasileiras
+### 10.6. Vozes reformadas brasileiras
 
 **Augustus Nicodemus Lopes**[^nicodemus-2022] — Em *No Princípio de Tudo: A Mensagem de Gênesis 1–11 para a Igreja de Hoje*, aborda as questões fundamentais que Gênesis 1–11 responde: "Por que existe algo em vez do nada? Por que existe o mal no mundo? Por que precisamos do evangelho e de um Redentor?" É a principal referência em português para quem busca uma exposição reformada contemporânea dos primeiros capítulos de Gênesis.
 
@@ -1145,7 +1133,7 @@ Dentro deste pacto, a teologia reformada identifica mandatos específicos dados 
 
 ---
 
-## 12. Bibliografia recomendada
+## 11. Bibliografia recomendada
 
 ### Comentários e obras exegéticas
 
@@ -1184,7 +1172,7 @@ Dentro deste pacto, a teologia reformada identifica mandatos específicos dados 
 
 ---
 
-## 13. Notas
+## 12. Notas
 
 [^cassuto-1961]: CASSUTO, Umberto. *A Commentary on the Book of Genesis, Part I: From Adam to Noah*. Jerusalem: Magnes Press, 1961.
 
