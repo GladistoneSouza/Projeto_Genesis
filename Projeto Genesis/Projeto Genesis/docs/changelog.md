@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-03 – Correção: duas afirmações doutrinárias enfraquecidas na migração do léxico
+
+[2026-09-03] – arquivo: genesis-01/01-texto-hebraico.md – seção 3 (verbetes *bereshit* e *bara*), seção 5 (nota de rastreabilidade)
+tipo: **correção de mudança de sentido não declarada** — restauração de posição do autor
+confiança: 1.0 — a divergência foi detectada por comparação mecânica do arquivo contra a versão em a07a1d8, e as duas afirmações originais foram restauradas literalmente
+nota: Auditoria da divisão do capítulo 1 (diff contra o commit a07a1d8) apontou 23 linhas do original ausentes na pasta nova. Vinte e uma são substituição deliberada e sem perda: título antigo, cabeçalhos de seção migrados ou renumerados (§3.1 → §2.1, §3.4 → §4.1, §3.5 → §4.2), e a tabela de 13 termos do §3.2, ampliada para o léxico de 43 verbetes. **As outras duas eram regressão doutrinária introduzida por mim na reescrita do léxico, sem declaração — violação da regra 6.3.** (1) *bereshit*: o autor afirmava "início absoluto de tempo, espaço e matéria"; a reescrita apresentava o debate construto/independente sem decidir, ficando **mais neutra que a posição declarada do próprio projeto** em posicoes.md #3 (leitura clássica independente). (2) *bara*: o autor afirmava "criação soberana, *ex nihilo*"; a reescrita trocara por "não se diz o material de que se cria" — recuo exegeticamente defensável, mas que **não cabia à IA tomar**. Ambas as afirmações foram restauradas literalmente. A nuance que motivou o recuo foi preservada, mas agora **acrescentada** à posição do autor em vez de substituí-la: o verbete de *bara* registra que o verbo isolado não demonstra a criação do nada e remete a Hb 11.3; o de *bereshit* registra o estado construto como o argumento do lado contrário, remetendo à fatura em posicoes.md. Acrescentada nota de rastreabilidade na §5 registrando a correspondência entre a tabela antiga e o léxico novo, incluindo a realocação de `'ish / 'ishshah` (termos que não ocorrem em Gênesis 1, só em Gênesis 2). **Sem incremento de spec_version:** nenhuma regra nova; restauração do que já era a posição do projeto.
+
+---
+
 ## 2026-09-03 – Criados 01-texto-hebraico.md e prefacio.md
 
 [2026-09-03] – arquivos: genesis-01/01-texto-hebraico.md (novo), prefacio.md (novo, nível-livro)

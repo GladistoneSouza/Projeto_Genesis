@@ -87,8 +87,8 @@ Os termos aparecem na ordem em que surgem no texto.
 
 | Hebraico | Transliteração | Raiz | Sentido e uso **aqui** |
 |---|---|---|---|
-| בְּרֵאשִׁית | **bereshit** | ר-א-שׁ (*rosh*, cabeça) | "No princípio" / "em princípio de". Literalmente "na cabeça de". A forma é de estado construto, o que alimenta o debate sobre se 1.1 é frase independente ou oração subordinada → [[04-exegese-1-2]] |
-| בָּרָא | **bara** | ב-ר-א | "Criar". Na Bíblia hebraica, **só Deus é sujeito deste verbo** — nunca um ser humano. Não se diz o material de que se cria |
+| בְּרֵאשִׁית | **bereshit** | ר-א-שׁ (*rosh*, cabeça) | "No princípio". Literalmente "na cabeça de". **O comentário adota a leitura clássica: 1.1 é frase independente, e afirma um início absoluto de tempo, espaço e matéria.** A forma é de estado construto, o que sustenta a leitura alternativa ("quando Deus começou a criar") — posição e fatura registradas em [[../docs/posicoes\|posicoes.md]] #3 → [[04-exegese-1-2]] |
+| בָּרָא | **bara** | ב-ר-א | "Criar" — criação soberana, ***ex nihilo***. Na Bíblia hebraica, **só Deus é sujeito deste verbo**, nunca um ser humano, e o texto jamais diz o material de que se cria. (O verbo isolado não *demonstra* a criação do nada; a doutrina se apoia no conjunto da Escritura, cf. Hb 11.3 — mas é a leitura deste comentário.) |
 | אֱלֹהִים | **Elohim** | א-ל-ה | "Deus". Forma **plural**, mas com verbo no **singular** (*bara*, não *bar'u*) — plural de majestade, não de número → §4.1 |
 | אֵת | **'et** | — | Não se traduz. Marca o objeto direto definido: indica *o que* foi criado |
 | הַשָּׁמַיִם | **hashamayim** | — | "Os céus". Forma dual/plural; não tem singular em uso |
@@ -201,7 +201,7 @@ flowchart TD
 
 **Texto hebraico.** *Miqra according to the Masorah*, obtida via API do Sefaria em 2026-09-03. É edição do texto massorético com vocalização e acentuação completas. Nenhum caractere foi digitado de memória — o texto foi transferido da fonte e conferido em amostragem.
 
-**Léxico.** Redigido para este documento. As raízes e campos semânticos seguem o uso corrente dos léxicos hebraicos padrão; onde uma afirmação depende de leitura disputada, o verbete aponta para o documento de estudo que a discute.
+**Léxico.** Substitui a tabela de 13 termos que existia no antigo `genesis-capitulo-01.md` §3.2, ampliando-a para 43 verbetes na ordem de ocorrência. Todos os termos da tabela anterior estão cobertos: `'ish / 'ishshah` foi realocado como observação sob *zakhar u-neqevah*, porque esses termos **não ocorrem em Gênesis 1** — aparecem só em Gênesis 2. As afirmações do autor sobre *bereshit* (início absoluto) e *bara* (*ex nihilo*) foram preservadas na íntegra. Redigido para este documento. As raízes e campos semânticos seguem o uso corrente dos léxicos hebraicos padrão; onde uma afirmação depende de leitura disputada, o verbete aponta para o documento de estudo que a discute.
 
 **Seções 4.1 e 4.2** vêm do antigo `genesis-capitulo-01.md`, onde eram §3.4 e §3.5. Foram renumeradas ao migrar (nenhuma remissão de `docs/posicoes.md` apontava para elas).
 
