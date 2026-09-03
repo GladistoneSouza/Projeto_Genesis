@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-03 – Versão 1.3.0 — criado docs/posicoes.md: registro único de posições doutrinárias
+
+[2026-09-03] – arquivos: docs/posicoes.md (novo), docs/regras.md (seção 6.1 e nova 6.1.1)
+tipo: adição de regra editorial e criação de arquivo de governança
+confiança: 1.0 para o registro — nenhuma posição foi criada, inferida ou alterada; todas foram extraídas de declarações já existentes em genesis.md e genesis-capitulo-02.md, com a origem apontada em cada linha. A seção "Em aberto" lista questões que comprovadamente não têm posição declarada em nenhum arquivo.
+nota: Com 48 capítulos restantes, as posições do projeto estavam distribuídas por genesis.md, genesis-capitulo-01.md, genesis-capitulo-02.md e changelog.md, sem registro único — a posição sobre os "dias", por exemplo, mora na linha 1384 de um arquivo de 1.946 linhas. Isso funcionou para 2 capítulos; para 48 é o mecanismo pelo qual um capítulo futuro contradiz um anterior sem que ninguém perceba, e o changelog mostra que uma posição já mudou uma vez. Criado docs/posicoes.md com: 10 posições adotadas (gênero, autoria, sintaxe de 1.1-3, os dias, criação, historicidade de Adão, relação Gn 1×2, Éden como proto-templo, aliança adâmica, complementaridade), a voz e método do projeto, o histórico de mudança de posição, e 8 questões em aberto mapeadas ao capítulo em que passam a ser necessárias. Quatro delas são pré-requisito do capítulo 3 (natureza da serpente, a morte ameaçada em 2.17, Gn 3.15 como protoevangelho, historicidade da queda). Cada posição traz a coluna **"A fatura"** — o que ela paga — seguindo a regra adotada do projeto Judas de que nenhuma posição é grátis: registrar só o que foi adotado, apresentando as alternativas como legítimas, é a versão fraca que permite trocar de posição sem perceber o preço, e foi o que ocorreu na mudança sobre os "dias". Duas faturas estão **declaradas no próprio texto** (dias analógicos: abre mão do argumento de *yom* + numeral ordinal e se afasta de tradição confessional, §7.2; criação: o projeto fica sem mecanismo declarado, §7.4); as outras nove estão marcadas ⚠️ a declarar, sendo a de Adão histórico a mais cara — marcada "inegociável" sem o preço escrito. As colunas de extração são procedência `A`; as ⚠️ são `IA`, pendentes de ratificação. Regra 6.1 passa a exigir a leitura de posicoes.md antes de qualquer edição; nova 6.1.1 proíbe tomar posição nova sem registrá-la, e reserva a decisão ao autor. **spec_version incrementada: 1.2.0 → 1.3.0** (adição de regra editorial), aplicada após confirmação explícita do autor, conforme regras.md §6.4.
+
+---
+
 ## 2026-09-03 – Reparo de encoding em regras.md e conf.md (inclui correção semântica)
 
 [2026-09-03] – arquivos: docs/regras.md (seções 1–5, título), docs/conf.md (título, comentários) – seções 6–7 de regras.md não foram tocadas

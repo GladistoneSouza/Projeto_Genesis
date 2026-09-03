@@ -58,7 +58,10 @@ Toda resposta da IA deve começar com:
 
   - ler `docs/conf.md`;
   - ler `docs/regras.md`;
+  - ler `docs/posicoes.md` — o registro das posições doutrinárias já adotadas pelo projeto;
   - se necessário, ler o trecho relevante do arquivo-alvo (apenas a seção que pretende alterar).
+
+6.1.1. Nenhuma posição doutrinária nova pode ser tomada dentro de um arquivo de conteúdo sem ser registrada em `docs/posicoes.md`. Se um capítulo exigir decidir uma questão que consta como "em aberto" naquele arquivo, a decisão é do autor — a IA apresenta as opções e o custo de cada uma, não escolhe.
 
 6.2. Estrutura obrigatória de cada resposta da IA:
 
