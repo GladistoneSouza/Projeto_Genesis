@@ -18,7 +18,8 @@
 
 ## 2. Arquivos principais
 
-- `genesis.md` — conteúdo comentado de Gênesis.
+- `genesis.md` — introdução geral ao livro (nível-livro).
+- `genesis-XX/` — **uma pasta por capítulo**, contendo os documentos de estudo daquele capítulo (ver seção 8).
 - `docs/conf.md` — configurações.
 - `docs/changelog.md` — histórico de mudanças.
 - `docs/regras.md` — este arquivo.
@@ -124,7 +125,9 @@ O projeto adota um sistema de referências para garantir rigor acadêmico, mesmo
 
 ### 7.3. Seção de notas
 
-  - Cada arquivo de conteúdo (`genesis.md`, `genesis-capitulo-XX.md`) deve ter, antes da última seção (Índice), uma seção chamada **"Notas"** contendo todas as definições de notas de rodapé.
+  - **(revisada em 1.4.0)** Notas de rodapé Markdown **não atravessam arquivos**. Portanto, cada documento carrega as suas próprias: uma seção **"Notas"** ao final, contendo apenas as definições das chaves que aquele documento usa.
+  - O documento `14-notas-e-bibliografia.md` de cada pasta consolida a bibliografia do capítulo inteiro e mantém o conjunto completo das notas, para consulta.
+  - Em arquivos de nível-livro (`genesis.md`), a seção "Notas" continua vindo antes da última seção (Índice).
   - As notas seguem o formato ABNT simplificado:
     ```
     SOBRENOME, Nome. *Título da obra*. Série/Coleção. Cidade: Editora, ano. p. XX (se aplicável).
@@ -135,3 +138,26 @@ O projeto adota um sistema de referências para garantir rigor acadêmico, mesmo
   - A seção "Bibliografia recomendada" permanece como guia de leitura (descrição informal de cada obra).
   - As notas de rodapé são a referência formal e precisa.
   - Toda obra citada em nota de rodapé deve aparecer também na bibliografia.
+
+## 8. Estrutura de pastas por capítulo (spec 1.4.0)
+
+8.1. **Cada capítulo é uma pasta, não um arquivo.** O formato `genesis-capitulo-XX.md` (arquivo único de 1.000–1.500 linhas) fica obsoleto: um capítulo passa a ser `genesis-XX/`, e dentro dela cada documento trata de **um assunto só**.
+
+8.2. A pasta se divide em duas etapas, e a ordem tem razão de ser:
+
+  - **Material preparatório** (`01`, `02`) — o texto original e as traduções. É instrumento, não interpretação: existe para que o leitor possa conferir o texto por conta própria e, se for o caso, **discordar do autor com o mesmo material na mão**.
+  - **Estudo** (`03` em diante) — o comentário propriamente dito.
+
+8.3. **Nomes de arquivo:** `NN-assunto-em-kebab.md` — dois dígitos, sem acentos, sem espaços. A numeração define a ordem de leitura e de exportação para PDF.
+
+8.4. **`00-como-usar.md` é obrigatório** em toda pasta de capítulo: índice dos documentos, guia de "por onde começar" conforme o objetivo do leitor, e ponteiro para `docs/posicoes.md`.
+
+8.5. **A numeração das seções é preservada na divisão.** Se uma seção era §5.10 no capítulo, continua §5.10 dentro do documento que a recebeu. O caminho muda; a referência, não — de modo que as remissões de `docs/posicoes.md` seguem válidas.
+
+8.6. **`01-texto-hebraico.md`** — texto hebraico integral do capítulo, com transliteração e análise palavra a palavra: raiz, campo semântico e o uso **naquele contexto**.
+
+8.7. **`02-traducoes-br.md`** — **apenas texto de traduções, sem comentário exegético.** As versões são apresentadas da mais formal (equivalência formal) para a mais dinâmica, e o documento destaca os versículos em que a escolha de tradução altera o sentido. A explicação de *por que* a divergência importa pertence aos documentos de exegese, que remetem a este.
+
+8.8. **Tamanho:** nenhum documento deve passar de aproximadamente 10 páginas. Se passar, divide-se por assunto.
+
+8.9. Um arquivo de capítulo no formato antigo, uma vez dividido, recebe aviso de substituição no topo e deixa de ser editado.

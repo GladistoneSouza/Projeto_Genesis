@@ -4,6 +4,10 @@
 
 ---
 
+> [!warning] Arquivo substituído
+> Este arquivo foi dividido na pasta [[genesis-01/00-como-usar|genesis-01/]] (spec 1.4.0). Ele é mantido apenas como referência da versão anterior — **não edite aqui**.
+
+
 ## Sumário
 
 **[[#1. Texto bíblico base (NAA)]]**

@@ -37,6 +37,7 @@
 |---|---|
 | **Tradição** | Reformada / evangélica, linha didática e pastoral (influência de Augustus Nicodemus) |
 | **Texto bíblico** | NAA por padrão; outra versão exige indicação |
+| **Traduções comparadas** | Cada capítulo traz um documento `02-traducoes-br.md` que ordena as versões **da mais formal para a mais dinâmica**, abrindo com a **TB (1917)** como texto de referência para quem quer ler próximo do original. **Fatura declarada** (no próprio documento): "mais literal" não é sinônimo de "mais fiel" — é uma teoria de tradução, não um fato; um decalque da sintaxe hebraica pode transmitir *pior* o sentido. A TB serve como régua, não como leitura devocional, e a versão-base do comentário continua sendo a NAA. Adotada em 2026-09-03, spec 1.4.0 |
 | **Leituras alternativas** | Descritas com respeito quando sustentadas por teólogos sérios — sobretudo a dos dias literais, que tem tradição confessional significativa |
 | **O centro** | A questão dos "dias" é importante, mas **não é o centro de Gênesis 1** — o centro é Deus como Criador soberano, pessoal e bom |
 

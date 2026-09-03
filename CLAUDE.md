@@ -22,23 +22,29 @@ All paths below are relative to the repo root.
 Projeto Genesis/
 ├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
-│   │   ├── conf.md             # Project config, spec_version (currently 1.3.0)
-│   │   ├── regras.md           # Editorial rules — sections 1–7 (AI must read before any edit)
+│   │   ├── conf.md             # Project config, spec_version (currently 1.4.0)
+│   │   ├── regras.md           # Editorial rules — sections 1–8 (AI must read before any edit)
 │   │   ├── posicoes.md         # Doctrinal positions register (AI must read before any edit)
 │   │   └── changelog.md        # Change log with date, version, confidence
-│   ├── genesis.md              # Book-level commentary (~1300 lines)
-│   └── genesis-capitulo-01.md  # Chapter 1 detailed analysis (~2200 lines)
+│   ├── prefacio.md             # Book-level preface — declares the project's bias and method
+│   ├── genesis.md              # Book-level introduction (~1950 lines)
+│   ├── genesis-01/             # Chapter 1 — ONE FOLDER PER CHAPTER (spec 1.4.0)
+│   │   ├── 00-como-usar.md     # Folder index + reading guide (mandatory in every chapter folder)
+│   │   ├── 01-texto-hebraico.md   # PREPARATORY: full Masoretic text, lexicon, grammar
+│   │   ├── 02-traducoes-br.md     # PREPARATORY: translations compared — text only, no commentary
+│   │   └── 03..14-*.md            # STUDY: exegesis, ANE, canon, debates, applications, bibliography
+│   ├── genesis-capitulo-01.md  # SUPERSEDED by genesis-01/ — do not edit
+│   └── genesis-capitulo-02.md  # Old format; to be split into genesis-02/
 └── base/                       # Source research and earlier drafts (reference only, not output)
-    ├── 0101-*.md               # Source research for chapter 1
-    ├── 0102-*.md               # Source research (Augustus Nicodemus series)
-    ├── 0103-*.md               # Introductory study of Genesis / Pentateuch analysis
-    ├── Analise chat + transc.md
-    ├── analise chat + transc - after.md
-    ├── o que falta.md          # Feedback / gaps to fill
-    └── genesis_old.md          # Earlier draft
 ```
 
-The project produces one `genesis-capitulo-XX.md` file per chapter. The `base/` directory is reference material — never edit it as output.
+**As of spec 1.4.0, a chapter is a FOLDER, not a file.** `genesis-capitulo-01.md` (1.473 lines) proved unusable as reading, so each chapter became `genesis-XX/` with one short document per topic, capped at ~10 pages each. See `docs/regras.md` §8 for the full specification.
+
+The folder has two stages, and the order is deliberate:
+- **Preparatory** (`01`, `02`) — the raw material: original text and translations. Instruments, not interpretation. They come first so the reader can check the commentary instead of trusting it.
+- **Study** (`03`–`14`) — the commentary proper.
+
+Chapter 2 is still in the old single-file format and needs splitting. The `base/` directory is reference material — never edit it as output.
 
 ## Skills
 
@@ -54,11 +60,11 @@ User-level skills at `~/.claude/skills/` cover this project and load in any dire
 The project enforces strict editorial rules defined in `Projeto Genesis/Projeto Genesis/docs/`.
 
 ### Before editing any content file:
-1. Read `docs/conf.md` (project config, current `spec_version`)
-2. Read `docs/regras.md` (editing rules — sections 1–7)
+1. Read `docs/conf.md` (project config, current `spec_version` — 1.4.0)
+2. Read `docs/regras.md` (editing rules — sections 1–8; §8 covers the folder structure)
 3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open)
 
-### Doctrinal positions (rule 6.1.1, spec 1.3.0):
+### Doctrinal positions (rule 6.1.1):
 - **No new doctrinal position may be taken inside a content file without registering it in `docs/posicoes.md`.**
 - If a chapter requires deciding a question listed there as *em aberto*, **the decision belongs to the author.** Present the options and the cost each one pays — do not choose.
 - Every position carries a **"fatura"** column: what that position costs. Positions marked ⚠️ have been adopted without the cost ever being written down; that gap is the point of the column.
@@ -82,7 +88,7 @@ The project enforces strict editorial rules defined in `Projeto Genesis/Projeto 
 
 ### References system (added in spec v1.2.0):
 - Use Markdown footnotes with author-year keys: `[^sobrenome-ano]` (lowercase, no accents, hyphen-separated)
-- Each content file must have a "Notas" section before the final index with all footnote definitions
+- **(revised in 1.4.0)** Markdown footnotes do not cross files: each document carries its own "Notas" section with only the keys it uses; `14-notas-e-bibliografia.md` consolidates the chapter bibliography
 - Format: simplified ABNT — `SOBRENOME, Nome. *Título*. Série. Cidade: Editora, ano. p. XX.`
 - Every work cited in a footnote must also appear in the "Bibliografia recomendada" section
 - Biblical text defaults to NAA; other versions must be indicated explicitly
