@@ -1,51 +1,51 @@
-# Regras de edi��o  Projeto Coment�rio de G�nesis
+# Regras de edição — Projeto Comentário de Gênesis
 
-## 1. Princ�pios gerais
+## 1. Princípios gerais
 
-1.1. N�o alterar o contexto, sentido doutrin�rio ou posi��o teol�gica do autor, exceto em caso de:
+1.1. Não alterar o contexto, sentido doutrinário ou posição teológica do autor, exceto em caso de:
   - erro claro,
   - heresia,
-  - ou incoer�ncia interna grave.
+  - ou incoerência interna grave.
 
-1.2. Em qualquer caso de altera��o de sentido:
-  - descrever a mudan�a nos Metadados da edi��o;
-  - informar o n�vel de confian�a (0 a 1);
-  - explicar brevemente a motiva��o da corre��o.
+1.2. Em qualquer caso de alteração de sentido:
+  - descrever a mudança nos Metadados da edição;
+  - informar o nível de confiança (0 a 1);
+  - explicar brevemente a motivação da correção.
 
 1.3. Manter a voz do autor:
-  - linguagem clara, pastoral e did�tica;
-  - foco em teologia reformada/evang�lica.
+  - linguagem clara, pastoral e didática;
+  - foco em teologia reformada/evangélica.
 
 ## 2. Arquivos principais
 
-- `genesis.md`  conte�do comentado de G�nesis.
-- `docs/conf.md`  configura��es.
-- `docs/changelog.md`  hist�rico de mudan�as.
-- `docs/regras.md`  este arquivo.
+- `genesis.md` — conteúdo comentado de Gênesis.
+- `docs/conf.md` — configurações.
+- `docs/changelog.md` — histórico de mudanças.
+- `docs/regras.md` — este arquivo.
 
-## 3. Metadados da edi��o
+## 3. Metadados da edição
 
-Toda resposta da IA deve come�ar com:
+Toda resposta da IA deve começar com:
 
 - Arquivos afetados
-- Se��es afetadas
-- Tipo de altera��o
-- N�veis de confian�a
+- Seções afetadas
+- Tipo de alteração
+- Níveis de confiança
 - Notas explicativas
 
-## 4. Estilo de conte�do
+## 4. Estilo de conteúdo
 
-4.1. Sempre que poss�vel:
-  - incluir refer�ncias b�blicas claras;
-  - fazer conex�es entre AT e NT;
-  - terminar blocos grandes com 13 aplica��es pr�ticas.
+4.1. Sempre que possível:
+  - incluir referências bíblicas claras;
+  - fazer conexões entre AT e NT;
+  - terminar blocos grandes com 1–3 aplicações práticas.
 
-4.2. Manter t�tulos e numera��o (1.1, 2.4.1 etc.) consistentes.
+4.2. Manter títulos e numeração (1.1, 2.4.1 etc.) consistentes.
 
 4.3. Hebraico e grego:
-  - podem ser usados, mas sempre explicados em portugu�s simples.
+  - podem ser usados, mas sempre explicados em português simples.
 
-## 5. Atualiza��o de especifica��es
+## 5. Atualização de especificações
 
 5.1. Qualquer nova regra criada pela IA:
   - deve ser escrita aqui;

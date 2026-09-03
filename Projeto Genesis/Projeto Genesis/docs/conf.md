@@ -1,12 +1,12 @@
-# conf.md  Configura��o do projeto de coment�rios de G�nesis
+# conf.md — Configuração do projeto de comentários de Gênesis
 
 idioma_principal: pt-BR
 arquivo_regras: docs/regras.md
 arquivo_changelog: docs/changelog.md
 
-# Vers�o das especifica��es de edi��o
+# Versão das especificações de edição
 spec_version: 1.2.0
 
 # Notas
-- Sempre registrar mudan�as estruturais nas regras em docs/changelog.md.
-- A IA de edi��o deve SEMPRE seguir as regras deste arquivo e de docs/regras.md.
+- Sempre registrar mudanças estruturais nas regras em docs/changelog.md.
+- A IA de edição deve SEMPRE seguir as regras deste arquivo e de docs/regras.md.

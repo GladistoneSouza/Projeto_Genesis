@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-03 – Reparo de encoding em regras.md e conf.md (inclui correção semântica)
+
+[2026-09-03] – arquivos: docs/regras.md (seções 1–5, título), docs/conf.md (título, comentários) – seções 6–7 de regras.md não foram tocadas
+tipo: correção de forma, com uma correção de sentido decorrente
+confiança: 1.0 — reconstrução verificada mecanicamente: re-aplicando o dano (acentuado → U+FFFD, travessão → suprimido) ao texto corrigido, os 31 pares de linha reproduzem exatamente o texto anterior; nenhuma palavra foi alterada
+nota: Os arquivos continham 67 caracteres de substituição U+FFFD gravados (55 em regras.md, 12 em conf.md) — corrupção já persistida, não erro de leitura; os bytes originais eram irrecuperáveis por transcodificação e foram reconstruídos a partir do português. Além dos acentos, travessões haviam sido suprimidos silenciosamente, e um deles alterou o sentido de uma regra: a seção 4.1 mandava "terminar blocos grandes com 13 aplicações práticas", quando a regra é **1–3 aplicações práticas** (o traço de intervalo foi engolido, colando "1" e "3"). A leitura correta está confirmada pelo resumo em inglês do CLAUDE.md do repositório ("End large sections with 1–3 practical applications"). Também restaurados os travessões dos títulos e da seção 2. **Não houve incremento de spec_version:** nenhuma regra nova foi criada; o conteúdo editorial vigente foi restaurado ao que já era, e a regra das aplicações práticas volta ao que sempre esteve especificado.
+
+---
+
 ## 2026-03-07 – Capítulo 2: criação completa do comentário de Gênesis 2
 
 [2026-03-07] – arquivo: genesis-capitulo-02.md – seções: 1–12 (arquivo inteiro)
