@@ -34,7 +34,8 @@ Você não precisa ler hebraico para usar este documento. As três colunas de vo
 
 ## 2. Texto hebraico integral
 
-*Edição: Miqra according to the Masorah (texto massorético com vocalização e cantilação).*
+*Edição: **Miqra according to the Masorah** — texto massorético com vocalização e cantilação completas.*
+*Fonte aberta e conferível: [sefaria.org/Genesis.1](https://www.sefaria.org/Genesis.1?lang=he)*
 
 | v. | Texto |
 |---:|---|
@@ -201,7 +202,23 @@ flowchart TD
 
 **Texto hebraico.** *Miqra according to the Masorah*, obtida via API do Sefaria em 2026-09-03. É edição do texto massorético com vocalização e acentuação completas. Nenhum caractere foi digitado de memória — o texto foi transferido da fonte e conferido em amostragem.
 
-**Léxico.** Substitui a tabela de 13 termos que existia no antigo `genesis-capitulo-01.md` §3.2, ampliando-a para 43 verbetes na ordem de ocorrência. Todos os termos da tabela anterior estão cobertos: `'ish / 'ishshah` foi realocado como observação sob *zakhar u-neqevah*, porque esses termos **não ocorrem em Gênesis 1** — aparecem só em Gênesis 2. As afirmações do autor sobre *bereshit* (início absoluto) e *bara* (*ex nihilo*) foram preservadas na íntegra. Redigido para este documento. As raízes e campos semânticos seguem o uso corrente dos léxicos hebraicos padrão; onde uma afirmação depende de leitura disputada, o verbete aponta para o documento de estudo que a discute.
+**Léxico.** Substitui a tabela de 13 termos que existia no antigo `genesis-capitulo-01.md` §3.2, ampliando-a para 43 verbetes na ordem de ocorrência. Todos os termos da tabela anterior estão cobertos: `'ish / 'ishshah` foi realocado como observação sob *zakhar u-neqevah*, porque esses termos **não ocorrem em Gênesis 1** — aparecem só em Gênesis 2. As afirmações do autor sobre *bereshit* (início absoluto) e *bara* (*ex nihilo*) foram preservadas na íntegra.
+
+**Aqui está o ponto fraco deste documento, e ele precisa ser dito.** Ao contrário do texto hebraico — que foi transferido de uma edição crítica identificada e pode ser aberto no link acima —, **o léxico não tem fonte citada verbete a verbete.** Ele não foi copiado de um dicionário; foi redigido para este documento. Onde uma afirmação depende de leitura disputada, o verbete remete ao documento de estudo que a discute, mas isso não substitui referência.
+
+Enquanto essa lacuna não for fechada — o que exige conferir cada verbete contra um léxico padrão (BDB, HALOT, ou o *Dicionário Internacional de Teologia do AT*) e citar a entrada —, **trate os verbetes como orientação, não como autoridade.**
+
+### Como conferir sem saber hebraico
+
+Qualquer verbete desta tabela pode ser verificado em minutos, de graça, sem ler hebraico:
+
+| Ferramenta | O que faz |
+|---|---|
+| [Sefaria](https://www.sefaria.org/Genesis.1?lang=he) | O texto original ao lado da tradução, versículo a versículo |
+| [Bible Hub — interlinear](https://biblehub.com/interlinear/genesis/1.htm) | Cada palavra hebraica com a tradução **embaixo dela**, na ordem do original |
+| [Blue Letter Bible](https://www.blueletterbible.org/) | Clique numa palavra e veja a raiz, o significado e **todos os outros lugares da Bíblia onde ela aparece** |
+
+O terceiro é o mais útil para auditar este documento: quando um verbete aqui diz "esta palavra também aparece em tal lugar", é exatamente isso que a ferramenta mostra — e se não mostrar, o verbete está errado.
 
 **Seções 4.1 e 4.2** vêm do antigo `genesis-capitulo-01.md`, onde eram §3.4 e §3.5. Foram renumeradas ao migrar (nenhuma remissão de `docs/posicoes.md` apontava para elas).
 
