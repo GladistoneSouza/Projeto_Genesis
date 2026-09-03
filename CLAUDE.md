@@ -22,8 +22,9 @@ All paths below are relative to the repo root.
 Projeto Genesis/
 ├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
-│   │   ├── conf.md             # Project config, spec_version (currently 1.2.0)
+│   │   ├── conf.md             # Project config, spec_version (currently 1.3.0)
 │   │   ├── regras.md           # Editorial rules — sections 1–7 (AI must read before any edit)
+│   │   ├── posicoes.md         # Doctrinal positions register (AI must read before any edit)
 │   │   └── changelog.md        # Change log with date, version, confidence
 │   ├── genesis.md              # Book-level commentary (~1300 lines)
 │   └── genesis-capitulo-01.md  # Chapter 1 detailed analysis (~2200 lines)
@@ -39,6 +40,15 @@ Projeto Genesis/
 
 The project produces one `genesis-capitulo-XX.md` file per chapter. The `base/` directory is reference material — never edit it as output.
 
+## Skills
+
+User-level skills at `~/.claude/skills/` cover this project and load in any directory:
+
+- **`genesis-capitulo`** — this project's governance protocol; `references/template-capitulo.md` holds the 12-section chapter template extracted from chapters 1 and 2
+- **`biblia-exegese`** — 8-step exegesis (the content itself)
+- **`biblia-fontes`** — multilingual sources, F1/F2/F3 levels; a page number is never written unless the page was read
+- **`biblia-niveis`** — N1–N5 levels, provenance, assumptions
+
 ## Editorial Governance (CRITICAL)
 
 The project enforces strict editorial rules defined in `Projeto Genesis/Projeto Genesis/docs/`.
@@ -46,6 +56,13 @@ The project enforces strict editorial rules defined in `Projeto Genesis/Projeto 
 ### Before editing any content file:
 1. Read `docs/conf.md` (project config, current `spec_version`)
 2. Read `docs/regras.md` (editing rules — sections 1–7)
+3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open)
+
+### Doctrinal positions (rule 6.1.1, spec 1.3.0):
+- **No new doctrinal position may be taken inside a content file without registering it in `docs/posicoes.md`.**
+- If a chapter requires deciding a question listed there as *em aberto*, **the decision belongs to the author.** Present the options and the cost each one pays — do not choose.
+- Every position carries a **"fatura"** column: what that position costs. Positions marked ⚠️ have been adopted without the cost ever being written down; that gap is the point of the column.
+- **Chapter 3 depends on four undecided questions:** nature of the serpent, the death threatened in Gn 2.17, Gn 3.15 as protoevangelium, and historicity of the fall.
 
 ### Every AI edit response must include:
 1. **Metadata block** — affected files, affected sections, change type, confidence level (0–1 with justification), explanatory notes
