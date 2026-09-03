@@ -30,7 +30,11 @@ O texto hebraico abre com: *Bereshit bara Elohim 'et hashamayim ve'et ha'aretz.*
 
 #### "Bereshit" — No princípio
 
-"Bereshit" indica o início real da história do universo. Não é apenas o começo de um relato, mas o **início do tempo, do espaço e da matéria**. Antes desse "princípio" não havia mundo, nem anjos, nem nada criado: somente Deus, eterno e absoluto.
+"Bereshit" indica o início real da história do mundo material. Não é apenas o começo de um relato, mas o **início do tempo, do espaço e da matéria** no reino criado e mortal: tudo o que vemos começa aqui, e nada disso é eterno nem autoexistente.
+
+O que o texto **não** diz é o que havia antes. Este comentário adota a leitura de que os céus — o reino invisível onde Deus reina na comunhão eterna da Trindade, e onde os anjos existem — **precedem** a criação narrada em Gênesis 1. O indício é indireto: quando a serpente aparece em Gênesis 3, já aparece corrompida, o que supõe uma queda angelical anterior à narrativa.
+
+É preciso dizer com igual clareza o que esse argumento **não** demonstra. Ele alcança um momento anterior a Gênesis 3 — não necessariamente anterior a Gênesis 1.1: a queda angelical caberia entre um e outro. A Escritura não mostra nada do céu antes da criação. Esta é, portanto, **inferência teológica, não dado do texto**, e está registrada com o que custa em [[../docs/posicoes|posicoes.md]] #11.
 
 Isso responde à pergunta filosófica: "Por que existe algo em vez de nada?" A resposta bíblica é simples e direta: **porque Deus quis e criou**.
 

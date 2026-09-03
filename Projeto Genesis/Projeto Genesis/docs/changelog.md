@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-03 – Três posições doutrinárias declaradas pelo autor (11, 12 e refinamento da 4)
+
+[2026-09-03] – arquivos: docs/posicoes.md (posições 11 e 12, refinamento da 4, questão em aberto resolvida), genesis-01/04-exegese-1-2.md (seção "Bereshit" reescrita)
+tipo: declaração de posição doutrinária pelo autor + correção de contradição interna
+confiança: 1.0 para o registro — as três posições foram enunciadas pelo autor em conversa e transcritas sem interpretação da IA. As faturas são leitura da máquina, sujeitas à ratificação.
+nota: O autor declarou três posições, uma das quais **contradizia frontalmente o texto já escrito** — detectada porque o posicoes.md foi consultado antes de registrar, que é exatamente a função do arquivo. **Posição 11 (o que precede Gn 1.1):** os céus, reino invisível onde Deus reina na comunhão trinitária e onde os anjos existem, precedem a criação narrada em Gn 1; o v. 1.1 é o início de tudo no "reino mortal". Isso obrigou a reescrever a seção "Bereshit" de `04-exegese-1-2`, que afirmava o oposto — "Antes desse princípio não havia mundo, nem anjos, nem nada criado". Fatura declarada em três partes, incluindo a mais importante: **o argumento de apoio não alcança a conclusão** — a serpente já corrompida em Gn 3 prova queda angelical anterior a Gênesis 3, não a Gênesis 1.1, e o próprio autor reconhece que a Escritura "não mostra nada do céu antes da criação". A posição entra como inferência teológica, não como dado do texto, e o texto reescrito diz isso ao leitor. **Posição 12 (idade da terra):** terra antiga, bilhões de anos, com Gn 1 como resumo seletivo — "Deus só mostrou o importante" —, sustentada como crença e não dogma, já que Deus poderia ter feito tudo em 6.000 anos milagrosamente. Resolve uma das questões que constavam como em aberto. Fatura: a **morte antes da queda**, que pressiona o "muito bom" de 1.31 e Rm 5.12, e cuja resposta cai no capítulo 3, em questão que segue em aberto — a posição cobra uma dívida ainda não paga. **Refinamento da posição 4:** o "dia" é marcador de fechamento de etapa, não medida de duração ("Deus nem precisaria de 24 horas"). Fatura adicional marcada ⚠️ a responder: se o dia não guarda analogia com jornada de trabalho, falta dizer o que sustenta Ex 20.11 e o sábado como ordenança criacional, que o projeto afirma em `07-setimo-dia` e §12.3 (Vos). Registrada também a consequência sobre a questão em aberto das genealogias: a posição 12 força que tenham lacunas. **Sem incremento de spec_version:** declaração de posição, não mudança de regra.
+
+---
+
 ## 2026-09-03 – Correção: duas afirmações doutrinárias enfraquecidas na migração do léxico
 
 [2026-09-03] – arquivo: genesis-01/01-texto-hebraico.md – seção 3 (verbetes *bereshit* e *bara*), seção 5 (nota de rastreabilidade)
