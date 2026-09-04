@@ -257,7 +257,11 @@ O projeto acumula camadas de decisão em ritmos diferentes — a conversa com o 
 
   Não é hierarquia de competência: é **divisão de posto**. O auditor externo escreve no repositório quando o autor pedir, e nesse caso valem as mesmas regras — §12.7 e a entrada de changelog.
 
-  **A procedência passa a nomear qual assistente:** `IA:Claude`, `IA:ChatGPT`, `A+IA:Claude`, e `IA:Claude+ChatGPT` quando houve **conferência cruzada** — que é a marca mais forte da faixa `IA`. `IA✓` continua exigindo o autor. Ver [`metodo/os-quatro-eixos`](metodo/os-quatro-eixos.md).
+  **A procedência passa a nomear qual assistente:** `IA:Claude`, `IA:ChatGPT`, `A+IA:Claude`, e `IA:Claude+ChatGPT` quando houve **conferência cruzada**. `IA✓` continua exigindo o autor. Ver [`metodo/os-quatro-eixos`](metodo/os-quatro-eixos.md).
+
+12.6.1. **Concordância entre assistentes não é confirmação independente.** `IA:Claude+ChatGPT` significa *"dois agentes passaram e convergiram"*, **não** *"foi verificado duas vezes"*. É a §13.5.2 aplicada a assistentes: antes de somar dois pareceres, perguntar **de quem cada um descende** — modelos treinam sobre corpora que se sobrepõem e erram nos mesmos lugares pelos mesmos motivos.
+
+  **A marca vale quando a conferência veio de acesso diferente, não de raciocínio parecido.** No caso que gerou a convenção, o que rendeu foi assimetria de acesso — um assistente com alcance de web encontrou a fonte, o outro com o checkout local leu o arquivo. Ao marcar, **dizer como a conferência se deu**.
 
 12.7. **Sincronizar antes de escrever; empurrar só sobre estado atualizado.** Antes de qualquer escrita, o agente relê o `main` corrente e os registros de governança (`posicoes`, `fios`, changelog recente). **Nenhum commit entra sem entrada de changelog** — a integridade deste projeto depende do registro estar completo, e registro incompleto não quebra com erro, quebra em silêncio.
 

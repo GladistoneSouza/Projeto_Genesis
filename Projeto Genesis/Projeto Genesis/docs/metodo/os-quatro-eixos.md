@@ -25,11 +25,23 @@ Os três primeiros vêm de `estudos_biblicos/METODO.md`. O quarto nasceu aqui.
 | Marca | Significa |
 |---|---|
 | `IA:Claude` · `IA:ChatGPT` | Um assistente, sozinho |
-| `IA:Claude+ChatGPT` | **Houve conferência cruzada** — os dois olharam, e é a marca mais forte da faixa `IA` |
+| `IA:Claude+ChatGPT` | **Houve conferência cruzada** — os dois passaram e convergiram. Leia a ressalva abaixo antes de dar peso a isto |
 | `A+IA:Claude` | Autor com assistência |
 | `IA✓` | Ratificado pelo autor. **Nenhum sufixo substitui isto** |
 
 **Por que a marca precisou de sobrenome.** Em 2026-09-04 uma conclusão redigida aqui — *"não existe segunda opinião lexical gratuita"* — foi derrubada pelo outro assistente, que encontrou o dataset do SDBH publicado em GitHub. Ambos os blocos estariam marcados `IA`, e daí a seis meses não haveria como reconstruir quem disse o quê. Ver [[../changelog|changelog.md]] e a regra §12.6.
+
+### ⚠️ O que `IA:Claude+ChatGPT` **não** significa
+
+**Dois assistentes concordarem não é confirmação independente.** A marca diz *"dois agentes passaram e convergiram"* — **não** *"foi verificado duas vezes"*.
+
+O motivo é o mesmo da [[../regras|§13.5.2]], aplicado a assistentes em vez de léxicos: **antes de somar dois pareceres, perguntar de quem cada um descende.** Modelos de linguagem treinam sobre corpora que se sobrepõem bastante e têm boa chance de errar nos mesmos lugares, pelas mesmas razões. Concordância entre eles é evidência fraca; é o BDB e o Tregelles outra vez.
+
+**Onde a marca vale de fato:** quando a conferência cruzada veio de **acesso diferente**, não de raciocínio parecido.
+
+No episódio que gerou esta convenção, o que funcionou não foi convergência de juízo — foi **assimetria de acesso**: um assistente tinha alcance de web e GitHub e encontrou a fonte; o outro tinha o checkout local e leu o arquivo de 23 MB. A independência era **de acesso, não de juízo**, e é por isso que rendeu.
+
+**Consequência prática:** ao marcar `IA:Claude+ChatGPT`, dizer **como** a conferência se deu. Convergência sobre a mesma fonte pesa pouco; convergência a partir de fontes ou acessos distintos pesa.
 
 **Nada se promove sozinho.** A IA nunca marca o próprio trabalho como ratificado. Bloco `IA` não vira peça publicável.
 

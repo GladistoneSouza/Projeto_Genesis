@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-04 – A ressalva da marca cruzada: concordância entre assistentes não é confirmação
+
+[2026-09-04] – arquivos: docs/metodo/os-quatro-eixos.md (eixo 2, ressalva), docs/regras.md (nova §12.6.1)
+tipo: precisão sobre regra escrita horas antes · **autocorreção**
+procedência: `IA:Claude` — e o conteúdo é precisamente sobre o limite da marca cruzada
+confiança: 0.9 — a afirmação sobre sobreposição de corpora entre modelos é do domínio público e não foi verificada contra literatura nesta sessão; o argumento estrutural, esse, é o mesmo já aceito na §13.5.2.
+nota: Correção de algo escrito por mim na entrada anterior, no mesmo dia. A convenção nova marcava `IA:Claude+ChatGPT` como **"a marca mais forte da faixa `IA`"**, e isso envelheceria mal. **Dois assistentes concordarem não é confirmação independente.** É exatamente a §13.5.2 — a regra de que léxicos da mesma família não são testemunhas independentes — aplicada a assistentes em vez de dicionários: modelos de linguagem treinam sobre corpora que se sobrepõem e têm boa chance de errar nos mesmos lugares, pelas mesmas razões. Convergência entre eles é o BDB e o Tregelles outra vez. **O que de fato funcionou no episódio que gerou a convenção não foi convergência de juízo — foi assimetria de acesso:** um assistente tinha alcance de web e GitHub e encontrou o dataset do SDBH; o outro tinha o checkout local e leu o arquivo de 23 MB com as próprias ferramentas. **A independência era de acesso, não de raciocínio**, e é por isso que rendeu. Nova **§12.6.1** e bloco correspondente no eixo 2: a marca significa *"dois agentes passaram e convergiram"*, **não** *"foi verificado duas vezes"*; vale quando a conferência veio de **fontes ou acessos distintos**, e ao marcar é preciso **dizer como a conferência se deu**. Convergência sobre a mesma fonte pesa pouco. **Sem incremento de spec_version:** precisão sobre regra da 1.9.0, não regra nova.
+
+---
+
 ## 2026-09-04 – Versão 1.9.0 aplicada — a banca vira regra: papéis, procedência com nome, sincronização
 
 [2026-09-04] – arquivos: docs/conf.md (spec_version 1.8.0 → **1.9.0**), docs/regras.md (novas §12.6, §12.7, §12.8), docs/metodo/os-quatro-eixos.md (eixo 2), docs/metodo/00-indice.md, docs/lexicos/00-indice.md, docs/posicoes.md (linha de procedência)
