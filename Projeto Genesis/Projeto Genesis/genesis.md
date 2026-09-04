@@ -1399,6 +1399,28 @@ Aceita que a terra tem bilhões de anos, conforme indicado pela geologia, radiom
 
 A Bíblia não fornece uma idade explícita para a terra. As genealogias de Gênesis 5 e 11 podem conter lacunas — como é demonstrável comparando Mateus 1 com as genealogias do AT — e o texto não tem como propósito primário fornecer uma cronologia científica. O que é **inegociável** é a afirmação de que Deus criou tudo do nada, com propósito e soberania. A questão de *quando* é matéria de interpretação legítima dentro do campo evangélico.
 
+**Posição adotada neste projeto:**
+
+Adotamos a **terra antiga** — bilhões de anos, conforme o quadro apresentado pela geologia, pela radiometria e pela cosmologia observacional. A leitura que sustenta isso é a de que **Gênesis 1 é seletivo**: Deus não narrou tudo o que fez, narrou o que importava ao povo que receberia o texto. Mostrou o essencial, não o inventário.
+
+Essa posição decorre da anterior. Se os "dias" não são necessariamente períodos solares (§7.2), a soma das genealogias deixa de funcionar como relógio da criação, e a idade da terra passa a ser pergunta que o texto simplesmente não se propõe a responder.
+
+E ela é sustentada como **crença, não como dogma**. Deus poderia ter criado tudo em seis mil anos de modo milagroso, e nada na doutrina da criação o impediria — a onipotência não fica menor num cronograma curto. O que este comentário afirma é que não parece ter sido assim, e que **o texto não obriga a nenhuma das duas leituras**.
+
+**O que esta posição custa:**
+
+Nenhuma posição é grátis, e esta cobra caro em três lugares. O leitor tem direito de saber disso aqui, e não quando tropeçar mais adiante.
+
+**1. A morte antes da queda.** É a fatura pesada. Bilhões de anos de registro fóssil significam morte animal — predação, doença, extinção — muito antes do pecado de Adão. Isso pressiona duas coisas que este comentário afirma: o veredito "muito bom" de Gn 1.31, e a leitura de Romanos 5.12, segundo a qual "por um só homem o pecado entrou no mundo, e pelo pecado, a morte".
+
+Há respostas conhecidas — que Paulo fala ali da morte **humana**, e que "muito bom" é veredito de adequação ao propósito, não declaração de ausência de morte. **Nenhuma delas foi adotada aqui ainda.** A resposta pertence ao capítulo 3, na questão de qual morte foi ameaçada em Gn 2.17, e essa questão segue em aberto. Dito sem rodeio: **esta posição cobra uma dívida que o comentário ainda não pagou.**
+
+**2. As genealogias precisam ter lacunas.** Não é concessão inventada para acomodar a ciência — a comparação de Mateus 1 com as genealogias do Antigo Testamento mostra que genealogias bíblicas de fato omitem elos, e o argumento se sustenta sozinho. Mas convém ser honesto quanto à direção: aqui a posição **depende** desse dado, e depender é diferente de observar. O assunto é retomado nos capítulos 5 e 11.
+
+**3. O afastamento da tradição confessional.** A leitura de terra jovem é sustentada por teólogos sérios e tem tradição significativa, e a Confissão de Fé de Westminster diz "no espaço de seis dias" (CFW 4.1). Adotar terra antiga é assumir distância da leitura mais natural daquela cláusula — não da confissão inteira, mas daquela cláusula, e isso já é custo.
+
+Por fim, o que **não** muda com esta posição: que Deus criou, que criou do nada, que criou com propósito, e que a criação é boa. Nenhuma dessas afirmações depende de quantos anos o processo levou.
+
 ### 7.4. Criação e evolução
 
 O debate sobre evolução envolve distinções fundamentais que são frequentemente ignoradas no discurso público.
