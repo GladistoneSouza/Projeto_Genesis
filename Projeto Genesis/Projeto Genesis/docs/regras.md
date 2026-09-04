@@ -218,3 +218,25 @@ Toda afirmação sobre o original se apoia numa camada da tradição textual, e 
 11.6. **Antes de defender um versículo como prova, perguntar qual texto de fato carrega a afirmação.** Perder o *proof-text* raramente é perder a doutrina, e saber disso permite examinar a disputa com calma em vez de defender território. Quando a resposta for "nenhum outro texto sustenta", isso pertence à coluna da fatura em [`posicoes.md`](posicoes.md).
 
 11.7. **A incerteza é concentrada, não uniforme.** Palavra com dezenas de ocorrências é segura; *hapax legomenon* é palpite instruído. Declarar a incerteza onde ela existe, e não diluí-la sobre o texto inteiro.
+
+## 12. Precedência: o que vale quando as fontes divergem (spec 1.8.0)
+
+O projeto acumula camadas de decisão em ritmos diferentes — a conversa com o autor, os registros, a norma, e o conteúdo já escrito. Elas divergem, e divergem por um motivo estrutural: **o conteúdo foi escrito antes das decisões.**
+
+12.1. **A decisão mais recente do autor vence.** Quando o conteúdo já escrito discordar de posição declarada depois, o conteúdo está desatualizado — não a posição.
+
+12.2. **Ordem de precedência**, do mais forte ao mais fraco:
+
+| | Fonte | Por quê |
+|---|---|---|
+| 1 | **A conversa em curso com o autor** | É onde as decisões nascem, e é a mais recente por definição |
+| 2 | `posicoes.md` · `fios-canonicos.md` | Decisões e registros |
+| 3 | `regras.md` · `conf.md` · `metodo/` | A norma e o método |
+| 4 | `genesis.md` · capítulos | Conteúdo — o que envelhece |
+| 5 | `base/` | Material de referência. **Nunca é saída** |
+
+12.3. **Divergência encontrada não se conserta em silêncio.** Registra-se onde está, o que cada lado diz, e de que tipo é o conserto: **mecânico** (aplicar decisão já tomada) ou **doutrinário** (depende do autor, regra 6.1.1).
+
+12.4. **Posição declarada em `posicoes.md` sem estar escrita no arquivo que a coluna "Onde" indica é dívida, não posição cumprida.** A coluna aponta para onde a posição precisa estar **dita ao leitor** — se o leitor abrir aquela seção e não encontrar a posição, ela não existe para ele.
+
+12.5. **Antes de escrever seção que toque questão já decidida, conferir os registros recentes do changelog.** O conteúdo antigo não avisa que envelheceu.

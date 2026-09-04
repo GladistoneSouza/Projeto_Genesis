@@ -8,10 +8,11 @@ pasta_metodo: docs/metodo/
 arquivo_changelog: docs/changelog.md
 
 # Versão das especificações de edição
-spec_version: 1.7.0
+spec_version: 1.8.0
 
 # Notas
 - Sempre registrar mudanças estruturais nas regras em docs/changelog.md.
 - A IA de edição deve SEMPRE seguir as regras deste arquivo e de docs/regras.md.
+- Precedencia entre fontes divergentes: docs/regras.md §12. A conversa com o autor vence.
 - docs/metodo/ guarda conhecimento de método (como o texto funciona), não regras nem doutrina.
   Regra normativa correspondente: docs/regras.md §11.
