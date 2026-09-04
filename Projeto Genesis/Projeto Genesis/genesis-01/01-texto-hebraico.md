@@ -93,7 +93,7 @@ Os termos aparecem na ordem em que surgem no texto.
 | אֱלֹהִים | **Elohim** | א-ל-ה | "Deus". Forma **plural**, mas com verbo no **singular** (*bara*, não *bar'u*) — plural de majestade, não de número → §4.1 |
 | אֵת | **'et** | — | Não se traduz. Marca o objeto direto definido: indica *o que* foi criado |
 | הַשָּׁמַיִם | **hashamayim** | — | "Os céus". Forma dual/plural; não tem singular em uso |
-| הָאָרֶץ | **ha'aretz** | — | "A terra". Junto com *shamayim*, forma um **merismo**: nomear os dois extremos para dizer "tudo" |
+| הָאָרֶץ | **ha'aretz** | — | "A terra". Junto com *shamayim*, forma um **merismo**: nomear os dois extremos para dizer "tudo". Afirma **origem**, não cronologia — ver [[04-exegese-1-2]] |
 | תֹהוּ וָבֹהוּ | **tohu va-vohu** | — | "Sem forma e vazia". Par sonoro, quase rimado. *Tohu* = deserto informe; *vohu* = vazio. Não diz "mal", diz **inacabado**: sem contorno e sem habitantes — exatamente o que os seis dias resolvem |
 | חֹשֶׁךְ | **choshekh** | ח-שׁ-ך | "Trevas". Estado, não criatura |
 | תְּהוֹם | **tehom** | — | "Abismo", massa de água profunda. Cognato do nome *Tiamat*, a deusa do caos babilônica — mas **aqui não é personagem**, é água → [[09-antigo-oriente]] |

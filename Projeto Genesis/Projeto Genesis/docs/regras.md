@@ -161,3 +161,24 @@ O projeto adota um sistema de referências para garantir rigor acadêmico, mesmo
 8.8. **Tamanho:** nenhum documento deve passar de aproximadamente 10 páginas. Se passar, divide-se por assunto.
 
 8.9. Um arquivo de capítulo no formato antigo, uma vez dividido, recebe aviso de substituição no topo e deixa de ser editado.
+
+## 9. A régua do que fica fora da narrativa (spec 1.5.0)
+
+Critério do autor para decidir o que pertence ao texto comentado e o que é pressuposto sem ser contado. Vale para todo o projeto — rege o dilúvio, os nefilins e o capítulo 3.
+
+9.1. **Foi narrado com detalhes?** → está dentro. Trata-se como texto.
+
+9.2. **É pressuposto como ocorrido, mas não narrado?** → segue para 9.3.
+
+9.3. **Há algo que o situe dentro da janela narrada?** Se não, está **fora da janela**. Registra-se que está fora e **não se decide** se antes, depois ou ainda por vir. A conclusão que o silêncio sustenta é "não aqui" — nunca "então foi antes".
+
+9.4. **Nada entra como fato estabelecido se a Escritura não o afirma — vocabulário incluído.** Termo que a Bíblia não usa, o comentário não usa. Exemplo: "arcanjo" para Satanás (o único arcanjo nomeado é Miguel, `Jd 9`).
+
+9.5. **Distinguir dois silêncios.** Uma afirmação pode faltar no texto comentado e existir em outro lugar do cânon:
+
+  - **Sem apoio em lugar nenhum da Escritura** → não entra.
+  - **Sem apoio no texto comentado, com apoio em outro lugar do cânon** → entra como **leitura canônica declarada**, nunca como se fosse o que a passagem diz. Exemplo: a serpente de Gn 3 como Satanás — Gênesis não diz; `Ap 12.9` e `Ap 20.2` dizem.
+
+  A seção "Conexões canônicas" de cada capítulo é inteiramente da segunda categoria, e é método legítimo do projeto — Adão e Cristo em `Rm 5`, a semente em `Gl 3.16`, Melquisedeque em `Hb 7`. O que esta regra proíbe é o **contrabando**: apresentar leitura canônica como exegese da passagem.
+
+9.6. **Questão listada como *em aberto* em `docs/posicoes.md` não serve de premissa para outra posição.** Se uma posição precisa dela, ou a questão é decidida primeiro, ou a posição se sustenta sem ela.

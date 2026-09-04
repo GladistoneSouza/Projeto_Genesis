@@ -32,9 +32,11 @@ O texto hebraico abre com: *Bereshit bara Elohim 'et hashamayim ve'et ha'aretz.*
 
 "Bereshit" indica o início real da história do mundo material. Não é apenas o começo de um relato, mas o **início do tempo, do espaço e da matéria** no reino criado e mortal: tudo o que vemos começa aqui, e nada disso é eterno nem autoexistente.
 
-O que o texto **não** diz é o que havia antes. Este comentário adota a leitura de que os céus — o reino invisível onde Deus reina na comunhão eterna da Trindade, e onde os anjos existem — **precedem** a criação narrada em Gênesis 1. O indício é indireto: quando a serpente aparece em Gênesis 3, já aparece corrompida, o que supõe uma queda angelical anterior à narrativa.
+O que o texto não faz é **datar o mundo invisível**. Gênesis 1 narra o reino mortal — a câmera abre onde começa a história deste mundo, e a corte celestial nunca entra em cena sendo feita. Na Escritura ela aparece sempre já existindo: os serafins de Isaías 6, os filhos de Deus de Jó 1.6, o conselho de 1Reis 22.19. Jó 38.7 chega a mostrá-los jubilando *enquanto* Deus lançava os fundamentos da terra.
 
-É preciso dizer com igual clareza o que esse argumento **não** demonstra. Ele alcança um momento anterior a Gênesis 3 — não necessariamente anterior a Gênesis 1.1: a queda angelical caberia entre um e outro. A Escritura não mostra nada do céu antes da criação. Esta é, portanto, **inferência teológica, não dado do texto**, e está registrada com o que custa em [[../docs/posicoes|posicoes.md]] #11.
+Este comentário lê esse silêncio como **escopo, não omissão**. Aquilo que a Escritura pressupõe como ocorrido, mas que nada situa dentro dos seis dias, fica **fora da janela da criação** — e o comentário não decide se antes, depois, ou ainda por vir. É por isso que ele não responde de onde veio o mal. Não é fuga: é o limite do que foi contado, e Deuteronômio 29.29 autoriza parar aí — "as coisas encobertas pertencem ao SENHOR, nosso Deus".
+
+Vale dizer o que essa leitura custa. Tomar o silêncio como estratégia deliberada do narrador é **inferência sobre o texto, não algo que o texto diga de si**; e o preço é que este livro não responderá à pergunta que todo leitor faz. A posição, com a fatura, está em [[../docs/posicoes|posicoes.md]] #11.
 
 Isso responde à pergunta filosófica: "Por que existe algo em vez de nada?" A resposta bíblica é simples e direta: **porque Deus quis e criou**.
 
@@ -57,6 +59,8 @@ A própria Bíblia interpreta esse ato como criação a partir do nada (*ex nihi
 #### "Os céus e a terra" — *Hashamayim veha'aretz*
 
 A expressão "céus e terra" é um **merismo**: duas partes usadas para expressar o todo — "todo o universo", tudo o que existe, dimensões visíveis e invisíveis. Não há regiões fora do domínio de Deus. Tudo o que foi feito encontra sua origem na vontade e na palavra do Criador.
+
+Um esclarecimento necessário: o merismo afirma **origem, não cronologia**. Ele diz que nada existe fora do que Deus fez — o invisível inclusive — e não que Gênesis 1 narre *quando* a parte invisível foi feita. O texto simplesmente não conta isso.
 
 Daqui decorrem implicações doutrinárias centrais:
 
