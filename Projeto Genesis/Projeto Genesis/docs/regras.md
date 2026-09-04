@@ -257,6 +257,8 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 
 13.3. **A coluna primária é o corpus, não o dicionário — porque o corpus é fonte direta e o dicionário é instrumento.** O levantamento de uso é a Escritura ela mesma (**C1**); todo léxico é **C4**, e C4 resume C1 sem nunca substituí-lo. Por isso o verbete não arbitra o levantamento: é o levantamento que julga o verbete. Os léxicos entram depois, em bloco próprio, com a data de cada um. Foi assim que `Jr 26.1` desfez o impasse de *bereshit* e `Gn 1.27` × `Gn 2.7` desfez o de *bara* — nenhum dos dois por verbete.
 
+13.3.1. **E é isso que torna a nota de palavra material de nível-livro.** O levantamento de uso atravessa a Bíblia inteira: *bara* se decide com Isaías, Amós, Números e Salmos; *raqia* com Ezequiel e Jó. Um levantamento que corre por todo o cânon não pertence a capítulo nenhum — pertence ao projeto.
+
 13.4. **Bloco de instrumentos não conferido fica marcado `F3 · a conferir`, e não vira rodapé.** Escrever "HALOT registra X" sem ter HALOT é o erro que o quarto eixo existe para pegar: erraria com cara de rigor. O buraco se declara, verbete a verbete.
 
 13.5. **Léxico e dicionário teológico são gêneros diferentes.** BDB, HALOT, DCH e Gesenius são léxicos; DITAT e NIDOTTE são dicionários teológicos, que trazem doutrina dentro da entrada — informação legítima, **desde que rotulada**. Citá-los no mesmo fôlego, como "os léxicos dizem", é o erro de categoria da §11.2 aplicado à camada C4.
@@ -265,3 +267,19 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 
 13.7. **Questão que a nota levantar e que não constar em [`posicoes.md`](posicoes.md) fica marcada na própria nota.** Pôr fontes lado a lado produz perguntas; a nota registra a pergunta e **não a decide** (regra 6.1.1).
 
+13.8. **A divisão: a palavra na língua fica na wiki; a palavra neste capítulo fica no capítulo.** A wiki dá a base geral — como o hebraico foi levantado e analisado no projeto. O capítulo guarda o que se consulta **de mão, durante a exegese**.
+
+| | Wiki `docs/lexicos/` | Capítulo `genesis-XX/01-texto-hebraico` |
+|---|---|---|
+| **Responde** | O que a palavra é na língua | O que a palavra faz **aqui** |
+| Lema, raiz, binyan, parsing | ✅ | resumo |
+| Levantamento de uso em toda a Escritura | ✅ | — |
+| Ocorrências **dentro deste capítulo**, e onde caem | — | ✅ |
+| Contraste com as palavras vizinhas do capítulo | — | ✅ |
+| Comparação entre léxicos, versões antigas | ✅ | — |
+| Estado das fontes, camadas, faturas | ✅ | — |
+| Leitura do projeto **nesta passagem** | ponteiro | ✅ |
+
+13.9. **A wiki não esvazia o capítulo.** A coluna "Sentido e uso **aqui**" do documento preparatório é a camada do capítulo e continua sendo escrita por inteiro. O link para a wiki **acrescenta** aparato; não substitui o que o exegeta precisa ter à mão sem sair do arquivo.
+
+13.10. **A wiki não repete o capítulo.** Nota de palavra remete ao capítulo em vez de reproduzir a leitura daquela passagem — senão as duas divergem, e a §12 já mostrou o que acontece quando duas cópias envelhecem em ritmos diferentes.
