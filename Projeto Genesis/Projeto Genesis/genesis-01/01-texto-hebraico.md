@@ -20,7 +20,11 @@ Você não precisa ler hebraico para usar este documento. As três colunas de vo
 
 **Vogais.** O hebraico bíblico foi escrito originalmente só com consoantes. Os pontos e traços abaixo e acima das letras (`בָּ`, `בְ`, `בִ`) são a **vocalização massorética**, acrescentada por escribas judeus entre os séculos VI e X d.C. para fixar a pronúncia recebida. Os traços adicionais sobre as palavras são **acentos de cantilação** — marcam entonação e, o que importa mais para exegese, **onde a frase se divide**.
 
-**Raiz.** Quase toda palavra hebraica se organiza em torno de uma **raiz de três consoantes**, que carrega o campo de sentido. De `ב-ר-א` (*b-r-'*) vem *bara*, "criar". Saber a raiz é saber a família da palavra.
+**Raiz e lema.** Quase toda palavra hebraica pode ser relacionada a uma **raiz de três consoantes** — de `ב-ר-א` (*b-r-'*) vem *bara*, "criar". A raiz organiza **famílias de forma** e sugere parentesco que o uso confirma ou desmente; ela **não determina o sentido da palavra**, que se estabelece por uso, forma, construção e contexto. Em português, "barco", "embarcar" e "desembarcar" têm relação histórica, e ninguém deduz o sentido de uma a partir da outra.
+
+Distinta da raiz é o **lema**: a forma sob a qual o dicionário cataloga a palavra. Para verbos, o lema é o qal perfeito 3ms — de modo que בָּרָא é ao mesmo tempo a forma que aparece em 1.1 e a entrada do léxico. Raiz e lema parecem a mesma coisa e não são.
+
+> Ver [[../docs/metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]] e a regra §11.4: palavra não decide doutrina.
 
 **Transliteração.** Sistema simplificado, para leitura em voz alta, não para uso acadêmico:
 
@@ -165,7 +169,8 @@ Três verbos hebraicos descrevem a atividade criadora de Deus em Gênesis 1–2.
 - Somente Deus é sujeito deste verbo. Nunca é usado para atividade humana.
 - Aparece três vezes em Gênesis 1: no v.1 (céus e terra), no v.21 (criaturas marinhas) e no v.27 (seres humanos — três vezes em um único versículo).
 - Aponta para algo fundamentalmente *novo*, que somente Deus pode trazer à existência.
-- Debate: *bara* implica necessariamente criação *ex nihilo*? O verbo em si significa "trazer à existência" — a inferência de criação a partir do nada vem do contexto (nenhum material preexistente é mencionado em Gn 1.1) e da confirmação de Hebreus 11.3. Alguns estudiosos observam que *bara* também pode significar "separar, distinguir" (cf. seu uso em Js 17.15, 18 para desbravar floresta).
+- Debate: *bara* implica necessariamente criação *ex nihilo*? O verbo em si significa "trazer à existência" — a inferência de criação a partir do nada vem do contexto (nenhum material preexistente é mencionado em Gn 1.1) e da confirmação de Hebreus 11.3.
+- **Atenção ao binyan.** As ocorrências acima são **qal**. O que aparece em `Js 17.15,18` para "desbravar floresta" está no **piel** (וּבֵרֵאתָ) — outro padrão verbal, provavelmente outra palavra homógrafa, e **não** um segundo sentido do verbo da criação. Citá-la sem essa distinção sugere que o verbo de Gn 1.1 também significa "derrubar mato".
 
 **Asah (עָשָׂה) — "fazer, produzir":**
 - Tanto Deus quanto seres humanos podem ser sujeitos deste verbo.

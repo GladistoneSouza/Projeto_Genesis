@@ -219,6 +219,12 @@ Toda afirmação sobre o original se apoia numa camada da tradição textual, e 
 
 11.7. **A incerteza é concentrada, não uniforme.** Palavra com dezenas de ocorrências é segura; *hapax legomenon* é palpite instruído. Declarar a incerteza onde ela existe, e não diluí-la sobre o texto inteiro.
 
+11.8. **C1 também tem testemunhas, e elas divergem.** O consonantal não é um texto só: Texto Massorético, Qumran e Pentateuco Samaritano são testemunhas de C1, e o projeto trabalha sobre o TM. Distinguir os dois andares: **dentro do TM**, o esqueleto consonantal é estável e o que se acrescentou (vogais, acentos) é leitura; **em crítica textual**, até o consonantal se compara. Afirmação que dependa da estabilidade do consonantal vale no primeiro andar e **declara** que não subiu ao segundo — o projeto não tem aparato de variantes, e a lacuna está registrada.
+
+11.9. **Citar uma testemunha de uma camada obriga a citar as que divergem dela.** Vale inclusive dentro da mesma camada e do mesmo versículo: em Gn 1.1 os massoretas deixaram um acento que favorece uma leitura e uma vocalização que deixa a outra possível, e reportar só um dos dois é seleção de testemunha. A posição do projeto não fica mais fraca por responder ao argumento contrário — fica atacável por não o mencionar.
+
+11.10. **Antes do léxico, a morfologia.** Nenhuma ocorrência entra num levantamento de uso sem que se saiba em que **binyan** e em que forma ela está. Ocorrências em padrões verbais diferentes não somam: são dados distintos, e às vezes palavras distintas.
+
 ## 12. Precedência: o que vale quando as fontes divergem (spec 1.8.0)
 
 O projeto acumula camadas de decisão em ritmos diferentes — a conversa com o autor, os registros, a norma, e o conteúdo já escrito. Elas divergem, e divergem por um motivo estrutural: **o conteúdo foi escrito antes das decisões.**
