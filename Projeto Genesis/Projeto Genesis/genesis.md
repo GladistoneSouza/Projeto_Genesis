@@ -1405,7 +1405,27 @@ Adotamos a **terra antiga** — bilhões de anos, conforme o quadro apresentado 
 
 Essa posição decorre da anterior. Se os "dias" não são necessariamente períodos solares (§7.2), a soma das genealogias deixa de funcionar como relógio da criação, e a idade da terra passa a ser pergunta que o texto simplesmente não se propõe a responder.
 
-E ela é sustentada como **crença, não como dogma**. Deus poderia ter criado tudo em seis mil anos de modo milagroso, e nada na doutrina da criação o impediria — a onipotência não fica menor num cronograma curto. O que este comentário afirma é que não parece ter sido assim, e que **o texto não obriga a nenhuma das duas leituras**.
+E ela é sustentada como **crença, não como dogma** — mas convém dizer com precisão onde fica a convicção e onde fica a reserva.
+
+Não está em causa o **poder** de Deus. Ele poderia ter criado tudo há seis mil anos, pronto e em pleno funcionamento; a onipotência não fica menor num cronograma curto. A pergunta não é *se Ele poderia*, e sim **o que isso implicaria**.
+
+#### Duas coisas muito diferentes se chamam "milagre"
+
+A primeira é o **ato pontual**: a ressurreição de Lázaro, o cego que passa a enxergar, o fogo que desce sobre o altar do Carmelo. Acontece num momento, diante de testemunhas, e a Escritura o narra como **sinal** — algo feito para ser notado e para *significar*. Nenhuma ciência explica, e nenhuma precisa explicar: o próprio texto apresenta o evento como interrupção deliberada do curso ordinário. Isso exige fé, e é fé de verdade.
+
+A segunda é o **milagre invocado como explicação de sistema**: sustentar que as camadas geológicas, as razões isotópicas, a sucessão fóssil e a luz de galáxias distantes foram criadas já com essa aparência. Aqui não se afirma um evento — afirma-se que **toda a evidência é aparência**.
+
+As duas coisas não são do mesmo tipo, e a diferença não é de grau.
+
+O problema da segunda não é científico; é **teológico**, e toca a doutrina da revelação geral. Se "os céus proclamam a glória de Deus" (Sl 19.1), e se os atributos invisíveis de Deus "são percebidos... por meio das coisas que foram criadas" (Rm 1.20), então a criação **revela**. Uma criação que apresentasse, com toda a coerência interna, uma história que nunca aconteceu não estaria revelando — estaria induzindo ao erro. E aí a questão deixa de ser o poder de Deus e passa a ser o **caráter** dEle.
+
+Por isso este comentário entende que **aceitar a terra antiga não é contorcionismo**. O contorcionismo está no movimento inverso: o que precisa converter todo o registro natural em ilusão para preservar uma leitura do texto — e que, no caminho, ensina o crente a responder "milagre" a qualquer pergunta. Fé que dispensa o exame não é fé mais forte; é fé que ficou sem o que examinar. A Escritura em nenhum lugar pede isso: ela manda considerar os céus, observar a formiga, aprender com a figueira.
+
+#### Duas ressalvas, e nenhuma é decorativa
+
+**A primeira:** nada disso coloca a ciência acima da Escritura. A criação nunca corrige a Palavra — corrige a **nossa leitura** dela. É o princípio da acomodação já invocado em §7.2: quando o que Deus fez e o que entendemos que Deus disse não se encaixam, o erro está do nosso lado, e pode estar em qualquer das duas compreensões. A reconstrução científica do passado também é humana, também é revisável, e já se enganou.
+
+**A segunda:** os irmãos que sustentam a terra jovem não estão abrindo mão de pensar. Estão protegendo algo real — a prioridade da Escritura sobre a reconstrução humana do passado — e a preocupação é legítima. A divergência aqui é sobre **onde está o erro de leitura**, não sobre quem leva o texto a sério.
 
 **O que esta posição custa:**
 
@@ -1414,6 +1434,8 @@ Nenhuma posição é grátis, e esta cobra caro em três lugares. O leitor tem d
 **1. A morte antes da queda.** É a fatura pesada. Bilhões de anos de registro fóssil significam morte animal — predação, doença, extinção — muito antes do pecado de Adão. Isso pressiona duas coisas que este comentário afirma: o veredito "muito bom" de Gn 1.31, e a leitura de Romanos 5.12, segundo a qual "por um só homem o pecado entrou no mundo, e pelo pecado, a morte".
 
 Há respostas conhecidas — que Paulo fala ali da morte **humana**, e que "muito bom" é veredito de adequação ao propósito, não declaração de ausência de morte. **Nenhuma delas foi adotada aqui ainda.** A resposta pertence ao capítulo 3, na questão de qual morte foi ameaçada em Gn 2.17, e essa questão segue em aberto. Dito sem rodeio: **esta posição cobra uma dívida que o comentário ainda não pagou.**
+
+E há uma consequência interna que precisa ficar registrada: o argumento acima **fecha uma saída que este comentário poderia querer usar**. Quem sustenta que o registro geológico não pode ser mera aparência não pode, adiante, tratar o registro fóssil como aparência — é o mesmo tipo de evidência, lida pelos mesmos métodos. A morte animal que os fósseis mostram terá de ser respondida pela **teologia da morte em Gn 2.17**, e não por um recuo sobre o que os fósseis são.
 
 **2. As genealogias precisam ter lacunas.** Não é concessão inventada para acomodar a ciência — a comparação de Mateus 1 com as genealogias do Antigo Testamento mostra que genealogias bíblicas de fato omitem elos, e o argumento se sustenta sozinho. Mas convém ser honesto quanto à direção: aqui a posição **depende** desse dado, e depender é diferente de observar. O assunto é retomado nos capítulos 5 e 11.
 
