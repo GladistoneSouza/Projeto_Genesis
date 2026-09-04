@@ -2,7 +2,7 @@
 
 > **Para que serve:** com 48 capítulos pela frente, o capítulo 30 precisa saber o que o capítulo 1 decidiu — sem reler 4.500 linhas. Este arquivo é o registro único.
 >
-> **Leia antes de escrever qualquer capítulo**, junto com [`conf.md`](conf.md) e [`regras.md`](regras.md).
+> **Leia antes de escrever qualquer capítulo**, junto com [`conf.md`](conf.md), [`regras.md`](regras.md) e [`fios-canonicos.md`](fios-canonicos.md) — este registra o que o projeto **decidiu**; aquele, o que ele **prometeu e ainda não pagou**.
 >
 > **Regra de manutenção:** nenhuma posição nova é tomada dentro de um capítulo sem entrar aqui. Toda mudança de posição vai também para o [`changelog.md`](changelog.md).
 

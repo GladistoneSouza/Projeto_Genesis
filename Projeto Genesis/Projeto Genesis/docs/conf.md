@@ -2,10 +2,12 @@
 
 idioma_principal: pt-BR
 arquivo_regras: docs/regras.md
+arquivo_posicoes: docs/posicoes.md
+arquivo_fios: docs/fios-canonicos.md
 arquivo_changelog: docs/changelog.md
 
 # Versão das especificações de edição
-spec_version: 1.5.0
+spec_version: 1.6.0
 
 # Notas
 - Sempre registrar mudanças estruturais nas regras em docs/changelog.md.

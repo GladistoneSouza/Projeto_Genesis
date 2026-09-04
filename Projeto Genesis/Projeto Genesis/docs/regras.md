@@ -182,3 +182,21 @@ Critério do autor para decidir o que pertence ao texto comentado e o que é pre
   A seção "Conexões canônicas" de cada capítulo é inteiramente da segunda categoria, e é método legítimo do projeto — Adão e Cristo em `Rm 5`, a semente em `Gl 3.16`, Melquisedeque em `Hb 7`. O que esta regra proíbe é o **contrabando**: apresentar leitura canônica como exegese da passagem.
 
 9.6. **Questão listada como *em aberto* em `docs/posicoes.md` não serve de premissa para outra posição.** Se uma posição precisa dela, ou a questão é decidida primeiro, ou a posição se sustenta sem ela.
+
+## 10. Fios canônicos: as duas metades das conexões (spec 1.6.0)
+
+Gênesis planta o que só fecha depois. A seção de conexões canônicas de cada capítulo passa a ter **duas metades**, e a segunda não existia até esta versão.
+
+10.1. **Retrospectiva** — o que ilumina esta passagem: textos anteriores e posteriores que a retomam, comentam ou ecoam. É o que os documentos já faziam.
+
+10.2. **Prospectiva** — o que esta passagem **planta e não colhe**: fios que ela abre e que se resolvem em outro capítulo de Gênesis ou fora do livro. Cada fio prospectivo deve nomear **onde ele é pago**.
+
+10.3. **Antes de escrever a seção**, ler [`fios-canonicos.md`](fios-canonicos.md) — ele diz quais fios já passam por este capítulo e qual o estado de cada um.
+
+10.4. **Depois de escrever**, atualizar o registro: fio novo entra; fio pago muda de estado; fio que o capítulo deveria pagar e não pagou fica marcado.
+
+10.5. **Elo nomeado × reverberação.** No registro entram apenas os **elos nomeados** — textos que retomam o fio explicitamente. A reverberação difusa de um tema pertence ao texto corrido do capítulo. *(Critério provisório, a ratificar pelo autor.)*
+
+10.6. **Fio que sai de Gênesis sem fechar recebe marca própria** (🔓). O livro termina com promessa não cumprida por decisão do narrador — o comentário registra o efeito, não o conserta.
+
+10.7. A regra 9.5 continua valendo aqui: leitura canônica é método legítimo do projeto, mas entra **declarada**, nunca como exegese da passagem comentada.
