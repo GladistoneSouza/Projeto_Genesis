@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-04 – Precisão sobre o alcance de "início absoluto" em Gn 1.1
+
+[2026-09-04] – arquivos: genesis-01/01-texto-hebraico.md (verbete *bereshit* e nota de rastreabilidade da §5), genesis-01/04-exegese-1-2.md (§4.2, "Bereshit"), docs/posicoes.md (posição 3)
+tipo: precisão de posição doutrinária já adotada
+confiança: 0.95 — a distinção foi levantada pelo autor e a resolução decorre de posições que o projeto já sustenta (#3, #11, e o merismo como afirmação de origem). O residual é a formulação, que é da IA e fica sujeita à ratificação.
+nota: Objeção do autor: **"tu depende de como tu olha, o começo absoluto de tudo, mas, TUDO o quê? Deus já existia, o Espírito Santo, Jesus, os querubins."** A objeção derruba a palavra, não a posição, e resolve de quebra a inconsistência que ficara pendente de 2026-09-03 — o léxico dizia "início absoluto de tempo, espaço e matéria" sem qualificação, enquanto a exegese, reescrita depois da posição 11, já dizia "no reino criado e mortal". **A palavra fazia dois trabalhos:** (1) sentido estrito, "nada existia" — falso, e o próprio v. 2 o desmente ao mostrar o Espírito agindo; (2) sentido em que a tradição a cunhou, "nada além de Deus é eterno" — verdadeiro, polêmico, e com endereço no Egito, onde Israel passou 400 anos ouvindo que a água e o caos sempre existiram. Adotado: **"absoluto" cabe só a Deus**, o único sem começo; aplicado a 1.1 o termo vale **contra matéria eterna**, não contra um Deus eterno. O versículo afirma início **real, não relativo**. **A pergunta "tudo o quê?" já tinha resposta no capítulo, mas nunca ligada a este verbete:** a corte celestial também é criatura — `Cl 1.16` nomeia "tronos, soberanias, principados, potestades" —, e não há terceira categoria entre Criador e criatura. É o que o merismo de 1.1 afirma: origem, não cronologia (posição 11). **O ponto onde o argumento do autor realmente aperta não é "absoluto", é "início do tempo":** se a corte já estava lá, houve um "antes"? A posição 11 já dissolvera isso ao recusar dizer "antes" — a conclusão que o silêncio sustenta é "não aqui". Acrescentado ao texto que "início do tempo" se lê como o tempo **deste mundo**, que o comentário **não responde** se a corte celestial tem duração própria, e que `Jó 38.7` mostra os filhos de Deus jubilando *enquanto* os fundamentos eram lançados — simultaneidade, não anterioridade. **Sem incremento de spec_version:** nenhuma regra nova, e nenhuma posição trocada — apenas dito com precisão o que #3 sempre quis dizer.
+
+---
+
 ## 2026-09-03 – Versão 1.6.0 — criado docs/fios-canonicos.md e a metade prospectiva das conexões
 
 [2026-09-03] – arquivos: docs/fios-canonicos.md (novo), docs/regras.md (nova §10), docs/conf.md (spec_version + ponteiros), docs/posicoes.md (ponteiro cruzado)
