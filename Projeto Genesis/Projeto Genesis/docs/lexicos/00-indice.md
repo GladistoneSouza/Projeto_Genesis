@@ -72,11 +72,38 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | **BDB** (1906) | **Livre**, domínio público | **F2** — consultado nos três verbetes em 2026-09-04 |
 | **Klein**, etimológico | **Livre**, no Sefaria | **F2** — consultado nos três |
 | **Strong's** (índice) | **Livre** | **F2** — contagens conferidas |
-| **Gesenius-Tregelles** (1857) | **Livre** | ⚠️ a conferir |
-| **SDBH** — [semanticdictionary.org](https://semanticdictionary.org) | **Livre**, moderno | ⚠️ a conferir |
+| **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
+| **SDBH** | ~~semanticdictionary.org~~ | ⛔ **inalcançável** — o site redireciona para marble.bible, aplicação JS que não serve texto |
 | **HALOT** | **Pago** | ❌ **não consultado** |
 | **DCH** (Clines) | **Pago** | ❌ **não consultado** |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
+
+### A descoberta que fecha a lista das fontes livres
+
+Fomos atrás das duas que faltavam. **Nenhuma das duas acrescenta um segundo parecer**, e o motivo importa mais que o resultado.
+
+**Gesenius-Tregelles é da mesma família que o BDB.** A genealogia, conferida:
+
+```
+Gesenius, Lexicon Manuale (1810-12)
+   ├── trad. Robinson (1836) ──> BDB (1906)
+   ├── trad. Tregelles (1846/57) ──> o "Gesenius" que o Blue Letter Bible serve
+   └── glosas do Strong's
+```
+
+Os editores do BDB chamam Gesenius de *"o pai da lexicografia hebraica moderna"*. Não é elogio distante: **o BDB é construído sobre a tradução de Robinson do mesmo livro.** Consultar Tregelles depois do BDB não é ouvir um segundo perito — é ouvir o mesmo perito, cinquenta anos antes. Regra §13.5.2.
+
+**E Tregelles editou a teologia de propósito.** No próprio prefácio ele critica Robinson por ter escrito que *"nenhum comentário era necessário sobre quaisquer visões teológicas que a obra pudesse conter"*, e declara ter corrigido o **racionalismo** de Gesenius na sua tradução. Ou seja: o "Gesenius" gratuito é uma tradução **confessionalmente editada**, e o tradutor diz isso na cara.
+
+**As ferramentas ainda empilham.** O BibleStudyTools credita a entrada a *"Brown, Driver, Briggs, Gesenius Lexicon"* — **uma família impressa como autoridade composta**, numa linha só. E as contagens divergem entre ferramentas livres: 54 ocorrências no Strong's do BLB, 46 versículos no BibleStudyTools, porque contam coisas diferentes.
+
+> ### A conclusão estrutural
+>
+> **A camada lexical gratuita tem exatamente uma tradição** — Gesenius → Robinson/Tregelles → BDB → Strong's — **mais o Klein**, que é independente, moderno e etimológico.
+>
+> **Não existe segunda opinião gratuita sobre divisão de sentidos.**
+>
+> Isso muda a natureza da lacuna: HALOT e DCH não são "seria bom ter". São **a única forma de obter uma testemunha independente**, e o DCH é a mais valiosa das duas porque recusa por princípio a etimologia comparada em que toda a família livre se apoia.
 
 > **Por que F2 e não F1.** Os verbetes foram obtidos pela API do Sefaria e pelo Blue Letter Bible, em **leitura mediada** — o volume não esteve em mãos e o texto não foi conferido palavra a palavra. Pela §7.2, isso é **rodapé sem página, declarando**. Cada nota traz a URL: abrir e conferir promove a **F1**.
 

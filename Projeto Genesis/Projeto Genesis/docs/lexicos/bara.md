@@ -103,9 +103,10 @@ Cabeça de verbete: **בָּרָא I**, *"vb. shape, create"*. Etimologia compar
 ### Ainda faltam
 | | |
 |---|---|
-| **SDBH** | ⚠️ **livre**, ainda não consultado — semanticdictionary.org |
-| **Gesenius-Tregelles** | ⚠️ **livre**, ainda não consultado |
-| **HALOT** · **DCH** · **DITAT** | ❌ pagos, não consultados. **DCH é o que mais faria falta aqui:** recusa etimologia por princípio, e o BDB apoiou o verbete em árabe e assírio |
+| **SDBH** | ⛔ **inalcançável** — o site migrou para marble.bible, aplicação JS que não serve texto |
+| **Gesenius-Tregelles** | ⛔ **não é testemunha independente** — o BDB é construído sobre a tradução de Robinson do mesmo Gesenius (§13.5.2) |
+| **HALOT** · **DITAT** | ❌ pagos, não consultados |
+| **DCH** | ❌ pago — **e é o que mais faria falta neste verbete.** O BDB apoiou a entrada em árabe (*bara*, "formar cortando") e assírio (*barû*); o **Klein registra que o árabe *bara'a* é empréstimo do aramaico**, o que enfraquece justamente esse argumento. O DCH recusa etimologia por princípio: seria o único a mostrar o que resta do verbete sem ela |
 
 ---
 

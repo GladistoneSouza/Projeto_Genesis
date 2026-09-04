@@ -70,7 +70,10 @@ Dois detalhes que vale registrar:
 **Conclusão para o método:** este é o verbete que **prova** [[../metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]]. Conferimos o instrumento e ele confirmou que não tem nada a decidir aqui.
 
 ### Ainda faltam
-**SDBH** e **Gesenius-Tregelles** ⚠️ livres, não consultados. **HALOT**, **DCH**, **DITAT** ❌ pagos — e neste verbete a falta **não é urgente**: palavra de 2.300 ocorrências, sentido consensual, e a diferença entre 1906 e hoje não muda nada.
+
+**SDBH** ⛔ inalcançável (migrou para marble.bible, aplicação JS) · **Gesenius-Tregelles** ⛔ não é testemunha independente, é a mesma família do BDB (§13.5.2) · **HALOT**, **DCH**, **DITAT** ❌ pagos.
+
+**E neste verbete a falta não é urgente** — palavra de 2.300 ocorrências, sentido consensual, e a diferença entre 1906 e hoje não muda nada. Se houver orçamento para um único volume, ele não se gasta aqui: gasta-se em [[raqia]].
 
 ---
 

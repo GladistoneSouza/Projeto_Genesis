@@ -265,6 +265,8 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 
 13.5.1. **Mas o léxico também opina, e é preciso separar a glosa do juízo.** Verificado no verbete de *raqia*: o BDB não se limita a glosar "expanse" — afirma que a coisa era "tida pelos hebreus como sólida, e sustentando as águas acima", que é **juízo cosmológico**, impresso no mesmo tipo de letra do sentido. Ao citar um verbete, distinguir **o que a palavra significa** do **que o lexicógrafo conclui sobre o mundo de quem a usou**. A segunda parte é C5 disfarçada de C4.
 
+13.5.2. **Léxicos da mesma família não são testemunhas independentes.** Gesenius (1810-12) é a nascente; Robinson o traduziu em 1836 e o **BDB (1906) é construído sobre essa tradução**; Tregelles traduziu a mesma obra em 1846/57; as glosas do Strong's vêm da mesma linhagem. Citar BDB, Gesenius-Tregelles e Strong's lado a lado como três pareceres é a **§11.2 aplicada à camada C4** — o mesmo erro de empacotar Qumran com a Septuaginta, um andar acima. Antes de somar verbetes, perguntar **de quem cada um descende**.
+
 13.6. **A nota abre pelo bloco de forma** — lema, raiz, binyan, parsing —, conforme a §11.10. Só depois vem o corpus.
 
 13.7. **Questão que a nota levantar e que não constar em [`posicoes.md`](posicoes.md) fica marcada na própria nota.** Pôr fontes lado a lado produz perguntas; a nota registra a pergunta e **não a decide** (regra 6.1.1).

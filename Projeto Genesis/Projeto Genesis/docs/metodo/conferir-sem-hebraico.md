@@ -23,7 +23,9 @@ Foi exatamente isso que dissolveu o impasse do *bereshit*: não um argumento teo
 
 Essas ferramentas dão **C1 e C4** — o consonantal e o resumo lexical. Elas não distinguem camadas nem mostram divergência entre testemunhas antigas.
 
-**E o C4 que elas servem tem endereço:** Strong's, Gesenius-Tregelles (1857) e **BDB (1906)**. Não por serem os melhores — por serem **domínio público**. A camada lexical gratuita da internet está congelada antes de Ugarite (1929) e de Qumran (1947), justamente o material que pesa nas palavras raras.
+**E o C4 que elas servem tem endereço:** Strong's, Gesenius-Tregelles (1846/57) e **BDB (1906)**. Não por serem os melhores — por serem **domínio público**. A camada lexical gratuita da internet está congelada antes de Ugarite (1929) e de Qumran (1947), justamente o material que pesa nas palavras raras.
+
+**Pior: os três são a mesma família.** Gesenius (1810-12) é a nascente; Robinson o traduziu em 1836 e o BDB é construído sobre essa tradução; Tregelles traduziu a mesma obra. Ver dois deles concordando **não é confirmação** — é a mesma fonte falando duas vezes. Algumas ferramentas chegam a creditar a entrada a "Brown, Driver, Briggs, Gesenius Lexicon", numa linha só, como se fosse autoridade composta. Regra §13.5.2.
 
 **E o verbete não é neutro.** Verificado no BDB de *raqia*: além de glosar, ele afirma que a abóbada era *"tida pelos hebreus como sólida, e sustentando as águas acima"* — **juízo cosmológico no mesmo tipo de letra da glosa**. Quem abre a ferramenta para "conferir por conta própria" recebe a conclusão junto, sem aviso.
 

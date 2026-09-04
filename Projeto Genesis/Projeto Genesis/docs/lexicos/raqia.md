@@ -90,12 +90,16 @@ Não digo que esteja errado; o corpus (`Jó 37.18`, Ezequiel) e as versões anti
 
 Vale para a [[../metodo/conferir-sem-hebraico|conferir-sem-hebraico]]: as três ferramentas livres são ótimas para **levantamento de uso** e não são neutras no **verbete**.
 
-### Ainda faltam
+### Ainda faltam — e neste verbete a falta é grave
+
 | | |
 |---|---|
-| **SDBH** · **Gesenius-Tregelles** | ⚠️ **livres**, ainda não consultados |
+| **SDBH** | ⛔ **inalcançável** — migrou para marble.bible, aplicação JS |
+| **Gesenius-Tregelles** | ⛔ **não é testemunha independente** — mesma família do BDB (§13.5.2) |
 | **HALOT** | ❌ **é aqui que a falta mais dói.** 17 ocorrências, e o material pós-Ugarite (1929) é justamente o que o instrumento moderno incorpora e o BDB não podia ter |
 | **DCH** | ❌ recusa etimologia — mostraria o que resta do verbete sem o argumento da raiz "bater metal" |
+
+> **Por que isto é grave aqui, e não em `yom`.** A afirmação de solidez que o leitor recebe vem de **uma única tradição lexical**, de 1906, anterior a Ugarite e a Qumran — e não há segunda opinião gratuita para confrontá-la (ver [[00-indice]]). O corpus e as versões antigas puxam na mesma direção, então a leitura não está desamparada; mas **o verbete que a afirma não tem contraditório**, e quem for decidir a questão da abóbada precisa saber disso.
 
 ---
 
