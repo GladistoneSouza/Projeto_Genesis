@@ -22,9 +22,11 @@ All paths below are relative to the repo root.
 Projeto Genesis/
 ├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
-│   │   ├── conf.md             # Project config, spec_version (currently 1.4.0)
+│   │   ├── conf.md             # Project config, spec_version (currently 1.7.0)
 │   │   ├── regras.md           # Editorial rules — sections 1–8 (AI must read before any edit)
 │   │   ├── posicoes.md         # Doctrinal positions register (AI must read before any edit)
+│   │   ├── fios-canonicos.md   # Canonical threads register — what each chapter plants and where it is paid
+│   │   ├── metodo/             # Method knowledge: text layers (C1–C5), ancient witnesses, levels of meaning
 │   │   └── changelog.md        # Change log with date, version, confidence
 │   ├── prefacio.md             # Book-level preface — declares the project's bias and method
 │   ├── genesis.md              # Book-level introduction (~1950 lines)
@@ -60,9 +62,9 @@ User-level skills at `~/.claude/skills/` cover this project and load in any dire
 The project enforces strict editorial rules defined in `Projeto Genesis/Projeto Genesis/docs/`.
 
 ### Before editing any content file:
-1. Read `docs/conf.md` (project config, current `spec_version` — 1.4.0)
-2. Read `docs/regras.md` (editing rules — sections 1–8; §8 covers the folder structure)
-3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open)
+1. Read `docs/conf.md` (project config, current `spec_version` — 1.7.0)
+2. Read `docs/regras.md` (editing rules — sections 1–11; §8 folders, §9 the silence rule, §10 canonical threads, §11 text layers)
+3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open), and `docs/fios-canonicos.md` (canonical threads register)
 
 ### Doctrinal positions (rule 6.1.1):
 - **No new doctrinal position may be taken inside a content file without registering it in `docs/posicoes.md`.**

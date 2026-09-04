@@ -208,6 +208,8 @@ flowchart TD
 
 Enquanto essa lacuna não for fechada — o que exige conferir cada verbete contra um léxico padrão (BDB, HALOT, ou o *Dicionário Internacional de Teologia do AT*) e citar a entrada —, **trate os verbetes como orientação, não como autoridade.**
 
+> **Método.** A referência sobre camadas do texto, testemunhas antigas e o que o léxico decide (e o que não decide) está em [[../docs/metodo/00-indice|docs/metodo]]. A regra normativa é a §11 de [[../docs/regras|regras.md]].
+
 ### Como conferir sem saber hebraico
 
 Qualquer verbete desta tabela pode ser verificado em minutos, de graça, sem ler hebraico:

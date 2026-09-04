@@ -200,3 +200,21 @@ Gênesis planta o que só fecha depois. A seção de conexões canônicas de cad
 10.6. **Fio que sai de Gênesis sem fechar recebe marca própria** (🔓). O livro termina com promessa não cumprida por decisão do narrador — o comentário registra o efeito, não o conserta.
 
 10.7. A regra 9.5 continua valendo aqui: leitura canônica é método legítimo do projeto, mas entra **declarada**, nunca como exegese da passagem comentada.
+
+## 11. A camada do texto (spec 1.7.0)
+
+Toda afirmação sobre o original se apoia numa camada da tradição textual, e as camadas têm idades muito diferentes — até mil e quinhentos anos entre elas. A referência completa está em [`metodo/camadas-do-texto.md`](metodo/camadas-do-texto.md).
+
+11.1. **Quando uma leitura depende de vogal ou acento massorético (C3), ou de instrumento posterior (C4 léxicos, C5 comentaristas), isso se declara.** Vocalização e cantilação são do séc. VII–X d.C.: são o comentário mais antigo que temos, não o texto.
+
+11.2. **Não empacotar camadas diferentes como se pesassem igual.** Citar a Septuaginta (séc. III–II a.C.) e um acento massorético (séc. IX d.C.) como "testemunhos antigos" no mesmo fôlego é erro de categoria — ainda que as duas afirmações sejam verdadeiras, e ainda que ambas passem nos eixos de nível, procedência e fonte.
+
+11.3. **Marcação:** `**(C3)**` no bloco cuja leitura dependa da camada massorética; `**(C2)**` ao invocar versão antiga como testemunho.
+
+11.4. **Palavra não decide doutrina.** O sentido se estabelece por **uso**; a analogia serve para metáforas e palavras raras, não para as comuns. O peso de uma afirmação teológica mora na oração, no parágrafo e no cânon — não no verbete. Ver [`metodo/niveis-de-sentido.md`](metodo/niveis-de-sentido.md).
+
+11.5. **Glosa não é tradução.** Antes de discutir uma palavra, verificar se ela aparece em alguma versão. Se não aparece em nenhuma, é comentário — e comentário não se defende como se fosse texto. Ver [`metodo/glosa-nao-e-traducao.md`](metodo/glosa-nao-e-traducao.md).
+
+11.6. **Antes de defender um versículo como prova, perguntar qual texto de fato carrega a afirmação.** Perder o *proof-text* raramente é perder a doutrina, e saber disso permite examinar a disputa com calma em vez de defender território. Quando a resposta for "nenhum outro texto sustenta", isso pertence à coluna da fatura em [`posicoes.md`](posicoes.md).
+
+11.7. **A incerteza é concentrada, não uniforme.** Palavra com dezenas de ocorrências é segura; *hapax legomenon* é palpite instruído. Declarar a incerteza onde ela existe, e não diluí-la sobre o texto inteiro.
