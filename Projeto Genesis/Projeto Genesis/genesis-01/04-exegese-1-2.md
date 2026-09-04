@@ -32,7 +32,15 @@ O texto hebraico abre com: *Bereshit bara Elohim 'et hashamayim ve'et ha'aretz.*
 
 "Bereshit" indica o início real da história do mundo material. Não é apenas o começo de um relato, mas o **início do tempo, do espaço e da matéria** no reino criado e mortal: tudo o que vemos começa aqui, e nada disso é eterno nem autoexistente.
 
-Uma palavra sobre a palavra. A tradição chama isso de **início absoluto**, e a expressão é boa desde que se saiba contra quem ela foi cunhada. Ela nunca significou que nada existia: Deus existia — Pai, Filho e Espírito —, e o próprio versículo 2 mostra o Espírito agindo duas linhas adiante. No sentido estrito, "absoluto" cabe **só a Deus**, o único que não tem começo. Aplicado a 1.1, o termo afirma outra coisa, e afirma contra alguém: **nada além de Deus é eterno**. Não há matéria eterna, não há caos anterior, não há segundo princípio. O endereço dessa polêmica é o Egito, onde Israel passou quatrocentos anos ouvindo que a água e as trevas sempre existiram.
+Uma palavra sobre a palavra. A tradição costuma chamar isso de **início absoluto**, e convém saber que "absoluto" é **glosa, não tradução**: nenhuma versão traz o termo. O texto diz *bereshit*, "no princípio", e a palavra hebraica é modesta. *Re'shit* significa "a cabeça de", "a primeira parte de" — é o termo comum para as **primícias** da colheita (Lv 23.10; Nm 18.12), para o começo de um reino (Gn 10.10), e aparece na **forma idêntica** a Gn 1.1 em Jeremias 26.1, onde significa apenas "quando começou o reinado de Jeoiaquim". A palavra abre uma lacuna — "na cabeça de ___" — e quem a preenche não é ela, é o objeto do verbo: *os céus e a terra*.
+
+Convém então separar três camadas que costumam vir grudadas:
+
+- **"No princípio"** é o que o texto diz.
+- **Início real, e não relativo**, é o que a **sintaxe** afirma — porque 1.1 é frase independente, e não oração temporal subordinada ao versículo seguinte ([[../docs/posicoes|posicoes.md]] #3).
+- **"Nada além de Deus é eterno"** é **conclusão doutrinária**, e vem do cânon: `Cl 1.16`; `Hb 11.3`; `Jo 1.3`.
+
+As três se sustentam, e o comentário afirma as três. Mas a terceira não mora dentro da primeira, e tratá-la como se morasse produz um mal-entendido previsível: o de que "absoluto" queira dizer que **nada** existia. Nunca quis. Deus existia — Pai, Filho e Espírito —, e o próprio versículo 2 mostra o Espírito agindo duas linhas adiante. No sentido estrito, "absoluto" cabe **só a Deus**, o único que não tem começo. Quando a tradição aplica a palavra a 1.1, ela afirma outra coisa, e afirma contra alguém: não há matéria eterna, não há caos anterior, não há segundo princípio. O endereço dessa polêmica é o Egito, onde Israel passou quatrocentos anos ouvindo que a água e as trevas sempre existiram.
 
 Segue daí a resposta a uma pergunta legítima: se Deus, o Espírito e a corte celestial já estavam lá, começo de *quê*? De tudo o que é criatura. E a corte celestial **é criatura** — Colossenses 1.16 nomeia sem margem "tronos, soberanias, principados, potestades" entre as coisas criadas por Ele e para Ele. Não existe uma terceira categoria entre o Criador e o criado. É exatamente isso que o merismo "céus e terra" afirma (§4.2, adiante): que nada existe fora do que Deus fez, o invisível inclusive.
 

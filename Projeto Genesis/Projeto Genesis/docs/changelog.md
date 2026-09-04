@@ -3,6 +3,15 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-04 – "Absoluto" declarado como glosa, não tradução
+
+[2026-09-04] – arquivos: genesis-01/04-exegese-1-2.md (§4.2), genesis-01/01-texto-hebraico.md (verbete *bereshit*)
+tipo: correção de excesso introduzido pela IA no mesmo dia
+confiança: 0.95 — os paralelos de *re'shit* são verificáveis por qualquer leitor no interlinear indicado na §6 do documento hebraico. O residual é de redação.
+nota: Segunda passada no mesmo verbete, no mesmo dia, provocada pelo autor: **"tô tentando negociar e fazer um acordo com o texto; se *bereshit* é o início absoluto de tudo e isso é o significado de fato, não tem como discordar."** A desconfiança estava certa e a premissa estava errada — *bereshit* não significa isso. O diagnóstico: a correção da manhã ainda dizia que "a expressão é boa desde que se saiba contra quem foi cunhada", frase da IA, generosa demais com uma glosa. **"Absoluto" não aparece em nenhuma versão** — TB, ACF, ARA, NAA, NVI, NVT, Vulgata (*in principio*) e LXX (*ἐν ἀρχῇ*) trazem apenas "no princípio". Acrescentados ao texto os dados lexicais que o leitor pode conferir sozinho: *re'shit* é o termo comum para **primícias** (Lv 23.10; Nm 18.12) e para o começo de um reino (Gn 10.10), e a **forma idêntica** *bere'shit* ocorre em Jr 26.1 significando apenas "quando começou o reinado de Jeoiaquim". A palavra abre uma lacuna — "na cabeça de ___" — que quem preenche é o objeto do verbo. **Separadas três camadas que vinham grudadas e que produziram a confusão:** (1) "no princípio" é o que o texto diz; (2) "início real, não relativo" é o que a **sintaxe** afirma, por 1.1 ser frase independente — posição 3; (3) "nada além de Deus é eterno" é **conclusão doutrinária**, vinda de `Cl 1.16`, `Hb 11.3` e `Jo 1.3`. As três se sustentam e o comentário afirma as três; o erro era fazer a terceira morar dentro da primeira. **Registrado também o risco inverso**, para que a correção não seja usada como cavalo de Troia: a modéstia do vocábulo **não** favorece a leitura dependente ("quando Deus começou a criar"), porque aquela disputa é de sintaxe, não de léxico — *bere'shit* é igualmente modesta em Jr 26.1 e ali o reinado de fato começou. **Autocrítica registrada:** na mensagem anterior a IA recomendara um recorte cronológico (1.31 → 3.1) argumentando que ele "sai mais barato" por eliminar uma remenda da posição 11 — **argumento de contabilidade do projeto, não do texto**, retirado. Nenhuma posição foi alterada; as 11 e 11b seguem como estavam, e a decisão sobre datar ou não a corrupção continua com o autor. **Sem incremento de spec_version.**
+
+---
+
 ## 2026-09-04 – Precisão sobre o alcance de "início absoluto" em Gn 1.1
 
 [2026-09-04] – arquivos: genesis-01/01-texto-hebraico.md (verbete *bereshit* e nota de rastreabilidade da §5), genesis-01/04-exegese-1-2.md (§4.2, "Bereshit"), docs/posicoes.md (posição 3)
