@@ -90,10 +90,12 @@ Distinta da raiz é o **lema**: a forma sob a qual o dicionário cataloga a pala
 
 Os termos aparecem na ordem em que surgem no texto.
 
+> **Palavras com 🔗 têm verbete comparado** em [[../docs/lexicos/00-indice|docs/lexicos]] — com o levantamento de ocorrências, as versões antigas e o estado de cada instrumento. A linha aqui é o resumo; a nota é o aparato.
+
 | Hebraico | Transliteração | Raiz | Sentido e uso **aqui** |
 |---|---|---|---|
 | בְּרֵאשִׁית | **bereshit** | ר-א-שׁ (*rosh*, cabeça) | "No princípio". Literalmente "na cabeça de". A palavra é modesta: *re'shit* é o termo comum para as **primícias** da colheita (Lv 23.10) e para o começo de um reino (Gn 10.10), e a **forma idêntica** *bere'shit* aparece em Jr 26.1 significando só "quando começou o reinado de Jeoiaquim". O peso de "houve um primeiro ato" não vem do vocábulo, vem de **1.1 ser frase independente**. **O comentário adota a leitura clássica: 1.1 é frase independente, e afirma um início real — não relativo — do mundo criado: o tempo, o espaço e a matéria deste mundo começam aqui, e nada disso é eterno nem autoexistente.** "Absoluto", no sentido estrito, cabe só a Deus, o único sem começo; aplicado a 1.1 o termo vale **contra matéria eterna**, nunca contra um Deus eterno. A forma é de estado construto, o que sustenta a leitura alternativa ("quando Deus começou a criar") — posição e fatura registradas em [[../docs/posicoes\|posicoes.md]] #3 → [[04-exegese-1-2]] |
-| בָּרָא | **bara** | ב-ר-א | "Criar" — criação soberana, ***ex nihilo***. Na Bíblia hebraica, **só Deus é sujeito deste verbo**, nunca um ser humano, e o texto jamais diz o material de que se cria. (O verbo isolado não *demonstra* a criação do nada; a doutrina se apoia no conjunto da Escritura, cf. Hb 11.3 — mas é a leitura deste comentário.) |
+| בָּרָא | **bara** [[../docs/lexicos/bara\|🔗]] | ב-ר-א | "Criar" — criação soberana, ***ex nihilo***. Na Bíblia hebraica, **só Deus é sujeito deste verbo**, nunca um ser humano, e o texto jamais diz o material de que se cria. (O verbo isolado não *demonstra* a criação do nada; a doutrina se apoia no conjunto da Escritura, cf. Hb 11.3 — mas é a leitura deste comentário.) |
 | אֱלֹהִים | **Elohim** | א-ל-ה | "Deus". Forma **plural**, mas com verbo no **singular** (*bara*, não *bar'u*) — plural de majestade, não de número → §4.1 |
 | אֵת | **'et** | — | Não se traduz. Marca o objeto direto definido: indica *o que* foi criado |
 | הַשָּׁמַיִם | **hashamayim** | — | "Os céus". Forma dual/plural; não tem singular em uso |
@@ -108,9 +110,9 @@ Os termos aparecem na ordem em que surgem no texto.
 | טוֹב | **tov** | ט-ו-ב | "Bom" — no sentido de **adequado ao propósito**, não de belo ou moralmente virtuoso. Ausente no segundo dia |
 | וַיַּבְדֵּל | **vayavdel** | ב-ד-ל | "E separou". Verbo estruturante dos três primeiros dias; reaparece em Levítico para o santo e o profano |
 | קָרָא | **qara** | ק-ר-א | "Chamou", nomeou. Nomear é exercer autoridade — Deus nomeia os domínios cósmicos; Adão nomeará os animais |
-| יוֹם | **yom** | — | "Dia". Pode ser 24h, o período de luz, ou uma era ("no dia do SENHOR"). O centro do debate → [[11-debates]] |
+| יוֹם | **yom** [[../docs/lexicos/yom\|🔗]] | — | "Dia". Pode ser 24h, o período de luz, ou uma era ("no dia do SENHOR"). O centro do debate → [[11-debates]] |
 | אֶחָד | **'echad** | — | "Um" — numeral **cardinal**, não ordinal. O texto diz "dia um", não "primeiro dia" (que seria *yom rishon*) |
-| רָקִיעַ | **raqia** | ר-ק-ע | "Firmamento". A raiz significa **bater metal até estender em lâmina**. Daí "expansão", "abóbada" — e o problema de tradução → [[02-traducoes-br]] |
+| רָקִיעַ | **raqia** [[../docs/lexicos/raqia\|🔗]] | ר-ק-ע | "Firmamento". A raiz significa **bater metal até estender em lâmina**. Daí "expansão", "abóbada" — e o problema de tradução → [[02-traducoes-br]] |
 | מַיִם | **mayim** | — | "Águas". Sempre plural |
 | יַבָּשָׁה | **yabbashah** | י-ב-שׁ (secar) | "A porção seca". Não "continente": o que emerge quando a água se recolhe |
 | דֶּשֶׁא | **deshe'** | — | "Relva", vegetação rasteira |

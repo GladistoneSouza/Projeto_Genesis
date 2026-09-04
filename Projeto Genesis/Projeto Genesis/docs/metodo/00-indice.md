@@ -37,9 +37,13 @@ Notas curtas, uma por conceito, ligadas entre si. Abra o painel de grafo do Obsi
 
 ---
 
+## Onde este método é aplicado
+
+[`docs/lexicos/`](../lexicos/00-indice.md) — a wiki lexical. É onde os quatro eixos aparecem lado a lado, por bloco, na mesma página: nível, procedência, fonte e camada. Regra normativa: [`regras.md`](../regras.md) §13.
+
 ## O que esta pasta não é
 
-**Não é registro doutrinário.** Método não decide doutrina. Posição do projeto mora em [`posicoes.md`](../posicoes.md); fio canônico mora em [`fios-canonicos.md`](../fios-canonicos.md); regra normativa mora em [`regras.md`](../regras.md), §11.
+**Não é registro doutrinário.** Método não decide doutrina. Posição do projeto mora em [`posicoes.md`](../posicoes.md); fio canônico mora em [`fios-canonicos.md`](../fios-canonicos.md); verbete comparado mora em [`lexicos/`](../lexicos/00-indice.md); regra normativa mora em [`regras.md`](../regras.md), §11 e §13.
 
 ## Procedência
 

@@ -246,3 +246,22 @@ O projeto acumula camadas de decisão em ritmos diferentes — a conversa com o 
 12.4. **Posição declarada em `posicoes.md` sem estar escrita no arquivo que a coluna "Onde" indica é dívida, não posição cumprida.** A coluna aponta para onde a posição precisa estar **dita ao leitor** — se o leitor abrir aquela seção e não encontrar a posição, ela não existe para ele.
 
 12.5. **Antes de escrever seção que toque questão já decidida, conferir os registros recentes do changelog.** O conteúdo antigo não avisa que envelheceu.
+
+## 13. A wiki lexical — `docs/lexicos/` (spec 1.9.0)
+
+O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesis-01/` obedecia a isso nas traduções e desobedecia no léxico: `02-traducoes-br.md` põe seis versões lado a lado e retira a voz do projeto, enquanto os 43 verbetes de `01-texto-hebraico.md` §3 são o projeto escrevendo o próprio dicionário, sem entrada citada. A §13 corrige a assimetria.
+
+13.1. **Verbete comparado mora em [`docs/lexicos/`](lexicos/00-indice.md), nível-livro, uma nota por palavra.** Palavra que atravessa capítulos é escrita uma vez e chamada por link — não reescrita a cada capítulo.
+
+13.2. **Triagem: nem toda palavra ganha nota.** Nota só onde há **divergência a comparar**. Palavra sem divergência fica como uma linha na tabela do capítulo. O critério está em [`metodo/onde-a-briga-nao-esta`](metodo/onde-a-briga-nao-esta.md).
+
+13.3. **A coluna primária é o corpus, não o dicionário — porque o corpus é fonte direta e o dicionário é instrumento.** O levantamento de uso é a Escritura ela mesma (**C1**); todo léxico é **C4**, e C4 resume C1 sem nunca substituí-lo. Por isso o verbete não arbitra o levantamento: é o levantamento que julga o verbete. Os léxicos entram depois, em bloco próprio, com a data de cada um. Foi assim que `Jr 26.1` desfez o impasse de *bereshit* e `Gn 1.27` × `Gn 2.7` desfez o de *bara* — nenhum dos dois por verbete.
+
+13.4. **Bloco de instrumentos não conferido fica marcado `F3 · a conferir`, e não vira rodapé.** Escrever "HALOT registra X" sem ter HALOT é o erro que o quarto eixo existe para pegar: erraria com cara de rigor. O buraco se declara, verbete a verbete.
+
+13.5. **Léxico e dicionário teológico são gêneros diferentes.** BDB, HALOT, DCH e Gesenius são léxicos; DITAT e NIDOTTE são dicionários teológicos, que trazem doutrina dentro da entrada — informação legítima, **desde que rotulada**. Citá-los no mesmo fôlego, como "os léxicos dizem", é o erro de categoria da §11.2 aplicado à camada C4.
+
+13.6. **A nota abre pelo bloco de forma** — lema, raiz, binyan, parsing —, conforme a §11.10. Só depois vem o corpus.
+
+13.7. **Questão que a nota levantar e que não constar em [`posicoes.md`](posicoes.md) fica marcada na própria nota.** Pôr fontes lado a lado produz perguntas; a nota registra a pergunta e **não a decide** (regra 6.1.1).
+
