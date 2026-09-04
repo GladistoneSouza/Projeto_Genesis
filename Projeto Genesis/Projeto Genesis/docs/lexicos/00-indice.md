@@ -161,4 +161,8 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 ## Procedência
 
-`IA` — estrutura e blocos de corpus redigidos em 2026-09-04, sujeitos à ratificação do autor. Os blocos de instrumentos **não foram preenchidos com fonte em mãos** e estão marcados como tal.
+`IA:Claude` — estrutura e blocos de corpus redigidos em 2026-09-04, sujeitos à ratificação do autor.
+
+`IA:Claude+ChatGPT` — **conferência cruzada** na camada das fontes: a rota do UBS/SDBH foi encontrada pelo assistente externo, verificada e integrada aqui, e derrubou uma conclusão redigida deste lado. Ver [[../regras|regras.md]] §12.6 e §12.8.
+
+**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · HALOT, DCH e DITAT ❌ não consultados, e declarados verbete a verbete.

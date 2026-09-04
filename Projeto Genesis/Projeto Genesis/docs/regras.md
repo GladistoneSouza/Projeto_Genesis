@@ -247,6 +247,26 @@ O projeto acumula camadas de decisão em ritmos diferentes — a conversa com o 
 
 12.5. **Antes de escrever seção que toque questão já decidida, conferir os registros recentes do changelog.** O conteúdo antigo não avisa que envelheceu.
 
+12.6. **Mais de um assistente trabalha neste repositório, e os papéis não são idênticos.**
+
+| | Papel | Por quê |
+|---|---|---|
+| **Autor** | **Autoridade final.** Dono das posições e das faturas | Regra 6.1.1 |
+| **Claude Code** | **Editor residente.** Escreve no repositório | Trabalha no checkout local: vê árvore, commits pendentes, diff e estado operacional |
+| **ChatGPT** | **Segundo parecer e auditor externo.** Lê, revisa, contradiz, encontra fonte | Acesso e memória diferentes — o valor está em não ver a mesma coisa |
+
+  Não é hierarquia de competência: é **divisão de posto**. O auditor externo escreve no repositório quando o autor pedir, e nesse caso valem as mesmas regras — §12.7 e a entrada de changelog.
+
+  **A procedência passa a nomear qual assistente:** `IA:Claude`, `IA:ChatGPT`, `A+IA:Claude`, e `IA:Claude+ChatGPT` quando houve **conferência cruzada** — que é a marca mais forte da faixa `IA`. `IA✓` continua exigindo o autor. Ver [`metodo/os-quatro-eixos`](metodo/os-quatro-eixos.md).
+
+12.7. **Sincronizar antes de escrever; empurrar só sobre estado atualizado.** Antes de qualquer escrita, o agente relê o `main` corrente e os registros de governança (`posicoes`, `fios`, changelog recente). **Nenhum commit entra sem entrada de changelog** — a integridade deste projeto depende do registro estar completo, e registro incompleto não quebra com erro, quebra em silêncio.
+
+  *Precedente:* em 2026-09-04 o assistente externo auditou o projeto sobre um `main` **sete commits atrasado**, e confirmou como bug vivo uma frase já corrigida. O diagnóstico dele estava certo; o estado, não.
+
+12.8. **Divergência entre assistentes é evidência, não erro a apagar.** Registra-se **o que cada lado disse e qual prevaleceu** — é a §12.3 estendida ao caso novo. Conclusão derrubada fica visível como **retratada**, não some.
+
+  *Precedente:* a conclusão *"não existe segunda opinião lexical gratuita"*, redigida aqui e derrubada pelo assistente externo com o dataset do SDBH. O erro virou as regras §13.11 e §13.12; apagá-lo teria custado as duas.
+
 ## 13. A wiki lexical — `docs/lexicos/` (spec 1.9.0)
 
 O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesis-01/` obedecia a isso nas traduções e desobedecia no léxico: `02-traducoes-br.md` põe seis versões lado a lado e retira a voz do projeto, enquanto os 43 verbetes de `01-texto-hebraico.md` §3 são o projeto escrevendo o próprio dicionário, sem entrada citada. A §13 corrige a assimetria.

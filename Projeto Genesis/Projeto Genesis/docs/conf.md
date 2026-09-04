@@ -9,7 +9,7 @@ pasta_lexicos: docs/lexicos/
 arquivo_changelog: docs/changelog.md
 
 # Versão das especificações de edição
-spec_version: 1.8.0
+spec_version: 1.9.0
 
 # Notas
 - Sempre registrar mudanças estruturais nas regras em docs/changelog.md.

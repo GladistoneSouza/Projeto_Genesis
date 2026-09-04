@@ -20,6 +20,17 @@ Os três primeiros vêm de `estudos_biblicos/METODO.md`. O quarto nasceu aqui.
 
 `A` autor · `A+IA` · `IA` · `IA✓` ratificado pelo autor.
 
+**Desde 2026-09-04, `IA` nomeia qual.** Mais de um assistente trabalha no projeto, e `IA` sozinho deixou de identificar de onde veio um bloco e contra o quê ele foi conferido.
+
+| Marca | Significa |
+|---|---|
+| `IA:Claude` · `IA:ChatGPT` | Um assistente, sozinho |
+| `IA:Claude+ChatGPT` | **Houve conferência cruzada** — os dois olharam, e é a marca mais forte da faixa `IA` |
+| `A+IA:Claude` | Autor com assistência |
+| `IA✓` | Ratificado pelo autor. **Nenhum sufixo substitui isto** |
+
+**Por que a marca precisou de sobrenome.** Em 2026-09-04 uma conclusão redigida aqui — *"não existe segunda opinião lexical gratuita"* — foi derrubada pelo outro assistente, que encontrou o dataset do SDBH publicado em GitHub. Ambos os blocos estariam marcados `IA`, e daí a seis meses não haveria como reconstruir quem disse o quê. Ver [[../changelog|changelog.md]] e a regra §12.6.
+
 **Nada se promove sozinho.** A IA nunca marca o próprio trabalho como ratificado. Bloco `IA` não vira peça publicável.
 
 ## 3 · Fonte — como a citação de terceiro foi obtida

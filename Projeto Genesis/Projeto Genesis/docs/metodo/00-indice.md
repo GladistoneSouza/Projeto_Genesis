@@ -47,6 +47,6 @@ Notas curtas, uma por conceito, ligadas entre si. Abra o painel de grafo do Obsi
 
 ## Procedência
 
-`IA` — redigida a partir da conversa de 2026-09-04, registrada em [`changelog.md`](../changelog.md). **Sujeita à ratificação do autor.**
+`IA:Claude` — redigida a partir da conversa de 2026-09-04, registrada em [`changelog.md`](../changelog.md). **Sujeita à ratificação do autor.** *(A marca ganhou sobrenome na mesma data: ver [[os-quatro-eixos]] §2 e a regra §12.6.)*
 
 Os eixos de nível (N1–N5), procedência e fonte (F1–F3) foram importados de `estudos_biblicos/METODO.md`, lido na íntegra (**F1**). O eixo da camada é formulação nova.
