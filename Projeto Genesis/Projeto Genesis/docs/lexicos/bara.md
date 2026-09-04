@@ -100,13 +100,33 @@ Cabeça de verbete: **בָּרָא I**, *"vb. shape, create"*. Etimologia compar
 
 **O que o BDB não faz:** ele **não** embute *ex nihilo* na divisão de sentidos. Diz "moldar, formar, criar" e observa a restrição de sujeito. Quem embute o *ex nihilo* no verbete é a tradição de leitura, não este léxico.
 
+### UBS / SDBH (2000–2023) — **F1** · em português
+
+> **UBS Dictionary of Biblical Hebrew**, extraído do *Semantic Dictionary of Biblical Hebrew*. Verbete de **Enio R. Mueller**. Dataset `UBSHebrewDic-v0.9.2-pt.JSON`, commit [`0592471`](https://github.com/ubsicap/ubs-open-license/commit/0592471dbc8bbda7a63c6c8eb3b0686a3a548aee), `sha256 00ba7b93…ff82`. © United Bible Societies, CC BY-SA 4.0. **F1** — o arquivo foi lido diretamente (§13.11).
+
+Organizado por **domínio semântico**, não por raiz. Duas formas-base separadas para o verbo da criação:
+
+| Domínio | Definição (citação curta) | Glosas | Refs |
+|---|---|---|---|
+| **Existir** | *"ação causativa pela qual uma deidade traz à existência **algo que não existia antes**"* | criar | 41 |
+| **Acontecer** | *"ação causativa pela qual uma deidade **faz algo acontecer** que não acontecera antes"* | criar (um evento), fazer acontecer | 7 |
+
+E, em **formas-base distintas**: domínio *Detach* — "cortar, esculpir, retalhar" (4 refs) · domínio *Gordo* — "engordar-se" (1 ref).
+
+**O que isso acrescenta, e é muito:**
+
+1. **Chega sozinho à mesma divisão que o corpus mostrou.** "Criar uma coisa" e "fazer acontecer um evento" são sentidos separados aqui — e é exatamente o que `Is 45.7` (trevas) e `Nm 16.30` (o chão que se abre) exigiam. Duas tradições, um resultado.
+2. **A definição é mais forte que a do BDB:** *"algo que não existia antes"*. Mas leia com cuidado — isso afirma **novidade**, não **origem material**. Não é "a partir do nada". A distinção é toda a questão.
+3. **O SDBH arquiva o "cortar" em forma-base separada**, ao contrário do BDB, que o põe como piel da mesma entrada. Ou seja: **os dois léxicos discordam sobre se é um lexema ou dois** — que é a decisão (a) das quatro, visível.
+
+**Ressalva honesta:** o SDBH também embute *"uma deidade"* dentro da definição. É a mesma restrição de sujeito virando conteúdo semântico que este verbete critica no BDB — agora feita em 2023, por um léxico moderno.
+
 ### Ainda faltam
 | | |
 |---|---|
-| **SDBH** | ⛔ **inalcançável** — o site migrou para marble.bible, aplicação JS que não serve texto |
 | **Gesenius-Tregelles** | ⛔ **não é testemunha independente** — o BDB é construído sobre a tradução de Robinson do mesmo Gesenius (§13.5.2) |
 | **HALOT** · **DITAT** | ❌ pagos, não consultados |
-| **DCH** | ❌ pago — **e é o que mais faria falta neste verbete.** O BDB apoiou a entrada em árabe (*bara*, "formar cortando") e assírio (*barû*); o **Klein registra que o árabe *bara'a* é empréstimo do aramaico**, o que enfraquece justamente esse argumento. O DCH recusa etimologia por princípio: seria o único a mostrar o que resta do verbete sem ela |
+| **DCH** | ❌ pago. O BDB apoiou a entrada em árabe (*bara*, "formar cortando") e assírio (*barû*); o **Klein registra que o árabe *bara'a* é empréstimo do aramaico**, o que enfraquece esse argumento. O DCH recusa etimologia por princípio — mas **o SDBH já cobre parte dessa função**, por não organizar por raiz |
 
 ---
 

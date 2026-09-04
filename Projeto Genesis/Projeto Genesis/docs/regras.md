@@ -269,6 +269,16 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 
 13.6. **A nota abre pelo bloco de forma** — lema, raiz, binyan, parsing —, conforme a §11.10. Só depois vem o corpus.
 
+13.11. **Fonte externa versionada: fixa-se o commit, registra-se o hash, não se versiona o dataset.** Aplica-se ao UBS Dictionary of Biblical Hebrew e a qualquer dado aberto que o projeto venha a consultar.
+
+  - **Fixar a versão.** Nunca citar um caminho que se move (`main`, "última versão"). Registrar **arquivo, versão, commit e `sha256`** — sem isso "F1" não é reproduzível, porque quem for conferir daqui a um ano pode ver outro arquivo.
+  - **Não versionar o dataset no vault.** Consulta-se fora e extrai-se o necessário.
+  - **Citação curta com atribuição; síntese na voz do projeto.** Não reproduzir verbetes inteiros em série.
+  - **Licença.** CC BY-SA incide sobre **material adaptado que se compartilha**, não sobre fonte consultada. Consultar e escrever análise própria é uso de fonte; traduzir, transformar ou redistribuir o dataset é outra coisa, e aí a licença vira **decisão editorial do autor**, não detalhe técnico.
+  - **Ler o arquivo direto é F1**; ler a mesma obra por interface web mediada é **F2**. A diferença é a conferibilidade, não o prestígio da fonte.
+
+13.12. **"Não consegui alcançar" não é "não existe".** Registrado porque o projeto cometeu o erro: a interface do SDBH estava morta e a conclusão escrita foi que **não havia** segunda opinião lexical gratuita — quando os dados estavam publicados em outro lugar, versionados e em português. Antes de registrar a **ausência** de uma fonte, declarar **o que foi tentado**; ausência de acesso é fato sobre a busca, não sobre o mundo.
+
 13.7. **Questão que a nota levantar e que não constar em [`posicoes.md`](posicoes.md) fica marcada na própria nota.** Pôr fontes lado a lado produz perguntas; a nota registra a pergunta e **não a decide** (regra 6.1.1).
 
 13.8. **A divisão: a palavra na língua fica na wiki; a palavra neste capítulo fica no capítulo.** A wiki dá a base geral — como o hebraico foi levantado e analisado no projeto. O capítulo guarda o que se consulta **de mão, durante a exegese**.

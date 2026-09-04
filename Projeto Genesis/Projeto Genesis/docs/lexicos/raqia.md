@@ -90,16 +90,38 @@ Não digo que esteja errado; o corpus (`Jó 37.18`, Ezequiel) e as versões anti
 
 Vale para a [[../metodo/conferir-sem-hebraico|conferir-sem-hebraico]]: as três ferramentas livres são ótimas para **levantamento de uso** e não são neutras no **verbete**.
 
-### Ainda faltam — e neste verbete a falta é grave
+### UBS / SDBH (2000–2023) — **F1** · em português
 
+> **UBS Dictionary of Biblical Hebrew**, extraído do *SDBH*. Verbete de **Reinier de Blois**. Dataset `UBSHebrewDic-v0.9.2-pt.JSON`, commit [`0592471`](https://github.com/ubsicap/ubs-open-license/commit/0592471dbc8bbda7a63c6c8eb3b0686a3a548aee), `sha256 00ba7b93…ff82`. © United Bible Societies, CC BY-SA 4.0. **F1** — arquivo lido diretamente (§13.11).
+
+**Domínio semântico:** *Regions Above the Earth*. **Glosas:** firmamento, **domo**, **abóbada**, vastidão. 17 referências.
+
+> *"= algo como uma **abóbada arredondada** colocada acima da superfície da terra; que **separa a água da terra da água na atmosfera**; lugar onde sol, lua e estrelas ficam em suspensão; descrito na visão de Ezequiel como uma **estrutura carregada por criaturas celestiais**, em cujo topo o trono de Deus estava localizado."*
+
+**O verbo *raqa'* (H7554)** — o SDBH divide em cinco sentidos, e confirma os dois agrupamentos registrados acima:
+
+| Domínio | Sentido | Refs |
+|---|---|---|
+| *Impacto* | pisotear, bater os pés | 1 + 2 |
+| *Forma* | *"um artesão utiliza um martelo para formatar uma peça de metal em folhas planas"* | 3 |
+| *Cobrir* | revestir com metal forjado a batidas | 1 |
+| **Existir** | *"ação causativa pela qual uma divindade **cria o firmamento para cobrir a terra como uma abóbada**, descrito como um artesão que martela um pedaço de metal em uma superfície plana"* | 4 |
+
+O quinto é o mais informativo: são as ocorrências de "estender os céus / a terra" (`Jó 37.18`; `Is 42.5`; `Sl 136.6`), e o SDBH **não** as lê como metáfora solta — lê como a mesma imagem do metal batido, aplicada à criação.
+
+### ⚠️ Correção declarada (2026-09-04)
+
+Uma versão anterior desta nota afirmava que a solidez vinha de **"uma única tradição lexical de 1906, sem contraditório disponível"**.
+
+**Falso, e o erro é do tipo mais perigoso.** Havia contraditório disponível — e ele **concorda**. Duas tradições lexicais independentes, separadas por 117 anos e por método (uma etimológica e por raiz, outra por domínio semântico; uma anterior a Ugarite, outra posterior a tudo), dizem **abóbada**. A afirmação está muito mais apoiada do que esta nota deu a entender.
+
+A causa do erro está registrada em [[00-indice]]: eu concluí *"não existe"* a partir de *"não consegui alcançar"*.
+
+### Ainda faltam
 | | |
 |---|---|
-| **SDBH** | ⛔ **inalcançável** — migrou para marble.bible, aplicação JS |
-| **Gesenius-Tregelles** | ⛔ **não é testemunha independente** — mesma família do BDB (§13.5.2) |
-| **HALOT** | ❌ **é aqui que a falta mais dói.** 17 ocorrências, e o material pós-Ugarite (1929) é justamente o que o instrumento moderno incorpora e o BDB não podia ter |
-| **DCH** | ❌ recusa etimologia — mostraria o que resta do verbete sem o argumento da raiz "bater metal" |
-
-> **Por que isto é grave aqui, e não em `yom`.** A afirmação de solidez que o leitor recebe vem de **uma única tradição lexical**, de 1906, anterior a Ugarite e a Qumran — e não há segunda opinião gratuita para confrontá-la (ver [[00-indice]]). O corpus e as versões antigas puxam na mesma direção, então a leitura não está desamparada; mas **o verbete que a afirma não tem contraditório**, e quem for decidir a questão da abóbada precisa saber disso.
+| **Gesenius-Tregelles** | ⛔ não é testemunha independente — mesma família do BDB (§13.5.2) |
+| **HALOT** · **DCH** · **DITAT** | ❌ pagos. **A urgência caiu:** o SDBH já forneceu a testemunha independente e moderna que faltava. HALOT ainda acrescentaria o aparato comparativo pós-Ugarite, mas deixou de ser a única saída |
 
 ---
 
@@ -124,6 +146,8 @@ Vale para a [[../metodo/conferir-sem-hebraico|conferir-sem-hebraico]]: as três 
 > ⚠️ **O projeto não tem posição registrada sobre isto.** Não consta em [[../posicoes|posicoes.md]] — nem como posição adotada, nem como questão em aberto. **É decisão do autor** (regra 6.1.1), e ela toca acomodação, inerrância e a leitura do Antigo Oriente.
 >
 > Registrar como *em aberto* já seria ganho: hoje a pergunta não existe no registro, e o `01-texto-hebraico` afirma "a raiz significa bater metal até estender em lâmina" sem dizer o que isso implica nem o que custa.
+>
+> **E o estado da evidência mudou em 2026-09-04, para pior — no sentido de mais caro.** Quando a questão foi levantada, a leitura de abóbada apoiava-se no corpus (`Jó 37.18`, Ezequiel), nas versões antigas (LXX *stereōma*, Vulgata *firmamentum*) e num léxico de 1906. Agora soma-se **um léxico moderno, independente e em português**, que descreve "abóbada arredondada" e "estrutura carregada por criaturas celestiais". Quatro linhas de evidência convergentes. Isso **não decide** a questão teológica — a acomodação (`genesis.md` §7.6) é precisamente o instrumento para lidar com um texto que fala a cosmologia do seu tempo —, mas encarece qualquer posição que dependa de o *raqia* não ser abóbada.
 
 ---
 

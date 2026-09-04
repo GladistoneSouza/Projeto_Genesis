@@ -69,11 +69,28 @@ Dois detalhes que vale registrar:
 
 **Conclusão para o método:** este é o verbete que **prova** [[../metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]]. Conferimos o instrumento e ele confirmou que não tem nada a decidir aqui.
 
+### UBS / SDBH (2000–2023) — **F1** · em português
+
+> **UBS Dictionary of Biblical Hebrew**, extraído do *SDBH*. Verbete de **Enio R. Mueller**. Dataset `UBSHebrewDic-v0.9.2-pt.JSON`, commit [`0592471`](https://github.com/ubsicap/ubs-open-license/commit/0592471dbc8bbda7a63c6c8eb3b0686a3a548aee), `sha256 00ba7b93…ff82`. © United Bible Societies, CC BY-SA 4.0. **F1** — arquivo lido diretamente (§13.11).
+
+Vinte e três sentidos, quase todos no domínio *Tempo*. Os três que importam:
+
+| Sentido | Definição (citação curta) | Refs |
+|---|---|---|
+| **1** | *"a parte do dia em que há luz, em contraste com a parte em que há escuridão"* | 66 |
+| **2** | *"uma unidade básica de tempo, que **inclui entardecer e amanhecer**; sete dias fazem uma semana; **às vezes utilizado em sentido figurado, referindo-se a um período limitado de tempo, que pode ser mais curto ou um pouco mais longo do que um único dia; frequentemente o contexto dificulta essa determinação**"* | **1.538** |
+| **3** | *"literalmente: dias; daí: uma quantidade de tempo inespecificada"* | 517 |
+
+**Duas coisas, e as duas pesam:**
+
+1. **Os sentidos 1 e 2 são exatamente os dois usos que Gênesis 1.5 faz no mesmo versículo** — "chamou à luz **dia**" é o sentido 1; "**dia** um" é o sentido 2, que a definição descreve como *incluindo entardecer e amanhecer*. Um léxico moderno, trabalhando por domínio semântico e sem olhar para a controvérsia, produziu a mesma divisão que o versículo exige.
+2. **A cláusula final do sentido 2 é o veredito do instrumento sobre a disputa:** *"frequentemente o contexto dificulta essa determinação"*. Escrito por um lexicógrafo, num verbete, em 2023 — e não é evasiva: é a descrição correta de uma palavra que faz as duas coisas.
+
 ### Ainda faltam
 
-**SDBH** ⛔ inalcançável (migrou para marble.bible, aplicação JS) · **Gesenius-Tregelles** ⛔ não é testemunha independente, é a mesma família do BDB (§13.5.2) · **HALOT**, **DCH**, **DITAT** ❌ pagos.
+**Gesenius-Tregelles** ⛔ não é testemunha independente, é a mesma família do BDB (§13.5.2) · **HALOT**, **DCH**, **DITAT** ❌ pagos.
 
-**E neste verbete a falta não é urgente** — palavra de 2.300 ocorrências, sentido consensual, e a diferença entre 1906 e hoje não muda nada. Se houver orçamento para um único volume, ele não se gasta aqui: gasta-se em [[raqia]].
+**E neste verbete a falta não é urgente** — palavra de 2.300 ocorrências, sentido consensual, e **duas tradições lexicais independentes já disseram a mesma coisa**: a palavra faz as duas coisas, e quem decide é o contexto. Comprar um terceiro léxico não vai mudar isso.
 
 ---
 

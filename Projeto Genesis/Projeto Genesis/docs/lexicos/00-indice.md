@@ -72,8 +72,9 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | **BDB** (1906) | **Livre**, domínio público | **F2** — consultado nos três verbetes em 2026-09-04 |
 | **Klein**, etimológico | **Livre**, no Sefaria | **F2** — consultado nos três |
 | **Strong's** (índice) | **Livre** | **F2** — contagens conferidas |
+| **UBS / SDBH** (2000–2023), **em português** | **Livre**, CC BY-SA 4.0, dados versionados | **F1** — consultado nos três verbetes em 2026-09-04 |
 | **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
-| **SDBH** | ~~semanticdictionary.org~~ | ⛔ **inalcançável** — o site redireciona para marble.bible, aplicação JS que não serve texto |
+| ~~semanticdictionary.org~~ | — | ⛔ interface morta; **os dados estão no GitHub**, ver abaixo |
 | **HALOT** | **Pago** | ❌ **não consultado** |
 | **DCH** (Clines) | **Pago** | ❌ **não consultado** |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
@@ -97,13 +98,42 @@ Os editores do BDB chamam Gesenius de *"o pai da lexicografia hebraica moderna"*
 
 **As ferramentas ainda empilham.** O BibleStudyTools credita a entrada a *"Brown, Driver, Briggs, Gesenius Lexicon"* — **uma família impressa como autoridade composta**, numa linha só. E as contagens divergem entre ferramentas livres: 54 ocorrências no Strong's do BLB, 46 versículos no BibleStudyTools, porque contam coisas diferentes.
 
-> ### A conclusão estrutural
+> ### ⚠️ A conclusão estrutural — **retirada em 2026-09-04**
 >
-> **A camada lexical gratuita tem exatamente uma tradição** — Gesenius → Robinson/Tregelles → BDB → Strong's — **mais o Klein**, que é independente, moderno e etimológico.
+> Esta seção afirmava: *"a camada lexical gratuita tem exatamente uma tradição… **não existe segunda opinião gratuita sobre divisão de sentidos**"*, e concluía que HALOT e DCH eram a única forma de obter testemunha independente.
 >
-> **Não existe segunda opinião gratuita sobre divisão de sentidos.**
+> **Estava errado.** Existe, é gratuita, é moderna, **é em português**, e é metodologicamente independente da família Gesenius — ver abaixo.
 >
-> Isso muda a natureza da lacuna: HALOT e DCH não são "seria bom ter". São **a única forma de obter uma testemunha independente**, e o DCH é a mais valiosa das duas porque recusa por princípio a etimologia comparada em que toda a família livre se apoia.
+> **A causa do erro merece ficar registrada, porque é de método:** concluí *"não existe"* a partir de *"não consegui alcançar"*. A interface do SDBH estava morta; **os dados nunca estiveram**. São coisas diferentes, e o salto entre elas é exatamente o tipo de coisa que os quatro eixos existem para impedir. O achado veio do assistente do outro lado da banca, não daqui.
+>
+> **O que sobrevive da seção:** a genealogia é verdadeira, e a §13.5.2 continua valendo — BDB, Tregelles e Strong's **são** uma família só, e vê-los concordar não é confirmação.
+
+---
+
+## UBS Dictionary of Biblical Hebrew — a testemunha independente, e em português
+
+Derivado do **SDBH** (*Semantic Dictionary of Biblical Hebrew*, United Bible Societies, 2000–2023). Organizado por **domínio semântico** — método declaradamente diferente da linhagem etimológica e por raiz.
+
+| | |
+|---|---|
+| **Dados** | [`ubsicap/ubs-open-license`](https://github.com/ubsicap/ubs-open-license) → `dictionaries/hebrew/JSON/` |
+| **Arquivo** | `UBSHebrewDic-v0.9.2-pt.JSON` — 22,9 MB, 7.932 verbetes |
+| **Commit fixado** | [`0592471`](https://github.com/ubsicap/ubs-open-license/commit/0592471dbc8bbda7a63c6c8eb3b0686a3a548aee) — 2026-03-21, assinado por **Reinier de Blois**, editor do SDBH |
+| **sha256** | `00ba7b930735d3e4264985b552d117ba2bfdab310f084b0ad2a8771979c3ff82` |
+| **Licença** | CC BY-SA 4.0 · © United Bible Societies |
+| **Cobertura** | ~90% do vocabulário do AT |
+
+**Três coisas que fazem dele a melhor fonte livre deste projeto:**
+
+1. **É em português, e não é tradução automática.** Os verbetes têm **autor nomeado**: *bara* e *yom* são de **Enio R. Mueller**; *raqia* é de **de Blois**. É o único léxico moderno em português que apareceu nesta investigação — o DITAT é de 1980 e é dicionário teológico, não léxico.
+2. **Separa `DefinitionShort` de `Glosses` em campos distintos** — a mesma distinção de [[../metodo/glosa-nao-e-traducao|glosa-nao-e-traducao]], encontrada aqui de forma independente e encodada no modelo de dados.
+3. **É versionado e conferível por hash.** Diferente de qualquer verbete lido em página web, este é um arquivo com commit e checksum: **F1 reproduzível**, não F2. Regra §13.11.
+
+**Ressalva, e ela é honesta:** o README do SDBH cita **HALOT e DCH** entre as obras de referência. Não é uma tradição que os ignora — é uma que os leu. Independente de **método**, não de **acesso**.
+
+### Como usar sem virar fork do dicionário
+
+Licença é **CC BY-SA 4.0**, e o *ShareAlike* incide sobre **material adaptado que se compartilha**, não sobre fonte consultada. O modelo adotado (§13.11): consultar o dataset, registrar versão/commit/hash, **citação curta com atribuição**, síntese na voz do projeto, **sem versionar os 23 MB no vault** e sem reproduzir verbetes inteiros em série.
 
 > **Por que F2 e não F1.** Os verbetes foram obtidos pela API do Sefaria e pelo Blue Letter Bible, em **leitura mediada** — o volume não esteve em mãos e o texto não foi conferido palavra a palavra. Pela §7.2, isso é **rodapé sem página, declarando**. Cada nota traz a URL: abrir e conferir promove a **F1**.
 
@@ -121,9 +151,9 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 | Palavra | Onde nasce | Estado |
 |---|---|---|
-| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** ✅ · SDBH e pagos ⚠️ |
-| [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** ✅ · HALOT ❌ faz falta real · **questão não registrada em `posicoes.md`** |
-| [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** ✅ · pagos ❌ e sem urgência |
+| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ |
+| [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
+| [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
 
