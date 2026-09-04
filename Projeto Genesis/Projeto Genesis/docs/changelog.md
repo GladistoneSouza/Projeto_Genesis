@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-04 – CLAUDE.md atualizado: a porta de entrada estava em 1.7.0
+
+[2026-09-04] – arquivos: CLAUDE.md (raiz do repositório)
+tipo: atualização de documentação operacional
+procedência: `IA:Claude`
+confiança: 1.0 — é conciliação com o estado verificável dos arquivos.
+nota: Levantamento de fechamento encontrou o arquivo mais desatualizado do projeto, e é justamente **o que instrui qualquer IA que entra nele**. O `CLAUDE.md` declarava `spec_version` **1.7.0** (real: 1.9.0), dizia "sections 1–8" num lugar e "1–11" noutro (real: 1–13), e **não mencionava `docs/lexicos/` em lugar nenhum** — a wiki inteira era invisível para quem lesse só a porta de entrada. Com dois assistentes trabalhando no repositório, um índice desatualizado não é inconveniente: é a §12.7 sendo violada por omissão, já que o agente que "releu a governança" teria lido a governança errada. **Acrescentados:** a pasta `lexicos/` na árvore; a §12.6 com os três papéis (autor, editor residente, auditor externo) e as consequências §12.7–12.8; a ressalva §12.6.1 de que concordância entre assistentes não é confirmação independente; o resumo dos quatro eixos com as faixas F1/F2/F3 e C1–C5; a inversão da §13.3 (o corpus é fonte direta, o léxico é instrumento); a §13.5.2 (os léxicos livres são uma família só); o UBS/SDBH como testemunha independente sob §13.11; e a divisão §13.8 entre a palavra na língua e a palavra no capítulo. **E registrada a defasagem que o levantamento revelou:** os documentos `03` e `06`–`14` de `genesis-01/` são de 2026-09-03, **anteriores** a `metodo/` (1.7.0), à §12 (1.8.0) e à §13 (1.9.0), e **não foram auditados** contra elas. Só `01`, `04` e `05` foram revistos depois. O aviso está no próprio `CLAUDE.md` para que a próxima sessão não presuma que a camada de estudo já passou pela régua atual. **Sem incremento de spec_version:** documentação, não regra.
+
+---
+
 ## 2026-09-04 – A ressalva da marca cruzada: concordância entre assistentes não é confirmação
 
 [2026-09-04] – arquivos: docs/metodo/os-quatro-eixos.md (eixo 2, ressalva), docs/regras.md (nova §12.6.1)

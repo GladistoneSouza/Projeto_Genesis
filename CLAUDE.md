@@ -22,11 +22,12 @@ All paths below are relative to the repo root.
 Projeto Genesis/
 ├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
-│   │   ├── conf.md             # Project config, spec_version (currently 1.7.0)
-│   │   ├── regras.md           # Editorial rules — sections 1–8 (AI must read before any edit)
+│   │   ├── conf.md             # Project config, spec_version (currently 1.9.0)
+│   │   ├── regras.md           # Editorial rules — sections 1–13 (AI must read before any edit)
 │   │   ├── posicoes.md         # Doctrinal positions register (AI must read before any edit)
 │   │   ├── fios-canonicos.md   # Canonical threads register — what each chapter plants and where it is paid
-│   │   ├── metodo/             # Method knowledge: text layers (C1–C5), ancient witnesses, levels of meaning
+│   │   ├── metodo/             # Method knowledge: the four axes, text layers (C1–C5), ancient witnesses, levels of meaning
+│   │   ├── lexicos/            # Comparative lexical wiki — one note per Hebrew word, BOOK-LEVEL (spec 1.9.0, §13)
 │   │   └── changelog.md        # Change log with date, version, confidence
 │   ├── prefacio.md             # Book-level preface — declares the project's bias and method
 │   ├── genesis.md              # Book-level introduction (~1950 lines)
@@ -46,6 +47,10 @@ The folder has two stages, and the order is deliberate:
 - **Preparatory** (`01`, `02`) — the raw material: original text and translations. Instruments, not interpretation. They come first so the reader can check the commentary instead of trusting it.
 - **Study** (`03`–`14`) — the commentary proper.
 
+**The word in the language lives in `docs/lexicos/`; the word in this chapter lives in the chapter** (rule §13.8). The wiki carries the whole-canon usage survey, the lexicon comparison and the source state; the chapter's `01-texto-hebraico` §3/§3.1 carries what the exegete needs at hand. The wiki never empties the chapter (§13.9) and never repeats it (§13.10).
+
+⚠️ **Known staleness, as of 2026-09-04.** Documents `03`, `06`–`14` of `genesis-01/` were written on 2026-09-03, **before** `metodo/` (1.7.0), §12 (1.8.0) and §13 (1.9.0). They have **not** been audited against those rules. Only `01`, `04` and `05` were revised afterwards. Assume the study layer predates the current method until it is audited.
+
 Chapter 2 is still in the old single-file format and needs splitting. The `base/` directory is reference material — never edit it as output.
 
 ## Skills
@@ -62,9 +67,24 @@ User-level skills at `~/.claude/skills/` cover this project and load in any dire
 The project enforces strict editorial rules defined in `Projeto Genesis/Projeto Genesis/docs/`.
 
 ### Before editing any content file:
-1. Read `docs/conf.md` (project config, current `spec_version` — 1.7.0)
-2. Read `docs/regras.md` (editing rules — sections 1–11; §8 folders, §9 the silence rule, §10 canonical threads, §11 text layers)
+1. Read `docs/conf.md` (project config, current `spec_version` — 1.9.0)
+2. Read `docs/regras.md` (editing rules — sections 1–13; §8 folders, §9 the silence rule, §10 canonical threads, §11 text layers, §12 precedence and multi-agent rules, §13 the lexical wiki)
 3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open), and `docs/fios-canonicos.md` (canonical threads register)
+4. Check the most recent `docs/changelog.md` entries (rule 12.5) — old content does not announce that it has aged
+
+### Two assistants work in this repository (rule 12.6)
+
+- **Author** — final authority; owns the positions and their "faturas" (rule 6.1.1)
+- **Claude Code** — resident editor; writes to the repo (works from the local checkout: tree, pending commits, diff)
+- **ChatGPT** — second opinion and external auditor; reads, reviews, contradicts, finds sources
+
+Not a hierarchy of competence — a division of post. Consequences (§12.7–12.8): **sync with current `main` before writing**; **no commit without a changelog entry**; **divergence between assistants is evidence to register, never to silently resolve**. Provenance names the assistant: `IA:Claude`, `IA:ChatGPT`, `IA:Claude+ChatGPT` (cross-check). Note §12.6.1: agreement between assistants is **not** independent confirmation — it counts when it came from different *access*, not similar reasoning.
+
+### Sources and layers (§11, §13)
+
+Every claim about the original carries four axes: **level** (N1–N5), **provenance** (A / IA:name / IA✓), **source** (F1 verified / F2 consulted / F3 from memory — **F3 never becomes a footnote**), and **layer** (C1 consonants · C2 ancient versions · C3 Masoretic vowels and accents · C4 lexicons · C5 commentators).
+
+The lexical wiki's primary column is **the corpus (C1), not the dictionary (C4)** — the corpus is a direct source; every lexicon is an instrument that summarizes it. Free lexicons (BDB, Gesenius-Tregelles, Strong's) are **one family** and their agreement is not corroboration (§13.5.2). The **UBS Dictionary of Biblical Hebrew** (SDBH-derived, Portuguese, CC BY-SA) is the independent modern witness: consulted from the pinned dataset, never versioned into the vault (§13.11).
 
 ### Doctrinal positions (rule 6.1.1):
 - **No new doctrinal position may be taken inside a content file without registering it in `docs/posicoes.md`.**
