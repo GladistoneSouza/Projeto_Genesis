@@ -69,15 +69,24 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | Fonte | Acesso | Estado |
 |---|---|---|
 | **O corpus** — [Sefaria](https://www.sefaria.org/Genesis.1?lang=he), [Blue Letter Bible](https://www.blueletterbible.org/) | **Livre** | ✅ é a coluna que decide |
-| **BDB** (1906) | **Livre**, domínio público | ⚠️ **a conferir verbete a verbete** |
+| **BDB** (1906) | **Livre**, domínio público | **F2** — consultado nos três verbetes em 2026-09-04 |
+| **Klein**, etimológico | **Livre**, no Sefaria | **F2** — consultado nos três |
+| **Strong's** (índice) | **Livre** | **F2** — contagens conferidas |
 | **Gesenius-Tregelles** (1857) | **Livre** | ⚠️ a conferir |
 | **SDBH** — [semanticdictionary.org](https://semanticdictionary.org) | **Livre**, moderno | ⚠️ a conferir |
-| **Klein**, etimológico | **Livre**, no Sefaria | ⚠️ a conferir |
 | **HALOT** | **Pago** | ❌ **não consultado** |
 | **DCH** (Clines) | **Pago** | ❌ **não consultado** |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
 
-> ⚠️ **Enquanto o bloco dos instrumentos estiver marcado `F3 · a conferir`, ele é orientação e não referência.** Pela regra do projeto, **F3 nunca vira rodapé**. O bloco do corpus, esse, é conferível hoje e por qualquer um — é o que sustenta as notas.
+> **Por que F2 e não F1.** Os verbetes foram obtidos pela API do Sefaria e pelo Blue Letter Bible, em **leitura mediada** — o volume não esteve em mãos e o texto não foi conferido palavra a palavra. Pela §7.2, isso é **rodapé sem página, declarando**. Cada nota traz a URL: abrir e conferir promove a **F1**.
+
+### O que a primeira conferência produziu
+
+Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e vale saber antes de ler:
+
+- ***bara*** — o BDB **acrescentou** as ocorrências mais duras contra o verbo carregar *ex nihilo* (`Is 54.16`, o ferreiro; `Ml 2.10`, israelitas vivos). O instrumento reforçou a leitura do corpus. **E corrigiu uma afirmação nossa:** o piel de `Js 17.15` não é homógrafo, é o mesmo lexema em outro binyan
+- ***raqia*** — o BDB **entrega a conclusão junto com a glosa**: diz que o *raqia* era "tido pelos hebreus como sólido, e sustentando as águas acima". Juízo cosmológico impresso no mesmo tipo de letra do sentido
+- ***yom*** — o instrumento **confirmou que não tem nada a decidir**. Dá o dia solar e o período indefinido; os dois lados acham o que precisam
 
 ---
 
@@ -85,9 +94,9 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 
 | Palavra | Onde nasce | Estado |
 |---|---|---|
-| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · instrumentos ⚠️ |
-| [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · instrumentos ⚠️ · **questão não registrada em `posicoes.md`** |
-| [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · instrumentos ⚠️ |
+| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** ✅ · SDBH e pagos ⚠️ |
+| [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** ✅ · HALOT ❌ faz falta real · **questão não registrada em `posicoes.md`** |
+| [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** ✅ · pagos ❌ e sem urgência |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
 

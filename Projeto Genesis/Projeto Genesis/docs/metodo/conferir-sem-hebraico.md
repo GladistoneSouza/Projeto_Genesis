@@ -23,6 +23,14 @@ Foi exatamente isso que dissolveu o impasse do *bereshit*: não um argumento teo
 
 Essas ferramentas dão **C1 e C4** — o consonantal e o resumo lexical. Elas não distinguem camadas nem mostram divergência entre testemunhas antigas.
 
+**E o C4 que elas servem tem endereço:** Strong's, Gesenius-Tregelles (1857) e **BDB (1906)**. Não por serem os melhores — por serem **domínio público**. A camada lexical gratuita da internet está congelada antes de Ugarite (1929) e de Qumran (1947), justamente o material que pesa nas palavras raras.
+
+**E o verbete não é neutro.** Verificado no BDB de *raqia*: além de glosar, ele afirma que a abóbada era *"tida pelos hebreus como sólida, e sustentando as águas acima"* — **juízo cosmológico no mesmo tipo de letra da glosa**. Quem abre a ferramenta para "conferir por conta própria" recebe a conclusão junto, sem aviso.
+
+> **A boa notícia continua de pé, e é a mais importante:** o **levantamento de uso** — passos 1 a 4 acima — não depende de léxico nenhum. Ele lê o corpus, que é fonte direta. É por isso que ele funciona, e foi ele que desfez o impasse do *bereshit*.
+
+Ver [[../lexicos/00-indice|docs/lexicos]] e a regra §13.5.1.
+
 Quando a disputa for sobre vogal, acento ou versão, o levantamento de uso não basta. Ver [[camadas-do-texto]] e [[testemunhas-antigas]].
 
 ## Relacionado

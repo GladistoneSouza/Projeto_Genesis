@@ -230,7 +230,7 @@ Três verbos hebraicos descrevem a atividade criadora de Deus em Gênesis 1–2.
 - Aparece três vezes em Gênesis 1: no v.1 (céus e terra), no v.21 (criaturas marinhas) e no v.27 (seres humanos — três vezes em um único versículo).
 - Aponta para algo fundamentalmente *novo*, que somente Deus pode trazer à existência.
 - Debate: *bara* implica necessariamente criação *ex nihilo*? O verbo em si significa "trazer à existência" — a inferência de criação a partir do nada vem do contexto (nenhum material preexistente é mencionado em Gn 1.1) e da confirmação de Hebreus 11.3.
-- **Atenção ao binyan.** As ocorrências acima são **qal**. O que aparece em `Js 17.15,18` para "desbravar floresta" está no **piel** (וּבֵרֵאתָ) — outro padrão verbal, provavelmente outra palavra homógrafa, e **não** um segundo sentido do verbo da criação. Citá-la sem essa distinção sugere que o verbo de Gn 1.1 também significa "derrubar mato".
+- **Atenção ao binyan.** As ocorrências acima são **qal**. O que aparece em `Js 17.15,18` para "desbravar floresta" está no **piel** (וּבֵרֵאתָ) — outro padrão verbal. Ocorrências em binyanim diferentes **não somam** (§11.10), e citá-la sem essa distinção sugere que o verbo de Gn 1.1 também significa "derrubar mato". *(O BDB arquiva o piel dentro da mesma entrada, e não como homógrafo; o homógrafo que ele separa é outro — בָּרָא II, "ser gordo", `1Sm 2.29`. Ver [[../docs/lexicos/bara|o verbete]].)*
 
 **Asah (עָשָׂה) — "fazer, produzir":**
 - Tanto Deus quanto seres humanos podem ser sujeitos deste verbo.

@@ -65,17 +65,37 @@ Duas testemunhas antigas, independentes entre si, e ambas entenderam algo **sól
 
 ---
 
-## O que os instrumentos dizem `C4` · ⚠️ **F3 — não conferido**
+## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
 
-> Nenhum destes volumes esteve em mãos. **Enquanto assim, este bloco é orientação e não vira rodapé.** E este é o verbete onde a falta pesa mais.
+> **Nível de fonte: F2, não F1.** Obtido pela API do Sefaria e pelo Blue Letter Bible, em leitura mediada; o volume não esteve em mãos. **Rodapé sem página, declarando** (§7.2). Confira em [sefaria.org/api/words/רקיע](https://www.sefaria.org/api/words/רקיע) ou [BLB H7549](https://www.blueletterbible.org/lexicon/h7549/kjv/wlc/0-1/).
 
-| Instrumento | Onde buscar | O que checar |
+### BDB (1906) — `F2` · **e aqui o verbete tem opinião**
+
+Cabeça de verbete: *"extended surface **(solid)** expanse"*, remetendo a `Gn 1.6` e `Jó 37.18`.
+
+| Sentido | Glosa do BDB | Referências |
 |---|---|---|
-| **BDB** (1906) | Blue Letter Bible, Sefaria — **livre** | Se a glosa traz a palavra *solid*, e entre parênteses ou não |
-| **Gesenius-Tregelles** | **livre** | Como trata os dois agrupamentos do verbo |
-| **SDBH** | semanticdictionary.org — **livre** | Domínio semântico atribuído |
-| **HALOT** | ❌ não consultado | **É aqui que a falta dói.** Palavra de 17 ocorrências, e o material pós-1929 é justamente o que o instrumento moderno incorpora |
-| **DCH** | ❌ não consultado | Sem etimologia — mostraria o que resta sem o argumento da raiz |
+| **1** | expanse plano, como **base e suporte** | `Ez 1.22,23,25,26` (sustentando o trono) · `Ez 10.1` |
+| **2** | abóbada dos céus — *"**tida pelos hebreus como sólida**, e sustentando as 'águas' acima dela"* | `Gn 1.6-8`; `1.14-15`; `1.17`; `1.20` · `Sl 19.2` · `Dn 12.3` |
+
+**Strong's** — 17 ocorrências em 15 versículos (WLC), **todas** vertidas por "firmament" no KJV. *(Confere com a contagem do bloco do corpus acima.)*
+
+**Klein** — `F2` — "superfície estendida, expansão; firmamento, céu", **de רקע I**, literalmente *"algo batido/estendido a martelo"*.
+
+### O que a conferência revelou — e é um achado de método
+
+**O léxico gratuito que este projeto recomenda ao leitor entrega a conclusão pronta.** O BDB não se limita a glosar: afirma que os hebreus **tinham o *raqia* por sólido** e que ele **sustentava águas**. Isso não é dado lexical — é **juízo cosmológico sobre o que os antigos criam**, impresso no mesmo tipo de letra da glosa.
+
+Não digo que esteja errado; o corpus (`Jó 37.18`, Ezequiel) e as versões antigas (LXX *stereōma*, Vulgata *firmamentum*) puxam na mesma direção. O ponto é outro: **quem abre o Blue Letter Bible para "conferir por conta própria" recebe a conclusão junto com o verbete, sem aviso** — e a §13.5 dizia que o carregamento doutrinário era coisa de dicionário teológico. Não é só. Um léxico de 1906 também carrega, e carrega a cosmologia do seu tempo de leitura.
+
+Vale para a [[../metodo/conferir-sem-hebraico|conferir-sem-hebraico]]: as três ferramentas livres são ótimas para **levantamento de uso** e não são neutras no **verbete**.
+
+### Ainda faltam
+| | |
+|---|---|
+| **SDBH** · **Gesenius-Tregelles** | ⚠️ **livres**, ainda não consultados |
+| **HALOT** | ❌ **é aqui que a falta mais dói.** 17 ocorrências, e o material pós-Ugarite (1929) é justamente o que o instrumento moderno incorpora e o BDB não podia ter |
+| **DCH** | ❌ recusa etimologia — mostraria o que resta do verbete sem o argumento da raiz "bater metal" |
 
 ---
 

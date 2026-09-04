@@ -19,7 +19,7 @@
 
 ## O corpus `N1` `C1` · **conferível de graça**
 
-Cerca de 50 ocorrências entre qal e nifal. Confira a lista completa no [Blue Letter Bible](https://www.blueletterbible.org/) clicando na palavra em Gn 1.1.
+**54 ocorrências** no cômputo do Strong's — número que **inclui o homógrafo** בָּרָא II ("ser gordo") e as do piel. As do verbo da criação são qal e nifal. Confira no [Blue Letter Bible](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/).
 
 ### Em Gênesis
 `1.1` · `1.21` · `1.27` · `2.3` · `2.4` · `5.1,2` · `6.7`
@@ -36,13 +36,22 @@ Cerca de 50 ocorrências entre qal e nifal. Confira a lista completa no [Blue Le
 | **`Is 45.7`** | Deus **cria** (*bara*) as trevas | As trevas não são matéria nova |
 | **`Am 4.13`** | Deus **cria** (*bara*) o vento | Idem |
 | **`Nm 16.30`** | "se o SENHOR **criar** (*bara*) coisa nova" — e o que acontece é o **chão se abrir** | Ato novo e súbito, com material inteiramente preexistente |
-| **`Is 65.17`** | "**crio** novos céus e nova terra" | Novidade radical, sobre o que já existe |
+| **`Is 65.17-18`** | "**crio** novos céus e nova terra" | Novidade radical, sobre o que já existe |
+| **`Is 54.16`** | "eu **criei** o ferreiro que assopra as brasas" | **Um artesão humano**, nascido de mãe. É a ocorrência mais dura contra o verbo carregar *ex nihilo* |
+| **`Ml 2.10`** | "não nos **criou** um mesmo Deus?" — de israelitas vivos | Idem |
+| **`Is 45.8`** | Deus **cria** justiça e salvação | Objeto abstrato |
+| **`Jr 31.22`; `Is 4.5`; `Is 43.1,15`; `Ec 12.1`** | novas condições, nações, indivíduos | Ampliam o campo bem além de matéria |
 
 ### O paralelo dos três verbos
 `Is 45.18` usa **yatzar**, **asah** e **bara** em paralelo, do mesmo objeto — a terra. E `Gn 2.4` usa **asah** como resumo de *toda* a criação, inclusive do que 1.1 chamou de *bara*. Os três verbos **não são categorias técnicas estanques**.
 
 ### As ocorrências que NÃO entram — outro binyan
-`Js 17.15,18` — **piel** (וּבֵרֵאתָ), "desbravar, cortar mato". Padrão verbal diferente, provavelmente **palavra homógrafa**, e não um segundo sentido do verbo da criação. Citá-la junto com as de cima sugere que o verbo de Gn 1.1 significa derrubar floresta.
+
+`Js 17.15,18` — **piel** (וּבֵרֵאתָ), "desbravar, cortar mato"; e `Ez 21.24`; `23.47`, piel, "cortar fora".
+
+> **Correção declarada (2026-09-04).** Uma versão anterior desta nota, e a §4.2 do capítulo, chamavam isso de "provavelmente palavra homógrafa". **O BDB não faz isso:** arquiva o piel dentro da **mesma entrada** בָּרָא I, como um dos binyanim do mesmo lexema. O homógrafo que o BDB de fato registra é outro — **בָּרָא II**, "ser gordo" (hifil "engordar", `1Sm 2.29`).
+>
+> Isso não desfaz o motivo de separá-las, apenas troca o argumento: **o binyan é diferente, e ocorrências em binyanim diferentes não somam** (§11.10). Se são um lexema ou dois é **decisão de arquivamento do lexicógrafo** — é a decisão (a) das quatro que todo verbete toma. HALOT e DCH podem dividir diferente; não foram consultados.
 
 ---
 
@@ -60,18 +69,43 @@ Cerca de 50 ocorrências entre qal e nifal. Confira a lista completa no [Blue Le
 
 ---
 
-## O que os instrumentos dizem `C4` · ⚠️ **F3 — não conferido**
+## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
 
-> Nenhum destes volumes esteve em mãos. **Enquanto assim, este bloco é orientação e não vira rodapé.**
+> **Nível de fonte: F2, não F1.** O verbete foi obtido pela API do Sefaria e pelo Blue Letter Bible, em leitura mediada — o volume não esteve em mãos e o texto não foi conferido palavra a palavra. **Pela §7.2 das regras, rodapé sem página, declarando.** Para promover a F1, abra [sefaria.org/api/words/ברא](https://www.sefaria.org/api/words/ברא) ou [BLB H1254](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/) e confira.
 
-| Instrumento | Onde buscar | O que checar |
+### BDB (1906) — `F2`
+
+Cabeça de verbete: **בָּרָא I**, *"vb. shape, create"*. Etimologia comparada: árabe *bara* (formar cortando), assírio *barû*.
+
+| Binyan | Sentidos que o BDB dá | Referências que ele cita |
 |---|---|---|
-| **BDB** (1906) | Blue Letter Bible, Sefaria — **livre** | Como divide os sentidos; se embute *ex nihilo* na divisão |
-| **Gesenius-Tregelles** (1857) | **livre** | Idem |
-| **SDBH** | semanticdictionary.org — **livre** | Em que domínio semântico classifica |
-| **HALOT** | ❌ não consultado | — |
-| **DCH** | ❌ não consultado | Clines recusa etimologia e teologia: é o contraste mais útil |
-| **DITAT / NIDOTTE** | ❌ não consultado | **Dicionário teológico**, não léxico. Provável que traga a doutrina dentro do verbete — que é informação real, desde que rotulada |
+| **qal** | 1. moldar, formar, criar — **sempre de atividade divina** | céus e terra: `Gn 1.1`; `2.3`; `Is 45.18` · humanidade: `Gn 1.27`; `5.1-2`; `6.7`; `Dt 4.32`; `Sl 89.48`; `Is 45.12` · exército celeste, vento, criaturas: `Is 40.26`; `42.5`; `Am 4.13`; `Gn 1.21` |
+| | 2. indivíduos e nações | `Ml 2.10`; `Ec 12.1`; `Is 43.1,15`; `54.16` |
+| | 3. condições novas | justiça e salvação `Is 45.8` · trevas `Is 45.7` · `Jr 31.22`; `Nm 16.30`; `Is 4.5` |
+| | 4. transformações | coração puro `Sl 51.12` *(= 51.10 na numeração das versões em português)* · novos céus e nova terra `Is 65.17-18` |
+| **nifal** | passivo, "ser criado" | `Gn 2.4`; `Êx 34.10`; `Is 48.6`; `Ez 28.13-15`; `Sl 102.19` |
+| **piel** | 1. cortar, desbravar · 2. cortar fora | `Js 17.15,18` · `Ez 21.24`; `23.47` |
+
+**Homógrafo separado:** **בָּרָא II**, "ser gordo" — hifil "engordar", `1Sm 2.29`.
+
+**Klein** — `F2` — "criar"; qal "ele criou, moldou"; nifal "foi criado". Nota etimológica: o árabe *bara'a* é **empréstimo do aramaico**, o que enfraquece o argumento comparativo que o BDB usa.
+
+**Strong's** (índice, não léxico) — 54 ocorrências no KJV, contando o homógrafo II: *create* 42 · *creator* 3 · *choose* 2 · *make* 2 · *cut down* 2 · *dispatch* 1 · *done* 1 · *make fat* 1.
+
+### O que a conferência mudou
+
+**Ganho:** o BDB entrega ocorrências que esta nota não tinha, e as mais duras contra o verbo carregar *ex nihilo* vieram dele — `Is 54.16` (o ferreiro) e `Ml 2.10` (israelitas vivos). O instrumento **reforçou** a leitura do corpus em vez de contrariá-la.
+
+**Perda:** a nota afirmava que o piel era "provavelmente homógrafo". O BDB arquiva o piel **dentro da mesma entrada**. Corrigido acima.
+
+**O que o BDB não faz:** ele **não** embute *ex nihilo* na divisão de sentidos. Diz "moldar, formar, criar" e observa a restrição de sujeito. Quem embute o *ex nihilo* no verbete é a tradição de leitura, não este léxico.
+
+### Ainda faltam
+| | |
+|---|---|
+| **SDBH** | ⚠️ **livre**, ainda não consultado — semanticdictionary.org |
+| **Gesenius-Tregelles** | ⚠️ **livre**, ainda não consultado |
+| **HALOT** · **DCH** · **DITAT** | ❌ pagos, não consultados. **DCH é o que mais faria falta aqui:** recusa etimologia por princípio, e o BDB apoiou o verbete em árabe e assírio |
 
 ---
 

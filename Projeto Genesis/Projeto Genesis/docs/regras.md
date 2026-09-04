@@ -263,6 +263,8 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 
 13.5. **Léxico e dicionário teológico são gêneros diferentes.** BDB, HALOT, DCH e Gesenius são léxicos; DITAT e NIDOTTE são dicionários teológicos, que trazem doutrina dentro da entrada — informação legítima, **desde que rotulada**. Citá-los no mesmo fôlego, como "os léxicos dizem", é o erro de categoria da §11.2 aplicado à camada C4.
 
+13.5.1. **Mas o léxico também opina, e é preciso separar a glosa do juízo.** Verificado no verbete de *raqia*: o BDB não se limita a glosar "expanse" — afirma que a coisa era "tida pelos hebreus como sólida, e sustentando as águas acima", que é **juízo cosmológico**, impresso no mesmo tipo de letra do sentido. Ao citar um verbete, distinguir **o que a palavra significa** do **que o lexicógrafo conclui sobre o mundo de quem a usou**. A segunda parte é C5 disfarçada de C4.
+
 13.6. **A nota abre pelo bloco de forma** — lema, raiz, binyan, parsing —, conforme a §11.10. Só depois vem o corpus.
 
 13.7. **Questão que a nota levantar e que não constar em [`posicoes.md`](posicoes.md) fica marcada na própria nota.** Pôr fontes lado a lado produz perguntas; a nota registra a pergunta e **não a decide** (regra 6.1.1).

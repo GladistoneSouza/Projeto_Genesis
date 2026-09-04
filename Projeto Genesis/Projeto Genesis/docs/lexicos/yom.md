@@ -37,13 +37,40 @@ Onde as ocorrências caem em Gênesis 1, o cardinal de `1.5`, os dois sentidos d
 
 ---
 
-## O que os instrumentos dizem `C4` · ⚠️ **F3 — não conferido**
+## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
 
-> Nenhum volume esteve em mãos. **Não vira rodapé.**
+> **Nível de fonte: F2, não F1.** Sefaria e Blue Letter Bible, leitura mediada. Confira em [sefaria.org/api/words/יום](https://www.sefaria.org/api/words/יום) ou [BLB H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/).
 
-E aqui vale dizer o que se espera encontrar: **pouca coisa**. Palavra comum, sentido consensual — BDB, HALOT e DCH vão dizer aproximadamente o mesmo, e a diferença entre 1906 e hoje não paga o preço da assinatura. **É o caso em que o léxico é intercambiável** — e, por isso mesmo, o caso em que ele não resolve nada.
+### BDB (1906) — `F2`
 
-O que vale checar de graça: se algum verbete **editorializa sobre Gênesis 1** dentro da entrada. Aí não é léxico, é comentário com roupa de dicionário.
+Sete sentidos principais. Os que importam à discussão:
+
+| | Sentido |
+|---|---|
+| **1** | dia **oposto à noite** — o período de luz |
+| **2** | dia como divisão de tempo: jornada de trabalho, "três dias de viagem", duração de um ato |
+| **2.d** | **"dia definido por tarde e manhã"** — e o BDB cita aqui, nomeadamente, `Gn 1.5,8,13,19,23,31` |
+| **2.e** | "dia do mês" com ordinal — nota que é uso **"principalmente P e tardio"** |
+| **3** | **dia de Yahweh** — tempo de sua vinda em juízo |
+| **4-6** | *dias* = tempo de vida, idade · tempo indefinido ("alguns dias", "muitos dias") · **período, época** |
+
+**Strong's** — 2.287 ocorrências no KJV (2.304 no WLC, em 1.930 versículos): *day* 2.008 · *time* 64 · *daily* 44 · *ever* 18 · *year* 14 · *continually* 10 · outros 44.
+
+**Klein** — `F2` — "dia"; também "tempo" e "ano".
+
+### O que a conferência confirmou
+
+**Exatamente o esperado, e isso é resultado.** O BDB dá à palavra tanto o **dia solar** quanto o **período indefinido** e a **época** — os dois lados do debate encontram no verbete o sentido de que precisam, e nenhum encontra o argumento que decide.
+
+Dois detalhes que vale registrar:
+
+1. **O BDB dá a Gênesis 1 um sub-sentido próprio** (2.d, "dia definido por tarde e manhã", citando os seis versículos). Isso é honesto e é sintoma: quando um léxico precisa abrir uma gaveta para um texto só, o texto tem algo que as outras ocorrências não têm.
+2. **Sobre o ordinal, o BDB fala de "dia do mês"** (2.e) e observa que o uso é *tardio* — o que **não é** o argumento do lado 24h, que se apoia no padrão de *yom* + ordinal em narrativa. O verbete não sustenta nem derruba aquele argumento; ele simplesmente não é sobre isso. Quem quiser o padrão terá de levantá-lo no corpus, e não citar o léxico.
+
+**Conclusão para o método:** este é o verbete que **prova** [[../metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]]. Conferimos o instrumento e ele confirmou que não tem nada a decidir aqui.
+
+### Ainda faltam
+**SDBH** e **Gesenius-Tregelles** ⚠️ livres, não consultados. **HALOT**, **DCH**, **DITAT** ❌ pagos — e neste verbete a falta **não é urgente**: palavra de 2.300 ocorrências, sentido consensual, e a diferença entre 1906 e hoje não muda nada.
 
 ---
 
