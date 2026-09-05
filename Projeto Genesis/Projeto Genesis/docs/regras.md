@@ -321,3 +321,25 @@ O material preparatório expõe fontes e some; o estudo comenta. A pasta `genesi
 13.9. **A wiki não esvazia o capítulo.** A coluna "Sentido e uso **aqui**" do documento preparatório é a camada do capítulo e continua sendo escrita por inteiro. O link para a wiki **acrescenta** aparato; não substitui o que o exegeta precisa ter à mão sem sair do arquivo.
 
 13.10. **A wiki não repete o capítulo.** Nota de palavra remete ao capítulo em vez de reproduzir a leitura daquela passagem — senão as duas divergem, e a §12 já mostrou o que acontece quando duas cópias envelhecem em ritmos diferentes.
+
+## 14. A régua das três perguntas (spec 1.10.0)
+
+Regra do autor. Nasceu de duas seções do capítulo 1 que **pareciam se contradizer e não se contradiziam** — respondiam a perguntas diferentes sem dizer qual, e uma delas respondeu à pergunta errada sem perceber.
+
+14.1. **Sempre que o comentário fala do mundo antigo, três perguntas diferentes estão em jogo — e cada uma tem uma resposta só.**
+
+| | Pergunta | Que tipo de resposta é |
+|---|---|---|
+| **P1** | O que o leitor antigo **imaginava**? | Histórica. Decide-se pelo texto, pelas versões antigas e pelo Antigo Oriente |
+| **P2** | O que **existe de fato**? | Científica. Não se decide no comentário |
+| **P3** | O que o texto **afirma**? | Teológica. É onde moram acomodação, posição e fatura |
+
+14.2. **A seção declara a qual pergunta responde.** Não é enfeite: é o que impede que **divergência aparente** seja lida como contradição real, e que **contradição real** se esconda atrás de "são coisas diferentes".
+
+14.3. **Descrição de P1 não pode usar conhecimento posterior.** Se a seção descreve como o israelita via o mundo, ela **não** pode descrever o que física, química, astronomia e meteorologia levaram milênios para estabelecer. Fazer isso não é ser científico — é **pôr palavras na boca de um morto**, e ainda apresentá-las como se fossem o sentido do versículo.
+
+  *O caso que gerou a regra:* `05-dias-1-3` §5.4 glosava "as águas superiores **(nuvens, chuva)**" e chamava o *raqia* de "céu/atmosfera". Nuvem é resposta de **P2** vestida de **P1** — e o próprio parágrafo se entregava três blocos adiante, ao explicar `Gn 7.11` com as "comportas dos céus", que **só funcionam** no quadro antigo. Ver `metodo/as-tres-perguntas`.
+
+14.4. **O sintoma de estar misturando as faixas é ter de trocar de modelo no meio.** Seção que responde P1 de forma coerente não precisa pegar emprestado o mobiliário de P2, e vice-versa. Quando o empréstimo acontece, o modelo abandonado é o que estava certo para aquela faixa.
+
+14.5. **P1 e P2 divergirem é o esperado, não um problema.** O problema é o comentário fingir que não divergem — pelos dois lados: nem harmonizar o texto antigo com a ciência moderna, nem tratar a ciência como se o texto a estivesse contestando. **P3 é a pergunta em que o projeto trabalha**, e ela só pode ser respondida depois que P1 e P2 estiverem separadas.

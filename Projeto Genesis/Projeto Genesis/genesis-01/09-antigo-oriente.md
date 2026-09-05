@@ -83,6 +83,8 @@ A distinção radical entre Criador e criatura — Deus não é a natureza, nem 
 
 ### 5.9. O significado de *raqia* (firmamento) e a cosmologia antiga
 
+> **A que pergunta esta seção responde** (regra §14): **o que o leitor israelita imaginava** — pergunta histórica, decidida pelo texto, pelas versões antigas e pelo Antigo Oriente. Ela **não** responde o que existe fisicamente, nem o que o texto afirma como doutrina. A arquitetura literária do segundo dia está em [[05-dias-1-3]] §5.4; o levantamento lexical completo, em [[../docs/lexicos/raqia|docs/lexicos/raqia]]; e **o que o comentário afirma sobre a natureza do *raqia* segue em aberto** — ver [[../docs/posicoes|posicoes.md]].
+
 A palavra hebraica *raqia* (רָקִיעַ) deriva da raiz *rq'*, que significa "bater, martelar, espalhar finamente" — evocando a imagem de martelar metal em forma de cúpula. A tradução tradicional "firmamento" (do latim *firmamentum*, via Vulgata) reflete a ideia de algo sólido e firme.
 
 A maioria dos estudiosos contemporâneos reconhece que *raqia* no texto reflete a cosmologia do mundo antigo, onde o céu era concebido como uma estrutura sólida. No entanto, isso não invalida a autoridade teológica do texto. O foco principal é teológico: **Deus é soberano sobre toda a estrutura cósmica**. Três abordagens interpretativas merecem nota:

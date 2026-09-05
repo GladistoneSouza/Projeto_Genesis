@@ -25,6 +25,7 @@ Notas curtas, uma por conceito, ligadas entre si. Abra o painel de grafo do Obsi
 
 | Nota | O que evita |
 |---|---|
+| [[as-tres-perguntas]] | Descrever o mundo do leitor antigo com conhecimento que não existia. **Regra do autor** |
 | [[glosa-nao-e-traducao]] | Defender como texto o que é comentário grudado no versículo |
 | [[negociar-com-o-texto]] | Inventar arranjos para concordar com uma premissa inflada |
 | [[prova-texto-nao-e-doutrina]] | Confundir perder o versículo com perder a doutrina |
