@@ -6,7 +6,7 @@
 >
 > **Regra de manutenção:** nenhuma posição nova é tomada dentro de um capítulo sem entrar aqui. Toda mudança de posição vai também para o [`changelog.md`](changelog.md).
 
-Última atualização: 2026-09-03 · posições 11 e 12 declaradas pelo autor; refinamento da posição 4.
+Última atualização: 2026-09-04 · fatura detalhada da posição 6 declarada; questão do *raqia* registrada em aberto; acoplamento #5 × #6 × dilúvio.
 
 ---
 
@@ -23,7 +23,7 @@
 | 3 | **Sintaxe de Gn 1.1-3** | Leitura **clássica independente**. **Precisão do autor (2026-09-04):** 1.1 afirma início **real, não relativo**, do mundo criado. "Absoluto" vale **contra matéria eterna** — jamais contra um Deus eterno, e não contra a corte celestial, que é criatura (`Cl 1.16`) cuja origem o merismo afirma e cuja data ninguém dá (ver #11). "Início do tempo" = o tempo **deste mundo** | Leituras que tomam 1.1 como título · e, do outro lado, o uso de "absoluto" como se negasse tudo o que 1.1 não narra | ⚠️ a declarar — há argumento sintático real do outro lado | `genesis.md` §6.5 · `genesis-01/04-exegese-1-2` §4.2 |
 | 4 | **Os "dias" da criação** | **Dias divinos / analógicos** | 24h literais · estrutura-funcional · literária-teológica | **Declarada** (§7.2): abre mão do argumento gramatical mais direto — *yom* com numeral ordinal significa consistentemente dia de 24h no restante da Bíblia (§7.2, arg. de Kelly) — e se afasta de **tradição confessional significativa**, o que o próprio texto reconhece "com respeito". **Refinamento do autor (2026-09-03):** o "dia" é **marcador de fechamento de etapa**, não medida de duração — "Deus nem precisaria de 24 horas". **Fatura adicional, ⚠️ a responder:** se o dia não guarda analogia real com jornada de trabalho, é preciso dizer o que sustenta Ex 20.11 ("porque em seis dias fez o SENHOR") e o sábado como ordenança criacional, que o projeto afirma em `genesis-01/07-setimo-dia` e §12.3 (Vos). A leitura analógica de Collins resolve isso *mantendo* a analogia; "dia = etapa" ainda não disse como. **⚠️ Dívida de propagação (regra 12.4), detectada em 2026-09-04:** o refinamento está registrado aqui e **não está escrito em `genesis.md` §7.2**, que segue dizendo apenas "dias divinos — períodos reais de atividade criadora". "Período real de atividade" é afirmação de duração; "marcador de fechamento de etapa" não é. O leitor do livro não tem acesso ao refinamento | `genesis.md` §6.5, §7.2 |
 | 5 | **Criação** | Ato **direto e intencional** de Deus | Evolucionismo naturalista, rejeitado como filosoficamente incompatível | **Declarada** (§7.4): o projeto **fica sem mecanismo declarado** — reconhece que "a questão dos mecanismos que Deus usou na criação continua em debate entre evangélicos" e não a resolve | `genesis.md` §7.4 |
-| 6 | **Historicidade de Adão** | **Inegociável** — primeiro homem, cabeça federal | Adão como figura literária ou coletiva | ⚠️ a declarar — é a posição mais cara do projeto: assume tensão direta com a genética populacional. Marcá-la "inegociável" sem escrever o preço é o oposto do método | `genesis.md` §7.4 · `Rm 5.12-21`; `1Co 15.22,45` |
+| 6 | **Historicidade de Adão** | **Inegociável** — primeiro homem, cabeça federal | Adão como figura literária ou coletiva | **Declarada em 2026-09-04 → ver [Fatura detalhada #6](#fatura-detalhada--6--historicidade-de-adão)**. Em uma linha: quatro itens de custo, dos quais **um não custa nada**, um tem resposta coerente, um é duro (diversidade genética) e um está **acoplado à questão do dilúvio**, que segue em aberto | `genesis.md` §7.4 · `Rm 5.12-21`; `1Co 15.22,45` |
 | 7 | **Gn 1 × Gn 2** | **Panorama e zoom** — complemento, não contradição | Fontes P e J como narrativas rivais | ⚠️ a declarar | `genesis-capitulo-02.md` §5.1 |
 | 8 | **Éden** | **Proto-templo** (linha de Beale) | Jardim como cenário geográfico | ⚠️ a declarar — leitura relativamente recente, apoiada em paralelos, não no vocabulário explícito do texto | `genesis-capitulo-02.md` §6 |
 | 9 | **Gn 2.16-17** | **Aliança adâmica / pacto de obras** | Proibição como regra isolada | ⚠️ a declarar — o termo "aliança" não aparece em Gn 2 | `genesis-capitulo-02.md` §5.6 |
@@ -33,6 +33,40 @@
 | 12 | **Idade da terra** | **Terra antiga — bilhões de anos.** Gn 1 é resumo seletivo: "Deus só mostrou o importante". Sustentada como **crença, não dogma**: o **poder** de Deus para criar em 6.000 anos não está em causa. **Argumento do autor (2026-09-04):** o que está em causa é invocar milagre como **explicação de sistema** — dizer que estratos, isótopos, fósseis e luz distante foram criados já com aparência de idade. Isso não afirma um evento, afirma que **toda a evidência é aparência**, e o problema deixa de ser o poder de Deus e passa a ser o **caráter** dEle, contra a revelação geral (`Sl 19.1`; `Rm 1.20`). Milagre pontual (Lázaro, o cego, o fogo do Carmelo) é **sinal**, narrado, com testemunhas — categoria diferente, e exige fé de verdade | Cronologia de ~6.000 anos somada das genealogias (YEC) | **Declarada.** A fatura pesada é a **morte antes da queda**: bilhões de anos de registro fóssil significam morte animal antes do pecado de Adão, o que pressiona o "muito bom" de Gn 1.31 e a leitura ampla de `Rm 5.12`. **A resposta cai no capítulo 3**, na questão "a morte ameaçada em 2.17", que segue em aberto — ou seja, esta posição **cobra uma dívida que ainda não foi paga**. Custa também o afastamento da tradição confessional jovem-terra, e obriga as genealogias de Gn 5 e 11 a terem lacunas — dado que se sustenta sozinho (Mt 1), mas do qual **esta posição depende**, e depender é diferente de observar. **Fatura nova, declarada pelo próprio argumento:** ele **fecha a saída do recuo** — quem nega que o registro geológico seja aparência não pode tratar o registro fóssil como aparência. A morte animal terá de ser respondida pela teologia de Gn 2.17, não por dúvida sobre o que os fósseis são. **✅ Propagada em 2026-09-04:** `genesis.md` §7.3 declara a posição, o argumento e as faturas para o leitor | `genesis.md` §7.3 |
 
 **Procedência desta tabela:** as colunas *Posição*, *Contra o quê* e *Onde* são extração — `A`. A coluna *A fatura* é `A` onde diz **Declarada** (citação do próprio texto) e `IA:Claude` nas ⚠️, que são leitura da máquina sobre o que falta — sujeitas à ratificação do autor. *(A marca de procedência passou a nomear o assistente em 2026-09-04; ver `regras.md` §12.6.)*
+
+## Faturas detalhadas
+
+> **Por que estão aqui e não na tabela** (regra §15.4): fatura é **peça dependente** — pertence à posição. Mas a tabela já é larga demais para impressão, e estas satisfazem as duas condições da exceção: o pai está grande e a peça é grande. Ficam no mesmo arquivo, como **campo**, com chave grep-ável.
+
+### Fatura detalhada · #6 · Historicidade de Adão
+
+**Procedência:** `A+IA:Claude` — as quatro objeções e o enquadramento são do autor, em conversa de 2026-09-04; a graduação, o acoplamento e as saídas são redação minha, sujeitas a ratificação.
+**Fonte:** ⚠️ **F3** em tudo que é genética — memória, nada verificado. **Não vira rodapé.** Serve para saber onde a pressão está.
+
+**O enquadramento do autor, e ele é o que segura a posição:** formar Adão do pó e Eva da costela é **ato pontual**, não milagre-como-sistema. Evento, narrado, com antes e depois — a mesma categoria de Lázaro e do fogo do Carmelo. **Cai do lado legítimo da régua criada em §7.3**, e por isso a posição 6 não é arbitrária em relação à 12: é a mesma régua aplicada duas vezes, com resultados diferentes porque os casos são diferentes. E, pelo mesmo motivo, **tentar explicar a costela racionalmente é contorcionismo** — costela como metáfora de material genético é o mesmo movimento de "nuvens, chuva" no *raqia*. Ver [`metodo/negociar-com-o-texto`](metodo/negociar-com-o-texto.md).
+
+**Onde o enquadramento não cobre:** o problema não é o **ato**, é a **implicação de linhagem**. Formado do pó = sem pais biológicos = descontinuidade na linhagem humana. Isso **é** afirmação sobre um sistema, e é ali que a evidência encosta.
+
+**Os quatro itens do preço, graduados:**
+
+| | Item | Peso | Estado |
+|---|---|---|---|
+| 1 | **Crescimento populacional** — "como 2 produziram tanta gente?" | **Nenhum** | Crescimento exponencial resolve com folga. Não é objeção |
+| 2 | **Cruzamento próximo, doenças** | **Médio** | A carga genética deletéria **se acumula** ao longo de gerações; no início haveria pouca, e a proibição só aparece em Levítico. Coerente e não é contorcionismo — mas **cobra uma premissa teológica** (genoma inicialmente limpo), que não é verificável |
+| 3 | **Diversidade genética a partir de duas pessoas** | **Alto — é a dura** | Duas pessoas carregam no máximo quatro versões de cada gene; há muito mais em vários pontos (HLA e afins), com linhagens que parecem muito antigas. Mutação gera variantes devagar, então **tudo depende de quanto tempo houve** |
+| 4 | **O gargalo do dilúvio** | **Alto, e acoplado** | Não é o tamanho, é a **data**: gargalo de oito pessoas há ~4.300 anos deixaria assinatura muito visível, na humanidade e em cada espécie animal |
+
+**As saídas para o item 3, com o que cada uma custa:**
+
+- **Gargalo muito antigo** — empurra Adão para centenas de milhares de anos atrás. Há quem sustente que os modelos têm premissas testáveis (Buggs); custa a cronologia curta.
+- **Adão genealógico** — ancestral de todos por **genealogia**, sem ser a única fonte genética; população existente fora do jardim. **Dissolve a objeção sem negar dado nenhum**, porque a doutrina precisa de Adão como **cabeça de todos**, que é afirmação genealógica e federal, não sobre o *pool* genético. Referência: **S. J. Swamidass, *The Genealogical Adam and Eve* (2019)** — ⚠️ **F3, não lido**; é a pista mais promissora e precisa ser verificada antes de qualquer decisão.
+- ⚠️ **"Deus os criou já com diversidade"** — **esta bate na régua do próprio projeto.** Criar uma pessoa com muitas variantes não é problema; mas se as variantes trazem **assinatura de história**, volta-se a afirmar que a evidência é aparência de um passado que não houve. É o argumento de §7.3 virado contra a posição. **Se vale para os estratos, vale aqui.**
+
+**Um dado do texto que a §9 governa:** `Gn 4.14` mostra Caim temendo "todo aquele que me encontrar", e `4.17` o mostra construindo uma cidade. **O próprio texto pressupõe outras pessoas e não explica de onde vieram.** Pela §9.3, isso fica **fora da janela** e o comentário **não decide** — a regra manda não preencher o vão, e a maior parte da discussão sobre a mulher de Caim é gente preenchendo.
+
+**O acoplamento, e ele não estava registrado:** as posições **#5** (criação como ato direto, com a fatura declarada de que *"o projeto fica sem mecanismo declarado"*), **#6** (esta) e a questão em aberto da **extensão do dilúvio** são **o mesmo nó**. O item 4 acima não é uma quinta questão: **é a questão do dilúvio**, e um dilúvio local ou regional dissolve aquele gargalo inteiro. Resolver uma das três move as outras duas; decidir qualquer uma sem olhar as outras produz incoerência.
+
+---
 
 ## Voz e método
 
@@ -66,7 +100,7 @@ Estas questões **ainda não têm posição declarada** em nenhum arquivo. Não 
 | **A morte ameaçada em 2.17** | **cap. 3** | Física, espiritual, ou ambas — e em que sequência |
 | **Gn 3.15 como protoevangelho** | **cap. 3** | Leitura tradicional reformada; decidir se é adotada e com que força |
 | **Historicidade da queda** | **cap. 3** | Decorre da posição 6 (Adão histórico), mas merece declaração própria |
-| **Extensão do dilúvio** | cap. 6-9 | Universal, global ou local |
+| **Extensão do dilúvio** | cap. 6-9 | Universal, global ou local. **Acoplada às posições 5 e 6** (2026-09-04): o gargalo genético de oito pessoas há ~4.300 anos é item da fatura de #6, e **dilúvio local ou regional o dissolve**. Ver [Fatura detalhada #6](#fatura-detalhada--6--historicidade-de-adão) |
 | **Genealogias e cronologia** | cap. 5 e 11 | Fechadas ou com lacunas. **A posição 12 (terra antiga) já força a resposta:** se a terra tem bilhões de anos, as genealogias necessariamente têm lacunas. **Declarado em `genesis.md` §7.3 (2026-09-04)** como fatura da posição 12, junto com a ressalva de que a posição *depende* do dado em vez de apenas observá-lo. O que resta é **mostrar como** — onde estão as lacunas e que critério as identifica —, e isso pertence aos caps. 5 e 11 |
 
 > **O capítulo 3 é o próximo da sequência e depende de quatro decisões desta lista.** Ele também é o maior órfão do `INDICE-DE-PASSAGENS.md` da wiki, e destrava o "em aberto" do projeto Judas sobre a origem do mal.
