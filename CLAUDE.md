@@ -23,7 +23,7 @@ Projeto Genesis/
 ├── Projeto Genesis/            # Main output (Obsidian vault root)
 │   ├── docs/
 │   │   ├── conf.md             # Project config, spec_version (currently 1.9.0)
-│   │   ├── regras.md           # Editorial rules — sections 1–13 (AI must read before any edit)
+│   │   ├── regras.md           # Editorial rules — sections 1–15 (AI must read before any edit)
 │   │   ├── posicoes.md         # Doctrinal positions register (AI must read before any edit)
 │   │   ├── fios-canonicos.md   # Canonical threads register — what each chapter plants and where it is paid
 │   │   ├── metodo/             # Method knowledge: the four axes, text layers (C1–C5), ancient witnesses, levels of meaning
@@ -68,7 +68,7 @@ The project enforces strict editorial rules defined in `Projeto Genesis/Projeto 
 
 ### Before editing any content file:
 1. Read `docs/conf.md` (project config, current `spec_version` — 1.9.0)
-2. Read `docs/regras.md` (editing rules — sections 1–13; §8 folders, §9 the silence rule, §10 canonical threads, §11 text layers, §12 precedence and multi-agent rules, §13 the lexical wiki)
+2. Read `docs/regras.md` (editing rules — sections 1–15; §8 folders, §9 the silence rule, §10 canonical threads, §11 text layers, §12 precedence and multi-agent rules, §13 the lexical wiki, §14 the three questions, §15 the division rule)
 3. Read `docs/posicoes.md` (doctrinal positions already adopted, and what is still open), and `docs/fios-canonicos.md` (canonical threads register)
 4. Check the most recent `docs/changelog.md` entries (rule 12.5) — old content does not announce that it has aged
 

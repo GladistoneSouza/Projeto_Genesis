@@ -343,3 +343,40 @@ Regra do autor. Nasceu de duas seções do capítulo 1 que **pareciam se contrad
 14.4. **O sintoma de estar misturando as faixas é ter de trocar de modelo no meio.** Seção que responde P1 de forma coerente não precisa pegar emprestado o mobiliário de P2, e vice-versa. Quando o empréstimo acontece, o modelo abandonado é o que estava certo para aquela faixa.
 
 14.5. **P1 e P2 divergirem é o esperado, não um problema.** O problema é o comentário fingir que não divergem — pelos dois lados: nem harmonizar o texto antigo com a ciência moderna, nem tratar a ciência como se o texto a estivesse contestando. **P3 é a pergunta em que o projeto trabalha**, e ela só pode ser respondida depois que P1 e P2 estiverem separadas.
+
+## 15. A régua da divisão (spec 1.10.0)
+
+Régua do autor. Nasceu ao decidir onde guardar a sustentação das posições e como tratar o `genesis.md`, que tem 1.990 linhas e nunca recebeu o tratamento que os capítulos receberam na 1.4.0.
+
+15.1. **A unidade de divisão é a pergunta, não o tamanho.** Documento pequeno que fecha está certo; documento grande que obriga o leitor a garimpar está errado. `07-setimo-dia` tem 43 linhas e está inteiro — começo, meio e fim. `genesis.md` §4 tem **447 linhas** e guarda dezoito tópicos que existiriam sozinhos.
+
+15.2. **O teste é negativo, e é o mais rápido de aplicar:**
+
+  > **Divisão feita só para outro arquivo não ficar grande é divisão errada.**
+
+  Divisão legítima é a que **existiria de qualquer jeito**. A marca da ilegítima é o pedaço **precisar de irmãos para fazer sentido**.
+
+15.3. **Três formas, e cada uma tem uma unidade completa diferente.**
+
+| Forma | O que precisa estar completo | Exemplo |
+|---|---|---|
+| **Documento** | Uma pergunta, respondida | `07-setimo-dia` · `metodo/incerteza-nao-e-uniforme` |
+| **Registro** | O **campo** — três linhas podem bastar | `posicoes.md` · `fios-canonicos.md` · `genesis.md` §10 |
+| **Fio / cadeia** | **A cadeia inteira, não o elo** | a semente da mulher (`fios-canonicos.md` #1) |
+
+  No fio, cada elo é fragmento **por natureza** — `Gn 4.25` sozinho não diz nada — e **a sequência é o conteúdo**. Não se corta em elos, nem se funde em bloco corrido. A explicação por passagem é curta de propósito.
+
+15.4. **Peça dependente fica no arquivo do pai.** Nota, imagem, diagrama, tabela de apoio: não fecham sozinhas, logo não viram documento.
+
+  **Exceção, e exige as duas condições juntas:** (a) o arquivo do pai está grande demais **e** (b) a peça extraída é grande o bastante para sustentar um arquivo.
+
+  Só **(a)** produz exatamente o fragmento que a 15.2 proíbe. Só **(b)** não é motivo — bloco grande dentro de arquivo pequeno fica onde está.
+
+  *Precedente já aplicado sem estar escrito:* a §7.3 manda cada documento carregar as próprias notas de rodapé — peça dependente com o pai — e `14-notas-e-bibliografia.md` é a exceção, porque a bibliografia consolidada do capítulo inteiro satisfaz (a) e (b).
+
+15.5. **Divisão técnica não é divisão editorial.** Mídia e anexos moram em pasta própria por exigência de ferramenta e são referenciados de dentro do documento. Isso não os torna documentos, e esta régua não se aplica a eles.
+
+15.6. **A régua é juízo, não algoritmo.** Forma, tamanho e sentido puxam em direções diferentes, e é o caso concreto que decide. Quando as três apontarem para lados distintos, decide a **15.2**.
+
+15.7. **Classificar antes de dividir.** Boa parte do que parece problema de tamanho é problema de **classe**: registro morando em arquivo de documentos, ou documento tratado como campo. Ver [`metodo/00-indice`](metodo/00-indice.md) para a distinção entre as pastas, e a §13.8 para a divisão entre nível-livro e capítulo.
+
