@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-04 – Pauta de trabalho para o auditor externo: Adão, fé × ciência e o raqia
+
+[2026-09-04] – arquivos: docs/pauta-adao-e-fe-ciencia.md (novo)
+tipo: documento de trabalho — **não é conteúdo do comentário e não entra em PDF**
+procedência: `IA:Claude`
+confiança: 1.0 — é compilação do que já está registrado, mais a lista de verificação.
+nota: Pedido do autor: levar o material para o assistente externo enquanto estiver sem acesso ao editor residente, com consolidação e review na terça. Primeiro uso prático da divisão de papéis da **§12.6** — o auditor externo tem acesso a fonte que o editor residente não teve, e as seis tarefas da pauta são exatamente disso. **A pauta reúne:** as regras que valem sobre o material (6.1.1, F3 nunca vira rodapé, §12.6.1 sobre concordância não ser confirmação, §12.7 sincronizar antes de escrever, §14 declarar a pergunta) · o estado do que está decidido (#12, #5, #6) e em aberto (modelo fé × ciência, *raqia*, extensão do dilúvio) · **as três perguntas dirigidas ao autor**, com a nota explícita de que **não devem ser respondidas pelo assistente**, apenas esclarecidas e contra-argumentadas · **seis tarefas de verificação**, todas hoje **F3**: Swamidass e a distinção genealógico × genético, o estado real do argumento do gargalo genético (separar incerteza real de incerteza inflada — §13.12 pelo avesso: *"há debate" não é "não se sabe"*), Tsumura sobre o *raqia*, HALOT e DCH, a busca por formulação reformada que já articule peso probatório da revelação geral, e a contra-argumentação da própria fatura #6 · e a lista do que **não** fazer, encabeçada por **não decidir posição**. **A fatura #6 não foi repetida na pauta** — a pauta aponta para `posicoes.md`, conforme o princípio da §13.10: duas cópias envelhecem em ritmos diferentes. **Classificação, pela §15.7:** não é documento de leitura, não é registro doutrinário e não é fio — é **pauta**, com validade, e o cabeçalho declara que expira quando consolidada. Fica na raiz de `docs/` e **não** ganhou pasta própria: um arquivo não justifica classe nova (§15.2). Se outras pautas se acumularem, aí sim.
+
+---
+
 ## 2026-09-04 – A fatura da posição 6 sai do branco: o preço do Adão histórico, graduado
 
 [2026-09-04] – arquivos: docs/posicoes.md (célula da #6, nova seção "Faturas detalhadas", linha do dilúvio em "Em aberto", cabeçalho de data)
