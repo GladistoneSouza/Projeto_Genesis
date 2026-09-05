@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101d2b">
+  <meta name="color-scheme" content="light dark">
+  <title>Projeto Gênesis</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-footnote@4.0.0/dist/markdown-it-footnote.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button id="menu" class="icon mobile" aria-label="Abrir biblioteca">☰</button>
+    <button id="brand" class="brand"><span>ב</span><b>Projeto Gênesis</b></button>
+    <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Buscar no projeto…" autocomplete="off"></label>
+    <div class="top-actions"><span id="commit" class="commit">main · …</span><button id="refresh" class="icon" aria-label="Atualizar do main">↻</button><button id="theme" class="icon desktop" aria-label="Tema">◐</button></div>
+  </header>
+
+  <aside id="sidebar" class="sidebar">
+    <button id="home-link" class="home-link active"><span>⌂</span> Visão geral</button>
+    <div class="side-head"><b>Biblioteca</b><i id="status"></i></div>
+    <nav id="tree" class="tree"></nav>
+    <footer><span></span><div><b id="source-mode">main · GitHub</b><small>somente leitura</small></div></footer>
+  </aside>
+
+  <main id="reader" class="reader">
+    <section id="home" class="home"></section>
+    <section id="results" class="results hidden"></section>
+    <article id="doc" class="doc hidden"></article>
+  </main>
+
+  <aside class="context">
+    <section><small>Documento</small><b id="doc-title">Visão geral</b><code id="doc-path">Projeto Gênesis</code><p id="doc-meta">Conectando ao main…</p></section>
+    <section><small>Marcadores</small><div id="badges" class="badges"><em>—</em></div></section>
+    <section><small>Nesta página</small><nav id="outline" class="outline"><em>—</em></nav></section>
+    <section><small>Leitura</small><div class="nav-buttons"><button id="prev" disabled>← Anterior</button><button id="next" disabled>Próximo →</button></div></section>
+  </aside>
+
+  <div id="toast" class="toast hidden"></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
