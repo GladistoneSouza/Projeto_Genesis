@@ -11,7 +11,8 @@ function fixHomeCount(){
   const direct=[...tree.querySelectorAll('button[data-doc]')].filter(b=>/^genesis-01\/[^/]+\.md$/i.test(b.dataset.doc||'')).length;
   const modules=[...tree.querySelectorAll('button[data-doc]')].filter(b=>/^genesis-01\/texto-hebraico\/[^/]+\.md$/i.test(b.dataset.doc||'')).length;
   const p=card.querySelector('p');
-  if(p&&direct)p.textContent=`${direct} etapas de leitura${modules?` · ${modules} módulos de consulta separados`:''}.`;
+  const text=direct?`${direct} etapas de leitura${modules?` · ${modules} módulos de consulta separados`:''}.`:'';
+  if(p&&text&&p.textContent!==text)p.textContent=text;
 }
 
 function enhanceSemanticTables(){
