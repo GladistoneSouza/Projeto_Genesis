@@ -55,6 +55,22 @@ Os termos aparecem na ordem em que surgem no texto. Esta tabela responde à perg
 
 ---
 
+## Notas de estudo, palavra por palavra
+
+A tabela acima é **consulta rápida** — uma linha por palavra. As **notas de estudo** ficam em [`lexico/`](lexico/01-abertura.md), agrupadas pela pergunta que cada bloco responde (§15.1): forma, ocorrências no capítulo, raridade no cânon, o que a palavra faz aqui e com o que contrasta.
+
+| | Módulo | Palavras | Estado |
+|---|---|---|---|
+| 1 | [[lexico/01-abertura\|A abertura (vv. 1-2)]] | *bereshit* · *bara* · *Elohim* · *'et* · *shamayim* · *eretz* · *hayetah* · *tohu va-vohu* · *choshekh* · *'al-penei* · *tehom* · *ruach* · *merachefet* · *mayim* | ✅ |
+| 2 | A fórmula criadora | *vayomer* · *tov* · *badal* · *qara* · *yom* · *'echad* | a escrever |
+| 3 | As estruturas | *raqia* · *mayim* · *yabbashah* | a escrever |
+| 4 | Os luminares | *'or* · *ma'or* · *mo'ed* · *mashal* | a escrever |
+| 5 | A vida que enche | *deshe'* · *zera'* · *min* · *sharatz* · *tannin* · *nefesh chayyah* · *behemah* · *remes* | a escrever |
+| 6 | O ser humano | *'adam* · *tselem* · *demut* · *radah* · *kavash* · *zakhar/neqevah* | a escrever |
+| 7 | Bênção e veredito | *barakh* · *peru u-revu* · *'asah* · *me'od* | a escrever |
+
+> **Duas palavras do v. 2 não constavam de camada nenhuma** e entraram com o módulo 1: **הָיְתָה** *hayetah* (onde a *gap theory* se decide) e **עַל־פְּנֵי** *'al-penei* (a preposição que contrasta com *be-* no argumento do *raqia*).
+
 ## Onde aprofundar
 
-A tabela é a consulta rápida. Para os termos que concentram a discussão do capítulo, vá para [[05-termos-decisivos|Termos decisivos]]. Para o levantamento da palavra na Escritura inteira e a comparação entre instrumentos, vá para [[../../docs/lexicos/00-indice|Wiki lexical]].
+Para os termos que concentram a discussão do capítulo, vá para [[05-termos-decisivos|Termos decisivos]]. Para o levantamento da palavra na Escritura inteira e a comparação entre instrumentos, vá para [[../../docs/lexicos/00-indice|Wiki lexical]].
