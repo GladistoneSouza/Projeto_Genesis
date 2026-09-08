@@ -55,6 +55,8 @@ Os termos aparecem na ordem em que surgem no texto. Esta tabela responde à perg
 
 ---
 
+> **A fonte de cada linha desta tabela está em [[08-aparato-lexical|Aparato lexical]]** — código de Strong pelo WLC, entrada do UBS/SDBH em português com autor e domínio, e nível de fonte. A tabela deixou de ser afirmação sem lastro.
+
 ## Notas de estudo, palavra por palavra
 
 A tabela acima é **consulta rápida** — uma linha por palavra. As **notas de estudo** ficam em [`lexico/`](lexico/01-abertura.md), agrupadas pela pergunta que cada bloco responde (§15.1): forma, ocorrências no capítulo, raridade no cânon, o que a palavra faz aqui e com o que contrasta.

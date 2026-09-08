@@ -56,7 +56,9 @@ Em **`C3`** — vogais e acentos — as divergências caem em três grupos, e a 
 
 **Aqui está o ponto fraco do [[04-lexico-do-capitulo|léxico do capítulo]], e ele precisa ser dito.** Ao contrário do texto hebraico — que foi transferido de uma edição identificada e pode ser aberto no link da própria página —, **a tabela rápida não tem fonte citada verbete a verbete.** Ela não foi copiada de um dicionário; foi redigida para o documento preparatório. Onde uma afirmação depende de leitura disputada, o verbete remete ao documento de estudo ou à [[../../docs/lexicos/00-indice|wiki lexical]], mas isso não substitui referência para todas as 43 linhas.
 
-Enquanto essa lacuna não for fechada — o que exige conferir cada verbete contra instrumentos adequados e citar a entrada —, **trate as linhas da tabela como orientação, não como autoridade.** Os termos que já receberam aparato comparado de nível-livro ficam em [[../../docs/lexicos/00-indice|docs/lexicos]].
+> ✅ **Fechada em 2026-09-08, e o parágrafo acima passa a ser histórico.** O [[08-aparato-lexical|Aparato lexical]] dá, para cada uma das 48 palavras, o código de Strong atribuído pelo **WLC** na própria ocorrência em Gênesis 1 e a entrada do **UBS/SDBH em português**, com autor, domínio semântico e nível de fonte — **`F1`, hash conferido**. **44 das 48 têm entrada**; as outras 4 caem numa lacuna sistemática do dataset, registrada lá.
+>
+> **O que ainda não está fechado:** em **24 palavras** a acepção usada é a primeira do verbete e vem marcada `⚠️ a revisar` — o UBS dá mais de uma acepção para 32 das 44, e escolher errado produz erro com cara de fonte. Os termos que já receberam aparato comparado de nível-livro ficam em [[../../docs/lexicos/00-indice|docs/lexicos]].
 
 > **Método.** A referência sobre camadas do texto, testemunhas antigas e o que o léxico decide (e o que não decide) está em [[../../docs/metodo/00-indice|docs/metodo]]. A regra normativa é a §11 de [[../../docs/regras|regras.md]].
 
@@ -85,7 +87,8 @@ As duas análises hoje reunidas em [[06-analise-gramatical|Análise gramatical]]
 | Aparato de variantes — **fora do TM** | ❌ Segue sem registro de Pentateuco Samaritano, LXX e Qumran |
 | Aparato de variantes — **dentro do TM** | ✅ **Fechado para este capítulo em 2026-09-08**: colação Alepo × Leningrado, consonantal idêntico, duas variantes reais registradas acima |
 | Notas sobre os acentos de cantilação | ⚠️ **Parcial.** `1.1` e `1.2` estão feitos ([[lexico/01-abertura]] e a colação acima); os demais, não |
-| Fonte verbete a verbete no léxico do capítulo | ❌ A lacuna declarada acima continua aberta — 42 linhas sem referência |
+| Fonte verbete a verbete no léxico do capítulo | ⚠️ **Em grande parte fechada** — ver [[08-aparato-lexical]]. 44/48 com entrada `F1`; 24 acepções a revisar |
+| Segunda testemunha para 4 palavras | ❌ *hayah*, *panim*, *ravah*, *me'od* não existem no UBS — resta só a família Gesenius (§13.5.2) |
 
 ---
 

@@ -50,6 +50,11 @@ Consulta concentrada de ***bara***, ***yom*** e ***raqia*** dentro deste capítu
 **[[texto-hebraico/06-analise-gramatical|Análise gramatical]]**  
 *Elohim* com verbo singular *bara* e a relação entre *bara*, *asah* e *yatzar*.
 
+### Quero saber que fonte sustenta cada verbete do léxico
+
+**[[texto-hebraico/08-aparato-lexical|Aparato lexical]]**  
+Para cada uma das 48 palavras: o código de Strong que o **WLC** lhe atribui, a entrada do **UBS/SDBH em português** com autor e domínio semântico, e o nível de fonte. É o que torna a tabela do léxico **auditável**.
+
 ### Quero conferir de onde veio o material e o que ainda falta
 
 **[[texto-hebraico/07-fontes-e-lacunas|Fontes, procedência e lacunas]]**  
