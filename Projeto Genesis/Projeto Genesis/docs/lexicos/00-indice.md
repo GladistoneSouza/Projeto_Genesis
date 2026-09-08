@@ -25,7 +25,7 @@ Esta pasta dá a **base geral**: como o hebraico foi levantado e analisado no pr
 
 **A wiki não esvazia o capítulo (§13.9) e o capítulo não é repetido aqui (§13.10).** Duas cópias envelhecem em ritmos diferentes — a §12 já mostrou o preço disso.
 
-Última atualização: 2026-09-04 · primeira passada — três verbetes de Gênesis 1.
+Última atualização: 2026-09-08 · quarto verbete — *tohu va-vohu*, levantado na leitura de `Gn 1.1-2` com o autor. **Corpus parcial e instrumentos não consultados**, declarados no próprio verbete.
 
 ---
 
@@ -154,8 +154,11 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 | [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ |
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
+| [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ⚠️ **parcial** — 4 passagens lidas, concordância **não feita** · **nenhum instrumento consultado** ❌ |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
+
+> **Nota de triagem sobre *tohu va-vohu* (§13.2).** A briga deste par **não é lexical** — nenhuma versão em português diverge, e o sentido não está em disputa. O verbete se justifica pela **§13.3.1**, não pela §13.2: o levantamento corre por Jeremias e Isaías e não pertence a capítulo nenhum. Fica registrado que a porta de entrada foi outra, para que a régua da triagem não seja alargada em silêncio.
 
 ---
 

@@ -20,6 +20,7 @@ Notas curtas, uma por conceito, ligadas entre si. Abra o painel de grafo do Obsi
 | [[incerteza-nao-e-uniforme]] | Onde o chão é firme e onde é palpite instruído |
 | [[niveis-de-sentido]] | palavra → oração → parágrafo → livro → cânon |
 | [[onde-a-briga-nao-esta]] | Por que as disputas quase nunca são de léxico |
+| [[dois-tipos-de-conexao]] | Conexão sustentada **pela palavra** ou **pela coisa** — e por que erram diferente. **Observação do autor** |
 
 ## Armadilhas
 
