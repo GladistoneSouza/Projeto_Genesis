@@ -109,9 +109,21 @@ O dado decisivo é **interno ao capítulo**: em `1.8`, *"chamou Deus ao firmamen
 
 É o verbo em que a chamada ***gap theory*** se pendura: a leitura de que `1.2` descreveria não o estado inicial, mas o **resultado de uma catástrofe** entre 1.1 e 1.2 — "a terra **tornou-se** sem forma e vazia".
 
-**O que o hebraico dá, e o que não dá.** O verbo *hayah* é o verbo comum de "ser/estar/haver"; o sentido "tornar-se" existe, mas tipicamente vem acompanhado da preposição לְ (*hayah le-*, "tornou-se em"). **Em `Gn 1.2` não há לְ.** ⚠️ **F3 — a regra do *hayah le-* está na minha memória e não foi conferida contra levantamento nem contra gramática consultada.** É a primeira coisa a verificar se esta seção for aprofundada.
+> ### ⛔ Correção declarada (2026-09-08) — argumento retratado
+>
+> Esta seção afirmava: *"o sentido 'tornar-se' existe, mas tipicamente vem acompanhado da preposição לְ (hayah le-). Em `Gn 1.2` não há לְ."* Estava marcado **`F3`**, e a conferência **derrubou**.
+>
+> **O BDB documenta "become" com predicativo nominal, sem preposição alguma**, e o exemplo que ele próprio dá é `Gn 3.20`:
+>
+> > *sq. pred. noun:* הִוא הָיְתָה אֵם כָּל־חָי `Gn 3.20` — *"it was she that **became** the mother of all living"*
+>
+> **A construção é a mesma de `Gn 1.2`:** sujeito + הָיְתָה + predicativo nominal. Logo **a ausência de לְ não decide nada**, e o argumento gramatical que estava aqui não se sustenta. Klein confirma o mesmo campo para o qal: *"was, existed; came into being, became"*. (**F2** — BDB e Klein por leitura mediada, API do Sefaria.)
+>
+> Pela §12.8 a conclusão derrubada fica **visível como retratada**, não apagada.
 
-**E a estrutura reforça.** O v. 2 abre com *waw* + **substantivo** (וְהָאָרֶץ), não com o *wayyiqtol* narrativo — construção de **cláusula circunstancial**, que dá pano de fundo em vez de avançar a ação. Uma frase que quisesse narrar *"e então a terra tornou-se..."* usaria a forma narrativa, que só aparece no v. 3 (וַיֹּאמֶר).
+**O que o hebraico dá, e o que não dá.** *Hayah* é o verbo comum de "ser/estar/haver/vir a ser", e **cobre os dois sentidos** — "era" e "tornou-se" — sem marca morfológica que os separe em `Gn 1.2`. **O léxico não decide esta questão.**
+
+**O que ainda argumenta, e é sintático e não lexical.** O v. 2 abre com *waw* + **substantivo** (וְהָאָרֶץ), não com o *wayyiqtol* narrativo — construção de **cláusula circunstancial**, que dá pano de fundo em vez de avançar a ação. Uma frase que quisesse narrar *"e então a terra tornou-se..."* como **evento subsequente** usaria a forma narrativa, que só aparece no v. 3 (וַיֹּאמֶר). Este argumento **não depende** da preposição e continua de pé — mas é argumento sobre **sequência narrativa**, não sobre o sentido do verbo.
 
 ⚠️ **Questão não registrada em `posicoes.md`.** O projeto não tem posição declarada sobre a *gap theory*. O verbete de [[../../../docs/lexicos/tohu-vavohu|tohu va-vohu]] diz corretamente que *a palavra não decide isso* — **decide-se aqui**, e a decisão é do autor (6.1.1).
 
@@ -256,7 +268,7 @@ A frequência conta a história do capítulo: **as águas estão em toda parte e
 | Questão | Estado |
 |---|---|
 | A fatura da posição #3 (sintaxe de 1.1) | em branco no `posicoes.md` |
-| A *gap theory* (`hayetah`) | **sem posição registrada** — e a regra do *hayah le-* está `F3` |
+| A *gap theory* (`hayetah`) | **sem posição registrada.** O argumento lexical foi **retratado** — o léxico não decide; resta o argumento de cláusula circunstancial |
 | *Ruach Elohim* como pessoa divina | **posição tomada em `04-exegese-1-2` §4.4 e não registrada** |
 | *Tehom* e a tese de Tsumura | `F3` — livro na bibliografia, não lido |
 | Verbetes a escrever na wiki | *tehom* · *ruach* · *re'shit* · *hayah* |

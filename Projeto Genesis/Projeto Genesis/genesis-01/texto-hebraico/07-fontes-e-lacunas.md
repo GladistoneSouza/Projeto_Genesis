@@ -88,7 +88,7 @@ As duas análises hoje reunidas em [[06-analise-gramatical|Análise gramatical]]
 | Aparato de variantes — **dentro do TM** | ✅ **Fechado para este capítulo em 2026-09-08**: colação Alepo × Leningrado, consonantal idêntico, duas variantes reais registradas acima |
 | Notas sobre os acentos de cantilação | ⚠️ **Parcial.** `1.1` e `1.2` estão feitos ([[lexico/01-abertura]] e a colação acima); os demais, não |
 | Fonte verbete a verbete no léxico do capítulo | ⚠️ **Em grande parte fechada** — ver [[08-aparato-lexical]]. 44/48 com entrada `F1`; 24 acepções a revisar |
-| Segunda testemunha para 4 palavras | ❌ *hayah*, *panim*, *ravah*, *me'od* não existem no UBS — resta só a família Gesenius (§13.5.2) |
+| Testemunha de domínio semântico para 10 lemas | ⚠️ *el*, *hayah*, *hinneh*, *ki*, *kol*, *me'od*, *natan*, *al*, *panim*, *ravah* não existem no UBS. **Têm BDB, Klein e Jastrow** — o que se perde é diversidade de **método**, não fonte |
 
 ---
 

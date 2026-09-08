@@ -583,7 +583,39 @@ Quatro das 48 palavras **não têm entrada nenhuma** no dataset: **הָיְתָ�
 
 Não é acaso. Levantando o capítulo inteiro, **87 dos 97 lemas do WLC têm entrada (89%)** — e os dez ausentes são `H0413` *el*, `H1961` *hayah*, `H2009` *hinneh*, `H3588` *ki*, `H3605` *kol*, `H3966` *me'od*, `H5414` *natan*, `H5921` *al*, `H6440` *panim*, `H7235` *ravah*. **O que falta é o esqueleto gramatical** — preposições, partículas, o verbo "ser" e verbos de altíssima frequência. Coerente com um dicionário organizado por **domínio semântico**, que prioriza palavra de conteúdo, e com uma versão que ainda é `0.9.2`.
 
-**A consequência é séria e precisa ficar escrita:** para essas palavras o projeto **não tem testemunha independente**. Só resta a família Gesenius — BDB, Klein, Strong's —, e a §13.5.2 diz que vê-los concordar **não é confirmação**. E uma delas é **הָיְתָה**, o verbo em que a *gap theory* se decide.
+**A consequência, dita com precisão** *(esta formulação foi corrigida em 2026-09-08 — ver abaixo)*: para essas palavras o projeto **perde a testemunha por domínio semântico**, que é a única moderna, em português e de método declaradamente distinto. **Não fica sem fonte:** BDB, Klein e Jastrow têm entrada para as dez, conferido.
+
+> ⛔ **Correção declarada.** Uma versão anterior desta seção dizia que *"só resta a família Gesenius"*. **Exagero.** A genealogia da §13.5.2 nomeia Gesenius → Robinson → **BDB**, mais Tregelles e as glosas do Strong's — **Klein não está nela**, e o próprio [[../../docs/lexicos/00-indice|índice da wiki]] trata Klein como instrumento à parte, tendo inclusive registrado que ele **contradiz** o BDB na etimologia de *bara*. Jastrow é outra coisa ainda: rabínico, cobre uso mishnaico e talmúdico.
+>
+> **O que continua verdadeiro:** perde-se a testemunha **de domínio semântico**, e é ela a independente por **método** (§13.11). O que se perde é diversidade de método, não fonte.
+
+E uma dessas dez é **הָיְתָה**, o verbo em que a *gap theory* se decide — e ali a conferência **derrubou um argumento do projeto**: ver [[lexico/01-abertura]] §7.
+
+### Onde cada ausência toca uma análise já escrita
+
+Os dez ausentes **não são palavras periféricas** — são o esqueleto do capítulo. Mapa das ocorrências, conferido no WLC, e do que cada uma sustenta:
+
+| Lema | Vers. em Gn 1 | O que sustenta | Onde isso já está escrito |
+|---|---|---|---|
+| **הָיָה** *hayah* | **17 de 31** — 2,3,5,6,7,8,9,11,13,14,15,19,23,24,29,30,31 | O **refrão inteiro**: *yehi 'or* ("haja luz"), *vayhi 'or* ("e houve luz"), *vayhi erev* ("e houve tarde"). E `1.2`, a *gap theory* | [[../05-dias-1-3]] §5.2 · [[lexico/01-abertura]] §7 |
+| **כִּי** *ki* | 6 — 4,10,12,18,21,25 | A fórmula **_ki-tov_**, "que era bom" — a avaliação divina de cada dia | [[../05-dias-1-3]] §5.2 · §5.4 |
+| **עַל** *al* + **פָּנִים** *panim* | 10 + 3 — inclui **2, 20** | *al-penei*: a estrutura do v. 2 **e o contraste com _be-_ em `1.20`** | [[05-termos-decisivos]] · [[lexico/01-abertura]] §10 |
+| **נָתַן** *natan* | 2 — **17**, 29 | `1.17`: *"e Deus os **pôs** (**be-**) no raqia"* — o verbo do ato | [[05-termos-decisivos]] |
+| **רָבָה** *ravah* | 2 — 22, 28 | *peru u-revu*, a bênção de fecundidade | [[../06-dias-4-6]] §5.7.2 |
+| **מְאֹד** *me'od* | 1 — **31** | *tov me'od*, o veredito final sobre o conjunto | [[../06-dias-4-6]] §5.8 |
+| **כֹּל** *kol* | 7 — 21,25,26,28,29,30,31 | "**tudo** quanto havia feito", em `1.31` | [[../06-dias-4-6]] §5.8 |
+| **הִנֵּה** *hinneh* | 2 — 29, 31 | O "eis que" do veredito e da provisão | — |
+| **אֶל** *el* | 1 — 9 | "as águas se ajuntem **em** um lugar" | — |
+
+> ### ⚠️ O ponto que mais pesa: três dos dez caem sobre a questão do *raqia*
+>
+> O argumento das preposições — **os luminares postos *be-*, "dentro" (`1.14,15,17`), contra as aves *al-penei*, "diante" (`1.20`)** — é uma das quatro linhas convergentes registradas em [[../../docs/posicoes|posicoes.md]] para a leitura de abóbada sólida.
+>
+> Esse argumento usa **três** palavras sem entrada no UBS: ***al***, ***panim*** e ***natan*** (o verbo de `1.17`, "pôs").
+>
+> **Isso não enfraquece o argumento**, e a razão importa: ele é **argumento de corpus, não de léxico** — a diferença entre as duas preposições está no texto e qualquer um a confere abrindo os vv. 14 e 20. Pela §13.3 essa é a coluna que decide, e ela está intacta.
+>
+> **O que muda é o que não se pode fazer:** não há como **reforçar** esse argumento citando o dicionário de domínio semântico, porque ele não cobre as palavras. Quem quiser aparato lexical ali depende de BDB, Klein e Jastrow — e a §13.5.2 obriga a perguntar de quem cada um descende antes de somá-los.
 
 ## O caso do *merachefet*, e ele confirma a §13.3
 
@@ -611,7 +643,7 @@ Testemunha **moderna**, **em português**, **fora da família Gesenius** (§13.5
 |---|---|
 | Acepção revisada onde há mais de uma | ⚠️ **24 palavras** ainda marcadas `1ª acepção, a revisar` |
 | BDB, Klein e Jastrow palavra a palavra | ❌ consultados só para *bara*, *raqia*, *yom* e *rachaf* |
-| As 4 palavras sem UBS | ❌ dependem da família Gesenius — sem segunda testemunha |
+| As 4 palavras sem UBS | ⚠️ têm BDB, Klein e Jastrow; **perdem a testemunha de domínio semântico** |
 | HALOT · DCH · DITAT | ❌ pagos, não consultados |
 
 ---
