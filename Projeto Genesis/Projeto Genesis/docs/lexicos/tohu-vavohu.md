@@ -19,7 +19,9 @@
 
 ## O corpus `N1` `C1`
 
-> ⚠️ **Levantamento parcial, e a lacuna é declarada.** Quatro passagens foram lidas no hebraico e conferidas caractere a caractere (Sefaria, **F2** — leitura mediada, §13.11). **Não foi feita concordância completa.** As contagens totais abaixo são **F3, memória, a conferir** — e são justamente o que decidiria a triagem da §13.2. Conferir em [Blue Letter Bible H8414](https://www.blueletterbible.org/lexicon/h8414/kjv/wlc/0-1/) (*tohu*) e [H922](https://www.blueletterbible.org/lexicon/h922/kjv/wlc/0-1/) (*bohu*).
+> ✅ **Levantamento exaustivo, fechado em 2026-09-08.** Varredura dos **39 livros / 23.206 versículos** do texto hebraico (API do Sefaria, **F2** — §13.11), com pontos, acentos e marcação removidos, *maqqef* tratado como separador, e cada resultado conferido individualmente contra falso positivo.
+>
+> **Isto substitui a declaração anterior desta nota**, que registrava o levantamento como parcial e as contagens como **F3, memória**. As contagens agora são dado.
 
 ### As quatro passagens conferidas
 
@@ -39,7 +41,25 @@ São duas afirmações diferentes, e as duas são verdadeiras:
 
 > **Registro de divergência (§12.3).** O [[../../genesis-01/10-conexoes-canonicas|10-conexoes-canonicas]] §8.1 afirma que as palavras *"aparecem apenas em Gn 1.2 e aqui"* [Jr 4.23]. **Sobre a expressão, está correto.** Sobre a palavra *bohu*, falta `Is 34.11`. Não é erro de fato — é imprecisão de escopo, e o conserto é **mecânico**.
 
-**O que não foi verificado:** quantas vezes *tohu* ocorre sozinha no AT (`Is 40.17,23`; `44.9`; `45.19`; `49.4`; `59.4`; `1Sm 12.21`; `Sl 107.40`; `Jó 6.18`; `12.24`; `26.7` estão na memória, **F3, não conferidas**). O verbete fica incompleto e declarado até que a concordância seja feita.
+### As contagens, fechadas
+
+| | Total | Distribuição |
+|---|---|---|
+| **בֹהוּ** *bohu* | **3** | `Gn 1.2` · `Is 34.11` · `Jr 4.23` — **e nunca sem *tohu***. A palavra não tem vida própria: confirmado, não suposto |
+| **תֹהוּ** *tohu* | **20** (em 19 versículos — `1Sm 12.21` traz duas) | **11 das 20 estão em Isaías.** Depois: Jó 3 · Gn, Dt, 1Sm (×2), Jr, Sl 1 cada |
+
+**As 20 de *tohu*:** `Gn 1.2` · `Dt 32.10` · `1Sm 12.21` (×2) · `Is 24.10`; `29.21`; `34.11`; `40.17`; `40.23`; `41.29`; `44.9`; `45.18`; `45.19`; `49.4`; `59.4` · `Jr 4.23` · `Sl 107.40` · `Jó 6.18`; `12.24`; `26.7`.
+
+**Falsos positivos descartados**, conferidos um a um: `Jr 26.19` *hamitohu* ("mataram-no") · `Ez 19.5` e `24.7` *sametohu* ("ela o pôs") · `1Rs 13.18` *hashivehu* ("faze-o voltar"). Casam pelas consoantes e não têm nada com a raiz.
+
+**Isaías é o profeta do *tohu*** — mais da metade das ocorrências. E ele usa a palavra em dois campos:
+
+| Campo | Onde | O que *tohu* é ali |
+|---|---|---|
+| **Cosmológico** | `45.18`; `34.11`; `40.17,23` | O não-habitado, o desfeito |
+| **Anti-idolátrico** | `44.9`; `41.29`; e `1Sm 12.21` | **Os ídolos são *tohu*** — o que é vão, o que não salva |
+
+O segundo campo não é desvio: é o primeiro aplicado. Ídolo é *tohu* porque **não sustenta ninguém** — é o oposto de *lashevet* transposto para o objeto de confiança.
 
 ### `Is 45.18` — a passagem que define de que *tohu* é o contrário
 
@@ -86,6 +106,22 @@ Quatro vezes *ra'iti … ve-hinneh* ("olhei… e eis que"). Conferido no hebraic
 E o v. 26 nomeia a causa que a visão vinha segurando: *mippenei YHWH, mippenei charon appo* — "por causa do SENHOR, por causa do furor da sua ira". **Não é entropia. É o mesmo Deus, na direção inversa.**
 
 > **Jeremias não está reusando vocabulário: está citando.** A ligação está no texto dele, não na nossa observação. É o que a nota de método chama de ligação feita **pelo próprio autor bíblico**.
+
+### `Dt 32.10` — *tohu* encontra a outra palavra rara de `Gn 1.2`
+
+A varredura devolveu uma ocorrência que muda o alcance desta nota: `Dt 32.10`, no Cântico de Moisés — **o versículo imediatamente anterior à única outra ocorrência do verbo *rachaf* em piel.**
+
+```
+32.10   יִמְצָאֵהוּ בְּאֶרֶץ מִדְבָּר   וּבְתֹ֖הוּ יְלֵל יְשִׁמֹן
+        "Encontrou-o em terra deserta, e no TOHU de uivante solidão"
+
+32.11   כְּנֶשֶׁר יָעִיר קִנּוֹ        עַל־גּוֹזָלָיו יְרַחֵ֑ף
+        "Como águia que desperta o ninho, sobre os seus filhotes PAIRA"
+```
+
+**`Dt 32.10-11` é o único lugar do cânon, fora de `Gn 1.2`, em que *tohu* e *rachaf* aparecem juntos.** O tratamento completo está em [[rachaf]]; aqui fica o registro de que a ocorrência existe e de que ela liga esta nota àquela.
+
+⚠️ **Dado × leitura:** a coocorrência é fato `N1`; que o Cântico **aluda** a `Gn 1.2` é inferência `N4`, sustentada pela improbabilidade lexical e não por afirmação de autor bíblico nenhum.
 
 ### `Is 34.11` — as ferramentas do construtor
 
@@ -158,10 +194,12 @@ A briga é sobre **o estado**: se `Gn 1.2` descreve o começo de um processo ou 
 
 `IA:Claude` — levantado na conversa de 2026-09-08 com o autor, a partir da leitura de `Gn 1.1-2`. **Sujeito à ratificação.**
 
-**Estado dos blocos:** forma ✅ conferida caractere a caractere · corpus ⚠️ **parcial** — quatro passagens lidas (**F2**), concordância completa **não feita** · instrumentos ❌ **nenhum consultado** · traduções ✅ conferidas no `02-traducoes-br`.
+**Estado dos blocos:** forma ✅ conferida caractere a caractere · corpus ✅ **exaustivo** desde 2026-09-08 — 39 livros varridos, 23 ocorrências brutas, 3 falsos positivos descartados um a um · instrumentos ❌ **nenhum consultado** — a lacuna continua, e nada deste verbete vira rodapé de léxico · traduções ✅ conferidas no `02-traducoes-br`.
+
+**Histórico:** redigido em 2026-09-08 com o corpus declarado **parcial**; fechado no mesmo dia pela varredura completa, ao investigar o *merachefet*. A busca por uma palavra devolveu a outra — ver [[rachaf]].
 
 ---
 
 ## Relacionado
 
-[[bara]] · [[../metodo/dois-tipos-de-conexao|dois-tipos-de-conexao]] · [[../metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]] · [[../metodo/incerteza-nao-e-uniforme|incerteza-nao-e-uniforme]]
+[[rachaf]] · [[bara]] · [[../metodo/dois-tipos-de-conexao|dois-tipos-de-conexao]] · [[../metodo/onde-a-briga-nao-esta|onde-a-briga-nao-esta]] · [[../metodo/incerteza-nao-e-uniforme|incerteza-nao-e-uniforme]]

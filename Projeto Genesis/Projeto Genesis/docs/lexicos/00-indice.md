@@ -25,7 +25,7 @@ Esta pasta dá a **base geral**: como o hebraico foi levantado e analisado no pr
 
 **A wiki não esvazia o capítulo (§13.9) e o capítulo não é repetido aqui (§13.10).** Duas cópias envelhecem em ritmos diferentes — a §12 já mostrou o preço disso.
 
-Última atualização: 2026-09-08 · quarto verbete — *tohu va-vohu*, levantado na leitura de `Gn 1.1-2` com o autor. **Corpus parcial e instrumentos não consultados**, declarados no próprio verbete.
+Última atualização: 2026-09-08 · **quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
 
 ---
 
@@ -154,7 +154,8 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 | [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ |
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
-| [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ⚠️ **parcial** — 4 passagens lidas, concordância **não feita** · **nenhum instrumento consultado** ❌ |
+| [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · **nenhum instrumento consultado** ❌ |
+| [[rachaf]] · רָחַף | Gn 1.2 | Corpus ✅ **exaustivo** — 3 ocorrências no AT · Klein e Jastrow **F2** · BDB e SDBH ❌ |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
 

@@ -66,6 +66,28 @@ O mesmo vale do lado da coisa: em `Rm 5.12-21` **Paulo diz** que Adão é figura
 
 ---
 
+## O que a grade ainda não sabia dizer — a improbabilidade lexical
+
+**Acrescentado em 2026-09-08, ao testar a grade contra um caso real.** A grade pôs `Dt 32.11` (*merachefet*) no canto fraco — "nós observamos" —, e isso continua correto: nenhum autor bíblico afirma a ligação. Mas o levantamento exaustivo mostrou que o canto fraco **contém casos de forças muito diferentes**, e a grade, como estava, não tinha como dizê-lo.
+
+O que a varredura devolveu (ver [[../lexicos/rachaf|rachaf]] e [[../lexicos/tohu-vavohu|tohu-vavohu]]):
+
+| | |
+|---|---|
+| *rachaf* ocorre **3 vezes** em todo o AT | duas delas são `Gn 1.2` e `Dt 32.11` |
+| *bohu* ocorre **3 vezes** | sempre colado a *tohu* |
+| *tohu* ocorre **20 vezes** | uma delas é `Dt 32.10` — **o versículo anterior** |
+
+**`Dt 32.10-11` é o único lugar do cânon, fora de `Gn 1.2`, em que as duas palavras aparecem juntas.** Isso não é "uma raiz rara que se repete": são duas palavras raras, em versículos vizinhos, sem outro encontro em toda a Escritura.
+
+> **O terceiro elemento, então:** dentro do canto *"nós observamos"*, a força de uma ligação por palavra vem da **improbabilidade lexical** — quantas palavras, quão raras, e quão próximas umas das outras.
+
+E o ponto prático: **isso é mensurável, e de graça.** A varredura que fechou as contagens percorreu 39 livros e 23.206 versículos numa consulta só. A diferença entre "reparei que a palavra se repete" e "estas duas palavras raras só se encontram aqui" é a diferença entre impressão e evidência — e o custo de sair de uma para a outra é baixo.
+
+**O que isso não faz.** Improbabilidade lexical **não promove** a ligação para o canto de cima: continua sendo nós observando, e a conclusão continua sendo `N4`, inferência. O que ela faz é graduar a inferência — e obrigar a declarar **em cima do quê**.
+
+---
+
 ## O caso difícil, e é o fio principal do projeto
 
 `Gl 3.16` argumenta a partir do **singular** de "descendente" — זֶרַע em hebraico, σπέρμα em grego. É conexão **por palavra atravessando idioma**, e só fecha passando pela Septuaginta, que é camada **C2**.
@@ -83,7 +105,10 @@ Uma régua que trate "conexão por palavra" como categoria monolíngue ou **pro�
 
 **Não é regra.** É conhecimento de método (ver [[00-indice]]). A régua normativa correspondente — se vier — é da alçada do autor, como foram a §14 e a §15, e exige os três arquivos da §5: `regras.md`, `changelog.md` e a sugestão de `spec_version`.
 
-**Questão em aberto, deixada ao autor:** se "quem faz a ligação" é mesmo um **segundo eixo**, ou se é apenas **grau de confiança** dentro de cada tipo.
+**Questões em aberto, deixadas ao autor:**
+
+1. Se "quem faz a ligação" é mesmo um **segundo eixo**, ou se é apenas **grau de confiança** dentro de cada tipo.
+2. Se a **improbabilidade lexical** é um terceiro eixo, um modulador dentro do canto "nós observamos", ou apenas o modo de calcular a confiança da primeira coluna. *(Ela entrou nesta nota como modulador — decisão provisória minha, tomada para não deixar o achado sem lugar.)*
 
 ---
 
@@ -95,4 +120,4 @@ Uma régua que trate "conexão por palavra" como categoria monolíngue ou **pro�
 
 ## Relacionado
 
-[[niveis-de-sentido]] · [[onde-a-briga-nao-esta]] · [[../lexicos/tohu-vavohu|tohu-vavohu]] · [[../fios-canonicos|fios-canonicos]]
+[[niveis-de-sentido]] · [[onde-a-briga-nao-esta]] · [[incerteza-nao-e-uniforme]] · [[../lexicos/tohu-vavohu|tohu-vavohu]] · [[../lexicos/rachaf|rachaf]] · [[../fios-canonicos|fios-canonicos]]
