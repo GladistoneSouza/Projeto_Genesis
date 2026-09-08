@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#101d2b" />
+  <title>Projeto Gênesis · Biblioteca</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="/styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it-footnote@4.0.0/dist/markdown-it-footnote.min.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <button class="top-icon mobile-only" id="toggle-nav" aria-label="Abrir navegação">☰</button>
+
+      <button class="brand" id="go-home" type="button" aria-label="Ir para o início">
+        <span class="brand-seal" aria-hidden="true">ב</span>
+        <span class="brand-copy">
+          <strong>Projeto Gênesis</strong>
+          <small>Biblioteca de estudo</small>
+        </span>
+      </button>
+
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+        <input id="search" type="search" placeholder="Buscar palavra, tema, referência…" autocomplete="off" />
+        <kbd>Ctrl K</kbd>
+      </div>
+
+      <div class="top-actions">
+        <button class="top-icon" id="theme-toggle" title="Alternar tema" aria-label="Alternar tema">◐</button>
+        <button class="top-icon" id="refresh" title="Reler o vault" aria-label="Atualizar">↻</button>
+      </div>
+    </header>
+
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-top">
+        <button class="home-link active" id="home-link" type="button">
+          <span class="nav-icon">⌂</span>
+          <span>Visão geral</span>
+        </button>
+      </div>
+
+      <div class="sidebar-label">
+        <span>Biblioteca</span>
+        <span class="status-dot" id="health-dot" title="Estado do servidor"></span>
+      </div>
+      <nav id="tree" class="tree" aria-label="Documentos"></nav>
+
+      <footer class="sidebar-footer">
+        <span class="read-only-dot"></span>
+        <span>Modo leitura · fonte: Markdown</span>
+      </footer>
+    </aside>
+
+    <main class="reader" id="reader">
+      <div id="search-results" class="search-results hidden"></div>
+      <section id="home" class="home-view hidden"></section>
+      <article id="document" class="document hidden"></article>
+    </main>
+
+    <aside class="context-panel">
+      <section class="context-card context-file">
+        <p class="eyebrow">Documento atual</p>
+        <strong id="file-title">Visão geral</strong>
+        <code id="file-path">biblioteca local</code>
+        <small id="file-time">O conteúdo continua no vault.</small>
+      </section>
+
+      <section class="context-card">
+        <p class="eyebrow">Marcadores encontrados</p>
+        <div id="badges" class="badges"><span class="muted">Abra um documento.</span></div>
+      </section>
+
+      <section class="context-card outline-card">
+        <p class="eyebrow">Nesta página</p>
+        <nav id="outline" class="outline"><span class="muted">—</span></nav>
+      </section>
+
+      <section class="context-card nav-card">
+        <p class="eyebrow">Leitura</p>
+        <div class="doc-nav">
+          <button id="prev-doc" class="doc-nav-button" type="button" disabled><span>←</span><small>Anterior</small></button>
+          <button id="next-doc" class="doc-nav-button" type="button" disabled><small>Próximo</small><span>→</span></button>
+        </div>
+      </section>
+
+      <section class="context-card legend-card">
+        <p class="eyebrow">Régua rápida</p>
+        <dl>
+          <div><dt>N</dt><dd>proximidade do texto</dd></div>
+          <div><dt>F</dt><dd>estado da fonte</dd></div>
+          <div><dt>C</dt><dd>camada textual</dd></div>
+          <div><dt>P</dt><dd>pergunta histórica, científica ou teológica</dd></div>
+        </dl>
+      </section>
+    </aside>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
