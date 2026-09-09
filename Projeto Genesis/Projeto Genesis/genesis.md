@@ -221,6 +221,35 @@ A tradição evangélica e reformada respondeu com objeções consistentes:
 
 Isso não significa que Moisés não usou fontes — como visto acima, a tradição evangélica reconhece isso. A diferença é que o modelo evangélico vê Moisés como **autor principal sob inspiração divina**, não como um editor tardio costurando tradições contraditórias.
 
+**Os elementos posteriores a Moisés — e por que eles não derrubam a autoria mosaica:**
+
+Há uma objeção mais simples que a hipótese documentária, e é honesto enfrentá-la: **há dentro de Gênesis frases que ninguém poderia ter escrito no tempo de Moisés.**
+
+| Texto | O que diz | O problema |
+|---|---|---|
+| `Gn 12.6`; `13.7` | "e o cananeu estava **então** na terra" | Quem escreve já sabe que ele **não está mais** — isto é, escreve depois da conquista |
+| `Gn 22.14` | "como se diz **hoje**" | Fórmula de quem olha o evento de longe |
+| `Gn 14.14` | Abraão perseguiu os inimigos "até **Dã**" | A cidade só recebeu esse nome **depois da entrada na terra** |
+| `Gn 36.31` | "antes que reinasse rei algum sobre os filhos de Israel" | Pressupõe que **já houve reis** em Israel |
+
+O caso de Dã é o mais claro, e a resposta vem da própria Escritura. Josué e Juízes contam quando e como o nome mudou:
+
+> "E chamaram a Lesém **Dã**, segundo o nome de Dã, seu pai."
+> *(Josué 19.47)*
+
+> "E chamaram o nome da cidade **Dã**, segundo o nome de Dã, seu pai… **porém, dantes, o nome da cidade era Laís**."
+> *(Juízes 18.29)*
+
+**A Bíblia declara, sobre si mesma, que aquele nome é posterior.** Moisés não poderia escrever "até Dã" pela mesma razão que ninguém escreve hoje uma carta datando-a do ano que vem.
+
+A resposta deste comentário é simples e não custa nada à inspiração: **o texto mosaico foi mantido legível.** Nomes de lugares foram atualizados e notas de orientação foram acrescentadas, para que gerações posteriores soubessem de onde o narrador estava falando. É o que qualquer editor cuidadoso faz ao reeditar um texto antigo — e é o que se faz até hoje quando uma nota de rodapé explica que certa cidade "hoje se chama outra coisa".
+
+Isso é **diferente** do que propõe a hipótese documentária. Uma coisa é atualizar um nome para que o leitor se localize; outra é costurar documentos com teologias concorrentes. O primeiro preserva um texto; o segundo o substitui.
+
+**O que essa posição custa, e é justo dizer.** Onde o comentário apelar à autoria mosaica, o apelo é **à substância do livro**, não a cada vocábulo dele. A inspiração é afirmada **do texto como a Igreja o recebeu** — que é, aliás, o texto que Jesus tinha nas mãos quando disse que Moisés escrevera dele (`Jo 5.46-47`). E fica uma pergunta que este comentário ainda não respondeu: **até onde vai a atualização?** Distinguir caso a caso é mais frágil do que ter um critério, e o critério ainda não existe.
+
+*(Posição e fatura registradas em `docs/posicoes.md` #2.)*
+
 ### 1.6. Datação e contexto histórico
 
 A composição de Gênesis situa-se entre aproximadamente **1446 e 1406 a.C.**, durante a peregrinação de Israel no deserto. Provavelmente foi escrito enquanto Israel acampava no Sinai, período em que Moisés também recebeu a Lei.

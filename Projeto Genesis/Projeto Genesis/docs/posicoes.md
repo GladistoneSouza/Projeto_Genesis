@@ -6,7 +6,7 @@
 >
 > **Regra de manutenção:** nenhuma posição nova é tomada dentro de um capítulo sem entrar aqui. Toda mudança de posição vai também para o [`changelog.md`](changelog.md).
 
-Última atualização: 2026-09-04 · fatura detalhada da posição 6 declarada; questão do *raqia* registrada em aberto; acoplamento #5 × #6 × dilúvio.
+Última atualização: 2026-09-08 · **posição 2 (autoria) precisada pelo autor e fatura declarada** — atualização editorial pós-entrada na terra, com `Jz 18.29` como testemunho da própria Escritura. Posição 1 (gênero) **em discussão, ainda não registrada**.
 
 ---
 
@@ -19,7 +19,7 @@
 | # | Questão | Posição do projeto | Contra o quê | **A fatura — o que esta posição paga** | Onde |
 |---|---|---|---|---|---|
 | 1 | **Gênero de Gênesis** | Narrativa histórico-teológica | Nem mito a descartar, nem crônica científica | ⚠️ a declarar | `genesis.md` §1 |
-| 2 | **Autoria** | Moisés como autor, provavelmente usando fontes anteriores preservadas por Israel | Hipótese documentária (JEDP) | ⚠️ a declarar — o projeto precisa responder pelos elementos pós-mosaicos do texto | `genesis.md` §1.10 |
+| 2 | **Autoria** | **Moisés é o autor de boa parte**, provavelmente usando fontes anteriores preservadas por Israel — e **o texto como o temos traz atualização editorial posterior à entrada na terra**: nomes atualizados e notas de orientação ao leitor. **Precisão do autor (2026-09-08):** *"as partes que falam dos reis e tudo mais seriam edições futuras pós-entrada na terra — como ele escreveria sobre os nomes que só entraram pós-entrada do povo?"* Do que vem depois da morte de Moisés (`Dt 34`), o comentário **não nomeia autor**: fica declarado como não sabido | Hipótese documentária (JEDP) | **Declarada em 2026-09-08 → ver [Fatura detalhada #2](#fatura-detalhada--2--autoria)**. Em uma linha: aceita atualização editorial, **perde** o argumento de "Moisés escreveu cada palavra", **ganha** não ser derrubável por um versículo — e fica devendo **onde está a linha** entre atualizar um nome e costurar fontes rivais | `genesis.md` **§1.5** ✅ propagada em 2026-09-08 |
 | 3 | **Sintaxe de Gn 1.1-3** | Leitura **clássica independente**. **Precisão do autor (2026-09-04):** 1.1 afirma início **real, não relativo**, do mundo criado. "Absoluto" vale **contra matéria eterna** — jamais contra um Deus eterno, e não contra a corte celestial, que é criatura (`Cl 1.16`) cuja origem o merismo afirma e cuja data ninguém dá (ver #11). "Início do tempo" = o tempo **deste mundo** | Leituras que tomam 1.1 como título · e, do outro lado, o uso de "absoluto" como se negasse tudo o que 1.1 não narra | ⚠️ a declarar — há argumento sintático real do outro lado | `genesis.md` §6.5 · `genesis-01/04-exegese-1-2` §4.2 |
 | 4 | **Os "dias" da criação** | **Dias divinos / analógicos** | 24h literais · estrutura-funcional · literária-teológica | **Declarada** (§7.2): abre mão do argumento gramatical mais direto — *yom* com numeral ordinal significa consistentemente dia de 24h no restante da Bíblia (§7.2, arg. de Kelly) — e se afasta de **tradição confessional significativa**, o que o próprio texto reconhece "com respeito". **Refinamento do autor (2026-09-03):** o "dia" é **marcador de fechamento de etapa**, não medida de duração — "Deus nem precisaria de 24 horas". **Fatura adicional, ⚠️ a responder:** se o dia não guarda analogia real com jornada de trabalho, é preciso dizer o que sustenta Ex 20.11 ("porque em seis dias fez o SENHOR") e o sábado como ordenança criacional, que o projeto afirma em `genesis-01/07-setimo-dia` e §12.3 (Vos). A leitura analógica de Collins resolve isso *mantendo* a analogia; "dia = etapa" ainda não disse como. **⚠️ Dívida de propagação (regra 12.4), detectada em 2026-09-04:** o refinamento está registrado aqui e **não está escrito em `genesis.md` §7.2**, que segue dizendo apenas "dias divinos — períodos reais de atividade criadora". "Período real de atividade" é afirmação de duração; "marcador de fechamento de etapa" não é. O leitor do livro não tem acesso ao refinamento | `genesis.md` §6.5, §7.2 |
 | 5 | **Criação** | Ato **direto e intencional** de Deus | Evolucionismo naturalista, rejeitado como filosoficamente incompatível | **Declarada** (§7.4): o projeto **fica sem mecanismo declarado** — reconhece que "a questão dos mecanismos que Deus usou na criação continua em debate entre evangélicos" e não a resolve | `genesis.md` §7.4 |
@@ -37,6 +37,41 @@
 ## Faturas detalhadas
 
 > **Por que estão aqui e não na tabela** (regra §15.4): fatura é **peça dependente** — pertence à posição. Mas a tabela já é larga demais para impressão, e estas satisfazem as duas condições da exceção: o pai está grande e a peça é grande. Ficam no mesmo arquivo, como **campo**, com chave grep-ável.
+
+### Fatura detalhada · #2 · Autoria
+
+**Procedência:** `A+IA:Claude` — a posição e o argumento decisivo são do autor, em conversa de 2026-09-08; o levantamento das passagens e a redação da fatura são minhas, sujeitas a ratificação.
+**Fonte:** **F1/F2** — os cinco textos de Gênesis e os dois de apoio foram lidos no hebraico e conferidos (Sefaria, leitura mediada).
+
+**O argumento do autor, e é ele que sustenta a posição:** *"como ele escreveria sobre os nomes que só entraram pós-entrada do povo?"* Um nome que **não existia** não pode ser escrito por quem morreu antes de ele existir. Não é concessão à crítica — é leitura do próprio texto.
+
+**As passagens que a posição tem de responder, conferidas:**
+
+| Texto | O que traz | Que vantagem implica |
+|---|---|---|
+| `Gn 12.6` · `13.7` | וְהַכְּנַעֲנִי **אָז** בָּאָרֶץ | "o cananeu **então** estava na terra" — quem escreve já sabe que ele não está mais |
+| `Gn 22.14` | אֲשֶׁר יֵאָמֵר **הַיּוֹם** | "como se diz **hoje**" — fórmula de distância |
+| `Gn 14.14` | וַיִּרְדֹּף עַד־**דָּן** | nome dado à cidade **após a conquista** |
+| `Gn 36.31` | לִפְנֵי **מְלָךְ־מֶלֶךְ** לִבְנֵי יִשְׂרָאֵל | **pressupõe a monarquia**, séculos depois |
+
+**E o caso de Dã é decisivo porque a Escritura o declara de si mesma:**
+
+> `Jz 18.29` — *"e chamaram o nome da cidade **Dã**… **porém Laís era o nome da cidade anteriormente**"* (וְאוּלָם לַיִשׁ שֵׁם־הָעִיר לָרִאשֹׁנָה)
+> `Js 19.47` — *"e chamaram a Lesém **Dã**, conforme o nome de Dã, seu pai"*
+
+**O argumento pela atualização editorial não vem da crítica — vem do texto falando sobre si mesmo.** Para um projeto reformado isso é o que muda o custo da posição: não se está importando um método externo, está-se lendo o que a Escritura afirma.
+
+**Distinção que a posição sustenta:** *atualização editorial* — nome trocado, nota de orientação — **não é** *autoria composta por fontes rivais*. A JEDP explica as mesmas passagens postulando documentos com teologias concorrentes; esta posição as explica postulando **um texto mosaico mantido legível** para leitores posteriores.
+
+**O que a posição paga:**
+
+1. **Perde-se "Moisés escreveu cada palavra" como argumento.** Onde o projeto quiser apelar à autoria mosaica, terá de dizer *da substância*, não *de cada vocábulo*. A inspiração passa a ser afirmada **do texto como recebido**, não de um único ato autoral.
+2. ⚠️ **A dívida real: onde está a linha.** Aceita a atualização de nomes, a pergunta *"até onde vai?"* fica aberta — e é exatamente a pergunta que a JEDP responde de outro jeito. **O projeto ainda não tem critério declarado** para distinguir uma atualização de nome de uma costura de fonte. Enquanto não tiver, a posição se defende caso a caso, e isso é mais frágil do que parece.
+3. **O "mistério" declarado cobre `Dt 34`, não os casos de Gênesis.** A formulação do autor — *"até sua morte e depois fica o mistério"* — resolve o relato da morte de Moisés. **As quatro passagens acima estão dentro de Gênesis** e são de outra natureza: não são continuação, são revisão. A posição as trata como tal.
+
+**O ganho, e não é pequeno:** a posição **deixa de ser derrubável por um versículo só**. Antes, `Gn 36.31` era objeção sem resposta registrada; agora é dado previsto pela própria posição.
+
+---
 
 ### Fatura detalhada · #6 · Historicidade de Adão
 
