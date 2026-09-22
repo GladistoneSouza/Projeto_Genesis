@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-22 – Gênesis 1 fecha: a terceira aula entra e as três ganham procedência
+
+[2026-09-22] – arquivos: `base/transcricoes/` (+7 de `gn-01-14-31`, +2 `.fonte.txt` reconstruídos, LEIA-ME reescrito)
+tipo: **material-fonte completado** — nenhuma saída tocada, nenhuma posição doutrinária envolvida
+procedência: `IA:Claude` — arquivamento e LEIA-ME meus; conteúdo é transcrição por máquina de pregação de terceiro
+confiança: 1.0 na integridade (md5 nos 21) · **0.9 na atribuição do pregador**, que o áudio não declara · **0.85 nas duas urls antigas**, reconstruídas do nome do arquivo e não registradas na origem · 1.0 na url da terceira, registrada na hora
+nota: **O capítulo 1 fica completo: Gn 1.1-31 sem lacuna**, 143 minutos em três aulas. A terceira (`gn-01-14-31`, Gn 1.14-31) foi transcrita hoje. **Ela já existia numa transcrição paralela** feita por outro assistente, que reconstruiu do zero um pipeline que já existia e saiu com menos: dois formatos em vez de sete, sem `.json` de confiança e com `beam_size 1` em vez de 5. **Foi refeita pela bancada** — e o descarte não foi gratuito: sem o `.json` não há como rodar o `qualidade.py`, que é o que permite listar trechos duvidosos **antes** de ler. **Uma ideia do pipeline paralelo foi incorporada, e é boa:** registrar a **url da fonte** no momento da transcrição. O `transcrever.sh` passou a aceitá-la como terceiro argumento e a gravar um `<ref>.fonte.txt` com url, data, modelo e parâmetros — sem isso, conferir contra o áudio depois vira caçada, e **a conferência é exatamente o que faz um trecho sair de `F2` para `F1`**. As duas aulas antigas ganharam `.fonte.txt` **reconstruído** a partir do nome do `.mp4`, marcado como reconstrução. **Qualidade conferida nas três:** 3413 segmentos, confiança média entre −0,085 e −0,101, e **zero segmentos de baixa confiança** — coerente com exposição pausada e microfone bom. As repetições sinalizadas em `gn-01-14-31` (*"Deus disse"*, *"E assim aconteceu"*) foram verificadas e são citações do próprio `Gn 1`, não alucinação. **A ressalva `F2` continua valendo assim mesmo**, e o LEIA-ME diz por quê: confiança alta não é imunidade — o modelo pode estar seguro de uma palavra errada, e numa transcrição de outro sermão no mesmo dia uma negação se perdeu, invertendo o sentido da frase. **Nota operacional:** o venv da bancada havia quebrado na mudança dos projetos para `vida_com_deus/` (shebangs com o caminho antigo); foi recriado, e o modelo de 2,9 GB já estava em cache.
+
+---
+
 ## 2026-09-22 – As transcrições brutas de Gênesis 1 entram no `base/`
 
 [2026-09-22] – arquivos: `base/transcricoes/` (novo, 12 arquivos + LEIA-ME) · `.gitignore`

@@ -1,0 +1,11 @@
+referencia: gn-01-01-02
+fonte: https://www.youtube.com/watch?v=BygsEk-R0JE
+arquivo de origem: YTDown.com_YouTube_01-No-Principio-Gn-1-1-2_Media_BygsEk-R0JE_001_720p.mp4
+transcrito em: 2026-09-03
+modelo: large-v3 (float16), pt, vad_filter, beam 5 / best_of 5
+
+Transcricao automatica. Vale no maximo F2 ate ser conferida contra o audio.
+
+NOTA: a url foi RECONSTRUIDA em 2026-09-22 a partir do nome do arquivo de
+video, nao registrada no momento da transcricao. Confira o video antes de
+tratar como fonte verificada.

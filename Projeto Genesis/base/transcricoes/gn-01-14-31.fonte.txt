@@ -1,0 +1,7 @@
+referencia: gn-01-14-31
+fonte: https://www.youtube.com/watch?v=rHFHz2LzsEg
+arquivo de origem: audio.mp3
+transcrito em: 2026-09-22
+modelo: large-v3 (float16), pt, vad_filter, beam 5 / best_of 5
+
+Transcricao automatica. Vale no maximo F2 ate ser conferida contra o audio.
