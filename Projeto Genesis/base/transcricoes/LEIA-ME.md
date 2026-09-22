@@ -11,13 +11,15 @@
 
 | Ref. | Título | Passagem | Duração | Transcrito | Fonte |
 |---|---|---|---|---|---|
-| `gn-01-01-02` | *No Princípio* | **Gn 1.1-2** | 41,8 min | 2026-09-03 | [`BygsEk-R0JE`](https://www.youtube.com/watch?v=BygsEk-R0JE) ⚠️ |
-| `gn-01-03-13` | *Haja Luz* | **Gn 1.3-13** | 53,4 min | 2026-09-03 | [`sXbWAxB0AXw`](https://www.youtube.com/watch?v=sXbWAxB0AXw) ⚠️ |
-| `gn-01-14-31` | — | **Gn 1.14-31** | 47,7 min | 2026-09-22 | [`rHFHz2LzsEg`](https://www.youtube.com/watch?v=rHFHz2LzsEg) |
+| # | Ref. | Título | Passagem | Duração | Vídeo | Estado da url |
+|---|---|---|---|---|---|---|
+| 1 | `gn-01-01-02` | *No Princípio* | **Gn 1.1-2** | 41,8 min | [`BygsEk-R0JE`](https://www.youtube.com/watch?v=BygsEk-R0JE&list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh) | ⚠️ **reconstruída** |
+| 2 | `gn-01-03-13` | *Haja Luz* | **Gn 1.3-13** | 53,4 min | [`sXbWAxB0AXw`](https://www.youtube.com/watch?v=sXbWAxB0AXw&list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh&index=2) | ✅ **confirmada pelo autor** |
+| 3 | `gn-01-14-31` | — | **Gn 1.14-31** | 47,7 min | [`rHFHz2LzsEg`](https://www.youtube.com/watch?v=rHFHz2LzsEg) | ✅ registrada na hora |
 
 **Gn 1.1 a 1.31, sem lacuna.** 143 minutos de exposição.
 
-⚠️ As duas primeiras urls foram **reconstruídas** em 2026-09-22 a partir do nome do arquivo de vídeo — não foram registradas no momento da transcrição. Confira o vídeo antes de tratar como fonte verificada. A terceira foi registrada na hora.
+⚠️ A url da **primeira** aula foi reconstruída do nome do arquivo e **ainda não foi confirmada**. A playlist e o pregador estão confirmados; o ID daquele vídeo, não.
 
 ## Qualidade das três
 
@@ -33,15 +35,15 @@ Nenhum segmento de baixa confiança nas três. Faz sentido: é exposição pausa
 
 As repetições que o `qualidade.py` sinalizou em `gn-01-14-31` (*"Deus disse"* 4×, *"E assim aconteceu"* 3×) foram conferidas e são **citações legítimas do próprio Gênesis 1**, não alucinação do modelo.
 
-## Quem prega — `0.9`, não confirmado no áudio
+## A série e o pregador — confirmados
 
-**O áudio não identifica o pregador.** A atribuição a **Augustus Nicodemus** se apoia em indícios convergentes, e é registrada como probabilidade, não como fato:
+**Playlist:** [**Série em Gênesis**](https://www.youtube.com/playlist?list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh) · canal **Augustus Nicodemus** · `PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh`
 
-1. `base/` já contém *"0102 — Gênesis 1–11 com Augustus Nicodemus — Série Expositiva com Notas Comentadas"*, cujo escopo bate com o destas aulas;
-2. as próprias transcrições dizem *"a nossa segunda mensagem na série… livro de Gênesis, capítulo 1 até o capítulo 11"* e *"dando continuação à nossa série de mensagens nesse livro"* — mesmo recorte, Gn 1–11;
-3. os nomes dos arquivos de vídeo trazem a numeração da série.
+O autor forneceu o link da playlist em 2026-09-22, identificando `sXbWAxB0AXw` como a **segunda aula** (`index=2`) — o que confirma a reconstrução feita a partir do nome do arquivo. A página da playlist dá o título da série e o canal. **`F2`:** a página foi consultada, não navegada por inteiro.
 
-**Confirmar antes de citar como dele.** As urls acima abrem os vídeos.
+Antes disso a atribuição era `0.9`, apoiada em três indícios convergentes: o documento `0102` já presente no `base/` com o mesmo recorte Gn 1–11; a própria fala nas aulas (*"a nossa segunda mensagem na série… capítulo 1 até o capítulo 11"*); e a numeração nos nomes dos vídeos. **Os indícios estavam certos.**
+
+> **A série cobre Gênesis 1–11, e só o capítulo 1 está transcrito.** As aulas seguintes da playlist são material-fonte ainda não levantado — ver *Em aberto*, no fim.
 
 ## Os sete formatos, e para que serve cada um
 
@@ -78,3 +80,11 @@ Whisper `large-v3` na GPU, `float16`, pt-BR, `vad_filter`, `beam 5 / best_of 5`.
 **Use a bancada, não monte outra.** Em 2026-09-22 dois pipelines paralelos foram montados do zero por não saberem que esta existia — os dois com menos formatos, sem `.json` de confiança e com `beam_size 1`, que é mais rápido e menos preciso. **A url da fonte veio de um deles** e foi incorporada aqui.
 
 Os `.mp4` (286 MB) e o ambiente do Whisper ficam **fora do repositório**, na bancada. São reprodutíveis; estas transcrições não eram, e é por isso que entraram aqui.
+
+---
+
+## Em aberto
+
+- [ ] **Levantar a playlist inteira.** A série vai de Gn 1 a Gn 11 e **só o capítulo 1 está aqui**. Falta saber quantas aulas existem e que passagens cobrem — `yt-dlp --flat-playlist` resolve, mas `yt-dlp` não está instalado nesta máquina
+- [ ] **Confirmar a url da aula 1** (`BygsEk-R0JE`), a única ainda reconstruída
+- [ ] Conferir contra o áudio qualquer trecho que for citado — nada aqui passou de `F2`
