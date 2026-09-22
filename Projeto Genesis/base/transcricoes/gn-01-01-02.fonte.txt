@@ -1,5 +1,5 @@
 referencia: gn-01-01-02
-fonte: https://www.youtube.com/watch?v=BygsEk-R0JE&list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh
+fonte: https://www.youtube.com/watch?v=BygsEk-R0JE&list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh&index=1
 playlist: "Serie em Genesis" - canal Augustus Nicodemus
 pregador: Augustus Nicodemus (confirmado pela playlist, 2026-09-22)
 arquivo de origem: YTDown.com_..._BygsEk-R0JE_001_720p.mp4
@@ -8,6 +8,6 @@ modelo: large-v3 (float16), pt, vad_filter, beam 5 / best_of 5
 
 Transcricao automatica. Vale no maximo F2 ate ser conferida contra o audio.
 
-NOTA: a url deste video foi RECONSTRUIDA do nome do arquivo, nao registrada
-na transcricao. A playlist e o pregador estao confirmados; o ID do video,
-nao. Confira antes de tratar como fonte verificada.
+NOTA: a url foi reconstruida do nome do arquivo e depois CONFIRMADA pelo
+autor em 2026-09-22 com o link da playlist. index=1. A transcricao continua
+F2 ate ser conferida contra o audio.

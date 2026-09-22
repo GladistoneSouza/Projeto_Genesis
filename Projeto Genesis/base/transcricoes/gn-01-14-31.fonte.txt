@@ -9,3 +9,8 @@ modelo: large-v3 (float16), pt, vad_filter, beam 5 / best_of 5
 Transcricao automatica. Vale no maximo F2 ate ser conferida contra o audio.
 
 NOTA: url registrada no momento da transcricao.
+
+AUDITORIA 2026-09-22: lacunas na transcricao automatica em 38:26-38:38 e
+38:56-39:08; ha tambem uma palavra sem sentido nesse trecho. O autor leu e
+confirmou a fala da primeira lacuna, incluida a reformulacao oral; ver LEIA-ME.md,
+"Auditoria cruzada". A segunda lacuna ainda requer conferencia.
