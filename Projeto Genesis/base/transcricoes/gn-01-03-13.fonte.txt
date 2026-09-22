@@ -1,11 +1,12 @@
 referencia: gn-01-03-13
-fonte: https://www.youtube.com/watch?v=sXbWAxB0AXw
-arquivo de origem: YTDown.com_YouTube_02-Haja-Luz-Gn-1-3-13_Media_sXbWAxB0AXw_001_720p.mp4
+fonte: https://www.youtube.com/watch?v=sXbWAxB0AXw&list=PLQ__KBt7xtI9AEeeMu8gGLGDXcl7Qt4mh
+playlist: "Serie em Genesis" - canal Augustus Nicodemus
+pregador: Augustus Nicodemus (confirmado pela playlist, 2026-09-22)
+arquivo de origem: YTDown.com_..._sXbWAxB0AXw_001_720p.mp4
 transcrito em: 2026-09-03
 modelo: large-v3 (float16), pt, vad_filter, beam 5 / best_of 5
 
 Transcricao automatica. Vale no maximo F2 ate ser conferida contra o audio.
 
-NOTA: a url foi RECONSTRUIDA em 2026-09-22 a partir do nome do arquivo de
-video, nao registrada no momento da transcricao. Confira o video antes de
-tratar como fonte verificada.
+NOTA: a url foi reconstruida do nome do arquivo e depois CONFIRMADA pelo
+autor em 2026-09-22 ("segunda aula"), com o link da playlist. index=2.
