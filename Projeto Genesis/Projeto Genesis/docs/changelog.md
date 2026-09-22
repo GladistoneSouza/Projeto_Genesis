@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-22 – As transcrições brutas de Gênesis 1 entram no `base/`
+
+[2026-09-22] – arquivos: `base/transcricoes/` (novo, 12 arquivos + LEIA-ME) · `.gitignore`
+tipo: **material-fonte arquivado** — nenhuma saída tocada, nenhuma posição doutrinária envolvida
+procedência: `IA:Claude` — o arquivamento e o LEIA-ME são meus; o conteúdo é transcrição por máquina de pregação de terceiro. **Nada aqui é estudo do autor**
+confiança: 1.0 na integridade da cópia (md5 conferido nos 12 arquivos) · **0.9 na atribuição do pregador**, que o áudio não declara · 0.0 declarada sobre a exatidão da transcrição, que é justamente o ponto do LEIA-ME
+nota: Duas exposições sobre **Gn 1.1-2** (*No Princípio*) e **Gn 1.3-13** (*Haja Luz*), transcritas em 2026-09-03 com Whisper `large-v3` e que estavam **fora de qualquer repositório** desde então — numa pasta de trabalho sem git, numa máquina que não é do autor. Eram os únicos arquivos do conjunto de projetos sem backup remoto. **O `base/` já continha a versão comentada** (`0102 — Gênesis 1–11 com Augustus Nicodemus`); o que faltava era **a bruta**, que é a que não se reconstrói. Os `.mp4` (286 MB) e o ambiente do Whisper ficam de fora e o `.gitignore` passa a barrá-los: são reprodutíveis, as transcrições não eram. **Três coisas ficam registradas no LEIA-ME, e a segunda é a que protege o projeto:** (1) a atribuição a Nicodemus se apoia em três indícios convergentes — o documento já existente no `base/` com o mesmo recorte Gn 1–11, a própria fala (*"essa é a nossa segunda mensagem na série… capítulo 1 até o capítulo 11"*) e a numeração nos nomes dos vídeos —, mas **o áudio não identifica o pregador**, e os IDs do YouTube ficaram preservados para quem quiser fechar isso; (2) **um trecho daqui vale no máximo `F2`**, e só vira `F1` depois de conferido contra o áudio — transcrição automática deforma nome próprio, trunca referência, desfigura palavra hebraica e, no pior caso, **perde uma negação**, fazendo o pregador dizer o oposto; (3) o `.json` traz **confiança por segmento**, o que permite listar os trechos duvidosos **antes** de ler, em vez de descobrir o erro depois de citar.
+
+---
+
 ## 2026-09-08 – A posição 2 sai do branco: autoria mosaica com atualização editorial pós-entrada
 
 [2026-09-08] – arquivos: docs/posicoes.md (célula da #2, nova Fatura detalhada #2, ponteiro corrigido, cabeçalho) · genesis.md §1.5 (bloco novo, propagação)

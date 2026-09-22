@@ -11,3 +11,14 @@
 .DS_Store
 Thumbs.db
 *~
+
+# Material pesado da bancada de transcrição — reprodutível, fica fora
+# (o que entra no repo são as transcrições, em "Projeto Genesis/base/transcricoes/")
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.wav
+.venv*/
+__pycache__/
