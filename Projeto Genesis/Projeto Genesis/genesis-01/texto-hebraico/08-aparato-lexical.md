@@ -655,7 +655,7 @@ Testemunha **moderna**, **em português**, **fora da família Gesenius** (§13.5
 | BDB, Klein e Jastrow palavra a palavra | ❌ consultados só para *bara*, *raqia*, *yom* e *rachaf* |
 | As 4 palavras sem UBS | ⚠️ têm BDB, Klein e Jastrow; **perdem a testemunha de domínio semântico** |
 | HALOT · DITAT | ❌ não consultados |
-| DCH | ✅ vol. III, entrada *tov* consultada `F1`; outras entradas pendentes |
+| DCH | ✅ vols. I–III disponíveis: *Elohim* e *adam* (I), *bohu* e *bara* (II), *tov* (III) consultados `F1`; demais entradas pendentes |
 | TWOT | ✅ entrada 793/793a, *tov*, consultada `F1` |
 
 ---

@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Primeira correção da auditoria de Gênesis 1
+
+[2026-09-24] – arquivos: `genesis-01/09-antigo-oriente.md`, `14-notas-e-bibliografia.md`, `texto-hebraico/08-aparato-lexical.md`
+tipo: **correção de atribuição, procedência e contradição interna**
+procedência: `IA:ChatGPT` — artigo original de Hoffmeier consultado diretamente, p. 45 (`F1`); Tsumura identificado na prévia do livro, argumento conferido por resumo da editora da edição revista (`F2`)
+confiança: **0.99** na autoria da observação atribuída antes a Hasel e no nome “David Toshio Tsumura”; **0.95** na correção da contradição sobre *ruach Elohim*; **0.75** na síntese indireta da tese de Tsumura
+nota: A frase sobre criação por comando na literatura egípcia é de Hoffmeier (1983), p. 45, não de Hasel (1994); a citação direta foi convertida em paráfrase com a fonte correta. O nome de Tsumura estava errado, e sua afirmação foi rotulada `F2` sem página do original. A tabela da Ogdóade segue comparativa, mas o texto deixa de chamar *ruach Elohim* de objeto inanimado. A posição do Espírito em `04-exegese-1-2` continua sem registro no `posicoes.md`; nenhuma nova posição foi tomada. Corrigido também o resumo obsoleto do DCH no aparato. A seção 09 passou a declarar quais comparações históricas ainda exigem conferência de fonte; isto não equivale a validar o documento inteiro.
+
+---
+
 ## 2026-09-24 – DCH volume I confirmado e aplicado a Gênesis 1
 
 [2026-09-24] – arquivos: `docs/lexicos/00-indice.md`, `genesis-01/texto-hebraico/08-aparato-lexical.md`, `genesis-01/texto-hebraico/lexico/01-abertura.md`

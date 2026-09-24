@@ -6,6 +6,8 @@
 
 ## 7. Gênesis 1 diante do Antigo Oriente Próximo
 
+> **Estado da revisão de fontes (2026-09-24):** a comparação egípcia de Hoffmeier em §7.3 foi conferida no artigo original (`F1`, p. 45); a tese de Tsumura em §7.2 foi conferida indiretamente (`F2`). As demais comparações históricas deste documento — inclusive a citação de Ptah, o quadro da Ogdóade, Gudeia e as conexões de Weinfeld — ainda exigem conferência de suas fontes nesta auditoria. Até lá, elas orientam investigação; não demonstram dependência literária direta de Gênesis. `IA:ChatGPT`; estado da conferência, não mudança de posição.
+
 ### 7.1. Contrastes com as cosmogonias pagãs
 
 Moisés era versado em toda a sabedoria e ciência do Egito (At 7.22). Ele conhecia as cosmogonias (origem do cosmos) e teogonias (origem dos deuses) dos povos vizinhos. Gênesis contrasta radicalmente com essas narrativas:
@@ -26,7 +28,7 @@ A palavra hebraica *tehom* ("abismo/profundeza") em Gênesis 1.2 é cognata do n
 - No Enuma Elish, Tiamat é uma deusa viva que deve ser combatida e vencida em batalha cósmica por Marduque. Marduque mata Tiamat e divide seu corpo em duas partes: uma metade forma o céu e a outra forma a terra.
 - Em Gênesis 1.2, *tehom* **não é divina nem viva** — é simplesmente água física, matéria inerte criada por Deus. A separação das águas (vv. 6–8) acontece pacificamente, pela autoridade soberana de Sua palavra. Não há combate, não há adversário divino.
 
-O assiriólogo David Tsumura[^tsumura-1989] argumenta que *tehom* e *Tiamat* derivam de uma raiz semítica comum (*thm*), sem relação de dependência direta.
+David Toshio Tsumura[^tsumura-1989] rejeita a derivação direta de *tehom* do nome da deusa Tiamat e relaciona o termo hebraico a uma raiz proto-semítica. **Fonte `F2`:** a obra de 1989 foi identificada pela prévia editorial, mas este argumento foi conferido no resumo da editora da edição revista, não nas páginas correspondentes do livro original.
 
 Quanto à criação da humanidade: no Enuma Elish, Marduque mata o deus Quingu e usa seu sangue para criar a humanidade como **escrava dos deuses**. Em Gênesis, os humanos são criados como **imagem de Deus** — não escravos, mas vice-regentes com dignidade e missão.
 
@@ -42,7 +44,7 @@ Na cosmogonia de Heliópolis, Atum surge das águas primordiais do *Nu* (caos aq
 
 A Teologia Menfita apresenta o deus Ptah criando o mundo pelo poder de sua palavra: "Toda ordem divina veio a existir através do que o coração de Ptah pensou e a língua ordenou." Este é o paralelo **mais próximo** com Gênesis 1, onde Deus cria repetidamente por fala: "E Deus disse… e houve." No entanto, em Gênesis, Deus não é um deus entre muitos em um panteão. Além disso, Ptah cria *outros deuses* por meio de sua fala; em Gênesis, a palavra de Deus cria matéria, vida e função, nunca outros seres divinos.
 
-Como observou Gerhard Hasel[^hasel-1994]: "enquanto a doutrina da criação por comando divino é difundida na literatura egípcia, ela não é encontrada nas cosmogonias babilônicas." Isso sugere que a criação pela palavra em Gênesis pode ter conexão mais forte com o contexto egípcio.
+James K. Hoffmeier[^hoffmeier-1983] observa que a criação em resposta a uma ordem divina aparece amplamente na literatura egípcia e não aparece da mesma forma nas cosmogonias babilônicas. **Fonte `F1`:** artigo original, p. 45. Isso torna o Egito um contexto comparativo relevante; concluir uma dependência literária direta de Gênesis é um passo adicional que esta comparação não demonstra.
 
 #### Hermópolis — A Ogdóade e o caos primordial
 
@@ -55,7 +57,7 @@ A Ogdóade de Hermópolis consiste em oito divindades primordiais (quatro casais
 | **Heh e Hauhet** — infinitude/falta de limites | *Tohu* — sem forma |
 | **Amun e Amaunet** — o oculto/invisível | *Ruach Elohim* — Espírito de Deus pairando |
 
-O contraste decisivo: em Hermópolis, esses elementos primordiais são **deuses**. Em Gênesis 1.2, são **objetos inanimados** que se movem unicamente segundo a direção da palavra de Deus.
+O contraste: na Ogdóade, os elementos do quadro são personificados como **divindades**; em Gênesis 1.2, trevas, águas e estado da terra não são divindades. A quarta linha é apenas uma aproximação de imagens antigas: *ruach Elohim* não pode ser classificado como “objeto inanimado”. O comentário lê a expressão como Espírito de Deus em [[04-exegese-1-2]] §4.4, mas essa posição ainda pede registro em [[../docs/posicoes|posicoes.md]]; a tabela comparativa não a decide.
 
 #### Desmitologização dos luminares
 
@@ -97,9 +99,9 @@ A maioria dos estudiosos contemporâneos reconhece que *raqia* no texto reflete 
 
 ## Notas
 
-[^hasel-1994]: HASEL, Gerhard F. "The 'Days' of Creation in Genesis 1: Literal 'Days' or Figurative 'Periods/Epochs' of Time?" *Origins* 21.1, 1994, p. 5–38.
+[^hoffmeier-1983]: HOFFMEIER, James K. “Some Thoughts on Genesis 1 & 2 and Egyptian Cosmology”. *Journal of the Ancient Near Eastern Society* 15, 1983, p. 39–49, esp. p. 45. [Texto original](https://janes.scholasticahq.com/api/v1/articles/2312-some-thoughts-on-genesis-1-2-and-egyptian-cosmology.pdf).
 
-[^tsumura-1989]: TSUMURA, David Tsiamparlis. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Supplement Series 83. Sheffield: JSOT Press, 1989.
+[^tsumura-1989]: TSUMURA, David Toshio. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Supplement Series 83. Sheffield: JSOT Press, 1989. **F2 nesta afirmação:** livro identificado na [prévia](https://api.pageplace.de/preview/DT0400.9780567402776_A27168265/preview-9780567402776_A27168265.pdf); argumento conferido indiretamente no [resumo da editora da edição revista](https://www.eisenbrauns.org/books/titles/978-1-57506-106-1.html), sem página do livro original.
 
 [^walton-2009]: WALTON, John H. *The Lost World of Genesis One: Ancient Cosmology and the Origins Debate*. Downers Grove: IVP Academic, 2009.
 

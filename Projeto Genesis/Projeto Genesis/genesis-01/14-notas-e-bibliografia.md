@@ -18,8 +18,9 @@
 
 ### Antigo Oriente Próximo
 
-- TSUMURA, David Tsiamparlis. *The Earth and the Waters in Genesis 1 and 2*. JSOT Press, 1989/2005.
+- TSUMURA, David Toshio. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Press, 1989. Edição revista e ampliada: *Creation and Destruction*, Eisenbrauns, 2005.
 - HEIDEL, Alexander. *The Babylonian Genesis*. University of Chicago Press, 1951.
+- HOFFMEIER, James K. “Some Thoughts on Genesis 1 & 2 and Egyptian Cosmology”. *Journal of the Ancient Near Eastern Society* 15, 1983, p. 39–49.
 - CURRID, John. *Against the Gods: The Polemical Theology of the Old Testament*. Crossway, 2013.
 - MIDDLETON, J. Richard. *The Liberating Image: The Imago Dei in Genesis 1*. Brazos, 2005.
 - ALLEN, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale, 1988.
@@ -68,7 +69,9 @@
 
 [^hoekema-1986]: HOEKEMA, Anthony A. *Created in God's Image*. Grand Rapids: Eerdmans, 1986.
 
-[^tsumura-1989]: TSUMURA, David Tsiamparlis. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Supplement Series 83. Sheffield: JSOT Press, 1989.
+[^tsumura-1989]: TSUMURA, David Toshio. *The Earth and the Waters in Genesis 1 and 2: A Linguistic Investigation*. JSOT Supplement Series 83. Sheffield: JSOT Press, 1989. Argumento consultado indiretamente em resumo editorial da edição revista, sem página do original.
+
+[^hoffmeier-1983]: HOFFMEIER, James K. “Some Thoughts on Genesis 1 & 2 and Egyptian Cosmology”. *Journal of the Ancient Near Eastern Society* 15, 1983, p. 39–49, esp. p. 45.
 
 [^weinfeld-1981]: WEINFELD, Moshe. "Sabbath, Temple, and the Enthronement of the Lord: The Problem of the Sitz im Leben of Genesis 1.1–2.3". In: *Mélanges bibliques et orientaux en l'honneur de M. Henri Cazelles*. Neukirchen-Vluyn: Neukirchener, 1981, p. 501–512.
 
