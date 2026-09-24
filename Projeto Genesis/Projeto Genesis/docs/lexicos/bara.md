@@ -71,7 +71,7 @@
 
 ## O que os instrumentos dizem `C4` · **F2** e **F1** — consultados em 2026-09-04 e 2026-09-24
 
-> **Procedência por instrumento:** Klein e Strong permanecem `F2` nas consultas mediadas descritas abaixo; BDB é `F1` para a entrada *bara*, p. 135 conferida na imagem do PDF local; UBS/SDBH é `F1` pelo dataset local versionado; HALOT é `F1` apenas para as entradas I e III de ברא, nas páginas impressas 153–154 conferidas na imagem do PDF local. Um nível de fonte não se transfere para outro instrumento.
+> **Procedência por instrumento:** Klein permanece `F2` na consulta mediada; Strong H1254 é `F1` para a glosa conferida no PDF local, enquanto as contagens do BLB seguem `F2`; BDB é `F1` para a entrada *bara*, p. 135 conferida na imagem do PDF local; UBS/SDBH é `F1` pelo dataset local versionado; HALOT é `F1` apenas para as entradas I e III de ברא, nas páginas impressas 153–154 conferidas na imagem do PDF local. Um nível de fonte não se transfere para outro instrumento.
 
 ### BDB (1906) — `F1`, p. 135 (PDF 157)
 
@@ -92,7 +92,7 @@ Cabeça de verbete: **בָּרָא I**, *"vb. shape, create"*. Etimologia compar
 
 **Klein** — `F2` — "criar"; qal "ele criou, moldou"; nifal "foi criado". Nota etimológica: o árabe *bara'a* é **empréstimo do aramaico**, o que enfraquece o argumento comparativo que o BDB usa.
 
-**Strong's** (índice, não léxico) — 54 ocorrências no KJV, contando o homógrafo II: *create* 42 · *creator* 3 · *choose* 2 · *make* 2 · *cut down* 2 · *dispatch* 1 · *done* 1 · *make fat* 1.
+**Strong H1254** (índice e glosa breve, `F1`) — *Strong’s Hebrew Dictionary*, AGES Digital Library v1.0 (1999), PDF local (`sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`), p. 114. Agrupa “criar”, “cortar”, “escolher” e “engordar” sob o mesmo número; não distingue os homógrafos e binyanim como BDB, HALOT e DCH. **Contagens do BLB, `F2`, ausentes do PDF:** 54 ocorrências na KJV, incluindo o homógrafo II: *create* 42 · *creator* 3 · *choose* 2 · *make* 2 · *cut down* 2 · *dispatch* 1 · *done* 1 · *make fat* 1.
 
 ### O que a conferência mudou
 

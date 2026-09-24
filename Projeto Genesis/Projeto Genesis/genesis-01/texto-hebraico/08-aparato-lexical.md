@@ -218,6 +218,8 @@ O [[04-lexico-do-capitulo|léxico do capítulo]] tinha 42 linhas **sem fonte ver
 
 **Conferência adicional `C4 · F1` — DCH III, pp. 350–351; TWOT 793/793a, p. 345.** O DCH relaciona a fórmula de Gn 1.4 e 1.31 à entrada de טוֹב e, na entrada do adjetivo, distingue usos de qualidade, agrado e virtude. O TWOT também organiza o campo em usos práticos, estéticos, de qualidade e morais. Assim, "adequado ao propósito" pode expressar a leitura do comentário para Gn 1, mas não é glosa que exclua beleza ou moralidade do léxico inteiro. Essas listas de possibilidades **não escolhem a acepção de cada versículo**; a marca "1ª acepção, a revisar" continua. `IA:ChatGPT`; síntese sujeita à ratificação do autor.
 
+**Conferência complementar de Strong H2896, `C4 · F1`:** *Strong’s Hebrew Dictionary*, AGES Digital Library v1.0 (1999), PDF local (`sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`), p. 259. O verbete reúne valores como “bom”, “agradável”, “belo” e “prosperidade”; sua lista ampla não escolhe a acepção ativa em Gn 1. Essa edição não fornece as contagens do corpus usadas em outras notas. `IA:ChatGPT`; sujeito à ratificação do autor.
+
 **Fontes locais conferidas na página:** *The Dictionary of Classical Hebrew*, vol. III (1996), PDF fornecido pelo autor, páginas impressas 350–351 (PDF 351–352), `sha256 2e61f0f38f0a5d1b7a2d65b45da47970f50b2db3341600d8706fca8b651c5e5e`; *Theological Wordbook of the Old Testament*, PDF fornecido pelo autor, p. 345 (PDF 365), `sha256 b427d8404d1263cc3d86fbc956cbd7fcbd95f8e1db5331b7b7e07bbaaa0b52b2`. Os PDFs ficam fora do vault; esta síntese é o conteúdo local utilizado.
 
 

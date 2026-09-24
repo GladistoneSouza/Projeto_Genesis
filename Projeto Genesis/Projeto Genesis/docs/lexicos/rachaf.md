@@ -89,13 +89,13 @@ Jastrow dá o qal como *"mover, vibrar"* e, no piel, cita o Talmude: **Ḥagigah
 
 Leitura judaica antiga, camada **C5**. Vale registrar que ela chega à mesma **imagem de ave sobre ninhada** por conta própria — sem passar por `Dt 32.11`, e séculos antes de qualquer comentarista cristão fazer a conexão. **Não é confirmação independente do sentido lexical**; é testemunho de como a imagem foi lida.
 
-### BDB (1906) e TWOT 2148/2149 (`F1`); Strong H7363 (`F2`)
+### BDB (1906), Strong H7363 e TWOT 2148/2149 (`F1`)
 
-> **BDB, p. 934, `F1`:** entrada *rachaf* conferida na imagem do PDF local (PDF 962; `sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`). [Strong hebraico H7363](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt) segue **F2**, por leitura mediada. **TWOT 2148/2149, p. 843, `F1`:** página do PDF local conferida na imagem (PDF 867; `sha256 b427d8404d1263cc3d86fbc956cbd7fcbd95f8e1db5331b7b7e07bbaaa0b52b2`). `IA:ChatGPT`; síntese sujeita a ratificação.
+> **BDB, p. 934, `F1`:** entrada *rachaf* conferida na imagem do PDF local (PDF 962; `sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`). **Strong H7363, `F1`:** verbete conferido em *Strong’s Hebrew Dictionary*, AGES Digital Library v1.0 (1999), PDF local fornecido pelo autor; `sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`. PDF p. 668. **TWOT 2148/2149, p. 843, `F1`:** página do PDF local conferida na imagem (PDF 867; `sha256 b427d8404d1263cc3d86fbc956cbd7fcbd95f8e1db5331b7b7e07bbaaa0b52b2`). `IA:ChatGPT`; síntese sujeita a ratificação.
 
 O **BDB separa duas entradas**: no **qal** de `Jr 23.9`, o sentido é ficar abalado, aplicado aos ossos do profeta; no **piel** de `Gn 1.2` e `Dt 32.11`, descreve pairar. Para Gênesis, também menciona *chocar/incubar* como **possibilidade interpretativa**, não como única glosa. O corpus de `Dt 32.11` fala de filhotes, e a ressalva contra transformar a possibilidade em ovos continua valendo.
 
-**Strong H7363 comprime** os dois movimentos numa definição curta e lista formas como pairar, mover e tremer sem separá-las por binyan. Isso mostra por que o número identifica a entrada, mas não escolhe o sentido em `Gn 1.2`. Não conta como confirmação independente do BDB (§13.5.2).
+**Strong H7363 comprime** os dois movimentos numa definição curta: traz “brood” na definição e “flutter, move, shake” entre as glosas, sem separá-los por binyan. Isso mostra por que o número identifica a entrada, mas não escolhe o sentido em `Gn 1.2`. Não conta como confirmação independente do BDB (§13.5.2).
 
 O **TWOT, dicionário teológico**, distingue a entrada 2148 (*qal*, `Jr 23.9`) da 2149 (*piel*, `Gn 1.2`; `Dt 32.11`), sem acrescentar argumento lexical decisivo. É confirmação da **organização dos usos**, rotulada como instrumento teológico (§13.5), não uma nova prova para a leitura do *ruach*.
 
@@ -141,7 +141,7 @@ A briga é sobre o **substantivo**: *ruach Elohim* é o Espírito de Deus, ou "u
 
 `IA:Claude` — levantado em 2026-09-08, a pedido do autor, para fechar `Gn 1.1-2`. **Sujeito à ratificação.**
 
-**Estado dos blocos:** forma ✅ conferida por codepoint · corpus ✅ **exaustivo** — 39 livros varridos, 3 ocorrências, falsos positivos conferidos um a um · instrumentos **F2** — Klein, Jastrow e Strong; **F1** — BDB p. 934 e TWOT 2148/2149, p. 843; SDBH ❌ · traduções ✅ conferidas.
+**Estado dos blocos:** forma ✅ conferida por codepoint · corpus ✅ **exaustivo** — 39 livros varridos, 3 ocorrências, falsos positivos conferidos um a um · instrumentos **F2** — Klein e Jastrow; **F1** — BDB p. 934, Strong H7363 (PDF p. 668) e TWOT 2148/2149, p. 843; SDBH ❌ · traduções ✅ conferidas.
 
 ---
 

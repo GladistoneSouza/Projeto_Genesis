@@ -65,9 +65,9 @@ Duas testemunhas antigas, independentes entre si, e ambas entenderam algo **sól
 
 ---
 
-## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
+## O que os instrumentos dizem `C4` · **F2** e **F1** — consultados em 2026-09-04 e 2026-09-24
 
-> **Nível de fonte: F2, não F1.** Obtido pela API do Sefaria e pelo Blue Letter Bible, em leitura mediada; o volume não esteve em mãos. **Rodapé sem página, declarando** (§7.2). Confira em [sefaria.org/api/words/רקיע](https://www.sefaria.org/api/words/רקיע) ou [BLB H7549](https://www.blueletterbible.org/lexicon/h7549/kjv/wlc/0-1/).
+> **Procedência:** BDB, Klein e contagens do BLB `F2`, por leitura mediada; Strong H7549 `F1` para a glosa no PDF local. A conferência de Strong não promove os outros instrumentos. Confira em [sefaria.org/api/words/רקיע](https://www.sefaria.org/api/words/רקיע) ou [BLB H7549](https://www.blueletterbible.org/lexicon/h7549/kjv/wlc/0-1/).
 
 ### BDB (1906) — `F2` · **e aqui o verbete tem opinião**
 
@@ -78,7 +78,7 @@ Cabeça de verbete: *"extended surface **(solid)** expanse"*, remetendo a `Gn 1.
 | **1** | expanse plano, como **base e suporte** | `Ez 1.22,23,25,26` (sustentando o trono) · `Ez 10.1` |
 | **2** | abóbada dos céus — *"**tida pelos hebreus como sólida**, e sustentando as 'águas' acima dela"* | `Gn 1.6-8`; `1.14-15`; `1.17`; `1.20` · `Sl 19.2` · `Dn 12.3` |
 
-**Strong's** — 17 ocorrências em 15 versículos (WLC), **todas** vertidas por "firmament" no KJV. *(Confere com a contagem do bloco do corpus acima.)*
+**Strong H7549, `F1` para a glosa:** *Strong’s Hebrew Dictionary*, AGES Digital Library v1.0 (1999), PDF local (`sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`), p. 684. Dá “expanse” e “visible arch of the sky”, com remissão a H7554; a forma “apparently” qualifica essa imagem no próprio verbete. **Contagens de WLC/KJV, `F2`, ausentes do PDF:** 17 ocorrências em 15 versículos, todas vertidas por “firmament” no KJV. *(Confere com a contagem do bloco do corpus acima.)*
 
 **Klein** — `F2` — "superfície estendida, expansão; firmamento, céu", **de רקע I**, literalmente *"algo batido/estendido a martelo"*.
 
@@ -121,7 +121,7 @@ A causa do erro está registrada em [[00-indice]]: eu concluí *"não existe"* a
 | | |
 |---|---|
 | **Gesenius-Tregelles** | ⛔ não é testemunha independente — mesma família do BDB (§13.5.2) |
-| **HALOT** · **DCH** · **DITAT** | ❌ pagos. **A urgência caiu:** o SDBH já forneceu a testemunha independente e moderna que faltava. HALOT ainda acrescentaria o aparato comparativo pós-Ugarite, mas deixou de ser a única saída |
+| **HALOT** · **DCH** · **DITAT** | HALOT em PDF local, entrada ainda não consultada; DCH sem o volume deste lema na coleção local verificada; DITAT não consultado. O SDBH já forneceu testemunha independente e moderna; HALOT ainda acrescentaria aparato comparativo |
 
 ---
 

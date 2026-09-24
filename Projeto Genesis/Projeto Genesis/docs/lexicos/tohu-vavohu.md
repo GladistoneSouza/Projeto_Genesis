@@ -159,7 +159,7 @@ Criar é medir para que se possa morar. Julgar é medir para que não se possa m
 
 ## O que os instrumentos dizem `C4`
 
-> **BDB `F1`, Strong `F2`.** As entradas *bohu* (p. 96; PDF 116) e *tohu* (p. 1062; PDF 1090) foram conferidas na imagem do PDF local *A Hebrew and English Lexicon of the Old Testament* (`sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`). O [Strong hebraico H8414/H922](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt) permanece em consulta mediada. O PDF de BDB fica fora do vault; a síntese abaixo guarda o conteúdo relevante. `IA:ChatGPT`; sujeita a ratificação.
+> **BDB e Strong `F1` nos verbetes conferidos.** As entradas *bohu* (p. 96; PDF 116) e *tohu* (p. 1062; PDF 1090) foram conferidas na imagem do PDF local *A Hebrew and English Lexicon of the Old Testament* (`sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`). Strong H922 (*bohu*, PDF p. 83) e H8414 (*tohu*, PDF p. 763) foram conferidos diretamente na edição AGES de 1999 (`sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`). Os PDFs ficam fora do vault; a síntese abaixo guarda o conteúdo relevante. `IA:ChatGPT`; sujeita a ratificação.
 
 ### BDB (1906) — `F1`, entradas separadas, pp. 96 e 1062
 
@@ -174,7 +174,7 @@ Na p. **97** (PDF 98), o DCH define *bohu* como vazio e registra os três usos n
 
 **Fonte:** *The Dictionary of Classical Hebrew*, vol. II (1995), p. 97 (PDF 98), página conferida na imagem do arquivo local `DCH_The_Dictionary_of_Classical_Hebrew_David-the-Dictionary-of-Classical-Hebrew-Volume-2-1.pdf`, `sha256 9837297374babef4033ecd25c541b625671640c47581a749da228d4db9e0f554`. PDF não versionado no vault; esta síntese conserva o dado relevante. `IA:ChatGPT`; sujeita à ratificação do autor.
 
-**Strong H8414/H922 — localizador, não segunda testemunha.** H8414 reúne desolação física e vacuidade figurada; H922 dá vazio/ruína indistinta. As glosas são breves e pertencem à família lexical do BDB (§13.5.2). O resultado útil aqui é encontrar as entradas; a distinção entre estado inicial e juízo continua sendo feita pelas ocorrências.
+**Strong H8414/H922 — localizador, não segunda testemunha (`F1`).** H8414 reúne desolação física e vacuidade figurada; H922 dá vazio/ruína indistinta. O PDF não fornece a contagem das ocorrências, que continua apoiada na varredura do corpus acima. As glosas são breves e pertencem à família lexical do BDB (§13.5.2). O resultado útil aqui é encontrar as entradas; a distinção entre estado inicial e juízo continua sendo feita pelas ocorrências.
 
 | Fonte | Estado |
 |---|---|
@@ -209,7 +209,7 @@ A briga é sobre **o estado**: se `Gn 1.2` descreve o começo de um processo ou 
 
 `IA:Claude` — levantado na conversa de 2026-09-08 com o autor, a partir da leitura de `Gn 1.1-2`. **Sujeito à ratificação.**
 
-**Estado dos blocos:** forma ✅ conferida caractere a caractere · corpus ✅ **exaustivo** desde 2026-09-08 — 39 livros varridos, 23 ocorrências brutas, 3 falsos positivos descartados um a um · instrumentos ❌ **nenhum consultado** — a lacuna continua, e nada deste verbete vira rodapé de léxico · traduções ✅ conferidas no `02-traducoes-br`.
+**Estado dos blocos:** forma ✅ conferida caractere a caractere · corpus ✅ **exaustivo** desde 2026-09-08 — 39 livros varridos, 23 ocorrências brutas, 3 falsos positivos descartados um a um · instrumentos **F1** — BDB, DCH *bohu* e Strong H922/H8414 nas páginas declaradas; demais lacunas acima · traduções ✅ conferidas no `02-traducoes-br`.
 
 **Histórico:** redigido em 2026-09-08 com o corpus declarado **parcial**; fechado no mesmo dia pela varredura completa, ao investigar o *merachefet*. A busca por uma palavra devolveu a outra — ver [[rachaf]].
 

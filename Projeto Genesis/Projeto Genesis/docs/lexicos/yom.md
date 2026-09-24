@@ -37,9 +37,9 @@ Onde as ocorrências caem em Gênesis 1, o cardinal de `1.5`, os dois sentidos d
 
 ---
 
-## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
+## O que os instrumentos dizem `C4` · **F2** e **F1** — consultados em 2026-09-04 e 2026-09-24
 
-> **Nível de fonte: F2, não F1.** Sefaria e Blue Letter Bible, leitura mediada. Confira em [sefaria.org/api/words/יום](https://www.sefaria.org/api/words/יום) ou [BLB H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/).
+> **Procedência:** BDB, Klein e contagens do BLB `F2`, por leitura mediada; Strong H3117 `F1` para a glosa no PDF local. Confira em [sefaria.org/api/words/יום](https://www.sefaria.org/api/words/יום) ou [BLB H3117](https://www.blueletterbible.org/lexicon/h3117/kjv/wlc/0-1/).
 
 ### BDB (1906) — `F2`
 
@@ -54,7 +54,7 @@ Sete sentidos principais. Os que importam à discussão:
 | **3** | **dia de Yahweh** — tempo de sua vinda em juízo |
 | **4-6** | *dias* = tempo de vida, idade · tempo indefinido ("alguns dias", "muitos dias") · **período, época** |
 
-**Strong's** — 2.287 ocorrências no KJV (2.304 no WLC, em 1.930 versículos): *day* 2.008 · *time* 64 · *daily* 44 · *ever* 18 · *year* 14 · *continually* 10 · outros 44.
+**Strong H3117, `F1` para a glosa:** *Strong’s Hebrew Dictionary*, AGES Digital Library v1.0 (1999), PDF local (`sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`), p. 280. Registra “dia” como período de luz, dia de entardecer a entardecer e tempo figurado; a lista de equivalentes inclui *day*, *time*, *season* e *year*. Essa amplitude não decide a duração dos dias de Gn 1. **Contagens de BLB/WLC, `F2`, ausentes do PDF:** 2.287 ocorrências na KJV (2.304 no WLC, em 1.930 versículos): *day* 2.008 · *time* 64 · *daily* 44 · *ever* 18 · *year* 14 · *continually* 10 · outros 44.
 
 **Klein** — `F2` — "dia"; também "tempo" e "ano".
 
@@ -88,9 +88,9 @@ Vinte e três sentidos, quase todos no domínio *Tempo*. Os três que importam:
 
 ### Ainda faltam
 
-**Gesenius-Tregelles** ⛔ não é testemunha independente, é a mesma família do BDB (§13.5.2) · **HALOT**, **DCH**, **DITAT** ❌ pagos.
+**Gesenius-Tregelles** ⛔ não é testemunha independente, é a mesma família do BDB (§13.5.2) · **HALOT** em PDF local, entrada ainda não consultada · **DCH** sem o volume deste lema na coleção local verificada · **DITAT** não consultado.
 
-**E neste verbete a falta não é urgente** — palavra de 2.300 ocorrências, sentido consensual, e **duas tradições lexicais independentes já disseram a mesma coisa**: a palavra faz as duas coisas, e quem decide é o contexto. Comprar um terceiro léxico não vai mudar isso.
+**E neste verbete a falta não é urgente** — palavra de 2.300 ocorrências, sentido consensual, e **duas tradições lexicais independentes já disseram a mesma coisa**: a palavra faz as duas coisas, e quem decide é o contexto. A consulta a outro léxico pode ampliar o aparato, mas não substitui a decisão pelo contexto.
 
 ---
 

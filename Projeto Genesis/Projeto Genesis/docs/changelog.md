@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Strong local conferido para Gênesis 1
+
+[2026-09-24] – arquivos: `docs/lexicos/00-indice.md`, `bara.md`, `tohu-vavohu.md`, `rachaf.md`, `yom.md`, `raqia.md`, `genesis-01/texto-hebraico/08-aparato-lexical.md`
+tipo: **conferência lexical e procedência** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — verbetes H922, H1254, H2896, H3117, H7363, H7549 e H8414 conferidos no PDF local AGES Digital Library v1.0 (1999), pp. 83, 114, 259, 280, 668, 684 e 763
+confiança: **0.98** nos números, páginas e glosas do arquivo; **0.90** nas sínteses contextuais
+nota: `sha256 f143c669e516db05124f11525fe1ff715a9342919d92629a2628d154ab0d576a`. As glosas desses verbetes passam a `F1`, sem promover as contagens BLB/WLC (`F2`), que o PDF não fornece. Strong continua sendo localizador e glosa breve, não testemunha lexical independente nem árbitro do sentido em Gn 1. Corrigido também o estado desatualizado de *tohu va-vohu*, que ainda dizia que nenhum instrumento fora consultado. O PDF fica fora do vault; as sínteses relevantes estão nas notas. O arquivo `The_Dictionary_of_Classical_Hebrew_Revis.pdf` foi identificado como *Additions and Corrections* (2020), não vol. I; a coleção DCH local verificada contém vols. II e III.
+
+---
+
 ## 2026-09-24 – DCH II conferido em *bohu* e *bara*
 
 [2026-09-24] – arquivos: `docs/lexicos/tohu-vavohu.md`, `docs/lexicos/bara.md`, `docs/lexicos/00-indice.md`
