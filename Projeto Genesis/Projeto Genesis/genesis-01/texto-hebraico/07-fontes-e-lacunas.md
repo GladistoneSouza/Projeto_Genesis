@@ -82,7 +82,7 @@ As duas análises hoje reunidas em [[06-analise-gramatical|Análise gramatical]]
 
 | O que falta | Estado |
 |---|---|
-| Transliteração dos vv. 6–31 | ❌ Feita apenas para 1–5 — ver [[03-transliteracao]] |
+| Transliteração dos vv. 6–31 | ✅ Completada em [[03-transliteracao]]; simplificada, sujeita à conferência editorial do autor |
 | Análise sintática por versículo | ⚠️ **Parcial.** O v. 2 recebeu análise de cláusula circunstancial em [[lexico/01-abertura]]; os demais 30 versículos, não |
 | Aparato de variantes — **fora do TM** | ❌ Segue sem registro de Pentateuco Samaritano, LXX e Qumran |
 | Aparato de variantes — **dentro do TM** | ✅ **Fechado para este capítulo em 2026-09-08**: colação Alepo × Leningrado, consonantal idêntico, duas variantes reais registradas acima |

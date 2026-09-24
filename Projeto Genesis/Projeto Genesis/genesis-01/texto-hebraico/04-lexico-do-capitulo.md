@@ -8,6 +8,10 @@ Os termos aparecem na ordem em que surgem no texto. Esta tabela responde à perg
 
 > **Palavras com 🔗 têm verbete comparado** em [[../../docs/lexicos/00-indice|docs/lexicos]] — com o levantamento de ocorrências, as versões antigas e o estado de cada instrumento. A linha aqui é o resumo; a nota é o aparato.
 
+## Consulta rápida — palavras em ordem
+
+Abra esta seção para percorrer a tabela; as notas de estudo ficam na seção seguinte.
+
 | Hebraico | Transliteração | Raiz | Sentido e uso **aqui** |
 |---|---|---|---|
 | בְּרֵאשִׁית | **bereshit** | ר-א-שׁ (*rosh*, cabeça) | "No princípio". Literalmente "na cabeça de". A palavra é modesta: *re'shit* é o termo comum para as **primícias** da colheita (Lv 23.10) e para o começo de um reino (Gn 10.10), e a **forma idêntica** *bere'shit* aparece em Jr 26.1 significando só "quando começou o reinado de Jeoiaquim". O peso de "houve um primeiro ato" não vem do vocábulo, vem de **1.1 ser frase independente**. **O comentário adota a leitura clássica: 1.1 é frase independente, e afirma um início real — não relativo — do mundo criado: o tempo, o espaço e a matéria deste mundo começam aqui, e nada disso é eterno nem autoexistente.** "Absoluto", no sentido estrito, cabe só a Deus, o único sem começo; aplicado a 1.1 o termo vale **contra matéria eterna**, nunca contra um Deus eterno. A forma é de estado construto, o que sustenta a leitura alternativa ("quando Deus começou a criar") — posição e fatura registradas em [[../../docs/posicoes|posicoes.md]] #3 → [[../04-exegese-1-2]] |

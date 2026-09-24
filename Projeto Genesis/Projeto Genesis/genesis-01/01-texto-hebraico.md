@@ -29,7 +29,7 @@ Os 31 versículos em hebraico, com vocalização e cantilação, a partir da edi
 ### Quero acompanhar a pronúncia
 
 **[[texto-hebraico/03-transliteracao|Transliteração]]**  
-Transliteração simplificada. No estado atual do projeto, os vv. 1–5 estão completos e os vv. 6–31 permanecem como lacuna declarada.
+Transliteração simplificada dos vv. 1–31, dividida em blocos de leitura. Apoio de pronúncia, não substituto do texto hebraico vocalizado.
 
 ### Quero saber o que uma palavra faz neste capítulo
 

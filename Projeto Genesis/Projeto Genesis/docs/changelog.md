@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Transliteração completa e leitura por seções
+
+[2026-09-24] – arquivos: `genesis-01/texto-hebraico/03-transliteracao.md`, `genesis-01/01-texto-hebraico.md`, `genesis-01/texto-hebraico/07-fontes-e-lacunas.md`, `genesis-01/texto-hebraico/04-lexico-do-capitulo.md`, `web/pages/app.js`, `web/pages/styles.css`, `web/pages/sw.js`
+tipo: **complemento de material preparatório e navegação** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — transliteração simplificada diretamente a partir do texto hebraico integral já registrado no projeto; interface local de leitura
+confiança: **0.90** na transliteração simplificada; **0.95** na navegação por seções
+nota: Os vv. 6–31 foram acrescentados em blocos e a lacuna correspondente foi fechada no índice e no registro de fontes. A tabela longa do léxico ganhou título de seção para permitir recolhimento. O leitor web permite abrir e fechar as seções dos documentos e abre automaticamente a seção quando se segue um link do sumário. A transliteração ainda aguarda revisão editorial do autor e não altera decisões exegéticas.
+
+---
+
 ## 2026-09-24 – Primeira correção da auditoria de Gênesis 1
 
 [2026-09-24] – arquivos: `genesis-01/09-antigo-oriente.md`, `14-notas-e-bibliografia.md`, `texto-hebraico/08-aparato-lexical.md`
