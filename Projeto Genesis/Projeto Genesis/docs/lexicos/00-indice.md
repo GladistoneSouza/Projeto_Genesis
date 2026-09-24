@@ -25,7 +25,7 @@ Esta pasta dá a **base geral**: como o hebraico foi levantado e analisado no pr
 
 **A wiki não esvazia o capítulo (§13.9) e o capítulo não é repetido aqui (§13.10).** Duas cópias envelhecem em ritmos diferentes — a §12 já mostrou o preço disso.
 
-Última conferência de instrumentos: 2026-09-24 · BDB e Strong em *tohu va-bohu* (`F2`); BDB e Strong em *rachaf* (`F2`), TWOT local em *rachaf* (`F1`); DCH III e TWOT local em *tov* no aparato de Gn 1 (`F1`). HALOT, vol. I, entradas I/III de *bara* (`F1`, pp. 153–154). O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
+Última conferência de instrumentos: 2026-09-24 · BDB em *tohu va-bohu*, *rachaf* e *bara* (`F1`, PDF local); Strong em *tohu va-bohu* e *rachaf* (`F2`), TWOT local em *rachaf* (`F1`); DCH II em *bohu* e *bara*; DCH III e TWOT local em *tov* no aparato de Gn 1 (`F1`). HALOT, vol. I, entradas I/III de *bara* (`F1`, pp. 153–154). O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
 
 ---
 
@@ -69,14 +69,14 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | Fonte | Acesso | Estado |
 |---|---|---|
 | **O corpus** — [Sefaria](https://www.sefaria.org/Genesis.1?lang=he), [Blue Letter Bible](https://www.blueletterbible.org/) | **Livre** | ✅ é a coluna que decide |
-| **BDB** (1906) | **Livre**, domínio público | **F2** — consultado nos três verbetes em 2026-09-04 |
+| **BDB** (1906) | **Livre**, domínio público; PDF local `sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3` | **F1** — *bohu* p. 96, *bara* p. 135, *rachaf* p. 934 e *tohu* p. 1062, páginas conferidas em 2026-09-24; outros lemas seguem no nível registrado em cada nota |
 | **Klein**, etimológico | **Livre**, no Sefaria | **F2** — consultado nos três |
 | **Strong's** (índice) | **Livre** | **F2** — contagens conferidas |
 | **UBS / SDBH** (2000–2023), **em português** | **Livre**, CC BY-SA 4.0, dados versionados | **F1** — consultado nos três verbetes em 2026-09-04 |
 | **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
 | ~~semanticdictionary.org~~ | — | ⛔ interface morta; **os dados estão no GitHub**, ver abaixo |
 | **HALOT** | Edição hebraica, vols. I–IV, em PDF local; vol. V aramaico ausente. [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up) | **F1** — *bara* I/III, pp. 153–154; demais lemas não lidos. O outro PDF local de 81 páginas contém só preliminares. |
-| **DCH** (Clines) | [Vol. II no Internet Archive](https://archive.org/details/dictionaryofclas0002unse); PDF local do vol. III fornecido pelo autor; obra comercial | **F1** — entrada *tov* do vol. III, pp. 350–351; demais entradas pendentes |
+| **DCH** (Clines) | PDFs locais dos vols. II (`sha256 9837297374babef4033ecd25c541b625671640c47581a749da228d4db9e0f554`) e III; [Vol. II no Internet Archive](https://archive.org/details/dictionaryofclas0002unse) | **F1** — *bohu* vol. II p. 97, *bara* vol. II pp. 258–259, *tov* vol. III pp. 350–351; demais lemas pendentes |
 | **TWOT** | [Digitalização no Internet Archive](https://archive.org/details/theological-wordbook-of-the-old-testament); PDF local fornecido pelo autor; obra comercial | **F1** — *rachaf* 2148/2149, p. 843, e *tov* 793/793a, p. 345; dicionário teológico, não árbitro lexical |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
 
@@ -154,11 +154,11 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 | Palavra | Onde nasce | Estado |
 |---|---|---|
-| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · HALOT I/III **F1** · DCH/DITAT pendentes |
+| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · Klein **F2** · BDB/UBS/SDBH/HALOT I/III e DCH I/II/III **F1** · DITAT pendente |
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
-| [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · BDB/Strong **F2**; SDBH ❌ |
-| [[rachaf]] · רָחַף | Gn 1.2 | Corpus ✅ **exaustivo** — 3 ocorrências no AT · Klein/Jastrow/BDB/Strong **F2**; TWOT **F1**, p. 843; SDBH ❌ |
+| [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · BDB e DCH *bohu* **F1**; Strong **F2**; SDBH ❌ |
+| [[rachaf]] · רָחַף | Gn 1.2 | Corpus ✅ **exaustivo** — 3 ocorrências no AT · Klein/Jastrow/Strong **F2**; BDB **F1**, p. 934; TWOT **F1**, p. 843; SDBH ❌ |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
 
@@ -172,4 +172,4 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 `IA:Claude+ChatGPT` — **conferência cruzada** na camada das fontes: a rota do UBS/SDBH foi encontrada pelo assistente externo, verificada e integrada aqui, e derrubou uma conclusão redigida deste lado. Ver [[../regras|regras.md]] §12.6 e §12.8.
 
-**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · DITAT ❌ não consultado · HALOT **F1** apenas para *bara* I/III · DCH III **F1** apenas para *tov* no aparato de Gn 1; demais entradas não consultadas e declaradas verbete a verbete.
+**Estado dos blocos:** corpus ✅ · BDB **F1** nos lemas indicados, Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · DITAT ❌ não consultado · HALOT **F1** apenas para *bara* I/III · DCH II **F1** para *bohu* e *bara*, III **F1** para *tov* no aparato de Gn 1; demais entradas não consultadas e declaradas verbete a verbete.

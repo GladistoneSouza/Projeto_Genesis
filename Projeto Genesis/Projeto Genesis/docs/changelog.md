@@ -3,6 +3,26 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – DCH II conferido em *bohu* e *bara*
+
+[2026-09-24] – arquivos: `docs/lexicos/tohu-vavohu.md`, `docs/lexicos/bara.md`, `docs/lexicos/00-indice.md`
+tipo: **conferência lexical e procedência** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — páginas do DCH II visualmente conferidas no PDF local do autor
+confiança: **0.95** na identificação das entradas, páginas e usos listados; **0.90** na síntese da comparação entre instrumentos
+nota: DCH II (1995), *bohu* p. 97 (PDF 98), confirma os três usos no Tanakh e inclui 1QM 17.4 fora dele; a contagem exaustiva anterior continua explicitamente bíblica. Em *bara*, pp. 258–259 (PDF 259–260), DCH separa I “criar”, II “ser gordo” e III “cortar”; converge na separação de I/III com HALOT e difere do BDB. O inventário de objetos do verbo não define *ex nihilo*. `sha256 9837297374babef4033ecd25c541b625671640c47581a749da228d4db9e0f554`. O PDF permanece fora do vault; a síntese relevante foi trazida às notas.
+
+---
+
+## 2026-09-24 – BDB local conferido nas entradas de Gn 1
+
+[2026-09-24] – arquivos: `docs/lexicos/tohu-vavohu.md`, `docs/lexicos/rachaf.md`, `docs/lexicos/bara.md`, `docs/lexicos/00-indice.md`
+tipo: **conferência de fonte e procedência** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — páginas da edição digitalizada fornecida pelo autor conferidas na imagem
+confiança: **0.98** na identificação das entradas, referências e páginas
+nota: O PDF local de 1.155 páginas contém o BDB até a p. impressa 1127. Foram conferidas *bohu* p. 96 (PDF 116), *bara* p. 135 (PDF 157), *rachaf* p. 934 (PDF 962) e *tohu* p. 1062 (PDF 1090); `sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`. As sínteses existentes permanecem compatíveis com as páginas lidas. Promovido apenas BDB nesses verbetes de OCR web `F2` para leitura direta `F1`; Strong, Klein e Jastrow mantêm seus níveis anteriores. Etimologia incerta de *tohu* segue `F3`.
+
+---
+
 ## 2026-09-24 – HALOT hebraico identificado; entrada *bara* conferida
 
 [2026-09-24] – arquivos: `docs/lexicos/bara.md` (conferência C4), `docs/lexicos/00-indice.md` (estado das fontes)

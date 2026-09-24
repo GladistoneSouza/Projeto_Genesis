@@ -159,24 +159,31 @@ Criar é medir para que se possa morar. Julgar é medir para que não se possa m
 
 ## O que os instrumentos dizem `C4`
 
-> **Consulta F2, via OCR do volume digitalizado; grafia hebraica e paginação ainda exigem conferência na imagem.** O texto das entradas foi lido no [BDB digitalizado](https://archive.org/details/bdbbrowndriverbriggshebrewandenglishlexiconoldtestament), em `FULL TEXT`, e os números no [Strong hebraico H8414/H922](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt). O catálogo ou um resultado de busca, sozinho, não é evidência do verbete. `IA:ChatGPT`; síntese sujeita a ratificação.
+> **BDB `F1`, Strong `F2`.** As entradas *bohu* (p. 96; PDF 116) e *tohu* (p. 1062; PDF 1090) foram conferidas na imagem do PDF local *A Hebrew and English Lexicon of the Old Testament* (`sha256 75b1a66ee8ad2d1a33735ecf74790ea47232ce2e2eccdc4b130f12469f1ea3f3`). O [Strong hebraico H8414/H922](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt) permanece em consulta mediada. O PDF de BDB fica fora do vault; a síntese abaixo guarda o conteúdo relevante. `IA:ChatGPT`; sujeita a ratificação.
 
-### BDB (1906) — `F2`, entradas separadas
+### BDB (1906) — `F1`, entradas separadas, pp. 96 e 1062
 
 | Entrada | O que o instrumento registra | Limite para Gn 1.2 |
 |---|---|---|
 | ***Tohu*** | Campo de desolação, vazio e falta de forma: terra inicial (`Gn 1.2`), terra sob juízo (`Jr 4.23`; `Is 34.11`), deserto sem trilha (`Dt 32.10`) e, figuradamente, ídolos ou pretensões vãs (`1Sm 12.21`; `Is 44.9`). O próprio verbete diz que o sentido primário é difícil de fixar. | A lista de usos não faz da terra de `Gn 1.2` algo moralmente mau nem decide a sintaxe de 1.1–2. |
 | ***Bohu*** | "Vazio"; remete a `Gn 1.2`, `Jr 4.23` e `Is 34.11`, sempre junto de *tohu*, embora Isaías separe as duas palavras em construtos diferentes. | Confirma a distribuição levantada no corpus, sem criar um sentido independente para *bohu*. |
 
+### DCH II — entrada *bohu* `F1 · C4`
+
+Na p. **97** (PDF 98), o DCH define *bohu* como vazio e registra os três usos no texto bíblico: `Gn 1.2`, `Jr 4.23` e `Is 34.11`. Também inclui **1QM 17.4**, no corpus de Qumran, em combinação com *tohu*. A contagem de **três ocorrências** acima é explicitamente do **Tanakh**; o dado extrabíblico do DCH amplia o corpus de comparação, sem alterar essa contagem nem decidir a leitura teológica de `Gn 1.2`.
+
+**Fonte:** *The Dictionary of Classical Hebrew*, vol. II (1995), p. 97 (PDF 98), página conferida na imagem do arquivo local `DCH_The_Dictionary_of_Classical_Hebrew_David-the-Dictionary-of-Classical-Hebrew-Volume-2-1.pdf`, `sha256 9837297374babef4033ecd25c541b625671640c47581a749da228d4db9e0f554`. PDF não versionado no vault; esta síntese conserva o dado relevante. `IA:ChatGPT`; sujeita à ratificação do autor.
+
 **Strong H8414/H922 — localizador, não segunda testemunha.** H8414 reúne desolação física e vacuidade figurada; H922 dá vazio/ruína indistinta. As glosas são breves e pertencem à família lexical do BDB (§13.5.2). O resultado útil aqui é encontrar as entradas; a distinção entre estado inicial e juízo continua sendo feita pelas ocorrências.
 
-| Fonte ainda pendente | Estado |
+| Fonte | Estado |
 |---|---|
 | **Klein** | ❌ entrada não consultada nesta conferência |
 | **UBS / SDBH** (pt) | ❌ entrada não consultada; testemunha de método independente a conferir (§13.11) |
-| **HALOT** · **DCH** · **DITAT/TWOT** | ❌ entradas deste par não consultadas; dicionário teológico não substitui léxico (§13.5) |
+| **DCH** | ✅ *bohu* `F1`, vol. II, p. 97; *tohu* pertence a outro volume e não foi consultado |
+| **HALOT** · **DITAT/TWOT** | ❌ entradas deste par não consultadas; dicionário teológico não substitui léxico (§13.5) |
 
-**Etimologia:** segue **F3 · a conferir**. O BDB apresenta propostas e incerteza, mas o OCR não autoriza escolher uma origem para *tohu*. A ausência de *bohu* sem *tohu* é dado do corpus já conferido acima, não uma hipótese etimológica.
+**Etimologia:** segue **F3 · a conferir**. A página do BDB apresenta propostas e incerteza; conferir a imagem não resolve a origem de *tohu*. A ausência de *bohu* sem *tohu* é dado do corpus já conferido acima, não uma hipótese etimológica.
 
 ---
 
