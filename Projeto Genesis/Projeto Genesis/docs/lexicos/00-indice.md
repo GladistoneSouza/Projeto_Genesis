@@ -154,7 +154,7 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 | Palavra | Onde nasce | Estado |
 |---|---|---|
-| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · Klein **F2** · BDB/Strong H1254/UBS/SDBH/HALOT I/III e DCH I/II/III **F1** · DITAT pendente |
+| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · Klein **F2** · BDB/Strong H1254/UBS/SDBH **F1** · HALOT vol. I, entradas I/III **F1** · DCH vol. II, entradas I–III **F1** · DITAT pendente |
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · Strong H7549 e UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · Strong H3117 e UBS/SDBH **F1** ✅ · HALOT local e DCH ainda não consultados neste lema |
 | [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · BDB, DCH *bohu* e Strong H922/H8414 **F1**; SDBH ❌ |

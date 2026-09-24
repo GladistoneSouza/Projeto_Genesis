@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Desambiguação de volumes e entradas em *bara*
+
+[2026-09-24] – arquivo: `docs/lexicos/00-indice.md` (tabela “Os verbetes”, linha de *bara*)
+tipo: **correção de referência abreviada** — nenhum verbete ou posição doutrinária alterado
+procedência: `IA:ChatGPT` — conferência da linha com o próprio verbete `docs/lexicos/bara.md` e o inventário dos instrumentos
+confiança: **0.99** na distinção de volume e número de entrada
+nota: A abreviação “DCH I/II/III” podia ser lida como três volumes consultados para *bara*. A entrada conferida está no **volume II** e divide o lema em entradas **I–III**. HALOT foi explicitado como **volume I**, entradas **I/III**. A correção impede que o Brain amplifique uma referência ambígua.
+
+---
+
 ## 2026-09-24 – Consulta lexical recolhível por palavra
 
 [2026-09-24] – arquivos: `web/pages/refinements.js`, `web/pages/refinements.css`, `web/pages/sw.js`, `genesis-01/texto-hebraico/04-lexico-do-capitulo.md`
