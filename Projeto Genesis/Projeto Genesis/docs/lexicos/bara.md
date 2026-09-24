@@ -51,7 +51,7 @@
 
 > **Correção declarada (2026-09-04).** Uma versão anterior desta nota, e a §4.2 do capítulo, chamavam isso de "provavelmente palavra homógrafa". **O BDB não faz isso:** arquiva o piel dentro da **mesma entrada** בָּרָא I, como um dos binyanim do mesmo lexema. O homógrafo que o BDB de fato registra é outro — **בָּרָא II**, "ser gordo" (hifil "engordar", `1Sm 2.29`).
 >
-> Isso não desfaz o motivo de separá-las, apenas troca o argumento: **o binyan é diferente, e ocorrências em binyanim diferentes não somam** (§11.10). Se são um lexema ou dois é **decisão de arquivamento do lexicógrafo** — é a decisão (a) das quatro que todo verbete toma. HALOT e DCH podem dividir diferente; não foram consultados.
+> Isso não desfaz o motivo de separá-las, apenas troca o argumento: **o binyan é diferente, e ocorrências em binyanim diferentes não somam** (§11.10). Se são um lexema ou dois é **decisão de arquivamento do lexicógrafo** — é a decisão (a) das quatro que todo verbete toma. O HALOT efetivamente divide as entradas I (*criar*) e III (*cortar*); DCH ainda não foi consultado para este lema. Ver bloco `C4 · F1` abaixo.
 
 ---
 
@@ -69,9 +69,9 @@
 
 ---
 
-## O que os instrumentos dizem `C4` · **F2** — consultado em 2026-09-04
+## O que os instrumentos dizem `C4` · **F2** e **F1** — consultados em 2026-09-04 e 2026-09-24
 
-> **Nível de fonte: F2, não F1.** O verbete foi obtido pela API do Sefaria e pelo Blue Letter Bible, em leitura mediada — o volume não esteve em mãos e o texto não foi conferido palavra a palavra. **Pela §7.2 das regras, rodapé sem página, declarando.** Para promover a F1, abra [sefaria.org/api/words/ברא](https://www.sefaria.org/api/words/ברא) ou [BLB H1254](https://www.blueletterbible.org/lexicon/h1254/kjv/wlc/0-1/) e confira.
+> **Procedência por instrumento:** BDB, Klein e Strong permanecem `F2` nas consultas mediadas descritas abaixo; UBS/SDBH é `F1` pelo dataset local versionado; HALOT é `F1` apenas para as entradas I e III de ברא, nas páginas impressas 153–154 conferidas na imagem do PDF local. Um nível de fonte não se transfere para outro instrumento.
 
 ### BDB (1906) — `F2`
 
@@ -121,11 +121,20 @@ E, em **formas-base distintas**: domínio *Detach* — "cortar, esculpir, retalh
 
 **Ressalva honesta:** o SDBH também embute *"uma deidade"* dentro da definição. É a mesma restrição de sujeito virando conteúdo semântico que este verbete critica no BDB — agora feita em 2023, por um léxico moderno.
 
+### HALOT — entradas I e III de ברא `F1 · C4`
+
+Nas pp. **153–154** do volume I, o HALOT arquiva **I ברא** no qal, “criar”, com Deus como sujeito nas ocorrências que enumera; também registra o nifal, “ser criado”. A lista inclui céus e terra (`Gn 1.1`), humanidade (`Gn 1.27`), trevas e mal/calamidade (`Is 45.7`), salvação (`Is 45.8`), um novo coração (`Sl 51.12` na numeração hebraica) e o ferreiro (`Is 54.16`). Esse inventário sustenta a distinção já feita aqui entre o ato expresso pelo verbo e a origem do material; a entrada **não afirma *ex nihilo* como significado lexical**.
+
+O mesmo HALOT separa **III ברא**, piel “cortar, desbravar”, com `Js 17.15,18`, em outra entrada. É uma **decisão de arquivamento diferente da do BDB**, que reúne o piel sob I, e convergente neste ponto com a separação de formas-base do UBS/SDBH. A diferença entre os instrumentos não altera o dado morfológico: os usos de `Js 17` são piel, e a criação de `Gn 1` é qal.
+
+**Fonte:** *The Hebrew and Aramaic Lexicon of the Old Testament*, vol. I (Brill, 1994), pp. 153–154 (PDF 210–211), arquivo local `503480694-the-Hebrew-and-Aramaic-Lexicon-of-the-Old-Testament-Kohler-Koehler-Baumgartner-Richardson-Stamm-The-Hebrew-and-Aramaic-Lexicon-of-the-Old-Tes.pdf`, `sha256 f4e5be7af9eeb0eac7d639ffd9f5d8e50d6fda9f26175d0169991f1c30198156`. Páginas lidas na imagem; o PDF não tem camada de texto utilizável. `IA:ChatGPT`; síntese sujeita à ratificação do autor.
+
 ### Ainda faltam
 | | |
 |---|---|
 | **Gesenius-Tregelles** | ⛔ **não é testemunha independente** — o BDB é construído sobre a tradução de Robinson do mesmo Gesenius (§13.5.2) |
-| **HALOT** · **DITAT** | ❌ pagos, não consultados |
+| **HALOT** | ✅ entradas I e III de *bara* consultadas `F1`, pp. 153–154; outros lemas pendentes |
+| **DITAT** | ❌ não consultado |
 | **DCH** | ❌ pago. O BDB apoiou a entrada em árabe (*bara*, "formar cortando") e assírio (*barû*); o **Klein registra que o árabe *bara'a* é empréstimo do aramaico**, o que enfraquece esse argumento. O DCH recusa etimologia por princípio — mas **o SDBH já cobre parte dessa função**, por não organizar por raiz |
 
 ---

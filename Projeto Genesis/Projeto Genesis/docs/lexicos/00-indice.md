@@ -25,7 +25,7 @@ Esta pasta dá a **base geral**: como o hebraico foi levantado e analisado no pr
 
 **A wiki não esvazia o capítulo (§13.9) e o capítulo não é repetido aqui (§13.10).** Duas cópias envelhecem em ritmos diferentes — a §12 já mostrou o preço disso.
 
-Última conferência de instrumentos: 2026-09-24 · BDB e Strong em *tohu va-bohu* (`F2`); BDB e Strong em *rachaf* (`F2`), TWOT local em *rachaf* (`F1`); DCH III e TWOT local em *tov* no aparato de Gn 1 (`F1`). O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
+Última conferência de instrumentos: 2026-09-24 · BDB e Strong em *tohu va-bohu* (`F2`); BDB e Strong em *rachaf* (`F2`), TWOT local em *rachaf* (`F1`); DCH III e TWOT local em *tov* no aparato de Gn 1 (`F1`). HALOT, vol. I, entradas I/III de *bara* (`F1`, pp. 153–154). O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
 
 ---
 
@@ -75,10 +75,12 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | **UBS / SDBH** (2000–2023), **em português** | **Livre**, CC BY-SA 4.0, dados versionados | **F1** — consultado nos três verbetes em 2026-09-04 |
 | **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
 | ~~semanticdictionary.org~~ | — | ⛔ interface morta; **os dados estão no GitHub**, ver abaixo |
-| **HALOT** | [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up); obra comercial; PDF local `pdfcoffee.com_hebrew-and-aramaic-lexicon-of-the-old-testament-halot-pdf-free.pdf` | ❌ **nenhuma entrada consultada**. O PDF local tem 81 páginas apenas de prefácios, bibliografia, tabela de transliteração e introduções, sem verbetes (`sha256 72137571e92c0f41f146e34f84ff264ee000b580b227eef6619d3df5fd2e5c74`). O registro online de outro volume não comprova acesso à entrada. |
+| **HALOT** | Edição hebraica, vols. I–IV, em PDF local; vol. V aramaico ausente. [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up) | **F1** — *bara* I/III, pp. 153–154; demais lemas não lidos. O outro PDF local de 81 páginas contém só preliminares. |
 | **DCH** (Clines) | [Vol. II no Internet Archive](https://archive.org/details/dictionaryofclas0002unse); PDF local do vol. III fornecido pelo autor; obra comercial | **F1** — entrada *tov* do vol. III, pp. 350–351; demais entradas pendentes |
 | **TWOT** | [Digitalização no Internet Archive](https://archive.org/details/theological-wordbook-of-the-old-testament); PDF local fornecido pelo autor; obra comercial | **F1** — *rachaf* 2148/2149, p. 843, e *tov* 793/793a, p. 345; dicionário teológico, não árbitro lexical |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
+
+**Arquivo HALOT conferido:** `503480694-the-Hebrew-and-Aramaic-Lexicon-of-the-Old-Testament-Kohler-Koehler-Baumgartner-Richardson-Stamm-The-Hebrew-and-Aramaic-Lexicon-of-the-Old-Tes.pdf`, 1.859 páginas, `sha256 f4e5be7af9eeb0eac7d639ffd9f5d8e50d6fda9f26175d0169991f1c30198156`. O PDF anterior, `pdfcoffee.com_hebrew-and-aramaic-lexicon-of-the-old-testament-halot-pdf-free.pdf`, 81 páginas, contém só preliminares (`sha256 72137571e92c0f41f146e34f84ff264ee000b580b227eef6619d3df5fd2e5c74`).
 
 ### A descoberta que fecha a lista das fontes livres
 
@@ -152,7 +154,7 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 | Palavra | Onde nasce | Estado |
 |---|---|---|
-| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ |
+| [[bara]] · בָּרָא | Gn 1.1 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · HALOT I/III **F1** · DCH/DITAT pendentes |
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
 | [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · BDB/Strong **F2**; SDBH ❌ |
@@ -170,4 +172,4 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 `IA:Claude+ChatGPT` — **conferência cruzada** na camada das fontes: a rota do UBS/SDBH foi encontrada pelo assistente externo, verificada e integrada aqui, e derrubou uma conclusão redigida deste lado. Ver [[../regras|regras.md]] §12.6 e §12.8.
 
-**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · HALOT e DITAT ❌ não consultados · DCH III **F1** apenas para *tov* no aparato de Gn 1; demais entradas não consultadas e declaradas verbete a verbete.
+**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · DITAT ❌ não consultado · HALOT **F1** apenas para *bara* I/III · DCH III **F1** apenas para *tov* no aparato de Gn 1; demais entradas não consultadas e declaradas verbete a verbete.

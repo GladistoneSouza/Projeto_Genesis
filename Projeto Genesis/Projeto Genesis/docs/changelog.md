@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – HALOT hebraico identificado; entrada *bara* conferida
+
+[2026-09-24] – arquivos: `docs/lexicos/bara.md` (conferência C4), `docs/lexicos/00-indice.md` (estado das fontes)
+tipo: **conferência lexical e procedência** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — páginas impressas 153–154 visualmente conferidas no PDF local fornecido pelo autor
+confiança: **0.95** na identificação da seção hebraica e na separação das entradas I/III de *bara* · **0.90** na síntese dos usos listados
+nota: O novo PDF de 1.859 páginas é da edição inglesa do HALOT da Brill, com a seção hebraica de aleph a taw (vols. I–IV; termina na p. 1803). O vol. V aramaico não está nesse arquivo. O HALOT separa *bara* I, qal/nifal “criar”, de *bara* III, piel “cortar/desbravar” (`Js 17.15,18`), ao contrário do BDB que arquiva o piel sob I. A entrada I lista `Gn 1.1`, `Gn 1.27`, `Is 45.7–8`, `Sl 51.12`, `Is 54.16` e outros usos; não define o verbo como *ex nihilo*. Registrada apenas a evidência da entrada lida: os demais lemas HALOT continuam pendentes. PDF `sha256 f4e5be7af9eeb0eac7d639ffd9f5d8e50d6fda9f26175d0169991f1c30198156`.
+
+---
+
 ## 2026-09-24 – Triagem do PDF rotulado HALOT
 
 [2026-09-24] – arquivo: `docs/lexicos/00-indice.md` (estado do HALOT)
