@@ -75,7 +75,7 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | **UBS / SDBH** (2000–2023), **em português** | **Livre**, CC BY-SA 4.0, dados versionados | **F1** — consultado nos três verbetes em 2026-09-04 |
 | **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
 | ~~semanticdictionary.org~~ | — | ⛔ interface morta; **os dados estão no GitHub**, ver abaixo |
-| **HALOT** | [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up); obra comercial | ❌ entrada relevante não consultada; disponibilidade do registro não comprova acesso à entrada |
+| **HALOT** | [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up); obra comercial; PDF local `pdfcoffee.com_hebrew-and-aramaic-lexicon-of-the-old-testament-halot-pdf-free.pdf` | ❌ **nenhuma entrada consultada**. O PDF local tem 81 páginas apenas de prefácios, bibliografia, tabela de transliteração e introduções, sem verbetes (`sha256 72137571e92c0f41f146e34f84ff264ee000b580b227eef6619d3df5fd2e5c74`). O registro online de outro volume não comprova acesso à entrada. |
 | **DCH** (Clines) | [Vol. II no Internet Archive](https://archive.org/details/dictionaryofclas0002unse); PDF local do vol. III fornecido pelo autor; obra comercial | **F1** — entrada *tov* do vol. III, pp. 350–351; demais entradas pendentes |
 | **TWOT** | [Digitalização no Internet Archive](https://archive.org/details/theological-wordbook-of-the-old-testament); PDF local fornecido pelo autor; obra comercial | **F1** — *rachaf* 2148/2149, p. 843, e *tov* 793/793a, p. 345; dicionário teológico, não árbitro lexical |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |

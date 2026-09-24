@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Triagem do PDF rotulado HALOT
+
+[2026-09-24] – arquivo: `docs/lexicos/00-indice.md` (estado do HALOT)
+tipo: **triagem de fonte** — nenhuma entrada lexical ou posição doutrinária alterada
+procedência: `IA:ChatGPT` — PDF local fornecido pelo autor, 81 páginas, texto e extensão conferidos
+confiança: **0.99** na identificação do conteúdo do arquivo
+nota: Apesar do nome, `pdfcoffee.com_hebrew-and-aramaic-lexicon-of-the-old-testament-halot-pdf-free.pdf` contém apenas matéria preliminar da edição em CD-ROM (prefácios, bibliografia, transliteração e introduções). Não contém os verbetes. `sha256 72137571e92c0f41f146e34f84ff264ee000b580b227eef6619d3df5fd2e5c74`. O estado HALOT para os lemas de Gn 1 continua "não consultado"; não foi criado conteúdo lexical a partir deste PDF.
+
+---
+
 ## 2026-09-24 – Conferência local de DCH III e TWOT para Gn 1
 
 [2026-09-24] – arquivos: `genesis-01/texto-hebraico/04-lexico-do-capitulo.md` (linha de *tov*), `genesis-01/texto-hebraico/08-aparato-lexical.md` (entrada de *tov* e lacunas), `docs/lexicos/rachaf.md` (procedência TWOT), `docs/lexicos/00-indice.md` (estado das fontes)
