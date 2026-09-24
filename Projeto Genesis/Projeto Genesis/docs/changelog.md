@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Consulta lexical recolhível por palavra
+
+[2026-09-24] – arquivos: `web/pages/refinements.js`, `web/pages/refinements.css`, `web/pages/sw.js`, `genesis-01/texto-hebraico/04-lexico-do-capitulo.md`
+tipo: **navegação e apresentação** — nenhuma entrada lexical ou posição doutrinária alterada
+procedência: `IA:ChatGPT` — pedido do autor a partir de capturas do leitor publicado
+confiança: **0.95** na preservação do conteúdo da tabela e na interação por palavra
+nota: A tabela Markdown continua como fonte portátil. No leitor, cada linha vira uma entrada recolhível com hebraico, transliteração e raiz no resumo; o sentido e uso aparece ao abrir. Há controles para abrir ou fechar todas. O texto introdutório foi ajustado para explicar a interação, e a versão do service worker foi elevada para atualizar os arquivos estáticos.
+
+---
+
 ## 2026-09-24 – Transliteração completa e leitura por seções
 
 [2026-09-24] – arquivos: `genesis-01/texto-hebraico/03-transliteracao.md`, `genesis-01/01-texto-hebraico.md`, `genesis-01/texto-hebraico/07-fontes-e-lacunas.md`, `genesis-01/texto-hebraico/04-lexico-do-capitulo.md`, `web/pages/app.js`, `web/pages/styles.css`, `web/pages/sw.js`

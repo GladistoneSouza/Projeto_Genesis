@@ -20,7 +20,34 @@ function enhanceSemanticTables(){
   doc.querySelectorAll('table:not(.semantic-checked)').forEach(table=>{
     table.classList.add('semantic-checked');
     const heads=[...table.querySelectorAll('thead th')].map(th=>cleanText(th.textContent).toLocaleLowerCase('pt-BR'));
-    if(heads.length===4&&heads[0].includes('hebraico')&&heads[1].includes('translitera')&&heads[2].includes('raiz')&&heads[3].includes('sentido'))table.classList.add('lexicon-table');
+    if(!(heads.length===4&&heads[0].includes('hebraico')&&heads[1].includes('translitera')&&heads[2].includes('raiz')&&heads[3].includes('sentido')))return;
+    const rows=[...table.querySelectorAll('tbody tr')].map(row=>[...row.querySelectorAll('td')]).filter(cells=>cells.length===4);
+    if(!rows.length)return;
+    const list=document.createElement('div');list.className='lexicon-words';
+    const tools=document.createElement('div');tools.className='lexicon-tools';
+    const count=document.createElement('span');count.textContent=`${rows.length} palavras · abra uma para ver o sentido e uso aqui`;
+    const actions=document.createElement('span');
+    for(const [action,label] of [['open','Abrir todas'],['close','Fechar todas']]){
+      const button=document.createElement('button');button.type='button';button.dataset.action=action;button.textContent=label;actions.append(button);
+    }
+    tools.append(count,actions);list.append(tools);
+    for(const cells of rows){
+      const entry=document.createElement('details');entry.className='lexicon-word';
+      const summary=document.createElement('summary');
+      for(const [index,className] of [[0,'word-hebrew'],[1,'word-name'],[2,'word-root']]){
+        const span=document.createElement('span');span.className=className;span.innerHTML=cells[index].innerHTML;
+        if(index===0){span.dir='rtl';span.lang='he'}
+        summary.append(span);
+      }
+      const meaning=document.createElement('div');meaning.className='word-meaning';meaning.innerHTML=cells[3].innerHTML;
+      entry.append(summary,meaning);list.append(entry);
+    }
+    tools.addEventListener('click',event=>{
+      const button=event.target.closest('button[data-action]');if(!button)return;
+      const open=button.dataset.action==='open';
+      list.querySelectorAll('details.lexicon-word').forEach(entry=>entry.open=open);
+    });
+    table.replaceWith(list);
   });
 }
 

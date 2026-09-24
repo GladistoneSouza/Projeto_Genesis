@@ -10,7 +10,7 @@ Os termos aparecem na ordem em que surgem no texto. Esta tabela responde à perg
 
 ## Consulta rápida — palavras em ordem
 
-Abra esta seção para percorrer a tabela; as notas de estudo ficam na seção seguinte.
+Abra esta seção para consultar as palavras. No leitor web, cada entrada mostra primeiro o hebraico, a transliteração e a raiz; abra a palavra para ler seu sentido e uso aqui. As notas de estudo ficam na seção seguinte.
 
 | Hebraico | Transliteração | Raiz | Sentido e uso **aqui** |
 |---|---|---|---|
@@ -63,7 +63,7 @@ Abra esta seção para percorrer a tabela; as notas de estudo ficam na seção s
 
 ## Notas de estudo, palavra por palavra
 
-A tabela acima é **consulta rápida** — uma linha por palavra. As **notas de estudo** ficam em [`lexico/`](lexico/01-abertura.md), agrupadas pela pergunta que cada bloco responde (§15.1): forma, ocorrências no capítulo, raridade no cânon, o que a palavra faz aqui e com o que contrasta.
+A consulta acima é **resumo rápido** — uma entrada por palavra. As **notas de estudo** ficam em [`lexico/`](lexico/01-abertura.md), agrupadas pela pergunta que cada bloco responde (§15.1): forma, ocorrências no capítulo, raridade no cânon, o que a palavra faz aqui e com o que contrasta.
 
 | | Módulo | Palavras | Estado |
 |---|---|---|---|
