@@ -89,12 +89,21 @@ Jastrow dá o qal como *"mover, vibrar"* e, no piel, cita o Talmude: **Ḥagigah
 
 Leitura judaica antiga, camada **C5**. Vale registrar que ela chega à mesma **imagem de ave sobre ninhada** por conta própria — sem passar por `Dt 32.11`, e séculos antes de qualquer comentarista cristão fazer a conexão. **Não é confirmação independente do sentido lexical**; é testemunho de como a imagem foi lida.
 
+### BDB (1906), Strong H7363 e TWOT — nova conferência `F2`
+
+> **Acesso:** [BDB digitalizado](https://archive.org/details/bdbbrowndriverbriggshebrewandenglishlexiconoldtestament), entrada *rachaf* no `FULL TEXT` por OCR; [Strong hebraico H7363](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt); [TWOT digitalizado](https://archive.org/details/theological-wordbook-of-the-old-testament), entrada 2149 no `FULL TEXT` por OCR. A grafia e a página impressa ainda pedem conferência na imagem; por isso **F2, sem página no rodapé**. `IA:ChatGPT`; síntese sujeita a ratificação.
+
+O **BDB separa duas entradas**: no **qal** de `Jr 23.9`, o sentido é ficar abalado, aplicado aos ossos do profeta; no **piel** de `Gn 1.2` e `Dt 32.11`, descreve pairar. Para Gênesis, também menciona *chocar/incubar* como **possibilidade interpretativa**, não como única glosa. O corpus de `Dt 32.11` fala de filhotes, e a ressalva contra transformar a possibilidade em ovos continua valendo.
+
+**Strong H7363 comprime** os dois movimentos numa definição curta e lista formas como pairar, mover e tremer sem separá-las por binyan. Isso mostra por que o número identifica a entrada, mas não escolhe o sentido em `Gn 1.2`. Não conta como confirmação independente do BDB (§13.5.2).
+
+O **TWOT, dicionário teológico**, distingue a entrada 2148 (*qal*, `Jr 23.9`) da 2149 (*piel*, `Gn 1.2`; `Dt 32.11`), sem acrescentar argumento lexical decisivo. É confirmação da **organização dos usos**, rotulada como instrumento teológico (§13.5), não uma nova prova para a leitura do *ruach*.
+
 ### Ainda faltam
 | | |
 |---|---|
-| **BDB** | ❌ não retornado pela API do Sefaria para esta raiz — **não consultado** |
-| **UBS / SDBH** (pt) | ❌ não consultado — é a testemunha independente do projeto (§13.11), e é aqui que este verbete deve continuar |
-| **HALOT** · **DCH** · **DITAT** | ❌ pagos, não consultados |
+| **UBS / SDBH** (pt) | ❌ entrada não consultada — testemunha de método independente a conferir (§13.11) |
+| **HALOT** · **DCH** · **DITAT** | ❌ entradas não consultadas |
 
 ---
 
@@ -132,7 +141,7 @@ A briga é sobre o **substantivo**: *ruach Elohim* é o Espírito de Deus, ou "u
 
 `IA:Claude` — levantado em 2026-09-08, a pedido do autor, para fechar `Gn 1.1-2`. **Sujeito à ratificação.**
 
-**Estado dos blocos:** forma ✅ conferida por codepoint · corpus ✅ **exaustivo** — 39 livros varridos, 3 ocorrências, falsos positivos conferidos um a um · instrumentos **F2** — Klein e Jastrow consultados; BDB e SDBH ❌ · traduções ✅ conferidas.
+**Estado dos blocos:** forma ✅ conferida por codepoint · corpus ✅ **exaustivo** — 39 livros varridos, 3 ocorrências, falsos positivos conferidos um a um · instrumentos **F2** — Klein, Jastrow, BDB, Strong e TWOT consultados; SDBH ❌ · traduções ✅ conferidas.
 
 ---
 

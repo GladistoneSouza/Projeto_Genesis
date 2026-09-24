@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Entradas lexicais de Gn 1.2 trazidas ao material local
+
+[2026-09-24] – arquivos: `docs/lexicos/tohu-vavohu.md` (bloco C4), `docs/lexicos/rachaf.md` (bloco C4 e procedência), `docs/lexicos/00-indice.md` (estado das fontes)
+tipo: **conferência e síntese de instrumentos** — nenhuma posição doutrinária, regra ou leitura do autor alterada
+procedência: `IA:ChatGPT` — links fornecidos pelo autor; entradas de BDB, Strong e TWOT lidas via OCR do Internet Archive; síntese sujeita a ratificação
+confiança: **0.85** no contraste entre usos/entradas e referências bíblicas legíveis · **0.65** em grafia e paginação do OCR, por isso `F2` e sem número de página; SDBH/HALOT/DCH não foram consultados nesta rodada
+nota: A localização externa virou conteúdo local verificável. O BDB separa *tohu* de *bohu* e distingue o qal de *rachaf* em `Jr 23.9` do piel em `Gn 1.2`/`Dt 32.11`; registra incubação como possibilidade, não sentido obrigatório. Strong H7363 comprime os dois binyanim, motivo concreto para não usá-lo como árbitro do versículo. TWOT 2148/2149 também separa os usos, mas é dicionário teológico. Os dados do corpus, as questões sobre *ruach* e a posição do autor ficaram como estavam. HALOT enviado é volume 2 (ṭet–ʿayin) e não cobre estes lemas; DCH enviado é volume 2 (bet–vav): cobre a faixa de *bohu* e *bara*, mas a entrada de *bohu* não foi lida; não cobre *tohu* nem *rachaf*. Nenhuma entrada não lida foi promovida de `F3`.
+
+---
+
 ## 2026-09-22 – Gênesis 1 fecha: a terceira aula entra e as três ganham procedência
 
 [2026-09-22] – arquivos: `base/transcricoes/` (+7 de `gn-01-14-31`, +2 `.fonte.txt` reconstruídos, LEIA-ME reescrito)

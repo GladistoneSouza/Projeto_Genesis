@@ -159,16 +159,24 @@ Criar é medir para que se possa morar. Julgar é medir para que não se possa m
 
 ## O que os instrumentos dizem `C4`
 
-> ⚠️ **F3 · a conferir — nenhum instrumento foi consultado para este verbete** (§13.4). Não há aqui bloco de BDB, Klein ou UBS/SDBH porque nenhum foi aberto. **Nada deste verbete pode virar rodapé de léxico** até que sejam.
+> **Consulta F2, via OCR do volume digitalizado; grafia hebraica e paginação ainda exigem conferência na imagem.** O texto das entradas foi lido no [BDB digitalizado](https://archive.org/details/bdbbrowndriverbriggshebrewandenglishlexiconoldtestament), em `FULL TEXT`, e os números no [Strong hebraico H8414/H922](https://archive.org/stream/StrongsGreekAndHebrewDictionaries1890/StrongHebrewDictionary_djvu.txt). O catálogo ou um resultado de busca, sozinho, não é evidência do verbete. `IA:ChatGPT`; síntese sujeita a ratificação.
 
-| Fonte | Estado |
+### BDB (1906) — `F2`, entradas separadas
+
+| Entrada | O que o instrumento registra | Limite para Gn 1.2 |
+|---|---|---|
+| ***Tohu*** | Campo de desolação, vazio e falta de forma: terra inicial (`Gn 1.2`), terra sob juízo (`Jr 4.23`; `Is 34.11`), deserto sem trilha (`Dt 32.10`) e, figuradamente, ídolos ou pretensões vãs (`1Sm 12.21`; `Is 44.9`). O próprio verbete diz que o sentido primário é difícil de fixar. | A lista de usos não faz da terra de `Gn 1.2` algo moralmente mau nem decide a sintaxe de 1.1–2. |
+| ***Bohu*** | "Vazio"; remete a `Gn 1.2`, `Jr 4.23` e `Is 34.11`, sempre junto de *tohu*, embora Isaías separe as duas palavras em construtos diferentes. | Confirma a distribuição levantada no corpus, sem criar um sentido independente para *bohu*. |
+
+**Strong H8414/H922 — localizador, não segunda testemunha.** H8414 reúne desolação física e vacuidade figurada; H922 dá vazio/ruína indistinta. As glosas são breves e pertencem à família lexical do BDB (§13.5.2). O resultado útil aqui é encontrar as entradas; a distinção entre estado inicial e juízo continua sendo feita pelas ocorrências.
+
+| Fonte ainda pendente | Estado |
 |---|---|
-| **BDB** (1906) | ❌ não consultado |
-| **Klein** | ❌ não consultado |
-| **UBS / SDBH** (pt) | ❌ não consultado — é a testemunha independente do projeto (§13.11), e é onde este verbete deve continuar |
-| **HALOT** · **DCH** · **DITAT** | ❌ pagos, não consultados |
+| **Klein** | ❌ entrada não consultada nesta conferência |
+| **UBS / SDBH** (pt) | ❌ entrada não consultada; testemunha de método independente a conferir (§13.11) |
+| **HALOT** · **DCH** · **DITAT/TWOT** | ❌ entradas deste par não consultadas; dicionário teológico não substitui léxico (§13.5) |
 
-**Etimologia:** ⚠️ **F3.** A raiz de *tohu* é discutida e *bohu* é frequentemente descrita como palavra sem uso independente. **Nada disso foi verificado**, e a segunda afirmação é justamente a que o levantamento completo confirmaria ou derrubaria.
+**Etimologia:** segue **F3 · a conferir**. O BDB apresenta propostas e incerteza, mas o OCR não autoriza escolher uma origem para *tohu*. A ausência de *bohu* sem *tohu* é dado do corpus já conferido acima, não uma hipótese etimológica.
 
 ---
 
