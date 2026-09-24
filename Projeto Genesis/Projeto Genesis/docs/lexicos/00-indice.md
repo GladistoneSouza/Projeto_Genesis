@@ -25,7 +25,7 @@ Esta pasta dá a **base geral**: como o hebraico foi levantado e analisado no pr
 
 **A wiki não esvazia o capítulo (§13.9) e o capítulo não é repetido aqui (§13.10).** Duas cópias envelhecem em ritmos diferentes — a §12 já mostrou o preço disso.
 
-Última conferência de instrumentos: 2026-09-24 · BDB e Strong em *tohu va-bohu*; BDB, Strong e TWOT em *rachaf*, via OCR `F2`. O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
+Última conferência de instrumentos: 2026-09-24 · BDB e Strong em *tohu va-bohu* (`F2`); BDB e Strong em *rachaf* (`F2`), TWOT local em *rachaf* (`F1`); DCH III e TWOT local em *tov* no aparato de Gn 1 (`F1`). O levantamento do corpus permanece de 2026-09-08. **Quinto verbete** — *tohu va-vohu* e *rachaf*, os dois de `Gn 1.2`, levantados na leitura dos dois primeiros versículos com o autor. **Os dois corpora foram fechados por varredura exaustiva do Tanakh**; os instrumentos seguem incompletos e declarados verbete a verbete.
 
 ---
 
@@ -75,8 +75,9 @@ Não é preciosismo. É o que já aconteceu duas vezes neste projeto: o impasse 
 | **UBS / SDBH** (2000–2023), **em português** | **Livre**, CC BY-SA 4.0, dados versionados | **F1** — consultado nos três verbetes em 2026-09-04 |
 | **Gesenius-Tregelles** (1846/57) | **Livre** | ⛔ **não é testemunha independente** — ver abaixo |
 | ~~semanticdictionary.org~~ | — | ⛔ interface morta; **os dados estão no GitHub**, ver abaixo |
-| **HALOT** | **Pago** | ❌ **não consultado** |
-| **DCH** (Clines) | **Pago** | ❌ **não consultado** |
+| **HALOT** | [Vol. II no Internet Archive](https://archive.org/details/hebrewaramaiclex0002kohl/page/n7/mode/2up); obra comercial | ❌ entrada relevante não consultada; disponibilidade do registro não comprova acesso à entrada |
+| **DCH** (Clines) | [Vol. II no Internet Archive](https://archive.org/details/dictionaryofclas0002unse); PDF local do vol. III fornecido pelo autor; obra comercial | **F1** — entrada *tov* do vol. III, pp. 350–351; demais entradas pendentes |
+| **TWOT** | [Digitalização no Internet Archive](https://archive.org/details/theological-wordbook-of-the-old-testament); PDF local fornecido pelo autor; obra comercial | **F1** — *rachaf* 2148/2149, p. 843, e *tov* 793/793a, p. 345; dicionário teológico, não árbitro lexical |
 | **DITAT** (pt-BR) | **Comprável**, impresso | ❌ não consultado |
 
 ### A descoberta que fecha a lista das fontes livres
@@ -155,7 +156,7 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 | [[raqia]] · רָקִיעַ | Gn 1.6 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · **questão não registrada em `posicoes.md`, e a evidência ficou mais pesada** |
 | [[yom]] · יוֹם | Gn 1.5 | Corpus ✅ · BDB/Klein **F2** · UBS/SDBH **F1** ✅ · pagos ❌ e sem urgência |
 | [[tohu-vavohu]] · תֹהוּ וָבֹהוּ | Gn 1.2 | Corpus ✅ **exaustivo** — 20 ocorr. de *tohu*, 3 de *bohu* · BDB/Strong **F2**; SDBH ❌ |
-| [[rachaf]] · רָחַף | Gn 1.2 | Corpus ✅ **exaustivo** — 3 ocorrências no AT · Klein/Jastrow/BDB/Strong/TWOT **F2**; SDBH ❌ |
+| [[rachaf]] · רָחַף | Gn 1.2 | Corpus ✅ **exaustivo** — 3 ocorrências no AT · Klein/Jastrow/BDB/Strong **F2**; TWOT **F1**, p. 843; SDBH ❌ |
 
 **A escrever para Gênesis 1:** *re'shit* (a sintaxe de 1.1 — hoje tratada em `04-exegese-1-2`), *tselem / demut* (hoje em `08-imago-dei`).
 
@@ -169,4 +170,4 @@ Não foi confirmação de rotina. Os três verbetes renderam coisa diferente, e 
 
 `IA:Claude+ChatGPT` — **conferência cruzada** na camada das fontes: a rota do UBS/SDBH foi encontrada pelo assistente externo, verificada e integrada aqui, e derrubou uma conclusão redigida deste lado. Ver [[../regras|regras.md]] §12.6 e §12.8.
 
-**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · HALOT, DCH e DITAT ❌ não consultados, e declarados verbete a verbete.
+**Estado dos blocos:** corpus ✅ · BDB/Klein **F2** (leitura mediada) · UBS/SDBH **F1** (arquivo lido, commit e hash registrados) · HALOT e DITAT ❌ não consultados · DCH III **F1** apenas para *tov* no aparato de Gn 1; demais entradas não consultadas e declaradas verbete a verbete.

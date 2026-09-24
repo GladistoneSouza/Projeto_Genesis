@@ -23,7 +23,7 @@ Os termos aparecem na ordem em que surgem no texto. Esta tabela responde à perg
 | מְרַחֶפֶת | **merachefet** | ר-ח-ף | "Pairava". Particípio, ação contínua. O verbo reaparece em Dt 32.11 para a **águia sobre o ninho** — cuidado, não simples flutuação |
 | אוֹר | **'or** | א-ו-ר | "Luz". Criada no dia 1, antes dos luminares do dia 4 |
 | וַיֹּאמֶר | **vayomer** | א-מ-ר | "E disse". Abre cada ato criador: a criação se dá **por palavra**, não por esforço nem por combate |
-| טוֹב | **tov** | ט-ו-ב | "Bom" — no sentido de **adequado ao propósito**, não de belo ou moralmente virtuoso. Ausente no segundo dia |
+| טוֹב | **tov** | ט-ו-ב | "Bom". Em Gn 1, integra a avaliação divina da criação; **"adequado ao propósito" é leitura contextual**, não definição exclusiva da palavra. O campo lexical também inclui qualidade, agradabilidade e valor moral, sem que todos esses sentidos sejam importados para cada ocorrência. Ausente no segundo dia → [[08-aparato-lexical|aparato]] |
 | וַיַּבְדֵּל | **vayavdel** | ב-ד-ל | "E separou". Verbo estruturante dos três primeiros dias; reaparece em Levítico para o santo e o profano |
 | קָרָא | **qara** | ק-ר-א | "Chamou", nomeou. Nomear é exercer autoridade — Deus nomeia os domínios cósmicos; Adão nomeará os animais |
 | יוֹם | **yom** [[../../docs/lexicos/yom|🔗]] | — | "Dia". Pode ser 24h, o período de luz, ou uma era ("no dia do SENHOR"). O centro do debate → [[../11-debates]] |

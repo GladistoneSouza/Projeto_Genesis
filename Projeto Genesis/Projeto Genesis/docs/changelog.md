@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – Conferência local de DCH III e TWOT para Gn 1
+
+[2026-09-24] – arquivos: `genesis-01/texto-hebraico/04-lexico-do-capitulo.md` (linha de *tov*), `genesis-01/texto-hebraico/08-aparato-lexical.md` (entrada de *tov* e lacunas), `docs/lexicos/rachaf.md` (procedência TWOT), `docs/lexicos/00-indice.md` (estado das fontes)
+tipo: **correção lexical e procedência** — nenhuma posição doutrinária ou regra alterada
+procedência: `IA:ChatGPT` — PDFs locais fornecidos pelo autor, páginas visualmente conferidas; síntese sujeita à ratificação
+confiança: **0.95** na localização das entradas, páginas impressas e amplitude de sentidos · **0.85** na distinção editorial entre glosa e leitura contextual
+nota: DCH III (1996), pp. 350–351, cita Gn 1.4 e 1.31 sob *tov* e mostra campo lexical mais amplo que a definição exclusiva anterior; TWOT 793/793a, p. 345, distingue utilidade, agrado, qualidade e moralidade. A linha do léxico do capítulo agora apresenta "adequado ao propósito" como leitura contextual, sem excluir sentidos possíveis da língua; a acepção no aparato permanece a revisar. TWOT 2148/2149, p. 843, confirma diretamente a separação entre qal em Jr 23.9 e piel em Gn 1.2/Dt 32.11; sua referência passou de OCR web `F2` para página local `F1`. DCH III cobre zayin–tet: não atesta os lemas *tohu*, *bohu*, *bara* ou *rachaf*. O suplemento *DCH Revised: Additions and Corrections* fornecido pelo autor cobre correções dos volumes I–II e não substitui este volume III. PDFs não versionados no vault; hashes registrados no aparato e no verbete. O índice distingue acesso online, obra comercial e entrada efetivamente lida: o Internet Archive disponibiliza digitalização do TWOT, além de registros de volumes HALOT e DCH; a disponibilidade da página não promove entrada não lida de `F3`.
+
+---
+
 ## 2026-09-24 – Entradas lexicais de Gn 1.2 trazidas ao material local
 
 [2026-09-24] – arquivos: `docs/lexicos/tohu-vavohu.md` (bloco C4), `docs/lexicos/rachaf.md` (bloco C4 e procedência), `docs/lexicos/00-indice.md` (estado das fontes)

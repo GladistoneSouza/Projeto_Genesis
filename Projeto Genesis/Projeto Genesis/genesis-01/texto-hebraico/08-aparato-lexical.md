@@ -216,6 +216,10 @@ O [[04-lexico-do-capitulo|léxico do capítulo]] tinha 42 linhas **sem fonte ver
 
 **Glosas:** bom, belo, atraente, bonito
 
+**Conferência adicional `C4 · F1` — DCH III, pp. 350–351; TWOT 793/793a, p. 345.** O DCH relaciona a fórmula de Gn 1.4 e 1.31 à entrada de טוֹב e, na entrada do adjetivo, distingue usos de qualidade, agrado e virtude. O TWOT também organiza o campo em usos práticos, estéticos, de qualidade e morais. Assim, "adequado ao propósito" pode expressar a leitura do comentário para Gn 1, mas não é glosa que exclua beleza ou moralidade do léxico inteiro. Essas listas de possibilidades **não escolhem a acepção de cada versículo**; a marca "1ª acepção, a revisar" continua. `IA:ChatGPT`; síntese sujeita à ratificação do autor.
+
+**Fontes locais conferidas na página:** *The Dictionary of Classical Hebrew*, vol. III (1996), PDF fornecido pelo autor, páginas impressas 350–351 (PDF 351–352), `sha256 2e61f0f38f0a5d1b7a2d65b45da47970f50b2db3341600d8706fca8b651c5e5e`; *Theological Wordbook of the Old Testament*, PDF fornecido pelo autor, p. 345 (PDF 365), `sha256 b427d8404d1263cc3d86fbc956cbd7fcbd95f8e1db5331b7b7e07bbaaa0b52b2`. Os PDFs ficam fora do vault; esta síntese é o conteúdo local utilizado.
+
 
 ### וַיַּבְדֵּל  ·  `H0914`
 
@@ -644,7 +648,9 @@ Testemunha **moderna**, **em português**, **fora da família Gesenius** (§13.5
 | Acepção revisada onde há mais de uma | ⚠️ **24 palavras** ainda marcadas `1ª acepção, a revisar` |
 | BDB, Klein e Jastrow palavra a palavra | ❌ consultados só para *bara*, *raqia*, *yom* e *rachaf* |
 | As 4 palavras sem UBS | ⚠️ têm BDB, Klein e Jastrow; **perdem a testemunha de domínio semântico** |
-| HALOT · DCH · DITAT | ❌ pagos, não consultados |
+| HALOT · DITAT | ❌ não consultados |
+| DCH | ✅ vol. III, entrada *tov* consultada `F1`; outras entradas pendentes |
+| TWOT | ✅ entrada 793/793a, *tov*, consultada `F1` |
 
 ---
 
