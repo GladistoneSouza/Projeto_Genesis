@@ -62,6 +62,8 @@ O [[04-lexico-do-capitulo|léxico do capítulo]] tinha 42 linhas **sem fonte ver
 
 **Glosas:** deus(es), seres celestes
 
+**Conferência DCH I `C4 · F1`:** *The Dictionary of Classical Hebrew*, vol. I (1993), entrada אֱלֹהִים iniciada na p. impressa 277 (PDF 278), `sha256 f3483677238e5c7131f0b372a08f43d187dcfd6ab8a1723543e821a4956174a1`. O instrumento classifica a forma como substantivo masculino plural e distingue o emprego referente a Deus do emprego referente a outros deuses. Em `Gn 1.1`, o verbo singular *bara* e o contexto identificam o referente; a forma plural, isoladamente, não prova “plural de majestade” nem Trindade. A definição UBS exibida acima é a primeira acepção automática do aparato e **não deve ser tomada como o sentido escolhido para `Gn 1.1`**. `IA:ChatGPT`; síntese sujeita à ratificação do autor.
+
 
 ### אֵת  ·  `H0853`
 
@@ -502,6 +504,8 @@ O [[04-lexico-do-capitulo|léxico do capítulo]] tinha 42 linhas **sem fonte ver
 
 
 **Glosas:** humano, o ser humano, a humanidade
+
+**Conferência DCH I `C4 · F1`:** no vol. I (1993), entrada אָדָם, pp. impressas 123–124 (PDF 124–125), `sha256 f3483677238e5c7131f0b372a08f43d187dcfd6ab8a1723543e821a4956174a1`, o DCH registra “ser humano” e o emprego coletivo “humanidade”, além de usos individuais; a fronteira entre coletivo e indivíduo nem sempre é clara. Entre os exemplos de Deus como sujeito de *criar*, inclui `Gn 1.27`. Isso apoia a abrangência humana do termo nesse versículo, sem decidir sozinho a teologia da imagem de Deus. `IA:ChatGPT`; síntese sujeita à ratificação do autor.
 
 
 ### בְּצֶלֶם  ·  `H6754`

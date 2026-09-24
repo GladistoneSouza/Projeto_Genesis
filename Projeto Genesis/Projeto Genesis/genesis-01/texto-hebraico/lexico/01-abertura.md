@@ -60,7 +60,11 @@ Literalmente **"na cabeça de"**. A palavra é modesta: é o termo comum para as
 
 A frequência é o dado exegético. **Trinta e duas vezes em trinta e um versículos**: não há um só ato no capítulo sem sujeito nomeado. O texto não descreve um processo que acontece — descreve **alguém que faz**.
 
-*Elohim bara*, não *Elohim bar'u*: plural morfológico, verbo singular. As explicações propostas (plural de majestade, afirmação monoteísta, plenitude, sementes trinitárias) estão em [[../06-analise-gramatical|análise gramatical]], com a ressalva de que alguns hebraístas contestam a categoria "plural de majestade" no hebraico bíblico.
+*Elohim bara*, não *Elohim bar'u*: plural morfológico, verbo singular.
+
+**Conferência DCH I `C4 · F1`:** a entrada אֱלֹהִים (*The Dictionary of Classical Hebrew*, vol. I, 1993, p. impressa 277, PDF 278; `sha256 f3483677238e5c7131f0b372a08f43d187dcfd6ab8a1723543e821a4956174a1`) distingue usos referentes a Deus e a outros deuses; não deduz da morfologia plural uma explicação teológica para `Gn 1.1`. O verbo e o contexto identificam o referente aqui. Ver o [[../08-aparato-lexical|aparato lexical]] para o problema da primeira acepção UBS exibida automaticamente. `IA:ChatGPT`; sujeito à ratificação do autor.
+
+As explicações propostas (plural de majestade, afirmação monoteísta, plenitude, sementes trinitárias) estão em [[../06-analise-gramatical|análise gramatical]], com a ressalva de que alguns hebraístas contestam a categoria "plural de majestade" no hebraico bíblico.
 
 ---
 

@@ -3,6 +3,16 @@
 Registro de mudanças estruturais, teológicas e de regras do projeto.
 Cada entrada deve conter: data, arquivo, seção, tipo, confiança e nota.
 
+## 2026-09-24 – DCH volume I confirmado e aplicado a Gênesis 1
+
+[2026-09-24] – arquivos: `docs/lexicos/00-indice.md`, `genesis-01/texto-hebraico/08-aparato-lexical.md`, `genesis-01/texto-hebraico/lexico/01-abertura.md`
+tipo: **correção de inventário e conferência lexical** — nenhuma posição doutrinária alterada
+procedência: `IA:ChatGPT` — folha de rosto e entradas de אֱלֹהִים e אָדָם visualmente conferidas no PDF local
+confiança: **0.98** na identificação do volume e páginas; **0.90** na síntese lexical
+nota: *The Dictionary of Classical Hebrew*, vol. I (1993), PDF de 483 páginas, `sha256 f3483677238e5c7131f0b372a08f43d187dcfd6ab8a1723543e821a4956174a1`. Entrada *adam* pp. 123–124 (PDF 124–125): indivíduo e humanidade; `Gn 1.27` figura entre os exemplos. Entrada *Elohim* a partir da p. 277 (PDF 278): forma plural e empregos referentes a Deus e a outros deuses; o contexto de `Gn 1.1` escolhe o referente, sem fazer da forma prova teológica. A primeira acepção UBS exibida automaticamente para *Elohim* no aparato não é a acepção contextual de `Gn 1.1` e ficou assinalada para revisão. O outro arquivo, *DCH Revised — Additions and Corrections*, continua identificado como suplemento, distinto deste volume I. PDF fora do vault; síntese local.
+
+---
+
 ## 2026-09-24 – Strong local conferido para Gênesis 1
 
 [2026-09-24] – arquivos: `docs/lexicos/00-indice.md`, `bara.md`, `tohu-vavohu.md`, `rachaf.md`, `yom.md`, `raqia.md`, `genesis-01/texto-hebraico/08-aparato-lexical.md`
